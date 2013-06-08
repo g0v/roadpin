@@ -23,6 +23,11 @@ from app import util
 app = Bottle()
 
 
+@app.get('/')
+def g_index():
+    return static_file('index.html', root='.')
+
+
 @app.get('/get_json_today')
 def g_json_by_today():
     today = util.date_today()
