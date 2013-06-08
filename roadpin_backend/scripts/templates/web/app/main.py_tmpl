@@ -1,0 +1,48 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from app.constants import S_OK, S_ERR
+
+import gevent.monkey; gevent.monkey.patch_all()
+from bottle import Bottle, request, response, route, run, post, get, static_file, redirect, HTTPError, view, template
+
+import random
+import math
+import base64
+import time
+import ujson as json
+import sys
+
+from app import cfg
+from app.gevent_server import GeventServer
+
+app = Bottle()
+
+@app.route('/')
+def r_index():
+    return ''
+
+@app.post('/<the_id>')
+def p_id(the_id):
+    return ''
+
+@app.get('/<the_id>')
+def g_id(the_id):
+    return ''
+
+@app.put('/<the_id>')
+def put_id(the_id):
+    return ''
+
+@app.delete('/<the_id>')
+def d_id(the_id):
+    return ''
+
+if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print "Usage: %s [port] [ini_filename]" % sys.argv[0]
+        print "log setting: 1 to print to stdout. 0 or ignore not to print"
+        sys.exit(1)
+
+    cfg.init({"port": sys.argv[1], "ini_filename": sys.argv[2]})
+
+    run(app, host='0.0.0.0', port=cfg.config.get('port'), server=GeventServer)
