@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011023",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010924~1010926",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "長春路復興北路交叉口(捷運線下南往北方向)",
+    "TC_NApro": "嘉邑營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54408126679213,
+            "P2": 25.054219597690572
+          },
+          {
+            "P1": 121.54408271447915,
+            "P2": 25.054219754891509
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003236",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010401~1010615",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路237236號",
+    "TC_NApro": "寶瀧工程有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49054178546157,
+            "P2": 25.025454032042425
+          },
+          {
+            "P1": 121.49073390042422,
+            "P2": 25.025507864492255
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49073392318688,
+            "P2": 25.025513588238613
+          },
+          {
+            "P1": 121.49090626172837,
+            "P2": 25.02534104270956
+          }
+        ]
+      }
+    ]
+  }
+]

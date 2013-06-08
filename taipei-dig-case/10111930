@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010893",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010903~1010913",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "玉成街25口,10號",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5816584325012,
+            "P2": 25.050333752476547
+          },
+          {
+            "P1": 121.58167193982128,
+            "P2": 25.050272688402508
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.581610131913,
+            "P2": 25.050534010971568
+          },
+          {
+            "P1": 121.58162172215073,
+            "P2": 25.050484618576878
+          }
+        ]
+      }
+    ]
+  }
+]

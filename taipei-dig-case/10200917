@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001422",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020305~1020307",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路612015號(湖元里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58739630557551,
+            "P2": 25.068361563598305
+          },
+          {
+            "P1": 121.58738548187486,
+            "P2": 25.068361606424553
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5874134139689,
+            "P2": 25.068361622295271
+          },
+          {
+            "P1": 121.58742381146153,
+            "P2": 25.068361581153471
+          }
+        ]
+      }
+    ]
+  }
+]

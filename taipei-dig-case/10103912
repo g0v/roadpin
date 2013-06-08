@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003521",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010326~1010326",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "隆和里昌吉街180號",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51223982407436,
+            "P2": 25.06564970994593
+          },
+          {
+            "P1": 121.51224023499707,
+            "P2": 25.065641267308671
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51224865207608,
+            "P2": 25.065648875991673
+          },
+          {
+            "P1": 121.51224905308648,
+            "P2": 25.065640433388584
+          }
+        ]
+      }
+    ]
+  }
+]

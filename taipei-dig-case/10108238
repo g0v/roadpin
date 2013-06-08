@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008619",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010728~1010729",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "酒泉街135號前(保安里)",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51439396154022,
+            "P2": 25.071877295031925
+          },
+          {
+            "P1": 121.51439400566522,
+            "P2": 25.071887857677396
+          }
+        ]
+      }
+    ]
+  }
+]

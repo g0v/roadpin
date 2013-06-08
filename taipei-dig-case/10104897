@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "天成汽車拖吊股份有限公司",
+    "AC_NOpro": "101004732",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010505~1010506",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖二191新湖二路191巷17號斜對面停車場出入口",
+    "TC_NApro": "天成汽車拖吊股份有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58003991628208,
+            "P2": 25.061252274521742
+          },
+          {
+            "P1": 121.58005788623684,
+            "P2": 25.061227124589735
+          }
+        ]
+      }
+    ]
+  }
+]

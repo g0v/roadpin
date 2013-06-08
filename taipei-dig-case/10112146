@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011515",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011026~1011028",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "環山路314號對面",
+    "TC_NApro": "駿慧有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57931922350224,
+            "P2": 25.08428324250179
+          },
+          {
+            "P1": 121.57934022212498,
+            "P2": 25.08428793630689
+          },
+          {
+            "P1": 121.57936675023275,
+            "P2": 25.0843511367506
+          }
+        ]
+      }
+    ]
+  }
+]

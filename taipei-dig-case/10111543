@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010514",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010911~1010921",
+    "CO_TIpro": "9時至20時避開17時至19時往後延長至22時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東路286巷33號(IF095)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53750101909135,
+            "P2": 25.11163687954399
+          },
+          {
+            "P1": 121.53751518817761,
+            "P2": 25.111636828177897
+          }
+        ]
+      }
+    ]
+  }
+]

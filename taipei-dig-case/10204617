@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "大台北瓦斯",
+    "AC_NOpro": "102003875",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020520~1020520",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路37111號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55285821721328,
+            "P2": 25.048552615985212
+          },
+          {
+            "P1": 121.55285679919618,
+            "P2": 25.04851707793097
+          }
+        ]
+      }
+    ]
+  }
+]

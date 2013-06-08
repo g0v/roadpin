@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003774",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020529~1020612",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "昆陽街17113號附近地區",
+    "TC_NApro": "禮驅工程有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59370479025688,
+            "P2": 25.047561156002974
+          },
+          {
+            "P1": 121.59391126409979,
+            "P2": 25.047637727523608
+          }
+        ]
+      }
+    ]
+  }
+]
