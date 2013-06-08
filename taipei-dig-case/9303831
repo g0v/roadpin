@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002929",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930814~0930815",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路3120(5號至45號)",
+    "TC_NApro": "七峰營造(320146)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51316931472205,
+            "P2": 25.066976177027396
+          },
+          {
+            "P1": 121.51226464049272,
+            "P2": 25.066974065085439
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51234215098253,
+            "P2": 25.066973797616431
+          },
+          {
+            "P1": 121.512359321323,
+            "P2": 25.066955411438137
+          }
+        ]
+      }
+    ]
+  }
+]

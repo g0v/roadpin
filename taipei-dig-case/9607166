@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007309",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961205~0961207",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛28邊",
+    "TC_NApro": "強剛營造(TSQ60107)NUG612460",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52545956380322,
+            "P2": 25.037889239958449
+          },
+          {
+            "P1": 121.52549102636365,
+            "P2": 25.037889128691724
+          },
+          {
+            "P1": 121.5254910019366,
+            "P2": 25.037883395957877
+          }
+        ]
+      }
+    ]
+  }
+]

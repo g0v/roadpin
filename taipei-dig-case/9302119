@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "光華通運(股)公司                                                                ",
+    "AC_NOpro": "93001459",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930508~0930510",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "行善路舊宗段91-14.91-15.91-16地號停車場",
+    "TC_NApro": "光華通運(股)公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57661522030155,
+            "P2": 25.057849847106567
+          },
+          {
+            "P1": 121.57666133481766,
+            "P2": 25.057771034252312
+          }
+        ]
+      }
+    ]
+  }
+]

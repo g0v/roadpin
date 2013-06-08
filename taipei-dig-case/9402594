@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002029",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940528~0940529",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街487號左",
+    "TC_NApro": "緯全營造(TEO24028)NV2440162",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56975790357328,
+            "P2": 25.023303343429973
+          },
+          {
+            "P1": 121.56974843782818,
+            "P2": 25.023291914102906
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56975479242792,
+            "P2": 25.023294778718761
+          },
+          {
+            "P1": 121.56977359179051,
+            "P2": 25.023289018998213
+          }
+        ]
+      }
+    ]
+  }
+]

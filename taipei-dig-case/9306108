@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004369",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931021~0931022",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路一163號前",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51481522277572,
+            "P2": 25.027446977246864
+          },
+          {
+            "P1": 121.514806231919,
+            "P2": 25.027429493901607
+          }
+        ]
+      }
+    ]
+  }
+]

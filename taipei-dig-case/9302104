@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001524",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930515~0930516",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廣州街(愛國西路42巷口)",
+    "TC_NApro": "世堡企業有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50862086481347,
+            "P2": 25.035287980726824
+          },
+          {
+            "P1": 121.5086059511372,
+            "P2": 25.035227904745941
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50861343998942,
+            "P2": 25.035265706777633
+          },
+          {
+            "P1": 121.50852059215079,
+            "P2": 25.035290580925135
+          }
+        ]
+      }
+    ]
+  }
+]

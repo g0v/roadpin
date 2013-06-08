@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001744",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950329~0950330",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "社子街162號旁",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5048670575367,
+            "P2": 25.088804997554789
+          },
+          {
+            "P1": 121.50488699868407,
+            "P2": 25.088808540905926
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50488702091118,
+            "P2": 25.088813957642913
+          },
+          {
+            "P1": 121.5048889591763,
+            "P2": 25.088803117421829
+          }
+        ]
+      }
+    ]
+  }
+]

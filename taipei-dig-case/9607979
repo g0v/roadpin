@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信北區",
+    "AC_NOpro": "96006703",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961110~0961111",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路466號至472號",
+    "TC_NApro": "七峰營造(TNQ30219)",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54498095001969,
+            "P2": 25.079402443087819
+          },
+          {
+            "P1": 121.54477763636969,
+            "P2": 25.079393637936423
+          }
+        ]
+      }
+    ]
+  }
+]

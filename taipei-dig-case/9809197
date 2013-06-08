@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007454",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980820~0980821",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "安和路2742號前(義安里)",
+    "TC_NApro": "奕揚營造有限公司98070-G815195",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55141352484276,
+            "P2": 25.02994597466839
+          },
+          {
+            "P1": 121.55141342073783,
+            "P2": 25.02992268269054
+          }
+        ]
+      }
+    ]
+  }
+]

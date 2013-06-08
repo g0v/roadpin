@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92005792",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930110~0930114",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "福德街3395及9",
+    "TC_NApro": "立鵬工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58962559157736,
+            "P2": 25.038310312687969
+          },
+          {
+            "P1": 121.59002444286011,
+            "P2": 25.038411919420156
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59002389009586,
+            "P2": 25.037944271264191
+          },
+          {
+            "P1": 121.58983135809426,
+            "P2": 25.0376564105204
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "鄭久子",
+    "AC_NOpro": "95004749",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950808~0950809",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福志路36號",
+    "TC_NApro": "台球營造工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53091748739678,
+            "P2": 25.098439830780794
+          },
+          {
+            "P1": 121.53098032452736,
+            "P2": 25.098412070492348
+          }
+        ]
+      }
+    ]
+  }
+]

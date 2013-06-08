@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000005",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921217~0921217",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路284號前",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54339379092663,
+            "P2": 25.030614211909011
+          },
+          {
+            "P1": 121.54339370225037,
+            "P2": 25.030594079670355
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007386",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971128~0971128",
+    "CO_TIpro": "日夜間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路2372158號前",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49097758233475,
+            "P2": 25.026125033849187
+          },
+          {
+            "P1": 121.49099114736609,
+            "P2": 25.026115076177728
+          }
+        ]
+      }
+    ]
+  }
+]

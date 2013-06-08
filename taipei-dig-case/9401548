@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001359",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940414~0940415",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "和平西路三及環河快速道路口",
+    "TC_NApro": "七峰營造有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49077713888912,
+            "P2": 25.035161825217831
+          },
+          {
+            "P1": 121.49077713888912,
+            "P2": 25.035161825217831
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49075302587877,
+            "P2": 25.035153508722406
+          },
+          {
+            "P1": 121.49077921517267,
+            "P2": 25.035160644707766
+          }
+        ]
+      }
+    ]
+  }
+]

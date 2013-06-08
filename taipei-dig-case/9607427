@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006187",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961023~0961024",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "大湖山莊街171與219巷交口",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59893011219695,
+            "P2": 25.087173487371718
+          },
+          {
+            "P1": 121.59893782197348,
+            "P2": 25.08717695908706
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59894546355081,
+            "P2": 25.087166419728472
+          },
+          {
+            "P1": 121.59895221173647,
+            "P2": 25.087169895324781
+          }
+        ]
+      }
+    ]
+  }
+]

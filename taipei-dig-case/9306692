@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000125",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940115~0940116",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞光路35832號對面(太欣半導體)",
+    "TC_NApro": "強鋼營造(TEN93137)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57236273234533,
+            "P2": 25.076405350874076
+          },
+          {
+            "P1": 121.57236400543896,
+            "P2": 25.0764020056151
+          }
+        ]
+      }
+    ]
+  }
+]

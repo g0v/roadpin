@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005805",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951002~0951004",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "桂林路家樂福新建大樓前人行道",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50575139283092,
+            "P2": 25.037535565592663
+          },
+          {
+            "P1": 121.50583001514983,
+            "P2": 25.037520943315364
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5059840887002,
+            "P2": 25.037491709434967
+          },
+          {
+            "P1": 121.50602489236502,
+            "P2": 25.037485882790943
+          }
+        ]
+      }
+    ]
+  }
+]

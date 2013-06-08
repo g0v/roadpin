@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001311",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950322~0950323",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路5236327號斜對面",
+    "TC_NApro": "光鋒工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57022870108415,
+            "P2": 25.040270527660944
+          },
+          {
+            "P1": 121.57022850654258,
+            "P2": 25.040228457848453
+          }
+        ]
+      }
+    ]
+  }
+]

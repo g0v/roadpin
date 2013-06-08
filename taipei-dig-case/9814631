@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98011438",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981113~0981116",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "金湖路",
+    "TC_NApro": "中興測量有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59542417814609,
+            "P2": 25.082181706049841
+          },
+          {
+            "P1": 121.59544684404207,
+            "P2": 25.082182644287862
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59583312636204,
+            "P2": 25.08168676890913
+          },
+          {
+            "P1": 121.59585692716634,
+            "P2": 25.081686673343778
+          }
+        ]
+      }
+    ]
+  }
+]

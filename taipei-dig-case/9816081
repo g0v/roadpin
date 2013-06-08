@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "聯維有線",
+    "AC_NOpro": "98013340",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981209~0981211",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "晉江街1號.6號對面(板溪里)",
+    "TC_NApro": "漢鑫潛鑽工程公司",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52107169290275,
+            "P2": 25.026105621837484
+          },
+          {
+            "P1": 121.52107508006012,
+            "P2": 25.026107587113181
+          }
+        ]
+      }
+    ]
+  }
+]

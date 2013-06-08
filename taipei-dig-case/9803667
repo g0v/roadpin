@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002889",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980424~0980426",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "東華里東華街2(陽明大學育成中心前)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51183948903135,
+            "P2": 25.119338393135774
+          },
+          {
+            "P1": 121.51192365227681,
+            "P2": 25.119389462674516
+          }
+        ]
+      }
+    ]
+  }
+]

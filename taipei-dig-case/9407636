@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "大臺北區瓦斯股份有限公司",
+    "AC_NOpro": "94006377",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941104~0941105",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信陽街25號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51565575236313,
+            "P2": 25.044433455846111
+          },
+          {
+            "P1": 121.51565551259337,
+            "P2": 25.044376128467846
+          }
+        ]
+      }
+    ]
+  }
+]

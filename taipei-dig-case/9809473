@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "杜恒誼",
+    "AC_NOpro": "98008172",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980831~0980905",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路259號前",
+    "TC_NApro": "搭塔設計工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52996426829857,
+            "P2": 25.038173270836882
+          },
+          {
+            "P1": 121.53003348604028,
+            "P2": 25.038173023940267
+          }
+        ]
+      }
+    ]
+  }
+]

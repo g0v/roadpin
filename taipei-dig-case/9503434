@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005895",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951013~0951014",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "德惠街31號",
+    "TC_NApro": "光鋒工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52307139901764,
+            "P2": 25.066890430529813
+          },
+          {
+            "P1": 121.52307942067709,
+            "P2": 25.066888777221564
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52322940944256,
+            "P2": 25.066870373185751
+          },
+          {
+            "P1": 121.52322949573626,
+            "P2": 25.066890685950654
+          }
+        ]
+      }
+    ]
+  }
+]

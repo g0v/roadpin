@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92000392",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920129~0920129",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路486104號與6號間",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49704830272843,
+            "P2": 25.019906962467761
+          },
+          {
+            "P1": 121.49705472443067,
+            "P2": 25.019902336660785
+          }
+        ]
+      }
+    ]
+  }
+]

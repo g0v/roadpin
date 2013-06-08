@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002686",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940710~0940724",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街606~18號",
+    "TC_NApro": "登揚營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "計畫性案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53005336862927,
+            "P2": 25.022170403941363
+          },
+          {
+            "P1": 121.53060369536112,
+            "P2": 25.022128265700257
+          }
+        ]
+      }
+    ]
+  }
+]

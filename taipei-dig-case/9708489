@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006848",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971122~0971130",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "建國北路2與民生東路2段西北側路口",
+    "TC_NApro": "太上營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53659712625775,
+            "P2": 25.057908370575561
+          },
+          {
+            "P1": 121.53667264852926,
+            "P2": 25.05790809766118
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53660866870551,
+            "P2": 25.058389883911097
+          },
+          {
+            "P1": 121.53668733309006,
+            "P2": 25.058389599631163
+          }
+        ]
+      }
+    ]
+  }
+]

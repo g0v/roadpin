@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "90000416",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0900228~0900302",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "祥雲街31號前",
+    "TC_NApro": "慶良工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5749876610675,
+            "P2": 25.018668526117466
+          },
+          {
+            "P1": 121.57509699541183,
+            "P2": 25.018721549204464
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005312",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950907~0950908",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央北路1116號及124號2處",
+    "TC_NApro": "上人營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4993062632894,
+            "P2": 25.134747257270551
+          },
+          {
+            "P1": 121.49934393149195,
+            "P2": 25.134718421384179
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49901730069817,
+            "P2": 25.134925901204809
+          },
+          {
+            "P1": 121.49904865716248,
+            "P2": 25.134905753501688
+          }
+        ]
+      }
+    ]
+  }
+]

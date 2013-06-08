@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001182",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930503~0930505",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西寧南路89號",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50677657625442,
+            "P2": 25.045235820467216
+          },
+          {
+            "P1": 121.50672151958179,
+            "P2": 25.045246571119073
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006036",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971021~0971023",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "雅祥里基隆路18319號前",
+    "TC_NApro": "奕揚營造有限公司97848-751236",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57073507921528,
+            "P2": 25.046423160196838
+          },
+          {
+            "P1": 121.57066599000271,
+            "P2": 25.046452089554336
+          }
+        ]
+      }
+    ]
+  }
+]

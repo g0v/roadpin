@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005675",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950925~0950927",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "寧波東街98號前",
+    "TC_NApro": "同新工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51948334194438,
+            "P2": 25.032527807596736
+          },
+          {
+            "P1": 121.51952068041948,
+            "P2": 25.032523253314519
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51950206053742,
+            "P2": 25.032525485143886
+          },
+          {
+            "P1": 121.51949303061849,
+            "P2": 25.032498974168135
+          }
+        ]
+      }
+    ]
+  }
+]

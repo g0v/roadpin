@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012832",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981216~0981217",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路5150452號附近,共1處(六合里)",
+    "TC_NApro": "上人科技有限公司28089-840381",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57198511141804,
+            "P2": 25.023516771423985
+          },
+          {
+            "P1": 121.57200338397399,
+            "P2": 25.023499981190582
+          }
+        ]
+      }
+    ]
+  }
+]

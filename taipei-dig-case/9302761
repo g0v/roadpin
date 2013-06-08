@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001923",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930612~0930613",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "西藏路12520號前",
+    "TC_NApro": "榮峰土木包工業",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50278248185539,
+            "P2": 25.027545315593549
+          },
+          {
+            "P1": 121.5027824134294,
+            "P2": 25.027528523565437
+          }
+        ]
+      }
+    ]
+  }
+]

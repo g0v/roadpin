@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007464",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961212~0961213",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "菁山路16號前2處",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54693434022249,
+            "P2": 25.137830295348493
+          },
+          {
+            "P1": 121.54691068840396,
+            "P2": 25.13782178807698
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54693446156499,
+            "P2": 25.137857532143986
+          },
+          {
+            "P1": 121.54694697375817,
+            "P2": 25.137838852320549
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003586",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980425~0980425",
+    "CO_TIpro": "夜間施工0時至5時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松高路19號附近",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56630707019924,
+            "P2": 25.038796517275038
+          },
+          {
+            "P1": 121.56628093749426,
+            "P2": 25.038815729198962
+          },
+          {
+            "P1": 121.56627309130091,
+            "P2": 25.038820534926369
+          }
+        ]
+      }
+    ]
+  }
+]

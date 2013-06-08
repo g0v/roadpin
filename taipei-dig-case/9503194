@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95002551",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950513~0950514",
+    "CO_TIpro": "週休二日自上午8時至下午4時前施工完成",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "大東路176號陽明山瓦斯公司",
+    "TC_NApro": "上人營造",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52494500481572,
+            "P2": 25.093190996768953
+          },
+          {
+            "P1": 121.52510141009346,
+            "P2": 25.092949666539216
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "隆固工程有限公司",
+    "AC_NOpro": "98009929",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981026~0981028",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "桂林路直興段二小段617,618,619等三筆",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.498225660812,
+            "P2": 25.038355868322896
+          },
+          {
+            "P1": 121.49780619850814,
+            "P2": 25.038366834985297
+          }
+        ]
+      }
+    ]
+  }
+]

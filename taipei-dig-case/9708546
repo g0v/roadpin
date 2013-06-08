@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "97006834",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971121~0971123",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分幹道夜間施工0時至5時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "後港里中正路與士商路口",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51854666748092,
+            "P2": 25.092404572701902
+          },
+          {
+            "P1": 121.51844407437469,
+            "P2": 25.092335659390123
+          }
+        ]
+      }
+    ]
+  }
+]

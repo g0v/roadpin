@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣電力股份有限公司臺北市區營業處",
+    "AC_NOpro": "94007083",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941219~0941221",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路239口",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52279183720242,
+            "P2": 25.053753180985847
+          },
+          {
+            "P1": 121.52272258520264,
+            "P2": 25.053759112409352
+          }
+        ]
+      }
+    ]
+  }
+]

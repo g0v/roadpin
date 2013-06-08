@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004068",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931107~0931108",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路1713號旁及新生北路3段12號前",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52712625677809,
+            "P2": 25.063133248403343
+          },
+          {
+            "P1": 121.52709950771695,
+            "P2": 25.063136142055203
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52740451660672,
+            "P2": 25.063073126659862
+          },
+          {
+            "P1": 121.52740917191466,
+            "P2": 25.063072387881324
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000685",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960310~0960311",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路216號",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53057300597203,
+            "P2": 25.048165396008848
+          },
+          {
+            "P1": 121.53057318005588,
+            "P2": 25.048205841034225
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53055543588602,
+            "P2": 25.048319928636072
+          },
+          {
+            "P1": 121.53055541529183,
+            "P2": 25.048315143845191
+          }
+        ]
+      }
+    ]
+  }
+]

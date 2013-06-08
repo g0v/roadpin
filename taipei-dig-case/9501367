@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001235",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950325~0950327",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路4151號後",
+    "TC_NApro": "協鼎工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54976693175394,
+            "P2": 25.041876909173663
+          },
+          {
+            "P1": 121.54978912959096,
+            "P2": 25.041876827031029
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54977604348989,
+            "P2": 25.041875701811669
+          },
+          {
+            "P1": 121.549775958154,
+            "P2": 25.041856562692409
+          }
+        ]
+      }
+    ]
+  }
+]

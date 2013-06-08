@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "96005252",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960830~0960830",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "知行路293巷口",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4672833655295,
+            "P2": 25.121595308905672
+          },
+          {
+            "P1": 121.4673017106777,
+            "P2": 25.12159525107187
+          },
+          {
+            "P1": 121.46729465043904,
+            "P2": 25.121592709373857
+          }
+        ]
+      }
+    ]
+  }
+]

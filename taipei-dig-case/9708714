@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007002",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971213~0971214",
+    "CO_TIpro": "周休二日日間施工9時至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路1112號前(幸福里)",
+    "TC_NApro": "奕揚營造有限公司RNU17210343",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5252187519764,
+            "P2": 25.04400863329543
+          },
+          {
+            "P1": 121.52525963815052,
+            "P2": 25.044005617819622
+          }
+        ]
+      }
+    ]
+  }
+]

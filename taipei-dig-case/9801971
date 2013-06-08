@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣欣天然氣",
+    "AC_NOpro": "98001609",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980316~0980318",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "秀明路278號對面",
+    "TC_NApro": "德俊工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57587850942632,
+            "P2": 24.991554050661641
+          },
+          {
+            "P1": 121.57595443139515,
+            "P2": 24.991648343870349
+          }
+        ]
+      }
+    ]
+  }
+]

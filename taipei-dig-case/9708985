@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007203",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971203~0971204",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖二路219號附近(湖元里)",
+    "TC_NApro": "緯全營造有限公司17209-710514",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58142895220064,
+            "P2": 25.063427351645196
+          },
+          {
+            "P1": 121.58143948357495,
+            "P2": 25.063436862004554
+          }
+        ]
+      }
+    ]
+  }
+]

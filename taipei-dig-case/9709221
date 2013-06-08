@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000247",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980203~0980204",
+    "CO_TIpro": "日間施工9時30分至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路2244號邊(河堤里)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52460388665202,
+            "P2": 25.021371564984381
+          },
+          {
+            "P1": 121.52461871687157,
+            "P2": 25.021384964494175
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52455001475495,
+            "P2": 25.021439050422362
+          },
+          {
+            "P1": 121.52456473696191,
+            "P2": 25.021427036262153
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北自來水事業處西區營業分處",
+    "AC_NOpro": "95000754",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950209~0950211",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門街41號之1(拆除)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51762349307695,
+            "P2": 25.025656795268613
+          },
+          {
+            "P1": 121.51761817151291,
+            "P2": 25.025640111842385
+          }
+        ]
+      }
+    ]
+  }
+]

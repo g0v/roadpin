@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002453",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930629~0930629",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路113528號前",
+    "TC_NApro": "茂德工程有限公司25013162",
+    "PURPpro": "",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52415033849655,
+            "P2": 25.0511001054293
+          },
+          {
+            "P1": 121.52416132651703,
+            "P2": 25.051097087396968
+          }
+        ]
+      }
+    ]
+  }
+]

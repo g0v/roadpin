@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "97006200",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971009~0971009",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "安康路距與成功路2段交口(石潭里)",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59179289168719,
+            "P2": 25.06059228469892
+          },
+          {
+            "P1": 121.5917852694166,
+            "P2": 25.060600449278304
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59179289728138,
+            "P2": 25.0605934492848
+          },
+          {
+            "P1": 121.59178146043948,
+            "P2": 25.06060394925516
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "96007087",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961124~0961126",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4441號",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57027495231806,
+            "P2": 25.049631377697573
+          },
+          {
+            "P1": 121.57028716288512,
+            "P2": 25.049601565482053
+          }
+        ]
+      }
+    ]
+  }
+]

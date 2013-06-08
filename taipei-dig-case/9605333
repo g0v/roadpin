@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "96005778",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961018~0961020",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路713號前",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50091154537,
+            "P2": 25.030433879571195
+          },
+          {
+            "P1": 121.50091144999084,
+            "P2": 25.030410388790113
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50093511989236,
+            "P2": 25.030429222869159
+          },
+          {
+            "P1": 121.50096133885958,
+            "P2": 25.030429134493666
+          }
+        ]
+      }
+    ]
+  }
+]

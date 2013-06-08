@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005651",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941110~0941112",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "天祥路861號前",
+    "TC_NApro": "茂德",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52031321229329,
+            "P2": 25.063960413955229
+          },
+          {
+            "P1": 121.52034415203464,
+            "P2": 25.063964007022072
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52032789400485,
+            "P2": 25.063963341756168
+          },
+          {
+            "P1": 121.52032549772031,
+            "P2": 25.063982670152789
+          }
+        ]
+      }
+    ]
+  }
+]

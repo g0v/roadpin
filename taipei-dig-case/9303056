@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002079",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930619~0930620",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路374號",
+    "TC_NApro": "景久工程公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55069030653812,
+            "P2": 25.024090678064784
+          },
+          {
+            "P1": 121.55069041732779,
+            "P2": 25.024115504807778
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55063890654922,
+            "P2": 25.024118494328309
+          },
+          {
+            "P1": 121.55063890654922,
+            "P2": 25.024118494328309
+          }
+        ]
+      }
+    ]
+  }
+]

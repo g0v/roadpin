@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "都發局",
+    "AC_NOpro": "97004485",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970731~0970731",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "光復南路419(光復南路419巷146號前)共1處",
+    "TC_NApro": "中興測量有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56035384260633,
+            "P2": 25.0362195751855
+          },
+          {
+            "P1": 121.56030141262524,
+            "P2": 25.036219772892153
+          }
+        ]
+      }
+    ]
+  }
+]

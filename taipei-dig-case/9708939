@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市政府觀光傳播局",
+    "AC_NOpro": "97007305",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971206~0971225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "敬業三路美麗華百樂園(臺北市敬業三路20號)",
+    "TC_NApro": "維得立企業(股)公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5584387697328,
+            "P2": 25.082504351859281
+          },
+          {
+            "P1": 121.55844135424111,
+            "P2": 25.082497173918561
+          }
+        ]
+      }
+    ]
+  }
+]

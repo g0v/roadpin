@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94007070",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941224~0941225",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "江南街2號旁(湖光基督教會)",
+    "TC_NApro": "雍銓營造(TEO94130)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57852316423912,
+            "P2": 25.078116008857204
+          },
+          {
+            "P1": 121.5785073624526,
+            "P2": 25.07810740360831
+          }
+        ]
+      }
+    ]
+  }
+]

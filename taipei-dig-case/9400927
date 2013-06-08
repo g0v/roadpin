@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001002",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940224~0940225",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路1與杭州北路交口",
+    "TC_NApro": "茂德工程有限公司25013162",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52673381105787,
+            "P2": 25.043784022939295
+          },
+          {
+            "P1": 121.52672559658559,
+            "P2": 25.043763377817658
+          }
+        ]
+      }
+    ]
+  }
+]

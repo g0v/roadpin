@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004246",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970722~0970723",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路2134及新生南路1段56巷口(幸市里)",
+    "TC_NApro": "奕揚營造有限公司RNU17237811",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53159627007038,
+            "P2": 25.040783329152958
+          },
+          {
+            "P1": 121.53161719739235,
+            "P2": 25.040771310158323
+          }
+        ]
+      }
+    ]
+  }
+]

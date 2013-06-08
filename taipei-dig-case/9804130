@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003316",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980506~0980508",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西昌街94號至貴陽街2段口(菜園里)",
+    "TC_NApro": "強鋼營造有限公司NUG811134",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50060373854113,
+            "P2": 25.040018829295274
+          },
+          {
+            "P1": 121.50060733891799,
+            "P2": 25.04051757362107
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "98000290",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980214~0980215",
+    "CO_TIpro": "日間施工10時至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路3、辛亥路1段(龍坡里)",
+    "TC_NApro": "強鋼營造有限公司NU1744431",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53426575160277,
+            "P2": 25.022366689599991
+          },
+          {
+            "P1": 121.53426850181408,
+            "P2": 25.022397736289182
+          }
+        ]
+      }
+    ]
+  }
+]

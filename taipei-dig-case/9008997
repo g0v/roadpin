@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "90005098",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0901218~0910107",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松仁路151及松勤路140巷",
+    "TC_NApro": "巨門工程股份有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56859680235486,
+            "P2": 25.030649477235134
+          },
+          {
+            "P1": 121.56909388133775,
+            "P2": 25.030637553515103
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56905783678005,
+            "P2": 25.031201311406157
+          },
+          {
+            "P1": 121.56905909069829,
+            "P2": 25.031473140553256
+          }
+        ]
+      }
+    ]
+  }
+]

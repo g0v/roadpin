@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004938",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950819~0950820",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "博愛路207號前",
+    "TC_NApro": "協鼎公司有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51070359118972,
+            "P2": 25.033843205794454
+          },
+          {
+            "P1": 121.51071377430911,
+            "P2": 25.033933271054384
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51071377430911,
+            "P2": 25.033933271054384
+          },
+          {
+            "P1": 121.51077410061258,
+            "P2": 25.033928098271829
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "廣成汽車美容工作室                                                              ",
+    "AC_NOpro": "93002231",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930710~0930711",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "吉林路290號",
+    "TC_NApro": "廣成汽車美容工作室",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53015338250988,
+            "P2": 25.060901665536896
+          },
+          {
+            "P1": 121.53015128680717,
+            "P2": 25.060875311167596
+          }
+        ]
+      }
+    ]
+  }
+]

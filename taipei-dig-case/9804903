@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "富民停車場洪玉梅",
+    "AC_NOpro": "98003620",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980530~0980531",
+    "CO_TIpro": "周休二日日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "康定路180~186號前人行道",
+    "TC_NApro": "鴻通建設股份有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5017800934431,
+            "P2": 25.038906004899715
+          },
+          {
+            "P1": 121.50176668174119,
+            "P2": 25.038831992819969
+          }
+        ]
+      }
+    ]
+  }
+]

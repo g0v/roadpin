@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001189",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950317~0950319",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路21322號前",
+    "TC_NApro": "中華工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55657028768773,
+            "P2": 25.028570343171886
+          },
+          {
+            "P1": 121.55658372885895,
+            "P2": 25.02856261899953
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55657621904182,
+            "P2": 25.028567251425155
+          },
+          {
+            "P1": 121.55659826585396,
+            "P2": 25.028600121225722
+          }
+        ]
+      }
+    ]
+  }
+]

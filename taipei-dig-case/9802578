@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "東宏汽車商行",
+    "AC_NOpro": "98002064",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980330~0980331",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路4253號",
+    "TC_NApro": "中投工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52090012140792,
+            "P2": 25.089165475981932
+          },
+          {
+            "P1": 121.52100061296154,
+            "P2": 25.089110657170284
+          }
+        ]
+      }
+    ]
+  }
+]

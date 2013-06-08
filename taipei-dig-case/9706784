@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005324",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970828~0970828",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "珠海路129號旁(泉源里)",
+    "TC_NApro": "韋利工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50679013065299,
+            "P2": 25.142138570690069
+          },
+          {
+            "P1": 121.5067929728105,
+            "P2": 25.142065461613473
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50678745551838,
+            "P2": 25.142064767279916
+          },
+          {
+            "P1": 121.5067969072685,
+            "P2": 25.142064734944924
+          }
+        ]
+      }
+    ]
+  }
+]

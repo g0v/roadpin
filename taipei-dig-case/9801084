@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002078",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980327~0980330",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "政大一街210對面(萬興里)",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58447272097176,
+            "P2": 24.985691623224429
+          },
+          {
+            "P1": 121.58398234182975,
+            "P2": 24.9854097691473
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58407244766818,
+            "P2": 24.985509753473679
+          },
+          {
+            "P1": 121.58410215908702,
+            "P2": 24.985475230889154
+          }
+        ]
+      }
+    ]
+  }
+]

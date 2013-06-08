@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002458",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940618~0940619",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路2杭州南路口",
+    "TC_NApro": "星南通信電機工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52786516098996,
+            "P2": 25.040963253963181
+          },
+          {
+            "P1": 121.52790446157383,
+            "P2": 25.040953544586724
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52615412005608,
+            "P2": 25.041217775420318
+          },
+          {
+            "P1": 121.52614605975455,
+            "P2": 25.041186747442577
+          }
+        ]
+      }
+    ]
+  }
+]

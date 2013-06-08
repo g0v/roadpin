@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006509",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980803~0980805",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "師大路汀州路(河堤里)",
+    "TC_NApro": "東屋股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52452117071229,
+            "P2": 25.020634469998761
+          },
+          {
+            "P1": 121.52453534156467,
+            "P2": 25.0206372909303
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52542022616078,
+            "P2": 25.020849142823913
+          },
+          {
+            "P1": 121.52543274841423,
+            "P2": 25.0208347619681
+          }
+        ]
+      }
+    ]
+  }
+]

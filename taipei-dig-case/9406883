@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006669",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941210~0941211",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "指南路1與木新路2段口",
+    "TC_NApro": "橋興工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57075575110189,
+            "P2": 24.987517168015742
+          },
+          {
+            "P1": 121.57063625978324,
+            "P2": 24.987531980935419
+          }
+        ]
+      }
+    ]
+  }
+]

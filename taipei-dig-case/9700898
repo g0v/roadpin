@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000768",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970301~0970302",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路4345號旁(韓國大使館前)共2處",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55868187217811,
+            "P2": 25.041233358191192
+          },
+          {
+            "P1": 121.5587164767875,
+            "P2": 25.041233228061962
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55875738395429,
+            "P2": 25.041233074221822
+          },
+          {
+            "P1": 121.55878884719405,
+            "P2": 25.041232955889939
+          }
+        ]
+      }
+    ]
+  }
+]

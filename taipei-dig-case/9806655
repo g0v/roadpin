@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "98005110",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980624~0980626",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路2483號附近(幸市里)",
+    "TC_NApro": "強鋼營造有限公司28042-1822691",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53097037576737,
+            "P2": 25.039899924075989
+          },
+          {
+            "P1": 121.53102848858492,
+            "P2": 25.039879656048441
+          }
+        ]
+      }
+    ]
+  }
+]

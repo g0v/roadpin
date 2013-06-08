@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001868",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940518~0940519",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路162942號前麗山國中",
+    "TC_NApro": "緯全營造(TEO14011)NV1420163",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5755991994524,
+            "P2": 25.081298630880976
+          },
+          {
+            "P1": 121.57556919773332,
+            "P2": 25.081221287329253
+          }
+        ]
+      }
+    ]
+  }
+]

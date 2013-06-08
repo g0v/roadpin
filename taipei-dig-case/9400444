@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000612",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940221~0940222",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "館前路43號前及館前路、許昌街口",
+    "TC_NApro": "田峰營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51506803381673,
+            "P2": 25.045205137199741
+          },
+          {
+            "P1": 121.51506665310012,
+            "P2": 25.045183023229537
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51506760006829,
+            "P2": 25.045101315964295
+          },
+          {
+            "P1": 121.51506625292143,
+            "P2": 25.045087236854659
+          }
+        ]
+      }
+    ]
+  }
+]

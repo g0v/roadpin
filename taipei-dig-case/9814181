@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98011412",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981031~0981031",
+    "CO_TIpro": "夜間施工16時30分至20時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路2483號對面停車格",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53095920202669,
+            "P2": 25.039864140681281
+          },
+          {
+            "P1": 121.5309608331647,
+            "P2": 25.03987702691601
+          }
+        ]
+      }
+    ]
+  }
+]

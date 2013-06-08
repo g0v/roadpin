@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000376",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961219~0961219",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民權西路102331號前與(民權西路102巷39號前)等2處",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5176581817331,
+            "P2": 25.060979544076577
+          },
+          {
+            "P1": 121.51765503293929,
+            "P2": 25.061010936530998
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51782707246963,
+            "P2": 25.061349538282013
+          },
+          {
+            "P1": 121.51786315975366,
+            "P2": 25.061349412427418
+          }
+        ]
+      }
+    ]
+  }
+]

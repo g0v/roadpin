@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006069",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951021~0951022",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路620369號號旁",
+    "TC_NApro": "大湖導管工程實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59940266139897,
+            "P2": 25.067670601134814
+          },
+          {
+            "P1": 121.59938263248291,
+            "P2": 25.067648834352809
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59967488611908,
+            "P2": 25.06725195890224
+          },
+          {
+            "P1": 121.59966078666363,
+            "P2": 25.06722655702346
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92001734",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920509~0920511",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路2145號",
+    "TC_NApro": "服添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53543299579704,
+            "P2": 25.051909580218741
+          },
+          {
+            "P1": 121.535435221645,
+            "P2": 25.051851612195726
+          },
+          {
+            "P1": 121.53555513959046,
+            "P2": 25.051851179845539
+          }
+        ]
+      }
+    ]
+  }
+]

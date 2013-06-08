@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002455",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970503~0970504",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "和平東路3437號",
+    "TC_NApro": "奕揚營造有限公司NU1760631 2013",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55834378674791,
+            "P2": 25.01882406979983
+          },
+          {
+            "P1": 121.55836209289872,
+            "P2": 25.018814440338076
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55813345091545,
+            "P2": 25.0186886984679
+          },
+          {
+            "P1": 121.5581518434855,
+            "P2": 25.018698181099758
+          }
+        ]
+      }
+    ]
+  }
+]

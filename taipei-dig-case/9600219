@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000219",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960125~0960126",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路2376號前",
+    "TC_NApro": "耀眾營造(TEP16001)NV1610011",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5902732579367,
+            "P2": 25.068846419441243
+          },
+          {
+            "P1": 121.5902890454685,
+            "P2": 25.06885213456199
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59025437047399,
+            "P2": 25.0688350290282
+          },
+          {
+            "P1": 121.59026378672843,
+            "P2": 25.068834991588368
+          }
+        ]
+      }
+    ]
+  }
+]

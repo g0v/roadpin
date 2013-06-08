@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008592",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980824~0980825",
+    "CO_TIpro": "夜間施工日間完成",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "長安西路22021號前",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5145544544049,
+            "P2": 25.050596425914009
+          },
+          {
+            "P1": 121.51455872825777,
+            "P2": 25.050613609559093
+          }
+        ]
+      }
+    ]
+  }
+]

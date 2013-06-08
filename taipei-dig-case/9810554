@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008855",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980917~0980919",
+    "CO_TIpro": "夜間施工23時至翌日5時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "成都路81號前(西門里)",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50510237024786,
+            "P2": 25.042787321500349
+          },
+          {
+            "P1": 121.50509175041027,
+            "P2": 25.042756779511731
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50510222150021,
+            "P2": 25.042751011083659
+          },
+          {
+            "P1": 121.5050791804922,
+            "P2": 25.0427606411223
+          }
+        ]
+      }
+    ]
+  }
+]

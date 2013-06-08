@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001914",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980323~0980325",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路3257號前(蓬萊里)",
+    "TC_NApro": "嘉皇開發工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51455728005753,
+            "P2": 25.064404818492608
+          },
+          {
+            "P1": 121.51459918354514,
+            "P2": 25.064392133313266
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5146037850697,
+            "P2": 25.064395096618266
+          },
+          {
+            "P1": 121.51461570208855,
+            "P2": 25.064421931793408
+          }
+        ]
+      }
+    ]
+  }
+]

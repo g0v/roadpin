@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "三樺工程有限公司                                                                ",
+    "AC_NOpro": "94006460",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941205~0941207",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "立農街127947號旁",
+    "TC_NApro": "三樺工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50665378014581,
+            "P2": 25.11971692100408
+          },
+          {
+            "P1": 121.50663749519647,
+            "P2": 25.119687455161547
+          }
+        ]
+      }
+    ]
+  }
+]

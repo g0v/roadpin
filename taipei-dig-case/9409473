@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000223",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950213~0950215",
+    "CO_TIpro": "日間施工(9時至16時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街99",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56113997865757,
+            "P2": 25.030451486339697
+          },
+          {
+            "P1": 121.56117303865219,
+            "P2": 25.030465354969916
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56114616905772,
+            "P2": 25.030439997358375
+          },
+          {
+            "P1": 121.5611748127933,
+            "P2": 25.030463271822192
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000010",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921226~0921227",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街28口",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55412060345576,
+            "P2": 25.031058507468948
+          },
+          {
+            "P1": 121.55424565342166,
+            "P2": 25.031058041163138
+          }
+        ]
+      }
+    ]
+  }
+]

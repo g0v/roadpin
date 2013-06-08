@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001301",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970329~0970330",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "朱崙街67號至79號",
+    "TC_NApro": "七峰營造(TNR97005)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54264166749314,
+            "P2": 25.049744731715343
+          },
+          {
+            "P1": 121.54266603045672,
+            "P2": 25.049758879916443
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54232399087071,
+            "P2": 25.049750631654227
+          },
+          {
+            "P1": 121.54291073060736,
+            "P2": 25.049740579669702
+          }
+        ]
+      }
+    ]
+  }
+]

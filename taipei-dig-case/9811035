@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009263",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981102~0981103",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "忠順街112135號至7號前(樟林里)",
+    "TC_NApro": "強鋼營造有限公司NU3854357",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55962944794396,
+            "P2": 24.984236593440258
+          },
+          {
+            "P1": 121.55958224826175,
+            "P2": 24.984231986035244
+          }
+        ]
+      }
+    ]
+  }
+]

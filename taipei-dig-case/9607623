@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006415",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961027~0961028",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "明德路53號旁",
+    "TC_NApro": "俍銓營造(TEQ96184)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51802844990051,
+            "P2": 25.107328883881294
+          },
+          {
+            "P1": 121.51799392309636,
+            "P2": 25.107351935579864
+          }
+        ]
+      }
+    ]
+  }
+]

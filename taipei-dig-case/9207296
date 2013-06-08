@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "加益汽車商行                                                                    ",
+    "AC_NOpro": "92005638",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930103~0930104",
+    "CO_TIpro": "週休2日（6時至22時）",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路274-1號",
+    "TC_NApro": "先豐工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52724008144661,
+            "P2": 25.057167028439697
+          },
+          {
+            "P1": 121.52723907279396,
+            "P2": 25.057139767344136
+          }
+        ]
+      }
+    ]
+  }
+]

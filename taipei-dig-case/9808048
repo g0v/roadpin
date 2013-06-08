@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "98006439",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980702~0980703",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福佳里承德路5與士商路口",
+    "TC_NApro": "桃隆股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51418101192387,
+            "P2": 25.095952878318915
+          },
+          {
+            "P1": 121.51419047211806,
+            "P2": 25.095955716431952
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5140368875992,
+            "P2": 25.095736967536489
+          },
+          {
+            "P1": 121.51404634777354,
+            "P2": 25.095739805659125
+          }
+        ]
+      }
+    ]
+  }
+]

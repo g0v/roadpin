@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002440",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930719~0930721",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "臥龍街43135號",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56723697059425,
+            "P2": 25.011867587475223
+          },
+          {
+            "P1": 121.56723002101167,
+            "P2": 25.011886031215518
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56733512527042,
+            "P2": 25.011926075927008
+          },
+          {
+            "P1": 121.56733512527042,
+            "P2": 25.011926075927008
+          }
+        ]
+      }
+    ]
+  }
+]

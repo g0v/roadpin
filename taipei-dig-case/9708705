@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006980",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971203~0971212",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "雲和街71號前(龍泉里)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52851429868899,
+            "P2": 25.023362895557664
+          },
+          {
+            "P1": 121.52881625817712,
+            "P2": 25.023348920532356
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52892477146159,
+            "P2": 25.023345672560559
+          },
+          {
+            "P1": 121.52905057606681,
+            "P2": 25.023338056577238
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003352",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960711~0960713",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "大直街6717號前及29號前",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54720362046635,
+            "P2": 25.083487762871304
+          },
+          {
+            "P1": 121.54721535329846,
+            "P2": 25.083506822827239
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54782134505699,
+            "P2": 25.083532176410333
+          },
+          {
+            "P1": 121.54781193179534,
+            "P2": 25.083513107940483
+          }
+        ]
+      }
+    ]
+  }
+]

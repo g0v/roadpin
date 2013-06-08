@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92004346",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921016~0921018",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南海路(和平西路2段口國語實小前)",
+    "TC_NApro": "立昌工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50971080671461,
+            "P2": 25.030420817279886
+          },
+          {
+            "P1": 121.50999033823889,
+            "P2": 25.030492173299926
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50946198045972,
+            "P2": 25.030370300638538
+          },
+          {
+            "P1": 121.50948379418304,
+            "P2": 25.03037365653363
+          }
+        ]
+      }
+    ]
+  }
+]

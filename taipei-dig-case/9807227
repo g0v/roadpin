@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006090",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980619~0980619",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "楊雅里重慶北路3113口",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51390688666544,
+            "P2": 25.067052801622349
+          },
+          {
+            "P1": 121.51390686142675,
+            "P2": 25.067046752923552
+          }
+        ]
+      }
+    ]
+  }
+]

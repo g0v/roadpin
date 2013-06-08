@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002497",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930717~0930719",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6民善街口",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57411273494016,
+            "P2": 25.064992826889281
+          },
+          {
+            "P1": 121.57466218963603,
+            "P2": 25.065172795607143
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57429764880651,
+            "P2": 25.065048175509347
+          },
+          {
+            "P1": 121.57431290271808,
+            "P2": 25.065024734028096
+          }
+        ]
+      }
+    ]
+  }
+]

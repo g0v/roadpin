@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "91005721",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0911228~0911230",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路18129號",
+    "TC_NApro": "弘濟企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57172753825608,
+            "P2": 25.046016423787755
+          },
+          {
+            "P1": 121.57166895984807,
+            "P2": 25.046014482504347
+          }
+        ]
+      }
+    ]
+  }
+]

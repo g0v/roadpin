@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92003778",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920908~0920910",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬青街55號前",
+    "TC_NApro": "潮裕興業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50174657352115,
+            "P2": 25.025171446900689
+          },
+          {
+            "P1": 121.50170019227583,
+            "P2": 25.02516925614842
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50174648909176,
+            "P2": 25.025150682554923
+          },
+          {
+            "P1": 121.5017034771051,
+            "P2": 25.02514857071154
+          }
+        ]
+      }
+    ]
+  }
+]

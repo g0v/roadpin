@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣電力股份有限公司臺北北區營業處",
+    "AC_NOpro": "95000735",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950220~0950222",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路6088號對面",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54991754252177,
+            "P2": 25.081705771172075
+          },
+          {
+            "P1": 121.54991767522759,
+            "P2": 25.081735472758997
+          }
+        ]
+      }
+    ]
+  }
+]

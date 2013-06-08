@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002699",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960307~0960307",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路2與保儀路口(順興里)",
+    "TC_NApro": "國勝電氣工程",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56568754699683,
+            "P2": 24.982817539972462
+          },
+          {
+            "P1": 121.5657061799559,
+            "P2": 24.982765882638915
+          }
+        ]
+      }
+    ]
+  }
+]

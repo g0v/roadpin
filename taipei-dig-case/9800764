@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000832",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980221~0980223",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "福興路8269.14號前(興旺里)",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55167180024696,
+            "P2": 25.005576849254894
+          },
+          {
+            "P1": 121.55175549006898,
+            "P2": 25.005535930510508
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55148608516431,
+            "P2": 25.005665922887196
+          },
+          {
+            "P1": 121.55161179532323,
+            "P2": 25.005641568401462
+          }
+        ]
+      }
+    ]
+  }
+]

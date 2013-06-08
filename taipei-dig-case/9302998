@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司                                                                ",
+    "AC_NOpro": "93002271",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930707~0930708",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "金山南路2215",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52730788410001,
+            "P2": 25.027462044702894
+          },
+          {
+            "P1": 121.52730618034219,
+            "P2": 25.027457536710287
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52730617378315,
+            "P2": 25.027456001960946
+          },
+          {
+            "P1": 121.52732111651798,
+            "P2": 25.027451434910393
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "96003276",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960629~0960630",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "福德街515號後防火巷",
+    "TC_NApro": "明達工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58084116438403,
+            "P2": 25.036152559352775
+          },
+          {
+            "P1": 121.58080155109035,
+            "P2": 25.036151423187249
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58155343000504,
+            "P2": 25.036593148054841
+          },
+          {
+            "P1": 121.58164698131617,
+            "P2": 25.036630157847291
+          }
+        ]
+      }
+    ]
+  }
+]

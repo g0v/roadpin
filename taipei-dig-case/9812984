@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "98010475",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981114~0981115",
+    "CO_TIpro": "周休二日施工夜23時至日5時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路138號附近(光復里)",
+    "TC_NApro": "強鋼營造有限公司28154-1811674",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51317648968391,
+            "P2": 25.044626375874337
+          },
+          {
+            "P1": 121.51317617944171,
+            "P2": 25.0445518412274
+          }
+        ]
+      }
+    ]
+  }
+]

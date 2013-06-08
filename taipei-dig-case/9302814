@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001881",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930607~0930610",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路37口至松江路37巷1號前",
+    "TC_NApro": "協鼎工程有限公司02-25030330(0931266178)",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53309635801736,
+            "P2": 25.047330385738064
+          },
+          {
+            "P1": 121.53338187128642,
+            "P2": 25.047329360825152
+          }
+        ]
+      }
+    ]
+  }
+]

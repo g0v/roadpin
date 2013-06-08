@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "96005421",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960915~0960917",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀洲路295號及121號",
+    "TC_NApro": "尚昱企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51910316153183,
+            "P2": 25.024851503074743
+          },
+          {
+            "P1": 121.51929019093667,
+            "P2": 25.02481267002997
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51805054987268,
+            "P2": 25.025086637411093
+          },
+          {
+            "P1": 121.51806213252715,
+            "P2": 25.025084159459556
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004941",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980527~0980527",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民權里民權西路9410號",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51905531601999,
+            "P2": 25.062170340539932
+          },
+          {
+            "P1": 121.51906315549246,
+            "P2": 25.062163144871054
+          }
+        ]
+      }
+    ]
+  }
+]

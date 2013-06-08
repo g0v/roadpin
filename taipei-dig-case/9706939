@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005535",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970922~0970924",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路38516號前(木柵里)",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56759777135744,
+            "P2": 24.989814832452559
+          },
+          {
+            "P1": 121.5675999241857,
+            "P2": 24.989599847595652
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56756863210013,
+            "P2": 24.989634363945797
+          },
+          {
+            "P1": 121.56760637215365,
+            "P2": 24.989634219984723
+          }
+        ]
+      }
+    ]
+  }
+]

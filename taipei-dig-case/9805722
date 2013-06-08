@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水北區",
+    "AC_NOpro": "98004350",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980518~0980519",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "富洲里延平北路9143口",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.47258788609702,
+            "P2": 25.106304546353737
+          },
+          {
+            "P1": 121.47259735830203,
+            "P2": 25.106313119877559
+          }
+        ]
+      }
+    ]
+  }
+]

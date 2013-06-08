@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001679",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940516~0940519",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路對面成功抽水站旁無名巷",
+    "TC_NApro": "雍銓營造(TEO94630)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59459447423957,
+            "P2": 25.05875739788338
+          },
+          {
+            "P1": 121.59460141195928,
+            "P2": 25.058757370103752
+          }
+        ]
+      }
+    ]
+  }
+]

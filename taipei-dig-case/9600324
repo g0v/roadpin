@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001525",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960416~0960418",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泉州街183號",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51373278414499,
+            "P2": 25.026780025931032
+          },
+          {
+            "P1": 121.51377370663806,
+            "P2": 25.026779884483776
+          },
+          {
+            "P1": 121.513773766032,
+            "P2": 25.026794148656752
+          }
+        ]
+      }
+    ]
+  }
+]

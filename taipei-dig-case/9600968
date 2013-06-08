@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000969",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960312~0960314",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶北路1與鄭州路交口東側工地(在重慶北路上)",
+    "TC_NApro": "宏泰陽企業公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51340190335466,
+            "P2": 25.048173734650884
+          },
+          {
+            "P1": 121.51346641949485,
+            "P2": 25.0481735116526
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51340438340263,
+            "P2": 25.04815052395934
+          },
+          {
+            "P1": 121.51340421420025,
+            "P2": 25.0481098982641
+          }
+        ]
+      }
+    ]
+  }
+]

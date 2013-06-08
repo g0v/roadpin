@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001375",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950328~0950330",
+    "CO_TIpro": "幹道日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "德行西路52號及62巷口",
+    "TC_NApro": "今道企業工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52268829499877,
+            "P2": 25.104908632602
+          },
+          {
+            "P1": 121.5226824114539,
+            "P2": 25.104900708711664
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52305698542111,
+            "P2": 25.1052234024188
+          },
+          {
+            "P1": 121.52305408782658,
+            "P2": 25.105218176407707
+          }
+        ]
+      }
+    ]
+  }
+]

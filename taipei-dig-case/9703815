@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "97003305",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970611~0970613",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "新光路2(捷運動物園停車格)",
+    "TC_NApro": "承昌水電行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57943409847574,
+            "P2": 24.99717900262856
+          },
+          {
+            "P1": 121.57972949841441,
+            "P2": 24.997340365830627
+          }
+        ]
+      }
+    ]
+  }
+]

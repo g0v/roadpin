@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001465",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950401~0950402",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "農安街10號",
+    "TC_NApro": "光鋒工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52364216468284,
+            "P2": 25.064730538362081
+          },
+          {
+            "P1": 121.52364175671242,
+            "P2": 25.064634571810878
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52359429420081,
+            "P2": 25.064731339150846
+          },
+          {
+            "P1": 121.52359427002409,
+            "P2": 25.064725651575369
+          }
+        ]
+      }
+    ]
+  }
+]

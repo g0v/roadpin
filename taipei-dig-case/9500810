@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000816",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950216~0950218",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "環河南路2〈貴陽街口〉",
+    "TC_NApro": "國盛電氣工程有限公司  23975209",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49754588563434,
+            "P2": 25.039733620392454
+          },
+          {
+            "P1": 121.49778564200254,
+            "P2": 25.039890447716814
+          }
+        ]
+      }
+    ]
+  }
+]

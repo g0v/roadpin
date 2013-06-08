@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000608",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960208~0960210",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "植福路與(植福路286巷左側16公尺處)",
+    "TC_NApro": "寶隆工程公斯",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5612153559361,
+            "P2": 25.081127393476343
+          },
+          {
+            "P1": 121.56120946789051,
+            "P2": 25.0811405063102
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56121210896976,
+            "P2": 25.081132732262066
+          },
+          {
+            "P1": 121.56116486394274,
+            "P2": 25.081119820357056
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004031",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960724~0960823",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路3155及寧安街1巷5號前",
+    "TC_NApro": "偉盟工業股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55450805498791,
+            "P2": 25.048388809869959
+          },
+          {
+            "P1": 121.5545081279664,
+            "P2": 25.048405032954722
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55501602389363,
+            "P2": 25.048958855996137
+          },
+          {
+            "P1": 121.55501428762292,
+            "P2": 25.048821961560627
+          }
+        ]
+      }
+    ]
+  }
+]

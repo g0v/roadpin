@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004161",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931119~0931121",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路五23657內(中華電信旁)",
+    "TC_NApro": "躍眾營造(TEN93112)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5725818582733,
+            "P2": 25.03683119250514
+          },
+          {
+            "P1": 121.57268319985462,
+            "P2": 25.036824211506097
+          }
+        ]
+      }
+    ]
+  }
+]

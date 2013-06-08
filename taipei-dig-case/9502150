@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001736",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950402~0950402",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路512313號前",
+    "TC_NApro": "大台北區瓦斯公司",
+    "PURPpro": "",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56077562031517,
+            "P2": 25.05217537360738
+          },
+          {
+            "P1": 121.56080099134368,
+            "P2": 25.052175277813387
+          }
+        ]
+      }
+    ]
+  }
+]

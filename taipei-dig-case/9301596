@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001104",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930419~0930421",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央北路4577273號",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46769571504422,
+            "P2": 25.126459600615881
+          },
+          {
+            "P1": 121.46772905865366,
+            "P2": 25.126439633772485
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46744525580222,
+            "P2": 25.126157230265058
+          },
+          {
+            "P1": 121.46744525580222,
+            "P2": 25.126157230265058
+          }
+        ]
+      }
+    ]
+  }
+]

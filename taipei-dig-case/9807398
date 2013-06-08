@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "新光人壽保險股份有限公司",
+    "AC_NOpro": "98005909",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980711~0980712",
+    "CO_TIpro": "周休二日施工9時至17時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松仁路100號",
+    "TC_NApro": "互助營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56845546946009,
+            "P2": 25.035674403964482
+          },
+          {
+            "P1": 121.56849322358288,
+            "P2": 25.03567425953085
+          }
+        ]
+      }
+    ]
+  }
+]

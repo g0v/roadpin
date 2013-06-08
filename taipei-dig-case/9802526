@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002038",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980409~0980411",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路4迪化街2段254巷(鄰江里)",
+    "TC_NApro": "東屋股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51089591266408,
+            "P2": 25.069486825334071
+          },
+          {
+            "P1": 121.51090757925554,
+            "P2": 25.069348240897316
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51084158155355,
+            "P2": 25.069455161384166
+          },
+          {
+            "P1": 121.51102864464838,
+            "P2": 25.069452919591832
+          }
+        ]
+      }
+    ]
+  }
+]

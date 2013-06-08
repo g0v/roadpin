@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96006127",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961016~0961017",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街與忠二街口",
+    "TC_NApro": "緯全營造(TEQ16097)NV1620352",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62282898265357,
+            "P2": 25.07688281415847
+          },
+          {
+            "P1": 121.62283857883283,
+            "P2": 25.076914308403325
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62289294182362,
+            "P2": 25.077083191201044
+          },
+          {
+            "P1": 121.6229022479699,
+            "P2": 25.077057359384337
+          }
+        ]
+      }
+    ]
+  }
+]

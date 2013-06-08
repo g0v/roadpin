@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002189",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960514~0960516",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "徐州路8號",
+    "TC_NApro": "七峰營造(TSQ10084)nu16218413",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52276262037007,
+            "P2": 25.040567972319263
+          },
+          {
+            "P1": 121.52275624263933,
+            "P2": 25.040547925375737
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52276479007676,
+            "P2": 25.040584206169907
+          },
+          {
+            "P1": 121.52276734545688,
+            "P2": 25.040569860615211
+          }
+        ]
+      }
+    ]
+  }
+]

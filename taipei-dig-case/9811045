@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "98008885",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980928~0980930",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大業路695號前",
+    "TC_NApro": "上人科技有限公司NCH701070",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50002909754781,
+            "P2": 25.136941622420959
+          },
+          {
+            "P1": 121.50005774590801,
+            "P2": 25.136884721761465
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "環康實業股份有限公司",
+    "AC_NOpro": "96000166",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960116~0960117",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路1722號前青山里",
+    "TC_NApro": "環康實業股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49923650406873,
+            "P2": 25.039148075501462
+          },
+          {
+            "P1": 121.49924709524123,
+            "P2": 25.039169526758762
+          }
+        ]
+      }
+    ]
+  }
+]

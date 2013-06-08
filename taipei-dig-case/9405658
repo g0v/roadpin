@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004565",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940926~0940928",
+    "CO_TIpro": "日間施工(9時至16時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路15964號前",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54746834210643,
+            "P2": 24.98796849953504
+          },
+          {
+            "P1": 121.54749469927873,
+            "P2": 24.9878809202501
+          }
+        ]
+      }
+    ]
+  }
+]

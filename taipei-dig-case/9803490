@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002666",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980420~0980421",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "敦化北路1207(敦化北路102號後巷)(管障修復)(中正里)",
+    "TC_NApro": "七峰營造有限公司152",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54800882927613,
+            "P2": 25.053147163326575
+          },
+          {
+            "P1": 121.54800873369339,
+            "P2": 25.053125667955054
+          }
+        ]
+      }
+    ]
+  }
+]

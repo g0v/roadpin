@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000720",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930323~0930325",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "大理街159口至大理街159巷2弄口",
+    "TC_NApro": "弘大瓦斯工程(股)27535499",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49602792619784,
+            "P2": 25.033998364486415
+          },
+          {
+            "P1": 121.49609788419633,
+            "P2": 25.033825423502407
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000600",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960207~0960208",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路7235235-5號",
+    "TC_NApro": "上人營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50162716644684,
+            "P2": 25.113673706911616
+          },
+          {
+            "P1": 121.50175028432507,
+            "P2": 25.113762125762076
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50211969170053,
+            "P2": 25.11401600622743
+          },
+          {
+            "P1": 121.5023533766324,
+            "P2": 25.114178530998586
+          }
+        ]
+      }
+    ]
+  }
+]

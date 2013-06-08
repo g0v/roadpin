@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "空軍臺北大隊有線電通信中隊",
+    "AC_NOpro": "97002126",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970408~0970409",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "辛亥路2",
+    "TC_NApro": "空軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54335204675563,
+            "P2": 25.021145842698783
+          },
+          {
+            "P1": 121.54339626288316,
+            "P2": 25.021144841471383
+          }
+        ]
+      }
+    ]
+  }
+]

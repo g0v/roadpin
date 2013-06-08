@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96005544",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960903~0960903",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路與士商路交口",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51872728340976,
+            "P2": 25.092017208645835
+          },
+          {
+            "P1": 121.51875375621643,
+            "P2": 25.091998987846459
+          },
+          {
+            "P1": 121.51875374350168,
+            "P2": 25.091995972537358
+          }
+        ]
+      }
+    ]
+  }
+]

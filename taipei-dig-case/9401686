@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台北廣場商業大樓管理委員會                                                      ",
+    "AC_NOpro": "94001472",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940420~0940421",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝西路172號前",
+    "TC_NApro": "全得工程行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51403448791034,
+            "P2": 25.046605178077495
+          },
+          {
+            "P1": 121.51406863588903,
+            "P2": 25.046594948478312
+          }
+        ]
+      }
+    ]
+  }
+]

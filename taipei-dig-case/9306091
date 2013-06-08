@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "六軒有限公司                                                                    ",
+    "AC_NOpro": "93004389",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931120~0931122",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路2與涼州街交口",
+    "TC_NApro": "丰群交通有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51333586186127,
+            "P2": 25.060203846208871
+          },
+          {
+            "P1": 121.51334123688565,
+            "P2": 25.06016175692438
+          }
+        ]
+      }
+    ]
+  }
+]

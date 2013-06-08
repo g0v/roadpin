@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006606",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971108~0971109",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6417號附近(葫洲里)",
+    "TC_NApro": "奕揚營造有限公司97360-730232",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60399113373349,
+            "P2": 25.070902705957749
+          },
+          {
+            "P1": 121.60411405938596,
+            "P2": 25.070832934320393
+          }
+        ]
+      }
+    ]
+  }
+]

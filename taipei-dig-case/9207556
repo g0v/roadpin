@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000029",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930108~0930110",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "光復南路96與光復南路72巷7弄交口",
+    "TC_NApro": "弘大工程有限公司-0227535499(0910041345)",
+    "PURPpro": "檢修;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55706107793064,
+            "P2": 25.043754020585727
+          },
+          {
+            "P1": 121.55706058451567,
+            "P2": 25.043798350043275
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006102",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951020~0951022",
+    "CO_TIpro": "日間施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路1120號前旁工地",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52689626979372,
+            "P2": 25.051674865565577
+          },
+          {
+            "P1": 121.52689635007103,
+            "P2": 25.051693643615437
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52689605699922,
+            "P2": 25.051694637740095
+          },
+          {
+            "P1": 121.52692440124434,
+            "P2": 25.051694537187103
+          }
+        ]
+      }
+    ]
+  }
+]

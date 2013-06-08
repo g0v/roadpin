@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001106",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960331~0960401",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路139號斜對面",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52516119943665,
+            "P2": 25.048674309120287
+          },
+          {
+            "P1": 121.52517267030395,
+            "P2": 25.048714894793022
+          }
+        ]
+      }
+    ]
+  }
+]

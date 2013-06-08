@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "95001520",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950401~0950402",
+    "CO_TIpro": "幹道周休二日施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港墘路與瑞光路交叉口",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57495896366149,
+            "P2": 25.07596079997716
+          },
+          {
+            "P1": 121.57491822592954,
+            "P2": 25.07600393091634
+          }
+        ]
+      }
+    ]
+  }
+]

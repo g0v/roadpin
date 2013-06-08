@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "陸軍第六軍團",
+    "AC_NOpro": "97000412",
+    "ST_TApro": "2",
+    "ST_NOpro": "2",
+    "CB_DATEpro": "0960220~0960222",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "莊敬路374號前",
+    "TC_NApro": "星南通信電機工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56489873642352,
+            "P2": 25.027349053676183
+          },
+          {
+            "P1": 121.56562390619959,
+            "P2": 25.02712415190495
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56563701519369,
+            "P2": 25.027124102018007
+          },
+          {
+            "P1": 121.56582290504262,
+            "P2": 25.02706845887398
+          }
+        ]
+      }
+    ]
+  }
+]

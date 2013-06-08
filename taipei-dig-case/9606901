@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "96005894",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961011~0961014",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "忠順街243號前",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56373495984779,
+            "P2": 24.984658870282527
+          },
+          {
+            "P1": 121.56374420654289,
+            "P2": 24.984618705394318
+          }
+        ]
+      }
+    ]
+  }
+]

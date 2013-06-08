@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000702",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960304~0960305",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "基湖路14531號旁邊",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56561439219263,
+            "P2": 25.077334561024536
+          },
+          {
+            "P1": 121.56560244815192,
+            "P2": 25.077302376664232
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56562798110657,
+            "P2": 25.077293251380755
+          },
+          {
+            "P1": 121.56563200379262,
+            "P2": 25.077305784938183
+          }
+        ]
+      }
+    ]
+  }
+]

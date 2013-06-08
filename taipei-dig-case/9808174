@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98008817",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980917~0980918",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路3217715號對面(大安407號(昌隆)公園)昌隆里",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5392702351072,
+            "P2": 25.043849810421303
+          },
+          {
+            "P1": 121.53927008466128,
+            "P2": 25.043815414122822
+          }
+        ]
+      }
+    ]
+  }
+]

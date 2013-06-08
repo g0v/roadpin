@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "大臺北瓦斯",
+    "AC_NOpro": "96004333",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960806~0960808",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街17512號前",
+    "TC_NApro": "寶隆瓦斯工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55458524028084,
+            "P2": 25.027058018011662
+          },
+          {
+            "P1": 121.55458939128863,
+            "P2": 25.027053443358803
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55458717976728,
+            "P2": 25.027055230136074
+          },
+          {
+            "P1": 121.55455898371827,
+            "P2": 25.027036313241496
+          }
+        ]
+      }
+    ]
+  }
+]

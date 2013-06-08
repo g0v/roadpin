@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010385",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980929~0980929",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "農安街77(1弄口前對面)(新庄里)",
+    "TC_NApro": "承昌水電行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52844127449852,
+            "P2": 25.065090202233353
+          },
+          {
+            "P1": 121.52844215505326,
+            "P2": 25.065069037401653
+          }
+        ]
+      }
+    ]
+  }
+]

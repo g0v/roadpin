@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001448",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940425~0940426",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "社正路87口",
+    "TC_NApro": "台球營造公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51103806568897,
+            "P2": 25.088830635570783
+          },
+          {
+            "P1": 121.5110893481954,
+            "P2": 25.0888375007761
+          },
+          {
+            "P1": 121.51108490113008,
+            "P2": 25.089007965024592
+          }
+        ]
+      }
+    ]
+  }
+]

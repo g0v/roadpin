@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004623",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950804~0950806",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街60076128號前",
+    "TC_NApro": "寶隆工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56932960194828,
+            "P2": 25.017490654771581
+          },
+          {
+            "P1": 121.56933576141307,
+            "P2": 25.017494242402684
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5693329801625,
+            "P2": 25.017492718285521
+          },
+          {
+            "P1": 121.56932579413424,
+            "P2": 25.017502857213991
+          }
+        ]
+      }
+    ]
+  }
+]

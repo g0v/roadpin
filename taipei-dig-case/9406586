@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005337",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941031~0941101",
+    "CO_TIpro": "日間施工(9時至16時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路211號前",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54531882897616,
+            "P2": 24.998586574215121
+          },
+          {
+            "P1": 121.54544706226893,
+            "P2": 24.998618966330906
+          }
+        ]
+      }
+    ]
+  }
+]

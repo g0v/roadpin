@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013452",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981119~0981119",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街2284口(鄰江里)",
+    "TC_NApro": "大銪工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51174368886257,
+            "P2": 25.070848321579785
+          },
+          {
+            "P1": 121.51174986395434,
+            "P2": 25.07086734042073
+          },
+          {
+            "P1": 121.51174986395434,
+            "P2": 25.07086734042073
+          }
+        ]
+      }
+    ]
+  }
+]

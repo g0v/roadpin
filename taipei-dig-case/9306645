@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004675",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931227~0931229",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路1139口至143號前",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53285412165546,
+            "P2": 25.035628732565868
+          },
+          {
+            "P1": 121.5328673314534,
+            "P2": 25.036415570790062
+          }
+        ]
+      }
+    ]
+  }
+]

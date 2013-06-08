@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001249",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970323~0970330",
+    "CO_TIpro": "周休二日施工9時30分至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "東新街91至105號對面L80M",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58980376038055,
+            "P2": 25.046281080814509
+          },
+          {
+            "P1": 121.5890141815978,
+            "P2": 25.0462952549033
+          }
+        ]
+      }
+    ]
+  }
+]
