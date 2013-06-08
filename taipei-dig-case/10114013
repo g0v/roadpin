@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000005",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020114~1020115",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路49119號及23號一帶",
+    "TC_NApro": "本益營造有限公司0631",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54699334934431,
+            "P2": 25.038357002381215
+          },
+          {
+            "P1": 121.54702350386282,
+            "P2": 25.0383568913686
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54668400813918,
+            "P2": 25.038367701551802
+          },
+          {
+            "P1": 121.54666303969677,
+            "P2": 25.038367778699019
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003312",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010402~1010403",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "星雲街1510號及13號附近(共2處)",
+    "TC_NApro": "煇昇營造工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59031976515989,
+            "P2": 25.078137635754608
+          },
+          {
+            "P1": 121.5903248943702,
+            "P2": 25.07811372739469
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59036476440707,
+            "P2": 25.078223447991306
+          },
+          {
+            "P1": 121.59035163856096,
+            "P2": 25.078221107796853
+          }
+        ]
+      }
+    ]
+  }
+]

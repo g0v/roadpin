@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013459",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011225~1020120",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路4200口",
+    "TC_NApro": "台通光電股份有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59537118723141,
+            "P2": 25.084151914377273
+          },
+          {
+            "P1": 121.59536797369844,
+            "P2": 25.084161821891367
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59533854925208,
+            "P2": 25.08414708898917
+          },
+          {
+            "P1": 121.59539294572592,
+            "P2": 25.084155781310866
+          }
+        ]
+      }
+    ]
+  }
+]

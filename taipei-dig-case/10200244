@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000366",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011009~1011015",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路3158810號至24號",
+    "TC_NApro": "啟揚環境有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55431833000084,
+            "P2": 25.047361867083151
+          },
+          {
+            "P1": 121.55457016469048,
+            "P2": 25.04738672920697
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55466132735984,
+            "P2": 25.047366319540867
+          },
+          {
+            "P1": 121.55475417837916,
+            "P2": 25.047373141062117
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003181",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020506~1020507",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路214號前至22號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51346243706192,
+            "P2": 25.027906979233116
+          },
+          {
+            "P1": 121.51359583069873,
+            "P2": 25.027833426961092
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51362409006018,
+            "P2": 25.027819001734656
+          },
+          {
+            "P1": 121.51366331616016,
+            "P2": 25.027794499370565
+          }
+        ]
+      }
+    ]
+  }
+]

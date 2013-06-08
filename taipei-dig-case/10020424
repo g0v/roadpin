@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "環康實業股份有限公司",
+    "AC_NOpro": "101001699",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010222~1010224",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路3143與忠孝東路3段248巷19弄交叉口",
+    "TC_NApro": "環康實業股份有限公司",
+    "PURPpro": "舊有房屋;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54304246280876,
+            "P2": 25.039985257550427
+          },
+          {
+            "P1": 121.54304997207264,
+            "P2": 25.039903715892965
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002676",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020422~1020423",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路7212號旁人行道上",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50669280020287,
+            "P2": 25.114825479418762
+          },
+          {
+            "P1": 121.50673106324368,
+            "P2": 25.114788884598433
+          }
+        ]
+      }
+    ]
+  }
+]

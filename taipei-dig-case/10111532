@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101012500",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011128~1011130",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南昌路265號對面PT021",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52036119079871,
+            "P2": 25.027122867282067
+          },
+          {
+            "P1": 121.52031913700431,
+            "P2": 25.027099126202248
+          },
+          {
+            "P1": 121.52029321074537,
+            "P2": 25.027166096984264
+          }
+        ]
+      }
+    ]
+  }
+]

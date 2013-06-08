@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "102004010",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020605~1020607",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路184口及弄內6號至8-2號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5198323386967,
+            "P2": 25.052111787905552
+          },
+          {
+            "P1": 121.51956041925928,
+            "P2": 25.052175800302461
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52016246893911,
+            "P2": 25.052049006621495
+          },
+          {
+            "P1": 121.52015606078399,
+            "P2": 25.052021800460903
+          }
+        ]
+      }
+    ]
+  }
+]

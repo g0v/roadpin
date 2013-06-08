@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101007247",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010709~1010711",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "奉賢路15號",
+    "TC_NApro": "上人科技有限公司NEG182047",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50636644520995,
+            "P2": 25.143384649495381
+          },
+          {
+            "P1": 121.50642810794746,
+            "P2": 25.143382651165002
+          },
+          {
+            "P1": 121.50637753397731,
+            "P2": 25.14336789181916
+          }
+        ]
+      }
+    ]
+  }
+]

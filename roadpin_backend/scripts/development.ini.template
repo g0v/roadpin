@@ -1,0 +1,43 @@
+###
+# app configuration
+# http://docs.pylonsproject.org/projects/pyramid/en/latest/narr/environment.html
+###
+
+[app:main]
+use = egg:app
+dologstdout = 0
+
+fluentd_report_host=192_168_168_133:5678
+
+###
+# logging configuration
+# http://docs.pylonsproject.org/projects/pyramid/en/latest/narr/logging.html
+###
+
+[loggers]
+keys = root, app
+
+[handlers]
+keys = console
+
+[formatters]
+keys = generic
+
+[logger_root]
+level = WARNING
+handlers = console
+
+[logger_app]
+level = WARNING
+handlers =
+qualname = app
+
+[handler_console]
+class = StreamHandler
+args = (sys.stderr,)
+level = NOTSET
+formatter = generic
+
+[formatter_generic]
+format = %(asctime)s [%(levelname)-5.5s] %(module)s#%(funcName)s@%(lineno)d: %(message)s
+datefmt = %Y-%m-%d %H:%M:%S

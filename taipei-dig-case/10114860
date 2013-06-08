@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "宏普建設股份有限公司",
+    "AC_NOpro": "101013167",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011210~1011211",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "堤頂大道13號附近共兩處",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57377995421281,
+            "P2": 25.057041529816175
+          },
+          {
+            "P1": 121.5737541274102,
+            "P2": 25.057037603117173
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57380439022586,
+            "P2": 25.05690642175967
+          },
+          {
+            "P1": 121.5737770898354,
+            "P2": 25.056903168829511
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101005640",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010530~1010601",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "中華路17623號旁及開封街2段26號旁(福星里)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50817976854577,
+            "P2": 25.045568433116536
+          },
+          {
+            "P1": 121.50817486521542,
+            "P2": 25.04554974372877
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50825158536145,
+            "P2": 25.04599083651
+          },
+          {
+            "P1": 121.50823227870207,
+            "P2": 25.045995299233709
+          }
+        ]
+      }
+    ]
+  }
+]

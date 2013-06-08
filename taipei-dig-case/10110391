@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009662",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010818~1010831",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路5465號及460巷口(福林里)",
+    "TC_NApro": "豐松營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52779889570775,
+            "P2": 25.09192650279633
+          },
+          {
+            "P1": 121.52774282522178,
+            "P2": 25.0916059375496
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52770402560449,
+            "P2": 25.092251595365614
+          },
+          {
+            "P1": 121.52768613459251,
+            "P2": 25.092160015816198
+          }
+        ]
+      }
+    ]
+  }
+]

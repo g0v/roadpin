@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013373",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011222~1011223",
+    "CO_TIpro": "週休二日日間施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路84口",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53282578471868,
+            "P2": 25.049921068874241
+          },
+          {
+            "P1": 121.53286197387891,
+            "P2": 25.049922374510437
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53282737284722,
+            "P2": 25.0499239250666
+          },
+          {
+            "P1": 121.53286513156006,
+            "P2": 25.049923789613011
+          }
+        ]
+      }
+    ]
+  }
+]

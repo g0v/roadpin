@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009040",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010727~1010727",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "光能里承德路27528號",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5192461720349,
+            "P2": 25.055502697453182
+          },
+          {
+            "P1": 121.51926208084515,
+            "P2": 25.055503075175903
+          },
+          {
+            "P1": 121.5192620790191,
+            "P2": 25.055502641835989
+          }
+        ]
+      }
+    ]
+  }
+]

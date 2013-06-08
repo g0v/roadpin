@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001603",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020320~1020322",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "芝玉路22031號旁(芝山里)",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53587286711733,
+            "P2": 25.110588432943565
+          },
+          {
+            "P1": 121.53581027388613,
+            "P2": 25.110584587534706
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53574218083014,
+            "P2": 25.110683861347262
+          },
+          {
+            "P1": 121.53575708547248,
+            "P2": 25.110686524910715
+          }
+        ]
+      }
+    ]
+  }
+]

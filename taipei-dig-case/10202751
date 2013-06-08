@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002589",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020325~1020325",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "民族街8號旁及民族街與公館路交叉口旁",
+    "TC_NApro": "上人科技有限公司NE7280093",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50393456910872,
+            "P2": 25.132239625509893
+          },
+          {
+            "P1": 121.50394951626714,
+            "P2": 25.132249749198611
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50440550124182,
+            "P2": 25.13197455095634
+          },
+          {
+            "P1": 121.5044290893386,
+            "P2": 25.131973342165491
+          }
+        ]
+      }
+    ]
+  }
+]
