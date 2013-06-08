@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017815",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001201~1010109",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路北側(187巷口至225巷口間)",
+    "TC_NApro": "安宏營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57413923563074,
+            "P2": 25.045409071071255
+          },
+          {
+            "P1": 121.57271969169123,
+            "P2": 25.045442934684186
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "101012634",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011127~1011128",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "水源路209之4號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50180078503345,
+            "P2": 25.018679813248109
+          },
+          {
+            "P1": 121.50180712143764,
+            "P2": 25.018688386619882
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50185440806028,
+            "P2": 25.018714029338692
+          },
+          {
+            "P1": 121.5018638853317,
+            "P2": 25.01872260113365
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣湖天然氣",
+    "AC_NOpro": "102002580",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020326~1020326",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街200號前",
+    "TC_NApro": "揚昌工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62105215292617,
+            "P2": 25.075934185179538
+          },
+          {
+            "P1": 121.62107519256321,
+            "P2": 25.075932779722379
+          }
+        ]
+      }
+    ]
+  }
+]

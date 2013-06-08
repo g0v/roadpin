@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003495",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010604~1010606",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州北路20-16號至忠孝東路1段口",
+    "TC_NApro": "奕揚營造有限公司B9233-112923",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52682040852436,
+            "P2": 25.043907671072496
+          },
+          {
+            "P1": 121.52695087185064,
+            "P2": 25.0443729927881
+          }
+        ]
+      }
+    ]
+  }
+]

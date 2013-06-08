@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市觀光傳播局",
+    "AC_NOpro": "101004775",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010503~1010504",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "基河路116號前",
+    "TC_NApro": "精彩實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52357747692524,
+            "P2": 25.087963208728837
+          },
+          {
+            "P1": 121.52360193694504,
+            "P2": 25.087921990820433
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008685",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010801~1010810",
+    "CO_TIpro": "日間施工9時至16時，週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "陽金公路(馬槽橋頭)補挖",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56246371536416,
+            "P2": 25.179402528175903
+          },
+          {
+            "P1": 121.56246185143641,
+            "P2": 25.178996462210595
+          }
+        ]
+      }
+    ]
+  }
+]

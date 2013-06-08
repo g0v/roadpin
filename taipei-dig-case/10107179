@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "101006885",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010626~1010705",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "環河南路1段19號(BJ050)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50438982722882,
+            "P2": 25.046866098459208
+          },
+          {
+            "P1": 121.50438198780392,
+            "P2": 25.046873284338428
+          }
+        ]
+      }
+    ]
+  }
+]

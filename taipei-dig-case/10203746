@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003041",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020425~1020425",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景興路4248號對面",
+    "TC_NApro": "穩豐工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54403586297774,
+            "P2": 24.997150658909764
+          },
+          {
+            "P1": 121.54403583467465,
+            "P2": 24.997144231009941
+          },
+          {
+            "P1": 121.54403584238645,
+            "P2": 24.99714598243208
+          }
+        ]
+      }
+    ]
+  }
+]

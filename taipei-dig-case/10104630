@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004585",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010430~1010509",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路1段20號前分隔島上(FB057)",
+    "TC_NApro": "聯合電信工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52098674536327,
+            "P2": 25.026553748559753
+          },
+          {
+            "P1": 121.52098157452001,
+            "P2": 25.026572879131841
+          }
+        ]
+      }
+    ]
+  }
+]

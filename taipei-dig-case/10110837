@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009875",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010309~1010309",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "中正里八德路2與敦化北路西北側旁",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "檢修;搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54828814130808,
+            "P2": 25.0480130494381
+          },
+          {
+            "P1": 121.54840349512529,
+            "P2": 25.048007847782234
+          }
+        ]
+      }
+    ]
+  }
+]

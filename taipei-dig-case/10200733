@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "102001180",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020226~1020227",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街60010047號對面",
+    "TC_NApro": "軒展工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57226576585838,
+            "P2": 25.017214589653623
+          },
+          {
+            "P1": 121.57229495124827,
+            "P2": 25.017233111193367
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57226989526527,
+            "P2": 25.017256861110063
+          },
+          {
+            "P1": 121.57226599177791,
+            "P2": 25.017263322157291
+          }
+        ]
+      }
+    ]
+  }
+]

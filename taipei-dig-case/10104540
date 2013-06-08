@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "101012230",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011119~1011120",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路2149號",
+    "TC_NApro": "碧城興業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55558275270616,
+            "P2": 25.0266689575882
+          },
+          {
+            "P1": 121.55560313290857,
+            "P2": 25.026653118436098
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55553534897878,
+            "P2": 25.026620410395882
+          },
+          {
+            "P1": 121.55552271354716,
+            "P2": 25.026608992000188
+          }
+        ]
+      }
+    ]
+  }
+]

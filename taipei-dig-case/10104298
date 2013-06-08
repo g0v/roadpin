@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003819",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010328~1010328",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街1204號旁",
+    "TC_NApro": "碧城興業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55362215258515,
+            "P2": 25.029129383506326
+          },
+          {
+            "P1": 121.55366143742367,
+            "P2": 25.029119685492642
+          },
+          {
+            "P1": 121.55366143742367,
+            "P2": 25.029119685492642
+          }
+        ]
+      }
+    ]
+  }
+]
