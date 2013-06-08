@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002991",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000226~1000227",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路3105號至115號(檢修舊管)",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51092627993346,
+            "P2": 25.068004641707677
+          },
+          {
+            "P1": 121.5109262145408,
+            "P2": 25.067988878973793
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51092617289325,
+            "P2": 25.067978839935932
+          },
+          {
+            "P1": 121.51092766762731,
+            "P2": 25.067961636374239
+          }
+        ]
+      }
+    ]
+  }
+]

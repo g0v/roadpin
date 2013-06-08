@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013140",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000722~1000724",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "博愛路1與開封街口",
+    "TC_NApro": "介展電訊股份有限公司",
+    "PURPpro": "搶修;路平專案道路更新",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51123940655533,
+            "P2": 25.045734966449587
+          },
+          {
+            "P1": 121.51132857780907,
+            "P2": 25.045739435391638
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51127870021216,
+            "P2": 25.045725279522205
+          },
+          {
+            "P1": 121.51128106881224,
+            "P2": 25.045665550706328
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005498",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000502~1000503",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路3304141號旁",
+    "TC_NApro": "煇昇營造工程有限公司NE2054015",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55530692454245,
+            "P2": 24.995527391942115
+          },
+          {
+            "P1": 121.55530862841633,
+            "P2": 24.995556049753489
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55532451671893,
+            "P2": 24.995593249355441
+          },
+          {
+            "P1": 121.55531186522831,
+            "P2": 24.995577533542917
+          }
+        ]
+      }
+    ]
+  }
+]

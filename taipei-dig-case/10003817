@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004399",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000406~1000407",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "八德路210口(檢修舊管)",
+    "TC_NApro": "俍銓營造工程有限公司093",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53377160717481,
+            "P2": 25.044271561034222
+          },
+          {
+            "P1": 121.53379837530214,
+            "P2": 25.044278633124332
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53385036809249,
+            "P2": 25.04429564472758
+          },
+          {
+            "P1": 121.53388186950075,
+            "P2": 25.044304135252879
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99023397",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991219~1000102",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路176號至78號(CB165)",
+    "TC_NApro": "麒瑞營造有限公司9039",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52543255824486,
+            "P2": 25.06228824217516
+          },
+          {
+            "P1": 121.52551044225845,
+            "P2": 25.062287966546283
+          }
+        ]
+      }
+    ]
+  }
+]

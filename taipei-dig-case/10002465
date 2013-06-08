@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002764",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000309",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "興南街52口(MD116)",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60346796663099,
+            "P2": 25.056558105430479
+          },
+          {
+            "P1": 121.60349638017766,
+            "P2": 25.0565780591271
+          },
+          {
+            "P1": 121.60351831367314,
+            "P2": 25.05655790083069
+          }
+        ]
+      }
+    ]
+  }
+]

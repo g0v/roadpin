@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013450",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000825~1000904",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "德惠街3巷2號邊(CC084):德惠街3巷10號邊(CC086)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52297481374934,
+            "P2": 25.066667913848509
+          },
+          {
+            "P1": 121.52298267761222,
+            "P2": 25.066666450690118
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52303165948554,
+            "P2": 25.066899174251077
+          },
+          {
+            "P1": 121.52304108942749,
+            "P2": 25.066897705572131
+          }
+        ]
+      }
+    ]
+  }
+]

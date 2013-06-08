@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000323",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000117~1000121",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "臥龍街60敦南街口(DG160)",
+    "TC_NApro": "奕揚營造有限公司BP267-926015",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54713429721012,
+            "P2": 25.021146586832174
+          },
+          {
+            "P1": 121.54725102151103,
+            "P2": 25.021219248382465
+          }
+        ]
+      }
+    ]
+  }
+]

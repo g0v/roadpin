@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007662",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000513~1000522",
+    "CO_TIpro": "日間施工9時至22時00分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港墘路變電所前中央分隔島(NI035)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57322155368392,
+            "P2": 25.074733658272667
+          },
+          {
+            "P1": 121.57321506122734,
+            "P2": 25.074748615612911
+          }
+        ]
+      }
+    ]
+  }
+]

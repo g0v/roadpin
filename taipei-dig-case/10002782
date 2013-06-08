@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003476",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000314~1000316",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路714123號對面(天母里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5300706240522,
+            "P2": 25.122923297146947
+          },
+          {
+            "P1": 121.5300704024869,
+            "P2": 25.122871946920089
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53009009673291,
+            "P2": 25.122892667872723
+          },
+          {
+            "P1": 121.53008947810648,
+            "P2": 25.12287110229596
+          }
+        ]
+      }
+    ]
+  }
+]

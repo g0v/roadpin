@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012795",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000813~1000814",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民生西路394號至402號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50945477660403,
+            "P2": 25.056622936750404
+          },
+          {
+            "P1": 121.50926596020481,
+            "P2": 25.056620713447984
+          }
+        ]
+      }
+    ]
+  }
+]

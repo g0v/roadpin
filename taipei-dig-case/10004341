@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003906",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000317~1000318",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "試院路102號前(華興里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54779164721737,
+            "P2": 24.989816156405691
+          },
+          {
+            "P1": 121.54779745450047,
+            "P2": 24.989707211002415
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54800489216082,
+            "P2": 24.989676347483272
+          },
+          {
+            "P1": 121.54736372422177,
+            "P2": 24.98977473938205
+          }
+        ]
+      }
+    ]
+  }
+]

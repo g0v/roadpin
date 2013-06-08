@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "100005162",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000405~1000415",
+    "CO_TIpro": "日間施工9時至16時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大業路516巷(JC169)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49734588111892,
+            "P2": 25.132235027621007
+          },
+          {
+            "P1": 121.4973412244138,
+            "P2": 25.132250806095605
+          }
+        ]
+      }
+    ]
+  }
+]

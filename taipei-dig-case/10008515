@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100008233",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000523~1000601",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路3(方濟中學前100公尺轉彎處)(NH039)",
+    "TC_NApro": "奕揚營造有限公司01041",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59025842115447,
+            "P2": 25.075922664009973
+          },
+          {
+            "P1": 121.59013036463385,
+            "P2": 25.0760187160565
+          }
+        ]
+      }
+    ]
+  }
+]

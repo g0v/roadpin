@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012691",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000811~1000812",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "新興路170~168號修管2處",
+    "TC_NApro": "緯全營造有限公司NE080279",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48678481322273,
+            "P2": 25.138416518709604
+          },
+          {
+            "P1": 121.48678309424062,
+            "P2": 25.138380692315778
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4867734779382,
+            "P2": 25.138339159103491
+          },
+          {
+            "P1": 121.4867685980373,
+            "P2": 25.138299045777174
+          }
+        ]
+      }
+    ]
+  }
+]

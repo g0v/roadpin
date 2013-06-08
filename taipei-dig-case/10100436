@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信北區",
+    "AC_NOpro": "101001556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001027~1001028",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長春路156號一帶",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53189942941231,
+            "P2": 25.054554356199979
+          },
+          {
+            "P1": 121.53224819035349,
+            "P2": 25.054553106719123
+          }
+        ]
+      }
+    ]
+  }
+]

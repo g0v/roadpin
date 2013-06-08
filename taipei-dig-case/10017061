@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100015784",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001019~1001021",
+    "CO_TIpro": "夜間施工0時30分至5時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "八德路148號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53103365298397,
+            "P2": 25.043619201813652
+          },
+          {
+            "P1": 121.53088876432187,
+            "P2": 25.043583887309417
+          },
+          {
+            "P1": 121.5308981097335,
+            "P2": 25.043560922662468
+          }
+        ]
+      }
+    ]
+  }
+]

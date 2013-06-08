@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024790",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991227~1000104",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路5150400",
+    "TC_NApro": "亞新工程顧問股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57096463573292,
+            "P2": 25.024913413527866
+          },
+          {
+            "P1": 121.57096775953656,
+            "P2": 25.024913979322925
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57089695417331,
+            "P2": 25.024858503170378
+          },
+          {
+            "P1": 121.57089258459286,
+            "P2": 25.024858519952708
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003029",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000316~1000318",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路1與四維路76巷交口入巷內約32m處(德安里)",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54816796572993,
+            "P2": 25.034006627446551
+          },
+          {
+            "P1": 121.54816777961024,
+            "P2": 25.0339647470258
+          }
+        ]
+      }
+    ]
+  }
+]

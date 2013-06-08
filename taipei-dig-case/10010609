@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009978",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000622~1000720",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路220316-54號",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54869960957134,
+            "P2": 25.001747126590555
+          },
+          {
+            "P1": 121.54814916248139,
+            "P2": 25.001936534020377
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54726497707046,
+            "P2": 25.002240226441018
+          },
+          {
+            "P1": 121.54813646912442,
+            "P2": 25.001933655698178
+          }
+        ]
+      }
+    ]
+  }
+]

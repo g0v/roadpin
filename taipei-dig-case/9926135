@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024086",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000110~1000114",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路257號前",
+    "TC_NApro": "奕揚營造有限公司BP260-925012b",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54908053966064,
+            "P2": 25.030985353662249
+          },
+          {
+            "P1": 121.54907474509419,
+            "P2": 25.031097169402305
+          }
+        ]
+      }
+    ]
+  }
+]

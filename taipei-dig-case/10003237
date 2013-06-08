@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003962",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000317~1000318",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康寧路326527號附近",
+    "TC_NApro": "俍銓工程營造有限公司10017",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61254950934614,
+            "P2": 25.06617183554004
+          },
+          {
+            "P1": 121.61252735751953,
+            "P2": 25.066146134106368
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61256536299842,
+            "P2": 25.066194701099416
+          },
+          {
+            "P1": 121.61257803625752,
+            "P2": 25.066211847036882
+          }
+        ]
+      }
+    ]
+  }
+]

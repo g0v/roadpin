@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010747",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000719~1000726",
+    "CO_TIpro": "日夜間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路3與基隆高架橋下口(水源里)",
+    "TC_NApro": "信威工程有限公司",
+    "PURPpro": "管線改善;新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5363247476256,
+            "P2": 25.010854514756296
+          },
+          {
+            "P1": 121.53636390687932,
+            "P2": 25.010773572151191
+          }
+        ]
+      }
+    ]
+  }
+]

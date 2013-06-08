@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "100004450",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000412~1000422",
+    "CO_TIpro": "日間施工9時至16時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "雨農路7巷口(IA128)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5320136989348,
+            "P2": 25.096912583878979
+          },
+          {
+            "P1": 121.53201254452205,
+            "P2": 25.09691616310203
+          }
+        ]
+      }
+    ]
+  }
+]

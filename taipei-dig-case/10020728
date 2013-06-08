@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "100018974",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001222~1001223",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路3276(距巷口17m起至忠孝東路3段248巷7弄底)(義村里)",
+    "TC_NApro": "承昌水電行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54240889403596,
+            "P2": 25.041112231423408
+          },
+          {
+            "P1": 121.54240318174392,
+            "P2": 25.040818398485516
+          }
+        ]
+      }
+    ]
+  }
+]

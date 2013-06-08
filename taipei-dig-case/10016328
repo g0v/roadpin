@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "黃俊龍",
+    "AC_NOpro": "100015108",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000926~1000930",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路1118衡陽路60號後門",
+    "TC_NApro": "藝琳營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51192364917965,
+            "P2": 25.041612614714417
+          },
+          {
+            "P1": 121.51192343497611,
+            "P2": 25.041561020024204
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51183228086676,
+            "P2": 25.041584265382085
+          },
+          {
+            "P1": 121.51197074438122,
+            "P2": 25.041589521132281
+          }
+        ]
+      }
+    ]
+  }
+]

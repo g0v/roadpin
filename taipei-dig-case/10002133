@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003051",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000306",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "吉林路(6巷口至4巷口)一帶",
+    "TC_NApro": "奕揚營造有限公司052",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52993221828443,
+            "P2": 25.048852695482982
+          },
+          {
+            "P1": 121.52992533270813,
+            "P2": 25.04847053576448
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市觀光傳播局",
+    "AC_NOpro": "100008092",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000525~1000526",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路二段民生西路口(光能里)",
+    "TC_NApro": "通恒國際有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51831935973304,
+            "P2": 25.057003327056091
+          },
+          {
+            "P1": 121.51831928738916,
+            "P2": 25.05698612887889
+          }
+        ]
+      }
+    ]
+  }
+]

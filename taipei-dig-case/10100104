@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000073",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001230~1001230",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "進賢路2號(開明里)",
+    "TC_NApro": "華盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50471029565694,
+            "P2": 25.14063763219141
+          },
+          {
+            "P1": 121.50471028385297,
+            "P2": 25.140634761340714
+          },
+          {
+            "P1": 121.50474186708925,
+            "P2": 25.140657584752955
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100018349",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001212~1001213",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "甘州街34號對面",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51275229251775,
+            "P2": 25.059131082271151
+          },
+          {
+            "P1": 121.51276515549169,
+            "P2": 25.059132996941738
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51275597601689,
+            "P2": 25.059115947568927
+          },
+          {
+            "P1": 121.51283579948871,
+            "P2": 25.059122506150075
+          }
+        ]
+      }
+    ]
+  }
+]

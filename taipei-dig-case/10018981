@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001103~1001106",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央北路31187號前",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48288623952772,
+            "P2": 25.137745208576948
+          },
+          {
+            "P1": 121.4832583318928,
+            "P2": 25.137878719921385
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48312608085321,
+            "P2": 25.137879151237804
+          },
+          {
+            "P1": 121.48314480467053,
+            "P2": 25.137836098934386
+          }
+        ]
+      }
+    ]
+  }
+]

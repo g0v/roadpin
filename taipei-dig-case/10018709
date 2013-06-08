@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017180",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001116~1001125",
+    "CO_TIpro": "9時至20時避開17時至19時往後延長至22時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "榮華一路4巷2號(JB157)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52419839812116,
+            "P2": 25.112139399728687
+          },
+          {
+            "P1": 121.52419704342536,
+            "P2": 25.112128652199505
+          }
+        ]
+      }
+    ]
+  }
+]

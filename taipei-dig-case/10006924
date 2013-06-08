@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "100006688",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000424~1000503",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路1194922號前(NG034)",
+    "TC_NApro": "榮電股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61668493547916,
+            "P2": 25.069817682643624
+          },
+          {
+            "P1": 121.61658293886757,
+            "P2": 25.069684790842121
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61696016151376,
+            "P2": 25.069565860436274
+          },
+          {
+            "P1": 121.61697265883386,
+            "P2": 25.069563524429309
+          }
+        ]
+      }
+    ]
+  }
+]
