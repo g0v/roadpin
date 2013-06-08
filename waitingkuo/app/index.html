@@ -11,6 +11,8 @@
   <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
 </head>
 
 <body id="#body">
@@ -36,6 +38,13 @@
   <table class="table">
     <thead>
       <tr>
+        <th>Town</th>
+        <th>Road</th>
+        <th>Detail</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Supervisor</th>
+        <th>Contractor</th>
       </tr>
     </thead>
     <tbody id="table-tbody"></tbody>
@@ -45,10 +54,12 @@
           {{#each data}}
             <tr>
               <td>{{REG_NAMEpro}}</td>
-              <td>{{CASE_RANGEpro}}</td>
               <td>{{CASE_LOCATIONpro}}</td>
-              <td>{{beginAt}}</td>
-              <td>{{endAt}}</td>
+              <td>{{CASE_RANGEpro}}</td>
+              <td>{{beginDate}}</td>
+              <td>{{endDate}}</td>
+              <td>{{CTR_ONAMEpro}}</td>
+              <td>{{CTR_WNAMEpro}}</td>
             </tr>
           {{/each}}
         {% endraw %}  
@@ -101,6 +112,7 @@
         data: this.data.toJSON()
       };
       this.$el.find('#table-tbody').html(template(context));
+      this.$el.find('.table').dataTable();
     },
 
     initialize: function() {
