@@ -1,6 +1,22 @@
+# encoding: UTF-8
 class RoadCase < ActiveRecord::Base
   # attr_accessible :title, :body
   scope :digging, -> { where(['start_on <= ? AND end_on >= ?', Date.today, Date.today]) }
+  scope :available, -> { where(['status = ? OR status = ?', 3, 5]) }
+  scope :day, ->(day){ where(['start_on <= ? AND end_on >= ?', day, day]) }
+
+  def human_status
+    case status
+    when 0 then "未成案"
+    when 1 then "計畫案件"
+    when 2 then "設計"
+    when 3 then "施工"
+    when 4 then "結案"
+    when 5 then "竣工保固"
+    when 9 then "取消中止"
+    else ""
+    end
+  end
 
   def region
     json_data["REG_NAMEpro"]
@@ -28,6 +44,10 @@ class RoadCase < ActiveRecord::Base
 
   def to_hash
     {
+      :human_status => human_status,
+      :case_type => case_type,
+      :start_on => start_on.strftime('%Y-%m-%d'),
+      :end_on => end_on.strftime('%Y-%m-%d'),
       :region => region,
       :location => location,
       :range => range,
