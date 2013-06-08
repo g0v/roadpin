@@ -20,17 +20,29 @@ def g_json_handler(start_timestamp, end_timestamp):
 
     results = [result for result in result_all if _is_valid(result, start_timestamp, end_timestamp)]
 
+    for result in results:
+        result['beginDate'] = util.timestamp_to_date(result['beginAt'])
+        result['endDate'] = util.timestamp_to_date(result['endAt'])
+
+    results.sort(key=lambda (r): str(r['beginAt']) + '_' + str(r['endAt']), reverse=True)
+
     return results
 
 
 def _is_valid(result, start_timestamp, end_timestamp):
-    if result['beginAt'] < start_timestamp and result['endAt'] < start_timestamp:
-        return False
+    if result['beginAt'] <= start_timestamp and result['endAt'] >= start_timestamp:
+        return True
 
-    if result['beginAt'] > end_timestamp and result['endAt'] > end_timestamp:
-        return False
+    if result['beginAt'] <= end_timestamp and result['endAt'] >= end_timestamp:
+        return True
 
-    return True
+    if result['beginAt'] >= start_timestamp and result['endAt'] <= end_timestamp:
+        return True
+
+    if result['beginAt'] < start_timestamp and result['endAt'] > end_timestamp:
+        return True
+
+    return False
         
     
     
