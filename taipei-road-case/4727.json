@@ -1,0 +1,62 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "石牌路1段(166巷至西安街)等5處側溝蓋更新工程",
+    "CASE_RANGEpro": "石牌路1段(166巷至西安街)",
+    "WORK_DATEpro": "100/07/15~100/09/08",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5097311400589,
+            "P2": 25.112533944721061
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52368843733352,
+            "P2": 25.121741899051628
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51839243112312,
+            "P2": 25.1156113484586
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53228180656146,
+            "P2": 25.126938342350957
+          }
+        ]
+      }
+    ]
+  }
+]

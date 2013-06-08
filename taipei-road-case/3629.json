@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "民生東路五段與撫遠街口及吳興街432巷118-8號前溝蓋版更新工程",
+    "CASE_RANGEpro": "民生東路五段與撫遠街口及吳興街432巷118-8號前溝蓋版更新工程",
+    "WORK_DATEpro": "98/06/12~98/07/14",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.56840139533176,
+            "P2": 25.058996059227635
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.56827553186675,
+            "P2": 25.022294345033931
+          }
+        ]
+      }
+    ]
+  }
+]

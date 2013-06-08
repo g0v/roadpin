@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "光復橋引道",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/08/02~99/08/28",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "6",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.49080300324457,
+            "P2": 25.024240331165558
+          }
+        ]
+      }
+    ]
+  }
+]

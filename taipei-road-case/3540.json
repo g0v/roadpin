@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "信義區",
+    "CASE_LOCATIONpro": "忠孝東路5段790巷68弄",
+    "CASE_RANGEpro": "忠孝東路5段790巷68弄",
+    "WORK_DATEpro": "98/12/25~99/01/15",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.5827415781531,
+            "P2": 25.040204955090594
+          },
+          {
+            "P1": 121.58335622702933,
+            "P2": 25.040438167605537
+          }
+        ]
+      }
+    ]
+  }
+]

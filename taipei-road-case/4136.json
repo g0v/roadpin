@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "大同區",
+    "CASE_LOCATIONpro": "正氣橋撫遠街南往北閘道P305橋墩橋面伸縮縫改善工程",
+    "CASE_RANGEpro": "重慶北路三段",
+    "WORK_DATEpro": "99/01/29~99/02/24",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51364454628298,
+            "P2": 25.074422206839014
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "敦化北路公車專用道(北往南)(含剛性路面)",
+    "CASE_RANGEpro": "松山機場~市民大道",
+    "WORK_DATEpro": "100/01/01~100/12/31",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "1",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55071099193793,
+            "P2": 25.061165392024165
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.55056631430603,
+            "P2": 25.061142800527595
+          },
+          {
+            "P1": 121.54905792387181,
+            "P2": 25.057972547586672
+          },
+          {
+            "P1": 121.5489193305379,
+            "P2": 25.057354389866422
+          },
+          {
+            "P1": 121.54881858444655,
+            "P2": 25.044898860951143
+          }
+        ]
+      }
+    ]
+  }
+]

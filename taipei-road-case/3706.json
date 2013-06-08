@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "復興四路101號至117號,中和街370巷,中和街390巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/10/31~98/12/31",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.502696641087,
+            "P2": 25.144576323748076
+          },
+          {
+            "P1": 121.50294880497414,
+            "P2": 25.144862509048863
+          }
+        ]
+      }
+    ]
+  }
+]

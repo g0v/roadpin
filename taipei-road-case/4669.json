@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "興隆路3段192巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "100/06/28~100/08/05",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.55832088639983,
+            "P2": 24.99732837640946
+          },
+          {
+            "P1": 121.55842312489261,
+            "P2": 24.997489492308212
+          },
+          {
+            "P1": 121.55876159072265,
+            "P2": 24.997764191238076
+          }
+        ]
+      }
+    ]
+  }
+]

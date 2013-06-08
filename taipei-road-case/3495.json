@@ -1,0 +1,98 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "景興路243巷左側山壁、景興路249號及景興路271巷至273號間人行道增設排水側溝",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/05/11~98/06/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5436309290328,
+            "P2": 24.990757977254017
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54356993526294,
+            "P2": 24.990791218143318
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54374599491328,
+            "P2": 24.990785728436727
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54375126003792,
+            "P2": 24.990790488710982
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54339692354085,
+            "P2": 24.990572653931913
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54339957182771,
+            "P2": 24.990578613079474
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54336047573365,
+            "P2": 24.990697968720031
+          }
+        ]
+      }
+    ]
+  }
+]

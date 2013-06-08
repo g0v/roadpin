@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "伊通街",
+    "CASE_RANGEpro": "伊通街、松江路26巷人手孔調昇降工程",
+    "WORK_DATEpro": "98/12/06~99/01/06",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53147546629553,
+            "P2": 25.046888339311998
+          },
+          {
+            "P1": 121.53267903038639,
+            "P2": 25.046871810160269
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53479290364034,
+            "P2": 25.054460684798247
+          },
+          {
+            "P1": 121.5347819862386,
+            "P2": 25.051944801616024
+          }
+        ]
+      }
+    ]
+  }
+]

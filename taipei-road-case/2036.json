@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "羅斯福路3段84巷12弄雙號側",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52521132932053,
+            "P2": 25.021460774437895
+          },
+          {
+            "P1": 121.52529364266175,
+            "P2": 25.021394808145519
+          },
+          {
+            "P1": 121.52531472915165,
+            "P2": 25.021409782013986
+          },
+          {
+            "P1": 121.52575912101349,
+            "P2": 25.021031938331809
+          }
+        ]
+      }
+    ]
+  }
+]

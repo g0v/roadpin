@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "==橋涵種類==-=橋涵名稱=",
+    "CASE_RANGEpro": "全市橋名柱美化及維修改善工程",
+    "WORK_DATEpro": "99/10/14~100/03/24",
+    "CTR_WNAMEpro": "元力營造有限公司",
+    "CTR_ONAMEpro": "逸玖工程技術顧問有限公司",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.56767735712634,
+            "P2": 25.063094262470283
+          }
+        ]
+      }
+    ]
+  }
+]

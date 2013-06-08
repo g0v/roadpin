@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "中坡南路、福德街373巷、研究院路二段",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/08/31~98/11/02",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.58200379476439,
+            "P2": 25.043835496217746
+          },
+          {
+            "P1": 121.58360890318828,
+            "P2": 25.04255833844401
+          }
+        ]
+      }
+    ]
+  }
+]

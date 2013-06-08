@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "大南路324號",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/09/28~99/10/01",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "4",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51807979858732,
+            "P2": 25.088770563714839
+          }
+        ]
+      }
+    ]
+  }
+]

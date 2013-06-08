@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "廣州街(康定路至南寧路)側溝更新及人手孔調降工程",
+    "CASE_RANGEpro": "廣州街(康定路至南寧路)側溝更新及人手孔調降工程",
+    "WORK_DATEpro": "98/06/16~98/07/17",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50318935095463,
+            "P2": 25.03635815906652
+          }
+        ]
+      }
+    ]
+  }
+]

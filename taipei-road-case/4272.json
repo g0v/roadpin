@@ -1,0 +1,74 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "中山農安、中山市民及林森市民等人行地下道",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/04/16~99/06/25",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5222353911476,
+            "P2": 25.064673864564828
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52110477404115,
+            "P2": 25.047916353901019
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52102994820271,
+            "P2": 25.047667739089768
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52443335275559,
+            "P2": 25.0476903747279
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52442676982778,
+            "P2": 25.047449143413214
+          }
+        ]
+      }
+    ]
+  }
+]

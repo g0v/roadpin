@@ -1,0 +1,78 @@
+[
+  {
+    "REG_NAMEpro": "大同區",
+    "CASE_LOCATIONpro": "重慶北路3段等路段",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51352660279756,
+            "P2": 25.069165009977073
+          },
+          {
+            "P1": 121.51353034049845,
+            "P2": 25.069331353446117
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51353694732082,
+            "P2": 25.069408771367666
+          },
+          {
+            "P1": 121.51354715456725,
+            "P2": 25.070230183193637
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51353694732082,
+            "P2": 25.069408771367666
+          },
+          {
+            "P1": 121.51354715456725,
+            "P2": 25.070230183193637
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51167004274693,
+            "P2": 25.068543600738263
+          },
+          {
+            "P1": 121.51218659530828,
+            "P2": 25.068530774816978
+          }
+        ]
+      }
+    ]
+  }
+]

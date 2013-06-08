@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "民權東路6段280巷25弄",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/11/02~98/12/31",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.60461193414663,
+            "P2": 25.069090612880842
+          },
+          {
+            "P1": 121.60500161899461,
+            "P2": 25.069700389359387
+          },
+          {
+            "P1": 121.60540888282979,
+            "P2": 25.069432918615973
+          },
+          {
+            "P1": 121.60465352249136,
+            "P2": 25.068645210144911
+          }
+        ]
+      }
+    ]
+  }
+]

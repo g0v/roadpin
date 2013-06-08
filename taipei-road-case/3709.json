@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "金湖路",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/09/01~98/10/31",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.59512832601736,
+            "P2": 25.083725970885965
+          },
+          {
+            "P1": 121.59699439651638,
+            "P2": 25.081628796314138
+          }
+        ]
+      }
+    ]
+  }
+]

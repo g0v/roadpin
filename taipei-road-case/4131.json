@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "民權大橋等7座跨河橋梁劃設警戒及封橋水位線工程",
+    "CASE_RANGEpro": "環東高架跨內湖捷運段",
+    "WORK_DATEpro": "98/08/05~98/08/11",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61269610920974,
+            "P2": 25.062640160724158
+          }
+        ]
+      }
+    ]
+  }
+]

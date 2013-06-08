@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "南港區",
+    "CASE_LOCATIONpro": "環東高架橋跨捷運內湖線段增設防護網工程",
+    "CASE_RANGEpro": "世杰橋、正義橋、安康橋、南究橋",
+    "WORK_DATEpro": "99/01/29~99/03/04",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61449728037397,
+            "P2": 25.039705183234368
+          }
+        ]
+      }
+    ]
+  }
+]

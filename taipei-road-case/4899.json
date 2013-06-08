@@ -1,0 +1,62 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "==橋涵種類==-=橋涵名稱=",
+    "CASE_RANGEpro": "基隆河麥帥一橋及百齡橋堤外自行車牽引道銜接橋面人行道",
+    "WORK_DATEpro": "100/11/01~100/11/18",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "3",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.57093083563345,
+            "P2": 25.051461519263487
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.57414640168322,
+            "P2": 25.053193478367326
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5121279897826,
+            "P2": 25.08810717690351
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51490422808547,
+            "P2": 25.089932229565989
+          }
+        ]
+      }
+    ]
+  }
+]

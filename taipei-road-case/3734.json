@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "新興路70巷1號",
+    "CASE_RANGEpro": "新興路70巷1號",
+    "WORK_DATEpro": "98/12/01~99/01/29",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.48766378754493,
+            "P2": 25.140464021747562
+          },
+          {
+            "P1": 121.48766019718318,
+            "P2": 25.140353675160373
+          },
+          {
+            "P1": 121.4876570249414,
+            "P2": 25.140346520147293
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.48796791754316,
+            "P2": 25.140912868105673
+          },
+          {
+            "P1": 121.4880369438645,
+            "P2": 25.140835032320197
+          }
+        ]
+      }
+    ]
+  }
+]

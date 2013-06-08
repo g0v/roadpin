@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "忠孝西路、水源路",
+    "CASE_RANGEpro": "忠孝西路車行地下道、水源路車行地下道",
+    "WORK_DATEpro": "100/05/24~100/07/05",
+    "CTR_WNAMEpro": "台球營造工程有限公司",
+    "CTR_ONAMEpro": "大豐工程顧問公司",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51962894841907,
+            "P2": 25.045462073923517
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51664276958408,
+            "P2": 25.021698582612537
+          }
+        ]
+      }
+    ]
+  }
+]

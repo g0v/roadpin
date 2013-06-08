@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "農安街1巷",
+    "CASE_RANGEpro": "臺電管挖範圍",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52296057631619,
+            "P2": 25.066429730765329
+          },
+          {
+            "P1": 121.52287135015629,
+            "P2": 25.06477363153699
+          },
+          {
+            "P1": 121.52288170379252,
+            "P2": 25.064792311602321
+          }
+        ]
+      }
+    ]
+  }
+]

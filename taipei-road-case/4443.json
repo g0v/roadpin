@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "南港區",
+    "CASE_LOCATIONpro": "一般橋樑-永思橋",
+    "CASE_RANGEpro": "芳園橋、南深橋、南研橋、永思橋、雄獅橋",
+    "WORK_DATEpro": "100/01/20~100/03/15",
+    "CTR_WNAMEpro": "元力營造有限公司",
+    "CTR_ONAMEpro": "逸玖工程技術顧問有限公司",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61407056126195,
+            "P2": 25.035533192926081
+          }
+        ]
+      }
+    ]
+  }
+]

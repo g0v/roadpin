@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "高架/跨河橋樑-新環河高架",
+    "CASE_RANGEpro": "新環河高架橋(忠孝橋上游側)",
+    "WORK_DATEpro": "100/04/21~100/06/04",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50517476943519,
+            "P2": 25.048202431063018
+          },
+          {
+            "P1": 121.50434572404188,
+            "P2": 25.047296415046915
+          }
+        ]
+      }
+    ]
+  }
+]

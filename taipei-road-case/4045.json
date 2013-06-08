@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "同安街28巷7弄道路拓寬工程",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/09/01~99/10/16",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "7",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52110874382231,
+            "P2": 25.024603120382075
+          },
+          {
+            "P1": 121.5212763660487,
+            "P2": 25.025010288349534
+          }
+        ]
+      }
+    ]
+  }
+]

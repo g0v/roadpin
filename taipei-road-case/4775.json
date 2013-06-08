@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "文德路101巷9弄邊坡土石滑落緊急搶修工程",
+    "CASE_RANGEpro": "文德路101巷9弄",
+    "WORK_DATEpro": "100/07/25~100/08/23",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.58456029755823,
+            "P2": 25.079261972183541
+          }
+        ]
+      }
+    ]
+  }
+]

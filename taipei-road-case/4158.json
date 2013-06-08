@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "北安路759巷",
+    "CASE_RANGEpro": "北安路759巷",
+    "WORK_DATEpro": "99/08/16~99/08/16",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55305679292991,
+            "P2": 25.086120784594875
+          }
+        ]
+      }
+    ]
+  }
+]

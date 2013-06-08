@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "興隆路一段68號",
+    "CASE_RANGEpro": "興隆路一段68號武功國小前人行道",
+    "WORK_DATEpro": "98/07/06~98/08/19",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "4",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53949267023386,
+            "P2": 25.00394282116121
+          },
+          {
+            "P1": 121.54030921321912,
+            "P2": 25.003805451098629
+          },
+          {
+            "P1": 121.54061915424965,
+            "P2": 25.003582742960457
+          }
+        ]
+      }
+    ]
+  }
+]

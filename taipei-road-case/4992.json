@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "民生東路二段等",
+    "CASE_RANGEpro": "中山區民生東路二段16至74號",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "冠君營造有限公司",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52825424537645,
+            "P2": 25.057703550162007
+          },
+          {
+            "P1": 121.52882275218197,
+            "P2": 25.057692895079672
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52892190768584,
+            "P2": 25.057689193338859
+          },
+          {
+            "P1": 121.53004509813415,
+            "P2": 25.057673745341457
+          }
+        ]
+      }
+    ]
+  }
+]

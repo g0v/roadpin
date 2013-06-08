@@ -1,0 +1,86 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "中山北一段26巷.萬大路137巷.187巷(1.3弄.無名巷)人手孔調降工程",
+    "CASE_RANGEpro": "中山北一段26巷.萬大路137巷.187巷(1.3弄.無名巷)人手孔調降工程",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51974751510838,
+            "P2": 25.046536658384611
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50067826376115,
+            "P2": 25.028750584988874
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50105718163286,
+            "P2": 25.027869517240976
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50148794043282,
+            "P2": 25.028319412480574
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50122273346835,
+            "P2": 25.028468921666423
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50093823619393,
+            "P2": 25.028332274706184
+          }
+        ]
+      }
+    ]
+  }
+]

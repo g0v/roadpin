@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "高架/跨河橋樑-環東高架",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "100/05/27~100/07/08",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.57956354094148,
+            "P2": 25.055870701134204
+          }
+        ]
+      }
+    ]
+  }
+]

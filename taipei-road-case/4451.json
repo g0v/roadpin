@@ -1,0 +1,86 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "==橋涵種類==-=橋涵名稱=",
+    "CASE_RANGEpro": "重陽橋引道、大度高架橋、明德橋、鎮安橋、大子橋等5座橋涵。",
+    "WORK_DATEpro": "99/12/28~100/05/25",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.46628444419679,
+            "P2": 25.123049492405912
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.47450330929212,
+            "P2": 25.122589819448837
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5059689619174,
+            "P2": 25.085584794568312
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51075008008625,
+            "P2": 25.086767039976547
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50213049093188,
+            "P2": 25.123533293511667
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52241383067401,
+            "P2": 25.109115924412681
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "仰德大道一段",
+    "CASE_RANGEpro": "仰德大道一段邊坡",
+    "WORK_DATEpro": "99/10/14~99/12/08",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53565373802637,
+            "P2": 25.106246839056503
+          }
+        ]
+      }
+    ]
+  }
+]

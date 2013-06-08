@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "湖興里、葫洲里、秀湖里",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/07/01~98/09/01",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.58918359981955,
+            "P2": 25.068769865063175
+          },
+          {
+            "P1": 121.58882716840029,
+            "P2": 25.068778786618005
+          }
+        ]
+      }
+    ]
+  }
+]

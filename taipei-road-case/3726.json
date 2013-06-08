@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "中正路680巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/07/31~98/10/01",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50563864493438,
+            "P2": 25.08573661939101
+          },
+          {
+            "P1": 121.50568892234971,
+            "P2": 25.085708512659529
+          },
+          {
+            "P1": 121.50572614096139,
+            "P2": 25.085702399390854
+          },
+          {
+            "P1": 121.50662994264204,
+            "P2": 25.085964700558367
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "人行地下道-社教館",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "100/10/19~100/11/15",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54895558350788,
+            "P2": 25.047998087385125
+          }
+        ]
+      }
+    ]
+  }
+]

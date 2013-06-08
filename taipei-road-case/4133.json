@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "南湖大橋、台北大橋",
+    "CASE_RANGEpro": "南湖大橋、台北大橋",
+    "WORK_DATEpro": "98/11/20~98/12/31",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61261964956508,
+            "P2": 25.062325937718988
+          }
+        ]
+      }
+    ]
+  }
+]

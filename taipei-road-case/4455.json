@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "人行陸橋-==請選擇==",
+    "CASE_RANGEpro": "中山酒泉街口人行陸橋(花博展區)",
+    "WORK_DATEpro": "99/11/01~99/11/03",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52305317032359,
+            "P2": 25.070534414048982
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52379071811883,
+            "P2": 25.070529865052809
+          }
+        ]
+      }
+    ]
+  }
+]

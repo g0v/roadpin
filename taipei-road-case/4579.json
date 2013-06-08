@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "南港區",
+    "CASE_LOCATIONpro": "一般橋樑-南深橋",
+    "CASE_RANGEpro": "世杰橋",
+    "WORK_DATEpro": "100/05/23~100/06/20",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61229744334958,
+            "P2": 25.046126656204482
+          }
+        ]
+      }
+    ]
+  }
+]

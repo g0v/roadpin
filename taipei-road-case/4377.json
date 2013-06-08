@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "水源快速道路萬大路、環河南路三段、古亭國中、行政院、河平西路環河南路",
+    "CASE_RANGEpro": "水源快速道路萬大路人行陸橋、環河南路三段人行陸橋、古亭國中人行陸橋、行政院人行地下道、河平西路環河南路人行陸橋",
+    "WORK_DATEpro": "100/11/07~101/01/06",
+    "CTR_WNAMEpro": "台球營造工程有限公司",
+    "CTR_ONAMEpro": "大豐工程顧問公司",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.4958302230252,
+            "P2": 25.0162895658656
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.49152957671466,
+            "P2": 25.022771907393441
+          }
+        ]
+      }
+    ]
+  }
+]

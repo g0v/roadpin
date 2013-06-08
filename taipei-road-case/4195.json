@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "大同區",
+    "CASE_LOCATIONpro": "太平國小",
+    "CASE_RANGEpro": "太平國小",
+    "WORK_DATEpro": "99/06/11~99/06/22",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51130321914616,
+            "P2": 25.061115214615068
+          }
+        ]
+      }
+    ]
+  }
+]

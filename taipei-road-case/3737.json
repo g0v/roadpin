@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "復興四路101至107號、中和街370巷、390巷側溝",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/10/15~98/12/16",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50245028659911,
+            "P2": 25.144316602172559
+          },
+          {
+            "P1": 121.50315486394534,
+            "P2": 25.14509678958159
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "延平北路五段",
+    "CASE_RANGEpro": "延平北路五段259號至315號",
+    "WORK_DATEpro": "97/11/03~97/11/17",
+    "CTR_WNAMEpro": "百揚營造有限公司",
+    "CTR_ONAMEpro": "大安土木技師事務所",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.5096304663537,
+            "P2": 25.084755032735522
+          },
+          {
+            "P1": 121.50956661249253,
+            "P2": 25.085050190264671
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50956809700982,
+            "P2": 25.085044040329674
+          },
+          {
+            "P1": 121.50951950107321,
+            "P2": 25.085203965529363
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50952152953168,
+            "P2": 25.085203023854138
+          },
+          {
+            "P1": 121.50945776066381,
+            "P2": 25.085416305162422
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50942799283931,
+            "P2": 25.08551275544751
+          },
+          {
+            "P1": 121.50927594259017,
+            "P2": 25.086023930161264
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50927747974791,
+            "P2": 25.086022604583388
+          },
+          {
+            "P1": 121.50921887457797,
+            "P2": 25.086227484001235
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "珠海路大屯橋",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/02/25~99/03/24",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50439755272245,
+            "P2": 25.140119561498988
+          }
+        ]
+      }
+    ]
+  }
+]
