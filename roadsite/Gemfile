@@ -1,0 +1,79 @@
+source 'https://rubygems.org'
+
+gem 'rails', '3.2.13'
+
+# Bundle edge Rails instead:
+# gem 'rails', :git => 'git://github.com/rails/rails.git'
+
+gem 'sqlite3'
+gem 'nokogiri'
+gem "airbrake"
+gem "acts_as_list-rails3", "~> 0.0.4"
+gem "dynamic_form"
+gem "kaminari"
+
+
+# Gems used only for assets and not required
+# in production environments by default.
+group :assets do
+  gem 'sass-rails',   '~> 3.2.3'
+  gem 'coffee-rails', '~> 3.2.1'
+
+  gem 'therubyracer', :platforms => :ruby
+
+end
+
+gem 'uglifier', '>= 1.0.3'
+gem 'jquery-rails'
+gem "fancybox-rails"
+
+group :test, :development do
+  gem 'sqlite3'
+  gem "rspec", "~> 2.0"
+  gem "rspec-rails", "~> 2.0"
+  gem "factory_girl_rails"
+  gem "shoulda-matchers"
+  gem "zeus"
+  gem "rb-readline"
+
+  # copy from other application's setting
+  gem 'awesome_print'
+  gem 'pry-rails'
+  gem 'pry-remote'
+  gem 'pry-stack_explorer'
+end
+
+group :test do
+  gem 'capybara', '~> 2.0.3'
+  gem 'simplecov', :require => false
+  gem 'webmock'
+  gem 'vcr' # record screenstepslive response for testing
+  gem 'email_spec'
+  gem 'fuubar' # better formatter for rspec
+  gem 'database_cleaner'
+  gem "launchy"
+  gem "capybara-webkit"
+  gem 'capybara-screenshot'
+  gem "fakeredis", :require => "fakeredis/rspec"
+  gem "poltergeist"
+end
+
+group :development do
+  gem "capistrano"
+  gem "capistrano-ext"
+  gem "capistrano_colors"
+  gem "capistrano-unicorn"
+  gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
+  gem 'rvm-capistrano'
+
+  gem 'xray-rails'
+  gem 'better_errors'
+end
+
+group :linux_development do
+  gem 'rb-inotify'
+end
+
+group :mac_development do
+  gem 'rb-fsevent'
+end
