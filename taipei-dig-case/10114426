@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中瑞環境科技有限公司",
+    "AC_NOpro": "102001489",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020305~1020307",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路29821與研究院路二段98巷交叉路口(中研里)",
+    "TC_NApro": "中瑞環境科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61527118201023,
+            "P2": 25.04364272923527
+          },
+          {
+            "P1": 121.61529824044581,
+            "P2": 25.043707112953815
+          }
+        ]
+      }
+    ]
+  }
+]
