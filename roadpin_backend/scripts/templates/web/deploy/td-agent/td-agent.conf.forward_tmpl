@@ -1,0 +1,18 @@
+<match {{project_underscore}}.**>
+    type forward
+    <server>
+       host 192.168.175.189
+       port 24250
+    </server>
+
+    # use file buffer to buffer events on disks.
+    buffer_type file
+    buffer_path /var/log/td-agent/buffer/{{project}}
+    buffer_queue_limit 384
+    buffer_chunk_limit 64m
+
+
+    # use longer flush_interval to reduce CPU usage.
+    # note that this is a trade-off against latency.
+    flush_interval 1m
+</match>

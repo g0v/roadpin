@@ -1,0 +1,19 @@
+<match roadpin_backend.**>
+    type s3
+
+    aws_key_id AKIAIJ2P5I3PJAB5TR5A
+    aws_sec_key lCRyb503NlZNRjYeBGd3HO5eqMFrInuhUVQdrA0C
+    s3_bucket rtbbidder
+    s3_endpoint s3-us-west-2.amazonaws.com
+
+    path logs/roadpin_backend/
+    buffer_path /var/log/td-agent/buffer/roadpin_backend
+
+    time_slice_format %Y%m%d/%Y%m%d%H
+    time_slice_wait 30m
+    utc
+
+    buffer_type file
+    buffer_queue_limit 64
+    buffer_chunk_limit 256m
+</match>
