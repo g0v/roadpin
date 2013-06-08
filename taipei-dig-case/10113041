@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013181",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011213~1011214",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "龍江路219-4號至32號一帶",
+    "TC_NApro": "俍銓營造工程有限公司0570",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54165158246487,
+            "P2": 25.047504932901191
+          },
+          {
+            "P1": 121.54168147167165,
+            "P2": 25.047504823910931
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54103652724655,
+            "P2": 25.04752579919025
+          },
+          {
+            "P1": 121.54105540621023,
+            "P2": 25.047525730427402
+          }
+        ]
+      }
+    ]
+  }
+]

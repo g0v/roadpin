@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004458",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010502~1010507",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "八德路4(792號至玉成街口)",
+    "TC_NApro": "駿慧有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58070324267459,
+            "P2": 25.050501952934916
+          },
+          {
+            "P1": 121.58116041975498,
+            "P2": 25.050697941090576
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58116672639812,
+            "P2": 25.050700787316124
+          },
+          {
+            "P1": 121.58160817709388,
+            "P2": 25.050896835600721
+          }
+        ]
+      }
+    ]
+  }
+]

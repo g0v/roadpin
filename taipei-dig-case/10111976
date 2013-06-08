@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010846",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010927~1011005",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路4212號前(DE092)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55282332493594,
+            "P2": 25.041041028571495
+          },
+          {
+            "P1": 121.55280180111875,
+            "P2": 25.041041108657637
+          }
+        ]
+      }
+    ]
+  }
+]

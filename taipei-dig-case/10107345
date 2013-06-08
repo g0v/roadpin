@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "101007344",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010604~1010604",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "成都路271號及10號旁(西門里)",
+    "TC_NApro": "碧城興業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5068456601112,
+            "P2": 25.042458621652116
+          },
+          {
+            "P1": 121.50682922955632,
+            "P2": 25.04245867770485
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50680807491493,
+            "P2": 25.042881381135242
+          },
+          {
+            "P1": 121.50679612728843,
+            "P2": 25.042882324699608
+          }
+        ]
+      }
+    ]
+  }
+]

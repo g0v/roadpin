@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008228",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010804~1010805",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民生東路125號及23巷口",
+    "TC_NApro": "尚昱企業有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52403298534995,
+            "P2": 25.057970780315948
+          },
+          {
+            "P1": 121.52432319416361,
+            "P2": 25.058154307132266
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52420618607603,
+            "P2": 25.05792464061004
+          },
+          {
+            "P1": 121.52456017478141,
+            "P2": 25.05791980647745
+          }
+        ]
+      }
+    ]
+  }
+]

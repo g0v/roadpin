@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000951",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010201~1010203",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路360(金龍公園旁)",
+    "TC_NApro": "得豐電氣工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59215427564594,
+            "P2": 25.086707000544724
+          },
+          {
+            "P1": 121.59215477385095,
+            "P2": 25.086691046188765
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5921554424163,
+            "P2": 25.086650751830042
+          },
+          {
+            "P1": 121.59215523173997,
+            "P2": 25.086666714066524
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101002890",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010326~1010328",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "汀州路4段臨1號路燈上(汀州路4段10號斜對面)(LB001)",
+    "TC_NApro": "聯合電信工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53660763194297,
+            "P2": 25.010345501899572
+          },
+          {
+            "P1": 121.53660172156103,
+            "P2": 25.010341939077009
+          }
+        ]
+      }
+    ]
+  }
+]

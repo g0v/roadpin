@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011360",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011014~1011018",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路4與光復北路口(GD001)",
+    "TC_NApro": "奕揚營造有限公司0604",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55511314632534,
+            "P2": 25.057993090727308
+          },
+          {
+            "P1": 121.55511189997334,
+            "P2": 25.0580068360188
+          }
+        ]
+      }
+    ]
+  }
+]
