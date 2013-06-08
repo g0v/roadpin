@@ -7,9 +7,7 @@
 use = egg:app
 dologstdout = 0
 
-#mongo_server_hostname = ds029338.mongolab.com:29338
-mongo_server_hostname = localhost
-mongo_server = road
+fluentd_report_host=192_168_168_133:5678
 
 ###
 # logging configuration
@@ -26,11 +24,11 @@ keys = console
 keys = generic
 
 [logger_root]
-level = DEBUG
+level = WARNING
 handlers = console
 
 [logger_app]
-level = DEBUG
+level = WARNING
 handlers =
 qualname = app
 

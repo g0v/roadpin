@@ -1,5 +1,5 @@
 #!/bin/bash
 
 source ./__/bin/activate
-python -m app.main -i development.ini -p 3456 -u g0v --password 1234
+python -m app.main -i development.ini -p 3456 
 
