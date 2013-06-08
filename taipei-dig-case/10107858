@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101007301",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010704~1010713",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "劍潭路承德路4段口(點位IA031)",
+    "TC_NApro": "奕揚營造有限公司NEG181007",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52370960051547,
+            "P2": 25.083745715013187
+          },
+          {
+            "P1": 121.52370154141671,
+            "P2": 25.083701551346952
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52369469405342,
+            "P2": 25.083632303591443
+          },
+          {
+            "P1": 121.5237028702758,
+            "P2": 25.083706322474391
+          }
+        ]
+      }
+    ]
+  }
+]

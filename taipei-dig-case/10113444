@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011711",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011029~1011102",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "建國南路1與忠孝東路3段口(DA147)",
+    "TC_NApro": "奕揚營造有限公司0617",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53721663830784,
+            "P2": 25.041759638282823
+          },
+          {
+            "P1": 121.53721201180603,
+            "P2": 25.041780437577447
+          }
+        ]
+      }
+    ]
+  }
+]

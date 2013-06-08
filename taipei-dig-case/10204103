@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "承德大樓管理委員會",
+    "AC_NOpro": "102003552",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010609~1010609",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路與福港街交口",
+    "TC_NApro": "楊吳明美",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51840608149188,
+            "P2": 25.089476460069509
+          },
+          {
+            "P1": 121.51840407847733,
+            "P2": 25.089469298829957
+          }
+        ]
+      }
+    ]
+  }
+]

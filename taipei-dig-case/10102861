@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101002832",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010423~1010425",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "光復北路26口至10號一帶",
+    "TC_NApro": "七峰營造股份有限公司082",
+    "PURPpro": "檢修;新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55766795509287,
+            "P2": 25.048811480797621
+          },
+          {
+            "P1": 121.55712283816864,
+            "P2": 25.048644413485302
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55739982120939,
+            "P2": 25.048836375362733
+          },
+          {
+            "P1": 121.55742607626634,
+            "P2": 25.04884344508465
+          }
+        ]
+      }
+    ]
+  }
+]

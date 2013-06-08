@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009524",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010820~1010822",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路427710號旁(後港里)",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51965159165273,
+            "P2": 25.089899660222887
+          },
+          {
+            "P1": 121.51967204956205,
+            "P2": 25.089901014991117
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51965118828092,
+            "P2": 25.089898045622597
+          },
+          {
+            "P1": 121.51965175804919,
+            "P2": 25.089894459508432
+          }
+        ]
+      }
+    ]
+  }
+]

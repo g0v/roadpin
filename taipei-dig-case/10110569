@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009686",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010820~1010822",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央北路45773號對面",
+    "TC_NApro": "宏錩工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46688774972115,
+            "P2": 25.126662226833403
+          },
+          {
+            "P1": 121.46689594627442,
+            "P2": 25.126666218475467
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46689850430755,
+            "P2": 25.126676520402153
+          },
+          {
+            "P1": 121.4668947609421,
+            "P2": 25.126685713679318
+          }
+        ]
+      }
+    ]
+  }
+]

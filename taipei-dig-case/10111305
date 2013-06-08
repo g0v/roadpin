@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010693",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010808~1010815",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路3本線(向陽路~成功路1段口)",
+    "TC_NApro": "網技科技股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5933586691047,
+            "P2": 25.054257192639987
+          },
+          {
+            "P1": 121.59345000935815,
+            "P2": 25.054274025977218
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5943511503598,
+            "P2": 25.054519802137893
+          },
+          {
+            "P1": 121.59430682088592,
+            "P2": 25.054462651895935
+          }
+        ]
+      }
+    ]
+  }
+]

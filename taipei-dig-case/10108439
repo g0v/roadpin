@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008182",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010627~1010627",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門街8122-9號及27號計2處",
+    "TC_NApro": "弘大瓦斯工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51973558302498,
+            "P2": 25.024135532761537
+          },
+          {
+            "P1": 121.51973544222705,
+            "P2": 25.024102102254183
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.518514707703,
+            "P2": 25.024216381731346
+          },
+          {
+            "P1": 121.518514824728,
+            "P2": 25.024244232969156
+          }
+        ]
+      }
+    ]
+  }
+]

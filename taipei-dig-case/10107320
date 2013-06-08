@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101006883",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010620~1010622",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路2301口附近",
+    "TC_NApro": "緯全營造有限公司V41027-2150174",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5532773970107,
+            "P2": 25.001193206001375
+          },
+          {
+            "P1": 121.55329166246044,
+            "P2": 25.001217510700279
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55332660894767,
+            "P2": 25.001296204876557
+          },
+          {
+            "P1": 121.55331389932404,
+            "P2": 25.001267587999568
+          }
+        ]
+      }
+    ]
+  }
+]

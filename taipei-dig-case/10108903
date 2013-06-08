@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008327",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010723~1010728",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路516號附近人行道",
+    "TC_NApro": "紹益科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58133235156531,
+            "P2": 25.00177690664643
+          },
+          {
+            "P1": 121.58184151563755,
+            "P2": 25.001981242882056
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58183825644457,
+            "P2": 25.001981264659243
+          },
+          {
+            "P1": 121.58237504087799,
+            "P2": 25.002170648877851
+          }
+        ]
+      }
+    ]
+  }
+]

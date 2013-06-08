@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013255",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010913~1010915",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松隆路159口",
+    "TC_NApro": "逸峰營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57262057178177,
+            "P2": 25.047094665723439
+          },
+          {
+            "P1": 121.57262208756663,
+            "P2": 25.04708175885925
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5726900070909,
+            "P2": 25.047140260318017
+          },
+          {
+            "P1": 121.57268992052588,
+            "P2": 25.0471216268469
+          }
+        ]
+      }
+    ]
+  }
+]

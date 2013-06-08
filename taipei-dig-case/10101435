@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "固得營造有限公司",
+    "AC_NOpro": "101001672",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010301~1010530",
+    "CO_TIpro": "日間施工9時至16時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路7190台北市中山北路7段190巷110號",
+    "TC_NApro": "固得營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53778591394185,
+            "P2": 25.126556165892
+          },
+          {
+            "P1": 121.53778722241319,
+            "P2": 25.126553777766432
+          }
+        ]
+      }
+    ]
+  }
+]

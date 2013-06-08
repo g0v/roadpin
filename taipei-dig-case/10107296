@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "101006653",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010618~1010619",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路227號",
+    "TC_NApro": "碧城興業有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52843939410325,
+            "P2": 25.04087913860435
+          },
+          {
+            "P1": 121.52842021756167,
+            "P2": 25.040811848475194
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5283495185403,
+            "P2": 25.040832160249821
+          },
+          {
+            "P1": 121.52833536987997,
+            "P2": 25.0408350814858
+          }
+        ]
+      }
+    ]
+  }
+]
