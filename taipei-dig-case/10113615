@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101012062",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011106~1011120",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路與長泰街口(萬大國小前)(全德里、壽德里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49966656928196,
+            "P2": 25.022705556557852
+          },
+          {
+            "P1": 121.49966893155107,
+            "P2": 25.022704113148837
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.499421474713,
+            "P2": 25.02277660982072
+          },
+          {
+            "P1": 121.49941755102836,
+            "P2": 25.022776623002873
+          }
+        ]
+      }
+    ]
+  }
+]

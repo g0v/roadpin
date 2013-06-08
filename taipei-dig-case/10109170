@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008459",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010723~1010724",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路455951號附近",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56364514347683,
+            "P2": 25.0434279213467
+          },
+          {
+            "P1": 121.56371068619549,
+            "P2": 25.043425280238328
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56368214442141,
+            "P2": 25.043492277133691
+          },
+          {
+            "P1": 121.56371332427216,
+            "P2": 25.043430055078765
+          }
+        ]
+      }
+    ]
+  }
+]

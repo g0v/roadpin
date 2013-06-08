@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002612",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020411~1020413",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路6405內(蘭興里)",
+    "TC_NApro": "陽明山瓦斯股份有限公司 修護課",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52620514371708,
+            "P2": 25.112754878380329
+          },
+          {
+            "P1": 121.52620946060556,
+            "P2": 25.112762663227656
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52625085146202,
+            "P2": 25.112818932121698
+          },
+          {
+            "P1": 121.5262402946681,
+            "P2": 25.112805824863557
+          }
+        ]
+      }
+    ]
+  }
+]

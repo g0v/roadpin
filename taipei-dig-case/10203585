@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003536",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020520~1020521",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "延吉街160口一帶",
+    "TC_NApro": "本益營造有限公司0168",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55482000903045,
+            "P2": 25.039162237071935
+          },
+          {
+            "P1": 121.55485147176297,
+            "P2": 25.039162119582898
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5548646250369,
+            "P2": 25.039171622123177
+          },
+          {
+            "P1": 121.55489870388556,
+            "P2": 25.03917149485439
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003297",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010326~1010326",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "金門街9-22號(河堤里)",
+    "TC_NApro": "祥皓工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52419932536223,
+            "P2": 25.022305665381154
+          },
+          {
+            "P1": 121.52418905441171,
+            "P2": 25.022294949151966
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52356440520032,
+            "P2": 25.021695618266438
+          },
+          {
+            "P1": 121.52354225774504,
+            "P2": 25.021667032098478
+          }
+        ]
+      }
+    ]
+  }
+]

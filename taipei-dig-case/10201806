@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "皇鼎建設開發股份有限公司",
+    "AC_NOpro": "102003269",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020508~1020510",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞光25852號前一處",
+    "TC_NApro": "兆騰水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5746657715418,
+            "P2": 25.074460132556577
+          },
+          {
+            "P1": 121.57466052216338,
+            "P2": 25.074429186938151
+          }
+        ]
+      }
+    ]
+  }
+]

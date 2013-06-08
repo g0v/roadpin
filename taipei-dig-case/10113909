@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000535",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020130~1020131",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "忠順街28745號附近",
+    "TC_NApro": "緯全營造有限公司V41074-2154694",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56527315649335,
+            "P2": 24.986719375086963
+          },
+          {
+            "P1": 121.56521652151245,
+            "P2": 24.98671385737882
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56502773392946,
+            "P2": 24.986694513920057
+          },
+          {
+            "P1": 121.56508750887308,
+            "P2": 24.98670001977661
+          }
+        ]
+      }
+    ]
+  }
+]

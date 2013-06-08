@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010726~1010726",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "仰德大道3221口20公尺下山方向",
+    "TC_NApro": "上人科技有限公司THV10386",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54994098519886,
+            "P2": 25.124966601307367
+          },
+          {
+            "P1": 121.54991496013291,
+            "P2": 25.125014464678035
+          }
+        ]
+      }
+    ]
+  }
+]

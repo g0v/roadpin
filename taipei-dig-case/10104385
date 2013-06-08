@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004486",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010509~1010510",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "建國北路21168號至10號一帶",
+    "TC_NApro": "俍銓營造工程有限公司0189",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53580243064585,
+            "P2": 25.058556915656727
+          },
+          {
+            "P1": 121.535831271984,
+            "P2": 25.058556811589884
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53586978675168,
+            "P2": 25.058547599441194
+          },
+          {
+            "P1": 121.53585247203908,
+            "P2": 25.0585476619222
+          }
+        ]
+      }
+    ]
+  }
+]

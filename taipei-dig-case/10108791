@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008249",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010601~1010603",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "福德街214號前",
+    "TC_NApro": "逸峰營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5841924443309,
+            "P2": 25.038111661886802
+          },
+          {
+            "P1": 121.58431929002951,
+            "P2": 25.038154163501204
+          }
+        ]
+      }
+    ]
+  }
+]

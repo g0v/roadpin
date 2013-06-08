@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101006220",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010307~1010307",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "堤頂大道1人行道上",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57376501620897,
+            "P2": 25.057136887028395
+          },
+          {
+            "P1": 121.57373984243479,
+            "P2": 25.057136984289119
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004398",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010430~1010509",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信義路4段1號(DD184)復興南路1段323號(DD166)",
+    "TC_NApro": "展鑫工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54373703886411,
+            "P2": 25.033363587602331
+          },
+          {
+            "P1": 121.54375006495826,
+            "P2": 25.033346819989173
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54380666518715,
+            "P2": 25.0332723481272
+          },
+          {
+            "P1": 121.54380673221067,
+            "P2": 25.033287551120651
+          }
+        ]
+      }
+    ]
+  }
+]

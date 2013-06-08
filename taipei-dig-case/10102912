@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003140",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010312~1010312",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "延吉街251號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55624509056032,
+            "P2": 25.03460073940365
+          },
+          {
+            "P1": 121.55621318523211,
+            "P2": 25.034559582639965
+          }
+        ]
+      }
+    ]
+  }
+]

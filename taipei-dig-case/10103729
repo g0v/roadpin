@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004440",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010507~1010509",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大興街2422號旁(24巷上)(中央里)",
+    "TC_NApro": "宏安工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49855352737029,
+            "P2": 25.129570749904016
+          },
+          {
+            "P1": 121.49856138404827,
+            "P2": 25.129554238385008
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49855802593093,
+            "P2": 25.129562492226206
+          },
+          {
+            "P1": 121.4985919892648,
+            "P2": 25.129571649693993
+          }
+        ]
+      }
+    ]
+  }
+]

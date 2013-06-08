@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "101009205",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010813~1010822",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "吉林路26巷口(CD107)",
+    "TC_NApro": "展鑫工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52987074899569,
+            "P2": 25.051187034475731
+          },
+          {
+            "P1": 121.52987081994378,
+            "P2": 25.051203537485769
+          }
+        ]
+      }
+    ]
+  }
+]

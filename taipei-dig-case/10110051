@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009176",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010806~1010808",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路2253231號附近(共2處)",
+    "TC_NApro": "煇昇營造工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57296232433949,
+            "P2": 25.046891165736945
+          },
+          {
+            "P1": 121.57297798388582,
+            "P2": 25.046874385468087
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57294411514921,
+            "P2": 25.046922292312036
+          },
+          {
+            "P1": 121.57295190607189,
+            "P2": 25.046905542394832
+          }
+        ]
+      }
+    ]
+  }
+]

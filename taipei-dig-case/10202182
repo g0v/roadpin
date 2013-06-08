@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002642",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020226~1020226",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路210號一帶",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53282393704556,
+            "P2": 25.057592379471888
+          },
+          {
+            "P1": 121.53285179697902,
+            "P2": 25.057592279507929
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53290696382445,
+            "P2": 25.057539836323148
+          },
+          {
+            "P1": 121.532906832085,
+            "P2": 25.057509376213108
+          }
+        ]
+      }
+    ]
+  }
+]

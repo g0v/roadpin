@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010899",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011002~1011003",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路1段177巷8號(DE007)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5442402819728,
+            "P2": 25.040395234846386
+          },
+          {
+            "P1": 121.54425602477485,
+            "P2": 25.040396603609686
+          }
+        ]
+      }
+    ]
+  }
+]
