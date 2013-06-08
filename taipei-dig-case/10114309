@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013772",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020116~1020118",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路130巷口(0169)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52625924719969,
+            "P2": 25.048332105797549
+          },
+          {
+            "P1": 121.52628283342385,
+            "P2": 25.048329629800328
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5262645917356,
+            "P2": 25.048355975083219
+          },
+          {
+            "P1": 121.52628555142873,
+            "P2": 25.048351115957693
+          }
+        ]
+      }
+    ]
+  }
+]
