@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101012733",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020102~1020104",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路301584號至157弄14號前",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56849878316012,
+            "P2": 25.0420931336588
+          },
+          {
+            "P1": 121.56894136330745,
+            "P2": 25.042083178823876
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56893910388837,
+            "P2": 25.0420831874763
+          },
+          {
+            "P1": 121.56925965038862,
+            "P2": 25.04207473719114
+          }
+        ]
+      }
+    ]
+  }
+]
