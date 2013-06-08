@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017730",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990920~0990927",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路4與興隆路4段105巷口東南角(明義里)",
+    "TC_NApro": "磊慶營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56057587578533,
+            "P2": 24.987346820318951
+          },
+          {
+            "P1": 121.56061620918658,
+            "P2": 24.987226278789809
+          }
+        ]
+      }
+    ]
+  }
+]

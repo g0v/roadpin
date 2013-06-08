@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002008",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990205~0990206",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "至善路332號前",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56365068510299,
+            "P2": 25.112273955429373
+          },
+          {
+            "P1": 121.56368220589296,
+            "P2": 25.112282430192042
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56358764028708,
+            "P2": 25.112254135011959
+          },
+          {
+            "P1": 121.56360007831984,
+            "P2": 25.11222255314706
+          }
+        ]
+      }
+    ]
+  }
+]

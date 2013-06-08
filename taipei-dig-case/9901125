@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002004",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990205~0990206",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路15835號旁(1處拆除)(南福里)",
+    "TC_NApro": "御向工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51848069585861,
+            "P2": 25.030084230533944
+          },
+          {
+            "P1": 121.51847463278578,
+            "P2": 25.030096313199387
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51843275956199,
+            "P2": 25.030073257107439
+          },
+          {
+            "P1": 121.51844806628836,
+            "P2": 25.030079694901403
+          }
+        ]
+      }
+    ]
+  }
+]

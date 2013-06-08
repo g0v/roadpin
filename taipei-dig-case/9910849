@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "三樺工程有限公司",
+    "AC_NOpro": "99015909",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990829~0990831",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新豐街60號對面(週美里)",
+    "TC_NApro": "三樺工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5833571178932,
+            "P2": 25.059672527566498
+          },
+          {
+            "P1": 121.58340309436086,
+            "P2": 25.059676274110206
+          }
+        ]
+      }
+    ]
+  }
+]

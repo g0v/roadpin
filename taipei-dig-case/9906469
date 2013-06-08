@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市停車管理工程處",
+    "AC_NOpro": "99007644",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990510~0990512",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "市民大道1東向與中山北路交會前約75公尺處中央分隔島",
+    "TC_NApro": "馭通網科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51987092932734,
+            "P2": 25.047966394753391
+          },
+          {
+            "P1": 121.51986557092826,
+            "P2": 25.047938941130568
+          }
+        ]
+      }
+    ]
+  }
+]

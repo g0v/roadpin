@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市停車管理工程處",
+    "AC_NOpro": "99015159",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990823~0990825",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路580號前中央分隔島上",
+    "TC_NApro": "馭通網科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51462735902065,
+            "P2": 25.094295350660282
+          },
+          {
+            "P1": 121.51471773191771,
+            "P2": 25.094078626790864
+          }
+        ]
+      }
+    ]
+  }
+]

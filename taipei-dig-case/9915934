@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014534",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990726~0990727",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬和街萬芳國小對面",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56757122603862,
+            "P2": 25.001101027455064
+          },
+          {
+            "P1": 121.56758690479411,
+            "P2": 25.001089501984112
+          },
+          {
+            "P1": 121.56758690479411,
+            "P2": 25.001089501984112
+          }
+        ]
+      }
+    ]
+  }
+]

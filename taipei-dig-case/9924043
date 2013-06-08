@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99022175",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991217~0991221",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "至善路1與福林路254巷路口至分隔島(福林里)",
+    "TC_NApro": "七峰營造股份有限公司NCG941942",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53740926592359,
+            "P2": 25.097880244210362
+          },
+          {
+            "P1": 121.53774215478875,
+            "P2": 25.097821710071496
+          }
+        ]
+      }
+    ]
+  }
+]

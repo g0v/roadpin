@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021026",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991104~0991105",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大度路329628號至42號前(一德里)",
+    "TC_NApro": "上人科技有限公司NCG936929",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46693895111193,
+            "P2": 25.124332821001659
+          },
+          {
+            "P1": 121.46690488368748,
+            "P2": 25.124344872382423
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46697598153207,
+            "P2": 25.124411527899376
+          },
+          {
+            "P1": 121.46685429805386,
+            "P2": 25.124151552420567
+          }
+        ]
+      }
+    ]
+  }
+]

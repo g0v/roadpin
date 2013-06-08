@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99022619",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991213~0991217",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "社中街384圓環內、面向倫等街48巷(永倫里)",
+    "TC_NApro": "七峰營造股份有限公司NCG965942",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50334873089926,
+            "P2": 25.092428081311603
+          },
+          {
+            "P1": 121.50336616381068,
+            "P2": 25.092523565676437
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003546",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990224~0990224",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "詔安街與詔安街20巷交口",
+    "TC_NApro": "力泰瓦斯設備工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51617920669347,
+            "P2": 25.024966880821822
+          },
+          {
+            "P1": 121.51619863737588,
+            "P2": 25.024973972618817
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51618655681921,
+            "P2": 25.024968760224006
+          },
+          {
+            "P1": 121.51619745716812,
+            "P2": 25.024942920096393
+          }
+        ]
+      }
+    ]
+  }
+]

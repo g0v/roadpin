@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99016915",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990920~0990922",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "德行東路181號前(東騰開發)三玉里",
+    "TC_NApro": "上人科技有限公司NCG911925",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53114474320428,
+            "P2": 25.108538066893946
+          },
+          {
+            "P1": 121.53115122964093,
+            "P2": 25.108520132160635
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99016475",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990918~0990919",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松山路111號前(永吉里)",
+    "TC_NApro": "奕揚營造有限公司951032",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57788080408957,
+            "P2": 25.047477666388129
+          },
+          {
+            "P1": 121.57784658998094,
+            "P2": 25.047451518977063
+          }
+        ]
+      }
+    ]
+  }
+]

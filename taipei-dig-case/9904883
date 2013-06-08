@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004956",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990406~0990412",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路21號前(幸福里)",
+    "TC_NApro": "奕揚營造有限公司TSTBP197-822109",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52624336418558,
+            "P2": 25.041367704295975
+          },
+          {
+            "P1": 121.52627321525968,
+            "P2": 25.041358994820495
+          }
+        ]
+      }
+    ]
+  }
+]

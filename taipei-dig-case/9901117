@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002074",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990301~0990302",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "溫州街16及18巷口",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53339474251735,
+            "P2": 25.024985855093139
+          },
+          {
+            "P1": 121.53339448796776,
+            "P2": 25.024926965896544
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53329031087262,
+            "P2": 25.024461897447164
+          },
+          {
+            "P1": 121.53328590957241,
+            "P2": 25.0244087198363
+          }
+        ]
+      }
+    ]
+  }
+]

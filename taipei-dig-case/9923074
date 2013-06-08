@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020775",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991026~0991102",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "東興路東興路37號及57號對面車道",
+    "TC_NApro": "陸軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56586889665029,
+            "P2": 25.047664909925953
+          },
+          {
+            "P1": 121.56589596361637,
+            "P2": 25.047609167172645
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5661267117756,
+            "P2": 25.047107531157984
+          },
+          {
+            "P1": 121.56614741727162,
+            "P2": 25.047064993500964
+          }
+        ]
+      }
+    ]
+  }
+]

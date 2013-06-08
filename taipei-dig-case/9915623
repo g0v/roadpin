@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "99014590",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990822~0990826",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康寧路375218口(NF121)(康寧里)",
+    "TC_NApro": "躍眾營造股份有限公司831043",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61413899972318,
+            "P2": 25.07639231977199
+          },
+          {
+            "P1": 121.61412338306872,
+            "P2": 25.076415306298767
+          }
+        ]
+      }
+    ]
+  }
+]

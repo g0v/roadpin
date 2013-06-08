@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000506",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990117~0990126",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "長沙街1,桃源街口(建國里)",
+    "TC_NApro": "奕揚營造有限公司AP286-821045",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51014573461774,
+            "P2": 25.039894268687124
+          },
+          {
+            "P1": 121.51018245978,
+            "P2": 25.039896535026404
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51020081245763,
+            "P2": 25.039896472006689
+          },
+          {
+            "P1": 121.51031071104977,
+            "P2": 25.039843542163414
+          }
+        ]
+      }
+    ]
+  }
+]

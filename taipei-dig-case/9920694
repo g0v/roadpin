@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018717",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990926~0990926",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "斯文里民族西路34號前",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51942495721339,
+            "P2": 25.068194214846326
+          },
+          {
+            "P1": 121.51944921166788,
+            "P2": 25.06819412998184
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51943714497723,
+            "P2": 25.068209700418834
+          },
+          {
+            "P1": 121.5194607551602,
+            "P2": 25.068209617806687
+          }
+        ]
+      }
+    ]
+  }
+]

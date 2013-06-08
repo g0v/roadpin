@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018329",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990927~0991001",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "逸仙路42口旁(HC156)(興隆里)",
+    "TC_NApro": "強鋼營造有限公司941069",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56162054368167,
+            "P2": 25.04030317160036
+          },
+          {
+            "P1": 121.56163103889593,
+            "P2": 25.0403055153266
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56162481327534,
+            "P2": 25.040089606541279
+          },
+          {
+            "P1": 121.56162468272912,
+            "P2": 25.040060943052705
+          }
+        ]
+      }
+    ]
+  }
+]

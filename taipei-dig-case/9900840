@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99001164",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990123~0990131",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路110130號(興雅里)、松隆路38號(敦厚里)，共2處",
+    "TC_NApro": "俍銓工程營造有限公司853015",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56750900327184,
+            "P2": 25.04326054788844
+          },
+          {
+            "P1": 121.56757732586274,
+            "P2": 25.0432913432566
+          }
+        ]
+      }
+    ]
+  }
+]

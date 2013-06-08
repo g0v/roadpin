@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99011764",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990805~0990807",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "昆陽街70號前(西新里10903)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59310151759109,
+            "P2": 25.052149582110843
+          },
+          {
+            "P1": 121.5931378189652,
+            "P2": 25.052110147379292
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59309216345542,
+            "P2": 25.052121072994424
+          },
+          {
+            "P1": 121.59311508170951,
+            "P2": 25.05213441510768
+          }
+        ]
+      }
+    ]
+  }
+]

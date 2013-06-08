@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002177",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990203~0990203",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "中坡北路與永吉路５２７號交口(永春里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "檢修;搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58058149570177,
+            "P2": 25.045126707857996
+          },
+          {
+            "P1": 121.58061597619033,
+            "P2": 25.045097909195761
+          }
+        ]
+      }
+    ]
+  }
+]

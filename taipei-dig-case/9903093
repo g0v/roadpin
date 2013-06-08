@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003320",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990318~0990320",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路15520號前(南福里)",
+    "TC_NApro": "中華瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51957297275658,
+            "P2": 25.027112010366171
+          },
+          {
+            "P1": 121.51958085619289,
+            "P2": 25.027101663710678
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51957663811726,
+            "P2": 25.027107095304874
+          },
+          {
+            "P1": 121.51956271270171,
+            "P2": 25.027096824885518
+          }
+        ]
+      }
+    ]
+  }
+]

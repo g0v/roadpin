@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "新世紀資通",
+    "AC_NOpro": "99012308",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990617~0990617",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "石牌路2(榮總格致樓對面)",
+    "TC_NApro": "聯合光纖通信股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52262021531229,
+            "P2": 25.119613117371383
+          },
+          {
+            "P1": 121.52259889794757,
+            "P2": 25.119536761750297
+          }
+        ]
+      }
+    ]
+  }
+]

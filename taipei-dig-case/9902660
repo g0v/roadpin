@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004194",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990328~0990330",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "臨沂街43號前(幸市里)",
+    "TC_NApro": "協鼎瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52939034488706,
+            "P2": 25.038898843453524
+          },
+          {
+            "P1": 121.52939142365078,
+            "P2": 25.038886976741072
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52944130628032,
+            "P2": 25.038895565248591
+          },
+          {
+            "P1": 121.52939145023676,
+            "P2": 25.038893169894482
+          }
+        ]
+      }
+    ]
+  }
+]

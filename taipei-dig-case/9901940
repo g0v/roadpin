@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002615",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990224~0990225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路3117號附近(義村里)",
+    "TC_NApro": "嘉源水電工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54158526044731,
+            "P2": 25.0381122461305
+          },
+          {
+            "P1": 121.54159759118049,
+            "P2": 25.038108454545466
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54151130092252,
+            "P2": 25.038129380082982
+          },
+          {
+            "P1": 121.54152568291822,
+            "P2": 25.038125581028162
+          }
+        ]
+      }
+    ]
+  }
+]

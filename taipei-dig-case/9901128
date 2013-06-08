@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002566",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990224~0990226",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "開封街266號之1對面及66號旁(福星里)",
+    "TC_NApro": "御向工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50624447364068,
+            "P2": 25.046470806071479
+          },
+          {
+            "P1": 121.50626676059972,
+            "P2": 25.046465647314275
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50620358122841,
+            "P2": 25.04647263367233
+          },
+          {
+            "P1": 121.50624306259788,
+            "P2": 25.04658089917363
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005789",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990415~0990418",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬芳路與木柵路4段33巷口(博嘉里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57098255534567,
+            "P2": 24.99511315201617
+          },
+          {
+            "P1": 121.57099821648822,
+            "P2": 24.995100190795867
+          }
+        ]
+      }
+    ]
+  }
+]

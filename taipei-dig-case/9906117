@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99006076",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990419~0990421",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西藏路與萬板大橋路口附近及環南綜合市場旁(華翠大橋下方附近)(綠堤里)",
+    "TC_NApro": "晉宏交通工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49102653675699,
+            "P2": 25.028399684324246
+          },
+          {
+            "P1": 121.49103961751595,
+            "P2": 25.028392472792525
+          }
+        ]
+      }
+    ]
+  }
+]

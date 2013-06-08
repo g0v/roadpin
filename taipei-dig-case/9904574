@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005611",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990503~0990504",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "下崙路1120號對面(樟林里)",
+    "TC_NApro": "強鋼營造有限公司T41039-3854834",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55965746593876,
+            "P2": 24.985485064438894
+          },
+          {
+            "P1": 121.55959449218938,
+            "P2": 24.985468581227881
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "99022345",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991201~0991202",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文湖街60(西康二號公園停車場對面)(西康里)",
+    "TC_NApro": "奕揚營造有限公司920185",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56359756623091,
+            "P2": 25.084790935527661
+          },
+          {
+            "P1": 121.56358156156931,
+            "P2": 25.084733668704885
+          }
+        ]
+      }
+    ]
+  }
+]

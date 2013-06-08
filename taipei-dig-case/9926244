@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99023838",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991215~0991219",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路3601276號前(70號附近)(NA113)",
+    "TC_NApro": "躍眾營造股份有限公司811047",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5910434374497,
+            "P2": 25.089040412077896
+          },
+          {
+            "P1": 121.59101547263686,
+            "P2": 25.089115049099082
+          }
+        ]
+      }
+    ]
+  }
+]

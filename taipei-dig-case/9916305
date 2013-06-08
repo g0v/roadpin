@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015074",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990906~0990910",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路417與大安路1段52巷34號旁(DE043)",
+    "TC_NApro": "麒瑞營造有限公司623",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54449450538478,
+            "P2": 25.042883442583474
+          },
+          {
+            "P1": 121.54450787011483,
+            "P2": 25.04283993261954
+          }
+        ]
+      }
+    ]
+  }
+]

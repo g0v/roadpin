@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017001",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990920~0990921",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街22075號對面(景勤里)",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56064979837306,
+            "P2": 25.025516144274871
+          },
+          {
+            "P1": 121.56072554800068,
+            "P2": 25.025570324728786
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56057407489573,
+            "P2": 25.025467705518675
+          },
+          {
+            "P1": 121.56059288529075,
+            "P2": 25.025453298042468
+          }
+        ]
+      }
+    ]
+  }
+]

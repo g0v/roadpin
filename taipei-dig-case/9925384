@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "隆固工程有限公司",
+    "AC_NOpro": "99023723",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991211~0991212",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "塔悠路299號旁延壽段408-0地號(新東里)",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56889536612673,
+            "P2": 25.060508691808767
+          },
+          {
+            "P1": 121.5689592973595,
+            "P2": 25.060157321080858
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "警政署刑事警察局",
+    "AC_NOpro": "99021987",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991111~0991111",
+    "CO_TIpro": "全日施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大度路3159號",
+    "TC_NApro": "柏景騰股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4719260857586,
+            "P2": 25.122391550119779
+          },
+          {
+            "P1": 121.47194553852626,
+            "P2": 25.122393257673128
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.47191700683125,
+            "P2": 25.122557956204865
+          },
+          {
+            "P1": 121.4719325588144,
+            "P2": 25.122556137199442
+          }
+        ]
+      }
+    ]
+  }
+]

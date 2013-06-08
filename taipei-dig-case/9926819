@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024312",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991226~0991231",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖里成功路43014號~40號前",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5919281068231,
+            "P2": 25.082297916045434
+          },
+          {
+            "P1": 121.59252049707175,
+            "P2": 25.082763722967762
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59191429612909,
+            "P2": 25.082289313335611
+          },
+          {
+            "P1": 121.59140081699229,
+            "P2": 25.081868563889227
+          }
+        ]
+      }
+    ]
+  }
+]

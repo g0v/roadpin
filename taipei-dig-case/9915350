@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015918",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990828~0990829",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "九如里研究院路2222號及230號前",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61685837909347,
+            "P2": 25.03616146809938
+          },
+          {
+            "P1": 121.6168924307878,
+            "P2": 25.036154158525367
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61694356980448,
+            "P2": 25.035895971888433
+          },
+          {
+            "P1": 121.61694047588398,
+            "P2": 25.035800441695994
+          }
+        ]
+      }
+    ]
+  }
+]

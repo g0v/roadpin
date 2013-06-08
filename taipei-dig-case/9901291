@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "楊來富",
+    "AC_NOpro": "99002564",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990227~0990301",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "八德路2191號",
+    "TC_NApro": "家昇企業社",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53885837489008,
+            "P2": 25.046262920638974
+          },
+          {
+            "P1": 121.53888908167848,
+            "P2": 25.046268542054616
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市公共運輸處",
+    "AC_NOpro": "99003688",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990315~0990317",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路1研究院路一段119號旁",
+    "TC_NApro": "華夏科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61595866021131,
+            "P2": 25.051241522198815
+          },
+          {
+            "P1": 121.61593350329402,
+            "P2": 25.051201091003794
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017800",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991004~0991005",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路3991號前(修管1處)(美仁里)",
+    "TC_NApro": "俍銓營造工程有限公司738",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55355314322509,
+            "P2": 25.048328760054119
+          },
+          {
+            "P1": 121.55357201586644,
+            "P2": 25.048327263294542
+          }
+        ]
+      }
+    ]
+  }
+]

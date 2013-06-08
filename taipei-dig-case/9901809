@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003197",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990313~0990314",
+    "CO_TIpro": "周休二日施工10時至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路2173號前(黎順里)",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55343068671964,
+            "P2": 25.024859883276783
+          },
+          {
+            "P1": 121.55339544247639,
+            "P2": 25.024829048275457
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55341589809281,
+            "P2": 25.024845493453789
+          },
+          {
+            "P1": 121.55347340006927,
+            "P2": 25.024786452567774
+          }
+        ]
+      }
+    ]
+  }
+]

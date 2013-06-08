@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000957",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990113~0990113",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路102號~108號(108號處)",
+    "TC_NApro": "桂裕營造工程有限公司1920010",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61559927928735,
+            "P2": 25.068073631234178
+          },
+          {
+            "P1": 121.61562467618276,
+            "P2": 25.068068181380582
+          }
+        ]
+      }
+    ]
+  }
+]

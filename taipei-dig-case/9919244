@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018580",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990906~0990907",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路110519號附近",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52398793752558,
+            "P2": 25.050336724902337
+          },
+          {
+            "P1": 121.52381350200191,
+            "P2": 25.050379004615031
+          },
+          {
+            "P1": 121.52403361615163,
+            "P2": 25.050325206466002
+          }
+        ]
+      }
+    ]
+  }
+]

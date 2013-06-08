@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99023556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991214~0991219",
+    "CO_TIpro": "夜間施工22時至5時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路1與福州街口（南福里）",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52027951562006,
+            "P2": 25.02969889139144
+          },
+          {
+            "P1": 121.52014422618416,
+            "P2": 25.029634877371645
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52012451688366,
+            "P2": 25.02962538561324
+          },
+          {
+            "P1": 121.52008281454626,
+            "P2": 25.029682859846979
+          }
+        ]
+      }
+    ]
+  }
+]

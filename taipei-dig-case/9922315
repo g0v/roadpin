@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020841",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991104~0991108",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文德路1013口對面(NE008)(港富里)",
+    "TC_NApro": "躍眾營造股份有限公司821046",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5831315023502,
+            "P2": 25.078900568144437
+          },
+          {
+            "P1": 121.58310543182705,
+            "P2": 25.078934110133343
+          }
+        ]
+      }
+    ]
+  }
+]

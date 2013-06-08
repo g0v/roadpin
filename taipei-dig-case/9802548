@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001858",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980305~0990304",
+    "CO_TIpro": "全日施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "及中山、大同、大安、信義、萬華、中正、文山、松山、南港、內湖、北投區共12個行政區",
+    "TC_NApro": "第6分隊",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54926172794852,
+            "P2": 25.087588965931719
+          },
+          {
+            "P1": 121.54929032414499,
+            "P2": 25.086943928160977
+          }
+        ]
+      }
+    ]
+  }
+]

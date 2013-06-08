@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99006145",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990419~0990420",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士商路5號前(福德里)",
+    "TC_NApro": "俍銓營造工程有限公司NCG941901",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52099897262993,
+            "P2": 25.089495878910082
+          },
+          {
+            "P1": 121.52097531770936,
+            "P2": 25.089484017923784
+          }
+        ]
+      }
+    ]
+  }
+]

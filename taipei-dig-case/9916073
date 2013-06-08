@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014692",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990811~0990815",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路3209209巷口及71號前",
+    "TC_NApro": "陸軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55184870852443,
+            "P2": 25.022604200996533
+          },
+          {
+            "P1": 121.55189523050257,
+            "P2": 25.022567031308931
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55141019989699,
+            "P2": 25.023053439286606
+          },
+          {
+            "P1": 121.55143666981881,
+            "P2": 25.023069988831736
+          }
+        ]
+      }
+    ]
+  }
+]

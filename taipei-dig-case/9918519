@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017505",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990714~0990716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路41112-2號旁木柵高工旁(萬芳里)",
+    "TC_NApro": "昕銳開發工程有限公司",
+    "PURPpro": "搶修;管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57312043925839,
+            "P2": 24.997415782546103
+          },
+          {
+            "P1": 121.57314882088035,
+            "P2": 24.997432871664543
+          }
+        ]
+      }
+    ]
+  }
+]

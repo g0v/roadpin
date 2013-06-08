@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009406",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990503~0990503",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "金泰里基湖路與基湖路151巷口和基湖路與157巷口共兩處",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56488170534887,
+            "P2": 25.077147493111408
+          },
+          {
+            "P1": 121.56488495285088,
+            "P2": 25.077170411815654
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56492139124723,
+            "P2": 25.076880772945767
+          },
+          {
+            "P1": 121.56493697447445,
+            "P2": 25.076846308004988
+          }
+        ]
+      }
+    ]
+  }
+]

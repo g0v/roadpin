@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "99013583",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990803~0990807",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6253號前(正確為民權東路6段248巷口)(中央分隔島)(NE117)(湖興里)",
+    "TC_NApro": "躍眾營造股份有限公司811074",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.6019152455729,
+            "P2": 25.068096322720947
+          },
+          {
+            "P1": 121.60196964987354,
+            "P2": 25.067959951603502
+          }
+        ]
+      }
+    ]
+  }
+]
