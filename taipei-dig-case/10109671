@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009124",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000624~1000624",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "東新街13口",
+    "TC_NApro": "東慶工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58537976493575,
+            "P2": 25.04751826194823
+          },
+          {
+            "P1": 121.58536522144239,
+            "P2": 25.047529721614936
+          }
+        ]
+      }
+    ]
+  }
+]

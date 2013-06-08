@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017821",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990920~1000123",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "光復北路(健康路-南京東路)(東光里)",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55708193992801,
+            "P2": 25.05218836184951
+          },
+          {
+            "P1": 121.55725593767109,
+            "P2": 25.051700647661328
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55683967157289,
+            "P2": 25.0528572803084
+          },
+          {
+            "P1": 121.55700434847367,
+            "P2": 25.052401000816165
+          }
+        ]
+      }
+    ]
+  }
+]

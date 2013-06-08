@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002522",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000221~1000222",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路10679-5號附近",
+    "TC_NApro": "俍銓工程營造有限公司10006",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61450904348598,
+            "P2": 25.068027718059188
+          },
+          {
+            "P1": 121.61450263511793,
+            "P2": 25.068004813625194
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61450570123846,
+            "P2": 25.067987602713234
+          },
+          {
+            "P1": 121.61450244921679,
+            "P2": 25.067967556097944
+          }
+        ]
+      }
+    ]
+  }
+]

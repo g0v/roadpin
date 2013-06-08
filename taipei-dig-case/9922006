@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024972",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000105~1000107",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路5與松勇路交口入松勇路內約27m處(安康里)",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5697294375358,
+            "P2": 25.032968412189987
+          },
+          {
+            "P1": 121.56972105452257,
+            "P2": 25.0329684443284
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101002025",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001228~1001228",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長春路234、238號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53803584225082,
+            "P2": 25.054427310304717
+          },
+          {
+            "P1": 121.53806101562438,
+            "P2": 25.054427219105442
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53812866031929,
+            "P2": 25.054425538560949
+          },
+          {
+            "P1": 121.53815068206511,
+            "P2": 25.054425458766008
+          }
+        ]
+      }
+    ]
+  }
+]

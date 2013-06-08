@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003572",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001013~1001015",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀洲路2180號前",
+    "TC_NApro": "信威工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52289722768386,
+            "P2": 25.02281792751123
+          },
+          {
+            "P1": 121.52290350730394,
+            "P2": 25.022815043519422
+          }
+        ]
+      }
+    ]
+  }
+]

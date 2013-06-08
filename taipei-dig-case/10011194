@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010468",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000704~1000713",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路11325號前(CA112)",
+    "TC_NApro": "奕揚營造有限公司0364",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52725340995711,
+            "P2": 25.051549137561288
+          },
+          {
+            "P1": 121.52724703707594,
+            "P2": 25.051530535326439
+          }
+        ]
+      }
+    ]
+  }
+]

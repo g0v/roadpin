@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013654",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000907~1000908",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "建國南路185號前",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53693983236906,
+            "P2": 25.043042630654153
+          },
+          {
+            "P1": 121.53697446002519,
+            "P2": 25.043045376418128
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53693379550495,
+            "P2": 25.043101416026069
+          },
+          {
+            "P1": 121.53694638728879,
+            "P2": 25.0431028059763
+          }
+        ]
+      }
+    ]
+  }
+]

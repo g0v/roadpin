@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010686",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000710~1000719",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "金山南路1段、臨沂街14巷口(EC120)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52952502970686,
+            "P2": 25.04111249451055
+          },
+          {
+            "P1": 121.52951973617425,
+            "P2": 25.041100569259232
+          }
+        ]
+      }
+    ]
+  }
+]

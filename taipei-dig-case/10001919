@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002982",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000301~1000302",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福林路240號前(福林里)",
+    "TC_NApro": "緯全營造有限公司NE7085012",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53368692290452,
+            "P2": 25.097103870779055
+          },
+          {
+            "P1": 121.5336514263866,
+            "P2": 25.0970848862455
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53359748066423,
+            "P2": 25.097045664134622
+          },
+          {
+            "P1": 121.53363168403605,
+            "P2": 25.097068237443516
+          }
+        ]
+      }
+    ]
+  }
+]

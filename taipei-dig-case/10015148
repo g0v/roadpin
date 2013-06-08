@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100014133",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000902~1000902",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路213240號前",
+    "TC_NApro": "陸軍自辦",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54394446360816,
+            "P2": 25.029681323726319
+          },
+          {
+            "P1": 121.54399545709484,
+            "P2": 25.02968629210568
+          }
+        ]
+      }
+    ]
+  }
+]

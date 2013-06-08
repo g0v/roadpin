@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010269",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000625~1000921",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路4149及159巷",
+    "TC_NApro": "暘固營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57532938543287,
+            "P2": 24.999084940720444
+          },
+          {
+            "P1": 121.57545226829396,
+            "P2": 24.999017585526637
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57493869473242,
+            "P2": 24.998505883689145
+          },
+          {
+            "P1": 121.57507994973268,
+            "P2": 24.99841002842679
+          }
+        ]
+      }
+    ]
+  }
+]

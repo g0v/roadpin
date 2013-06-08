@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "100002552",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000223~1000225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路19710號旁",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53404325631081,
+            "P2": 25.040881364618073
+          },
+          {
+            "P1": 121.53404337423395,
+            "P2": 25.040908592798171
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53408269960281,
+            "P2": 25.040907015979155
+          },
+          {
+            "P1": 121.53409842629114,
+            "P2": 25.040906959445156
+          }
+        ]
+      }
+    ]
+  }
+]

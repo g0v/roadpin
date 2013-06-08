@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101008176",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001213~1001216",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路2歸綏街及保安街口共2處",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51147201395884,
+            "P2": 25.058693872358702
+          },
+          {
+            "P1": 121.51147390446759,
+            "P2": 25.058674157611158
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51151273991559,
+            "P2": 25.058097122316187
+          },
+          {
+            "P1": 121.51151737275892,
+            "P2": 25.057978784707913
+          }
+        ]
+      }
+    ]
+  }
+]

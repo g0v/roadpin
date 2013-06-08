@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣湖天然氣",
+    "AC_NOpro": "100002133",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000113~1000113",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路254巷內",
+    "TC_NApro": "鑫串工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61497542791098,
+            "P2": 25.046102133088191
+          },
+          {
+            "P1": 121.6149544088579,
+            "P2": 25.046102220102547
+          }
+        ]
+      }
+    ]
+  }
+]

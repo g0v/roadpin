@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009570",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000531~1000602",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "石牌路1與西安街及東華街路口(榮光里)",
+    "TC_NApro": "陽明山瓦斯股份有限公司 修護課",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51483253234696,
+            "P2": 25.114813145548649
+          },
+          {
+            "P1": 121.51485355386757,
+            "P2": 25.114820240764598
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5151382860646,
+            "P2": 25.11515126469379
+          },
+          {
+            "P1": 121.51515147466633,
+            "P2": 25.115167947713935
+          }
+        ]
+      }
+    ]
+  }
+]

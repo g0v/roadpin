@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "100005839",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000427~1000429",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "仰德大道3471號前(新安里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55205894487764,
+            "P2": 25.118233861981881
+          },
+          {
+            "P1": 121.55202102848037,
+            "P2": 25.118203542905846
+          }
+        ]
+      }
+    ]
+  }
+]

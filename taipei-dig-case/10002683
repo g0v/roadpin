@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002885",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000309~1000313",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松平路126號旁(松仁路、松平路口)(HD178)",
+    "TC_NApro": "強鋼營造有限公司92171",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56839381717234,
+            "P2": 25.030094695774721
+          },
+          {
+            "P1": 121.5684064013109,
+            "P2": 25.030094647646461
+          }
+        ]
+      }
+    ]
+  }
+]

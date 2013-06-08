@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "101000534",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001216~1001216",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "復興三路54號旁(開明里)",
+    "TC_NApro": "華盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50316765948479,
+            "P2": 25.144290129610429
+          },
+          {
+            "P1": 121.50310796476599,
+            "P2": 25.144324737909702
+          }
+        ]
+      }
+    ]
+  }
+]

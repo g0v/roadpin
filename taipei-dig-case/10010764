@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009791",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000609~1000609",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "大有里民生西路403號前",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50934196269976,
+            "P2": 25.056683992252694
+          },
+          {
+            "P1": 121.50936556080039,
+            "P2": 25.056683911314728
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50944435778379,
+            "P2": 25.056713496805354
+          },
+          {
+            "P1": 121.50947319881202,
+            "P2": 25.056713397864442
+          }
+        ]
+      }
+    ]
+  }
+]

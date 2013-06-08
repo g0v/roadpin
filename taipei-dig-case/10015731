@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016871",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000703~1000703",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "錦州街331號(江寧里40480)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53887173937669,
+            "P2": 25.060036119653535
+          },
+          {
+            "P1": 121.53889509626825,
+            "P2": 25.060035150143591
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53890774686343,
+            "P2": 25.060035988978633
+          },
+          {
+            "P1": 121.53893011650207,
+            "P2": 25.0600359077925
+          }
+        ]
+      }
+    ]
+  }
+]

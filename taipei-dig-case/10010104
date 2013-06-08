@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009782",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000621~1000622",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "八德路2333號至337巷口",
+    "TC_NApro": "七峰營造股份有限公司0281",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54331087074702,
+            "P2": 25.047290099936379
+          },
+          {
+            "P1": 121.54331552843723,
+            "P2": 25.047274319951285
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54339273626933,
+            "P2": 25.04730270155094
+          },
+          {
+            "P1": 121.54341478557689,
+            "P2": 25.04730691823595
+          }
+        ]
+      }
+    ]
+  }
+]

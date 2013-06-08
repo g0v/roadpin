@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017440",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001124~1001203",
+    "CO_TIpro": "日間施工9時至22時(請避開17:00至19:00施工)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港華街25號(港華街29巷口)(NI008)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57667172737699,
+            "P2": 25.082480226374404
+          },
+          {
+            "P1": 121.57665836823232,
+            "P2": 25.082483149179897
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016268",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000917~1000918",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民安里中山北路24之4號",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52237444295164,
+            "P2": 25.052582474986
+          },
+          {
+            "P1": 121.52239240105637,
+            "P2": 25.052582411824218
+          },
+          {
+            "P1": 121.5223903803884,
+            "P2": 25.052552283305008
+          }
+        ]
+      }
+    ]
+  }
+]

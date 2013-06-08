@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010219",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000707~1000709",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "永樂里民樂街46號及民生西路362巷6號前",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51050761893217,
+            "P2": 25.05649420140567
+          },
+          {
+            "P1": 121.51051087204502,
+            "P2": 25.056463648313205
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51076801597856,
+            "P2": 25.056480332721506
+          },
+          {
+            "P1": 121.51085864202912,
+            "P2": 25.056480020998777
+          }
+        ]
+      }
+    ]
+  }
+]

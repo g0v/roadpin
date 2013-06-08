@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007716",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000510~1000512",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路3117號附近地區(紫星里)",
+    "TC_NApro": "威赫工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5896574241802,
+            "P2": 25.07873395588371
+          },
+          {
+            "P1": 121.58965728480156,
+            "P2": 25.078704859351827
+          }
+        ]
+      }
+    ]
+  }
+]

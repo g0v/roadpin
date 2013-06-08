@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013845",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000826~1000827",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路225號前及36號前",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61534194956965,
+            "P2": 25.046658778075681
+          },
+          {
+            "P1": 121.61533664755281,
+            "P2": 25.04664685604514
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61531669661743,
+            "P2": 25.046326861322022
+          },
+          {
+            "P1": 121.61530875652993,
+            "P2": 25.046312557807045
+          }
+        ]
+      }
+    ]
+  }
+]

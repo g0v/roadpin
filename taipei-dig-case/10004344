@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005285",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000306~1000306",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "合江街201口",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53854090640847,
+            "P2": 25.054990426805578
+          },
+          {
+            "P1": 121.53858178854686,
+            "P2": 25.054990278552239
+          }
+        ]
+      }
+    ]
+  }
+]

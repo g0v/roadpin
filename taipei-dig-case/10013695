@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012482",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000730~1000730",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "永福街51號(仁德里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50448366684023,
+            "P2": 25.038180056476818
+          },
+          {
+            "P1": 121.50449624022841,
+            "P2": 25.03817715188471
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100018116",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001129~1001129",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "石牌路158巷28弄口(福興里)",
+    "TC_NApro": "華盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51186757262241,
+            "P2": 25.112487222310776
+          },
+          {
+            "P1": 121.5118928494759,
+            "P2": 25.112504342385481
+          }
+        ]
+      }
+    ]
+  }
+]

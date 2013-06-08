@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012957",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000813~1000817",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路1130與四分溪附近(中研里)",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61578010924671,
+            "P2": 25.048412358994849
+          },
+          {
+            "P1": 121.61578251390765,
+            "P2": 25.048405695420247
+          }
+        ]
+      }
+    ]
+  }
+]

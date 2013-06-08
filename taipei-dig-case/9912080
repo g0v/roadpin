@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99012068",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990706~1001231",
+    "CO_TIpro": "全日施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "全區道路北投區全區道路",
+    "TC_NApro": "巨筑營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46885444190075,
+            "P2": 25.1228474804019
+          },
+          {
+            "P1": 121.47156504538131,
+            "P2": 25.122615961857949
+          }
+        ]
+      }
+    ]
+  }
+]

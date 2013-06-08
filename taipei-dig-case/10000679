@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002079",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000107~1000107",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "永興路146口(中庸里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "檢修;搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50048351288226,
+            "P2": 25.139121307836334
+          },
+          {
+            "P1": 121.50049928143804,
+            "P2": 25.13912842277017
+          }
+        ]
+      }
+    ]
+  }
+]

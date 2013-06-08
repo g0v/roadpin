@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007356",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000426~1000426",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街1101640號(東湖里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61811630507732,
+            "P2": 25.069907615162307
+          },
+          {
+            "P1": 121.61813226093676,
+            "P2": 25.069950539730016
+          }
+        ]
+      }
+    ]
+  }
+]

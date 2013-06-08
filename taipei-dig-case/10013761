@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012872",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000815~1000829",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路42418號前",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49742998192437,
+            "P2": 25.021167039190892
+          },
+          {
+            "P1": 121.49745348663396,
+            "P2": 25.021145464612683
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49745085159265,
+            "P2": 25.021140688532423
+          },
+          {
+            "P1": 121.49748773441002,
+            "P2": 25.021185958441009
+          }
+        ]
+      }
+    ]
+  }
+]

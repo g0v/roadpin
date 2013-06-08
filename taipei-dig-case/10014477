@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013367",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000829~1000907",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路2段73號前(CF098)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53177985902659,
+            "P2": 25.062432176296628
+          },
+          {
+            "P1": 121.53177844759914,
+            "P2": 25.062408293189439
+          }
+        ]
+      }
+    ]
+  }
+]

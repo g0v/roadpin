@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007060",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000430~1000509",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "永保街與安康路93巷口和永保街42號(NF029)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59724519586908,
+            "P2": 25.063074486598076
+          },
+          {
+            "P1": 121.59724775456253,
+            "P2": 25.063062532312532
+          }
+        ]
+      }
+    ]
+  }
+]

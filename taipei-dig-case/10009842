@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009165",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000607~1000716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路5大湖公園旁",
+    "TC_NApro": "嘉邑營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60616270987472,
+            "P2": 25.081944111285036
+          },
+          {
+            "P1": 121.60663890215277,
+            "P2": 25.08117541430472
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60618763670743,
+            "P2": 25.081945201149043
+          },
+          {
+            "P1": 121.60666122547616,
+            "P2": 25.081181290509264
+          }
+        ]
+      }
+    ]
+  }
+]

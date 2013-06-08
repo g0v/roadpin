@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000288",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001208~1001208",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路35123號前共2處",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53534854162976,
+            "P2": 25.038710485369482
+          },
+          {
+            "P1": 121.53536899487479,
+            "P2": 25.038710411674654
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53533215661133,
+            "P2": 25.038709488121874
+          },
+          {
+            "P1": 121.5353051363342,
+            "P2": 25.038710271603026
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003014",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000306",
+    "CO_TIpro": "夜間施工22時30分至5時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "艋舺大道3881號前方16M花圃旁",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49404102902763,
+            "P2": 25.031012899966733
+          },
+          {
+            "P1": 121.49411318757583,
+            "P2": 25.030961073512323
+          }
+        ]
+      }
+    ]
+  }
+]

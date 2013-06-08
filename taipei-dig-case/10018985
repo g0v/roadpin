@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017516",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001122~1001123",
+    "CO_TIpro": "日間施工9時至17時00分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路2186號旁(挖掘位置為金門街12巷23弄)(河堤里)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52292821819272,
+            "P2": 25.022679255464251
+          },
+          {
+            "P1": 121.52294698331041,
+            "P2": 25.022664897994581
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013635",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000722~1000724",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路123號",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51496544633727,
+            "P2": 25.053845327387368
+          },
+          {
+            "P1": 121.51493915706033,
+            "P2": 25.053817910058783
+          }
+        ]
+      }
+    ]
+  }
+]

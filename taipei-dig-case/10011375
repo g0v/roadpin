@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010231",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000620~1000620",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "朝陽里延平北路243口",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51177620590234,
+            "P2": 25.054838585834986
+          },
+          {
+            "P1": 121.51177649824219,
+            "P2": 25.054830224848054
+          }
+        ]
+      }
+    ]
+  }
+]

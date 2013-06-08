@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016872",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000922~1000922",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "四平街2號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53035323193355,
+            "P2": 25.053386782332943
+          },
+          {
+            "P1": 121.53035374357893,
+            "P2": 25.053374403062751
+          },
+          {
+            "P1": 121.53035374357893,
+            "P2": 25.053374403062751
+          }
+        ]
+      }
+    ]
+  }
+]

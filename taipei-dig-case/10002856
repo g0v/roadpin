@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "100003075",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000306",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信義路215號",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52529947462152,
+            "P2": 25.034920601713512
+          },
+          {
+            "P1": 121.52530800967659,
+            "P2": 25.034916671416934
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52529293317511,
+            "P2": 25.034892385043332
+          },
+          {
+            "P1": 121.52528119740217,
+            "P2": 25.034896317625119
+          }
+        ]
+      }
+    ]
+  }
+]

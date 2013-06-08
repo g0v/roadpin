@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100015704",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001008~1001017",
+    "CO_TIpro": "日間施工9時至22時(請避開17:00至19:00施工)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路7段598號(MB140)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61501795065294,
+            "P2": 25.052668235294526
+          },
+          {
+            "P1": 121.61501757928153,
+            "P2": 25.052673256375289
+          }
+        ]
+      }
+    ]
+  }
+]

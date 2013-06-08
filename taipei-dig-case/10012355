@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100018444",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001219~1001221",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "基河路382號旁(福佳里)",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5181189762198,
+            "P2": 25.095153658513581
+          },
+          {
+            "P1": 121.51813530369277,
+            "P2": 25.095136881625834
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51809190813906,
+            "P2": 25.095110761710831
+          },
+          {
+            "P1": 121.51812877076155,
+            "P2": 25.095144072677606
+          }
+        ]
+      }
+    ]
+  }
+]

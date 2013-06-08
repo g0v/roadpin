@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100015435",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000924~1000924",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路411231號後巷(東昌里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55442909067932,
+            "P2": 25.057322544767086
+          },
+          {
+            "P1": 121.55443075953244,
+            "P2": 25.057294750314558
+          }
+        ]
+      }
+    ]
+  }
+]

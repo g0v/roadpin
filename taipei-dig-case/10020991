@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100019008",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001208~1001208",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "長安東路2294號(中正里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54538615795021,
+            "P2": 25.047901574322605
+          },
+          {
+            "P1": 121.54540126115629,
+            "P2": 25.047901518869512
+          }
+        ]
+      }
+    ]
+  }
+]

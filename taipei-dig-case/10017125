@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "100015809",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001101~1001102",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "懷寧街5-1號",
+    "TC_NApro": "強鋼營造(股)公司B9136-011506",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51423969695252,
+            "P2": 25.046038742287205
+          },
+          {
+            "P1": 121.51423886920065,
+            "P2": 25.046027992728416
+          }
+        ]
+      }
+    ]
+  }
+]

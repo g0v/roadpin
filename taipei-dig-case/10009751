@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010084",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000704~1000706",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福林路10011與55弄口(福林里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53199292526294,
+            "P2": 25.095105580298881
+          },
+          {
+            "P1": 121.53206138427373,
+            "P2": 25.095121937239032
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53221487379358,
+            "P2": 25.095474254572228
+          },
+          {
+            "P1": 121.53223757648158,
+            "P2": 25.095453417772703
+          }
+        ]
+      }
+    ]
+  }
+]

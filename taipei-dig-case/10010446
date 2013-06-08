@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "100009968",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000627~1000629",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路21523號前(CF037)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53483812290092,
+            "P2": 25.06162068572015
+          },
+          {
+            "P1": 121.53480979991147,
+            "P2": 25.061619352280211
+          }
+        ]
+      }
+    ]
+  }
+]

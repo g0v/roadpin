@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017923",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001122~1001122",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "永公路333號旁 (公館里)",
+    "TC_NApro": "華盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56308367147398,
+            "P2": 25.120470845814264
+          },
+          {
+            "P1": 121.56309935897615,
+            "P2": 25.120460033959169
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "100009463",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000616~1000617",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "四維路168號及四維路170巷9號旁",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54797861313136,
+            "P2": 25.028182915422683
+          },
+          {
+            "P1": 121.54797698389186,
+            "P2": 25.028168584880458
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54750132928142,
+            "P2": 25.028034185718273
+          },
+          {
+            "P1": 121.54749958210672,
+            "P2": 25.027995497913874
+          }
+        ]
+      }
+    ]
+  }
+]

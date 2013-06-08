@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013874",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000831~1000914",
+    "CO_TIpro": "夜間施工22時30分至5時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "保儀路78-92號",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56828715956452,
+            "P2": 24.986667097467777
+          },
+          {
+            "P1": 121.56849540823814,
+            "P2": 24.986929055357862
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56849537527174,
+            "P2": 24.986921887186234
+          },
+          {
+            "P1": 121.56850953465704,
+            "P2": 24.987151155413649
+          }
+        ]
+      }
+    ]
+  }
+]

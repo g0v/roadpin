@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016067",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001018~1001126",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路2393之1號至23號",
+    "TC_NApro": "嘉邑營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55910161853548,
+            "P2": 25.030929637803428
+          },
+          {
+            "P1": 121.5595303358441,
+            "P2": 25.030423537503559
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002185",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000223~1000225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "社子街14619號邊",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50444680949536,
+            "P2": 25.088114663836336
+          },
+          {
+            "P1": 121.50446400690821,
+            "P2": 25.088087376850496
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50446414792749,
+            "P2": 25.088121773135907
+          },
+          {
+            "P1": 121.50447196638771,
+            "P2": 25.088108845508923
+          }
+        ]
+      }
+    ]
+  }
+]

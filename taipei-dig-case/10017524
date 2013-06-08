@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016306",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001101~1001103",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街264、256巷等2處",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53826446960251,
+            "P2": 25.027493983148723
+          },
+          {
+            "P1": 121.53827044177788,
+            "P2": 25.027427469830744
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53845128441238,
+            "P2": 25.0267185360884
+          },
+          {
+            "P1": 121.53843529685641,
+            "P2": 25.026658394870122
+          }
+        ]
+      }
+    ]
+  }
+]
