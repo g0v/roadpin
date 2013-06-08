@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "大台北瓦斯",
+    "AC_NOpro": "101009873",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010711~1010712",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "和平西路3與環河南路2段交口(東北角)",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49469511258883,
+            "P2": 25.035441732200216
+          },
+          {
+            "P1": 121.49467462563771,
+            "P2": 25.035415998108093
+          }
+        ]
+      }
+    ]
+  }
+]

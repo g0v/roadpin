@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000274",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020220~1020221",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路1673附近(人行道共2處)",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57604069532621,
+            "P2": 25.079648168008408
+          },
+          {
+            "P1": 121.57605375398882,
+            "P2": 25.079636173324204
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57607485105777,
+            "P2": 25.0796599794244
+          },
+          {
+            "P1": 121.57606694679295,
+            "P2": 25.079652841903332
+          }
+        ]
+      }
+    ]
+  }
+]

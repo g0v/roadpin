@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001404",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020304~1020306",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "環山路25010號(0189)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57427326963607,
+            "P2": 25.0858302972211
+          },
+          {
+            "P1": 121.57427329053274,
+            "P2": 25.0858347750075
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57428310357358,
+            "P2": 25.085830259160431
+          },
+          {
+            "P1": 121.57428410171077,
+            "P2": 25.085833839396681
+          }
+        ]
+      }
+    ]
+  }
+]

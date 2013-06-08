@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "101007555",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010705~1010714",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信義路4段265巷21弄30號對面(DC054)",
+    "TC_NApro": "展鑫工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55611480610268,
+            "P2": 25.033366245515051
+          },
+          {
+            "P1": 121.55610373898267,
+            "P2": 25.033353385861822
+          }
+        ]
+      }
+    ]
+  }
+]

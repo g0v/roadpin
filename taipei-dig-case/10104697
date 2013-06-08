@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004513",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010502~1010503",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "向陽路258(成功抽水站門口)",
+    "TC_NApro": "煇昇營造工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59602209180832,
+            "P2": 25.058186930103904
+          },
+          {
+            "P1": 121.59604833936349,
+            "P2": 25.058191600548092
+          }
+        ]
+      }
+    ]
+  }
+]

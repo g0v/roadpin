@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101007766",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010704~1010810",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路(百齡橋至基河路口)共兩處",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51749257284648,
+            "P2": 25.09131165764758
+          },
+          {
+            "P1": 121.51716123374591,
+            "P2": 25.091112165586441
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51893695098377,
+            "P2": 25.092333737508032
+          },
+          {
+            "P1": 121.51999435698923,
+            "P2": 25.09302752938687
+          }
+        ]
+      }
+    ]
+  }
+]

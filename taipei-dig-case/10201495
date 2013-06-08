@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001599",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020309~1020310",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "慶城街敦化北路166號後停車場入口",
+    "TC_NApro": "東慶工程有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54737568985303,
+            "P2": 25.055673760350547
+          },
+          {
+            "P1": 121.54739382884822,
+            "P2": 25.0556942502971
+          }
+        ]
+      }
+    ]
+  }
+]

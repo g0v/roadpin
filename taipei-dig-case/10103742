@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "台北城市科技大學",
+    "AC_NOpro": "101003413",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010331~1010331",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "學園路",
+    "TC_NApro": "暢禾企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46636535788689,
+            "P2": 25.131806232570746
+          },
+          {
+            "P1": 121.4664312137068,
+            "P2": 25.131872913763132
+          },
+          {
+            "P1": 121.4664312046198,
+            "P2": 25.131870521371127
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003568",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020525~1020526",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路3148號附近",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58974370952251,
+            "P2": 25.079554145376353
+          },
+          {
+            "P1": 121.58996158726717,
+            "P2": 25.079593887119611
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58980378798533,
+            "P2": 25.079503738304542
+          },
+          {
+            "P1": 121.5898644486643,
+            "P2": 25.079572768669276
+          }
+        ]
+      }
+    ]
+  }
+]

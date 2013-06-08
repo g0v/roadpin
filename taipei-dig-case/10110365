@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009230",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010724~1010724",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "溪口街85口",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53858240041025,
+            "P2": 24.995323894803413
+          },
+          {
+            "P1": 121.53859089878009,
+            "P2": 24.995319088171392
+          },
+          {
+            "P1": 121.53859155777235,
+            "P2": 24.995320277495143
+          }
+        ]
+      }
+    ]
+  }
+]

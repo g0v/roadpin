@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000140",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011214~1011214",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福安里延平北路82臨174號旁",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48796747897914,
+            "P2": 25.11047233482072
+          },
+          {
+            "P1": 121.4879778556589,
+            "P2": 25.110431151001929
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48769812572604,
+            "P2": 25.110392682130264
+          },
+          {
+            "P1": 121.48769035761904,
+            "P2": 25.110416595795471
+          }
+        ]
+      }
+    ]
+  }
+]

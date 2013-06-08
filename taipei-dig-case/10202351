@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002305",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020403~1020404",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "聖山里忠誠路1177號至179號間修管",
+    "TC_NApro": "上人科技有限公司NEG299164",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53042942449811,
+            "P2": 25.107729364620912
+          },
+          {
+            "P1": 121.53044414212214,
+            "P2": 25.107796796085893
+          }
+        ]
+      }
+    ]
+  }
+]

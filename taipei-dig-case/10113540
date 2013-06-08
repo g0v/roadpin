@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011736",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011015~1011015",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泉州街32-2號前及32-1號側巷內",
+    "TC_NApro": "弘大瓦斯工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51360368184787,
+            "P2": 25.025894139535
+          },
+          {
+            "P1": 121.51359729445346,
+            "P2": 25.025871221232137
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51349459744777,
+            "P2": 25.025634624824153
+          },
+          {
+            "P1": 121.51352807606378,
+            "P2": 25.025617310654969
+          }
+        ]
+      }
+    ]
+  }
+]

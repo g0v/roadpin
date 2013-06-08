@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011664",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011027~1011028",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "慶城街6號、8號前一帶及12號前一帶",
+    "TC_NApro": "緯全營造有限公司0592",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54493206439169,
+            "P2": 25.0526204768359
+          },
+          {
+            "P1": 121.54483510974062,
+            "P2": 25.052755557781722
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5445949661717,
+            "P2": 25.052440412417692
+          },
+          {
+            "P1": 121.54471531638977,
+            "P2": 25.0523493296807
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000234",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020128~1020129",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福林路60號右側約100M及200M(福林里)",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53054160461831,
+            "P2": 25.095103664021341
+          },
+          {
+            "P1": 121.53047943770201,
+            "P2": 25.095183016681439
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53184422106482,
+            "P2": 25.095958346580495
+          },
+          {
+            "P1": 121.53186257056572,
+            "P2": 25.09596938521403
+          }
+        ]
+      }
+    ]
+  }
+]

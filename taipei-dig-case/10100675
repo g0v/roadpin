@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000736",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010112~1010112",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路2122號前",
+    "TC_NApro": " 中華瓦斯工程有限公司             ",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53143320568394,
+            "P2": 25.04228528681552
+          },
+          {
+            "P1": 121.53143090624702,
+            "P2": 25.042276014202677
+          }
+        ]
+      }
+    ]
+  }
+]

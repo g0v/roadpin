@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002292",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020407~1020412",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路536號對面至565號一帶",
+    "TC_NApro": "台通光電股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52567247977586,
+            "P2": 25.063556860824075
+          },
+          {
+            "P1": 121.52568902998479,
+            "P2": 25.064464426380159
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52568975002579,
+            "P2": 25.06446360227989
+          },
+          {
+            "P1": 121.52569000982626,
+            "P2": 25.064524477374754
+          }
+        ]
+      }
+    ]
+  }
+]

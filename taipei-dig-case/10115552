@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000061",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020109~1020110",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "杭州南路2259號附近",
+    "TC_NApro": "強鋼營造(股)公司B9535-112574",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52416093301993,
+            "P2": 25.033369076752461
+          },
+          {
+            "P1": 121.52418851024297,
+            "P2": 25.033194132846461
+          }
+        ]
+      }
+    ]
+  }
+]
