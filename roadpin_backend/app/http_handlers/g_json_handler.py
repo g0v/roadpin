@@ -24,6 +24,7 @@ def g_json_handler(start_timestamp, end_timestamp):
 
 
     for result in results:
+        del result['_id']
         result['beginDate'] = util.timestamp_to_date(result['beginAt'])
         result['endDate'] = util.timestamp_to_date(result['endAt'])
 

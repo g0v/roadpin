@@ -38,7 +38,8 @@ def _init_mongo():
 
     logger.warning('init_mongo: start')
 
-    config['MONGO_SERVER_URL'] = "mongodb://" + config.get('username') + ':' + config.get('password') + '@' + config.get('mongo_server_hostname') + "/" + config.get('mongo_server')
+    #config['MONGO_SERVER_URL'] = "mongodb://" + config.get('username') + ':' + config.get('password') + '@' + config.get('mongo_server_hostname') + "/" + config.get('mongo_server')
+    config['MONGO_SERVER_URL'] = "mongodb://" + config.get('mongo_server_hostname') + "/" + config.get('mongo_server')
     try:
         config['mongoServer'] = MongoClient(config.get('MONGO_SERVER_URL'))[config.get('mongo_server')]
         for (key, val) in _mongo_map.iteritems():
