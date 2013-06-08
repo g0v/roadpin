@@ -1,0 +1,62 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "民權東路六段190巷",
+    "CASE_RANGEpro": "民權東路六段190巷",
+    "WORK_DATEpro": "100/12/22~101/01/18",
+    "CTR_WNAMEpro": "金和泰營造股份有限公司",
+    "CTR_ONAMEpro": "永健工程顧問有限公司",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.59414090762813,
+            "P2": 25.065145411891717
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.59421064931146,
+            "P2": 25.06516899839778
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.59419610566764,
+            "P2": 25.065247597762426
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.59426520466805,
+            "P2": 25.065460181927442
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "合江街170巷",
+    "CASE_RANGEpro": "合江街170巷巷口至30號溝蓋更新工程",
+    "WORK_DATEpro": "98/11/16~98/12/11",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53788899379583,
+            "P2": 25.060500199523425
+          },
+          {
+            "P1": 121.53915446781808,
+            "P2": 25.060497713624816
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53789199490522,
+            "P2": 25.060467050098154
+          },
+          {
+            "P1": 121.53915480309755,
+            "P2": 25.060456850883138
+          }
+        ]
+      }
+    ]
+  }
+]

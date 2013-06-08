@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "景美及敦化基隆路口",
+    "CASE_RANGEpro": "景美人行地下道及敦化基隆人行地下道滲漏水改善",
+    "WORK_DATEpro": "99/04/29~99/06/12",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54127155580102,
+            "P2": 24.991278135793369
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5483437597989,
+            "P2": 25.02023760948407
+          }
+        ]
+      }
+    ]
+  }
+]

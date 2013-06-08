@@ -1,0 +1,82 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "新生北路1段與吉林路26巷交叉口等5處修復更新工程",
+    "CASE_RANGEpro": "新生北路1段與吉林路交叉口\r\n新生北路1段9號-23號前\r\n松江路330巷\r\n林森北路及南京東路1段交接處\r\n中山北路1-2段 ",
+    "WORK_DATEpro": "100/09/15~100/10/28",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52801312239448,
+            "P2": 25.051240703501726
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53261103741977,
+            "P2": 25.045895476072623
+          },
+          {
+            "P1": 121.53187314074059,
+            "P2": 25.04629727756679
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53032582034109,
+            "P2": 25.060984284375607
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52536649475708,
+            "P2": 25.051906868322991
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52242638236798,
+            "P2": 25.051658468376488
+          },
+          {
+            "P1": 121.52254873157831,
+            "P2": 25.052281181265922
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "哈密街",
+    "CASE_RANGEpro": "哈密街",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51608149653764,
+            "P2": 25.072879309690638
+          },
+          {
+            "P1": 121.51634109063669,
+            "P2": 25.073100402642648
+          },
+          {
+            "P1": 121.51726658411151,
+            "P2": 25.073162873081237
+          },
+          {
+            "P1": 121.51726658411151,
+            "P2": 25.073162873081237
+          }
+        ]
+      }
+    ]
+  }
+]

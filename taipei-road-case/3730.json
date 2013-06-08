@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "天玉街38巷28號",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/07/31~98/09/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52978084513487,
+            "P2": 25.118706499904846
+          },
+          {
+            "P1": 121.52991096599058,
+            "P2": 25.11869572891549
+          }
+        ]
+      }
+    ]
+  }
+]

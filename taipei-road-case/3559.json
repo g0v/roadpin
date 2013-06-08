@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "松江路160巷溝蓋改善工程",
+    "CASE_RANGEpro": "松江路160巷溝蓋改善工程",
+    "WORK_DATEpro": "98/08/23~98/09/23",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53034757427011,
+            "P2": 25.055082121960417
+          },
+          {
+            "P1": 121.53059904322186,
+            "P2": 25.055081223736991
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.53090208056692,
+            "P2": 25.05507674010887
+          },
+          {
+            "P1": 121.53111882894605,
+            "P2": 25.055075965120189
+          }
+        ]
+      }
+    ]
+  }
+]

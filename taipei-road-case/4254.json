@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "承德橋",
+    "CASE_RANGEpro": "承德橋人行樓梯及引道端平面道路口",
+    "WORK_DATEpro": "99/01/13~99/05/18",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52124018771826,
+            "P2": 25.078585948427445
+          }
+        ]
+      }
+    ]
+  }
+]

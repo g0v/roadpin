@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "林森北路(長安東路至南京東路)中央分隔島",
+    "CASE_RANGEpro": "林森北路(長安東路至南京東路)",
+    "WORK_DATEpro": "99/07/30~99/08/30",
+    "CTR_WNAMEpro": "輝德營造有限公司",
+    "CTR_ONAMEpro": "世偉工程顧問有限公司",
+    "CASE_STATUSpro": "5",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52458817534208,
+            "P2": 25.049054240050893
+          },
+          {
+            "P1": 121.52534678051272,
+            "P2": 25.051702986689822
+          },
+          {
+            "P1": 121.52534678051272,
+            "P2": 25.051702986689822
+          }
+        ]
+      }
+    ]
+  }
+]

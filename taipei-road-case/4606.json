@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "車行陸橋-南湖大橋",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "100/05/26~100/06/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.61148312292399,
+            "P2": 25.063178834435153
+          }
+        ]
+      }
+    ]
+  }
+]

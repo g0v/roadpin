@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "天玉街65號",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/12/02~99/12/15",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "4",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53079375861461,
+            "P2": 25.121834899719452
+          }
+        ]
+      }
+    ]
+  }
+]

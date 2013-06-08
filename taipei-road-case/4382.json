@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "辛亥路四段21巷48號",
+    "CASE_RANGEpro": "辛亥路四段21巷48號至50號",
+    "WORK_DATEpro": "99/10/25~99/11/26",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55889535740323,
+            "P2": 25.009707241065492
+          }
+        ]
+      }
+    ]
+  }
+]

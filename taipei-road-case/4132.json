@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "敦化北路、民生東路口人行地下道緊急發電機室遷移工程",
+    "CASE_RANGEpro": "撫遠街南往北匝道",
+    "WORK_DATEpro": "98/09/16~98/09/22",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.56551475539769,
+            "P2": 25.06568205706958
+          }
+        ]
+      }
+    ]
+  }
+]

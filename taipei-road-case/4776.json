@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "南港區",
+    "CASE_LOCATIONpro": "東新街168巷",
+    "CASE_RANGEpro": "修德國小旁",
+    "WORK_DATEpro": "100/08/31~100/09/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.59010613179329,
+            "P2": 25.045369481755689
+          }
+        ]
+      }
+    ]
+  }
+]

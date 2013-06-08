@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "興義街、詔安街(南海路至永昌公園)及汀洲路三段(78號至160巷口人手孔調降工程",
+    "CASE_RANGEpro": "興義街、詔安街(南海路至永昌公園)及汀洲路三段(78號至160巷口人手孔調降工程",
+    "WORK_DATEpro": "99/04/08~99/04/17",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.49135512367361,
+            "P2": 25.026088229326671
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50864978645107,
+            "P2": 25.027871033126306
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53342523457461,
+            "P2": 25.013956651828938
+          }
+        ]
+      }
+    ]
+  }
+]

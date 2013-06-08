@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "安泰街191號至238號巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/09/15~98/11/16",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.61379026664986,
+            "P2": 25.088830482703127
+          },
+          {
+            "P1": 121.61380895672994,
+            "P2": 25.088670674988844
+          },
+          {
+            "P1": 121.61383748281556,
+            "P2": 25.088528573777477
+          },
+          {
+            "P1": 121.61383686303516,
+            "P2": 25.088404341278277
+          }
+        ]
+      }
+    ]
+  }
+]

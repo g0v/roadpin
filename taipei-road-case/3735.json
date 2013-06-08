@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "溫泉路96號",
+    "CASE_RANGEpro": "溫泉路96號道路邊坡保護工程",
+    "WORK_DATEpro": "98/12/01~99/01/29",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.50984832096894,
+            "P2": 25.136019329420225
+          },
+          {
+            "P1": 121.51013488282287,
+            "P2": 25.13602407764273
+          },
+          {
+            "P1": 121.51013488282287,
+            "P2": 25.13602407764273
+          }
+        ]
+      }
+    ]
+  }
+]

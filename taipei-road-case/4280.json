@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "行政院前人行陸橋",
+    "CASE_RANGEpro": "簡易美化及維護改善",
+    "WORK_DATEpro": "99/09/06~99/10/18",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.5171890426188,
+            "P2": 25.04619895948511
+          },
+          {
+            "P1": 121.51704965759636,
+            "P2": 25.045869068706416
+          }
+        ]
+      }
+    ]
+  }
+]

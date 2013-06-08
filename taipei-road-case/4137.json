@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "坡內二號橋維修改善及欄杆更新工程",
+    "CASE_RANGEpro": "敦化北路民生路口",
+    "WORK_DATEpro": "98/12/23~99/04/06",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54901590848679,
+            "P2": 25.057508672497921
+          }
+        ]
+      }
+    ]
+  }
+]

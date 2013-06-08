@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "新興路、大東路、福德路、天母東路八巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/07/31~98/09/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.48672563325047,
+            "P2": 25.138188949036842
+          },
+          {
+            "P1": 121.48703759279273,
+            "P2": 25.140004352128258
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.48832731566264,
+            "P2": 25.140115656929517
+          },
+          {
+            "P1": 121.48843907240635,
+            "P2": 25.14095098558434
+          },
+          {
+            "P1": 121.48958089100626,
+            "P2": 25.140861669661934
+          }
+        ]
+      }
+    ]
+  }
+]

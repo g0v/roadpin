@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "內江街(康定路至漢中街)與峨眉街(環河南路一段西寧南路)人手孔調降工程",
+    "CASE_RANGEpro": "內江街(康定路至漢中街)與峨眉街(環河南路一段西寧南路)人手孔調降工程",
+    "WORK_DATEpro": "98/10/05~98/10/14",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50486587673588,
+            "P2": 25.043758892379085
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50410988502368,
+            "P2": 25.041309065876181
+          }
+        ]
+      }
+    ]
+  }
+]

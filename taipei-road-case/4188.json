@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "太平國小",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/06/09~99/06/29",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "6",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.51128857576678,
+            "P2": 25.06112814103464
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "景華街150巷",
+    "CASE_RANGEpro": "景華街150巷\r\n景興國小側門步道旁",
+    "WORK_DATEpro": "99/07/28~99/08/24",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.54796039412909,
+            "P2": 24.99586852715667
+          },
+          {
+            "P1": 121.5492134027507,
+            "P2": 24.995178571097707
+          }
+        ]
+      }
+    ]
+  }
+]

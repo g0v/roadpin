@@ -1,0 +1,142 @@
+[
+  {
+    "REG_NAMEpro": "大同區",
+    "CASE_LOCATIONpro": "環河北路1段439號、民權西路112號",
+    "CASE_RANGEpro": "林森南路43號\r\n公園路11巷口前\r\n承德路4段235號前\r\n環河北路439號前\r\n民權西路112號前",
+    "WORK_DATEpro": "100/10/11~100/10/14",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52219725832441,
+            "P2": 25.040330964101347
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52221668652011,
+            "P2": 25.040372714535852
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52203786191929,
+            "P2": 25.088184112130971
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50871319041686,
+            "P2": 25.062257999434127
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50871527581784,
+            "P2": 25.062255126827047
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50875933009856,
+            "P2": 25.062254018873812
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50872109926482,
+            "P2": 25.062250401719389
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50872414277983,
+            "P2": 25.062349116878543
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Polygon",
+        "POINTS": [
+          {
+            "P1": 121.50867896230065,
+            "P2": 25.062288958514909
+          },
+          {
+            "P1": 121.50871913841679,
+            "P2": 25.06228343558584
+          },
+          {
+            "P1": 121.50870826593,
+            "P2": 25.062227468097255
+          },
+          {
+            "P1": 121.50866809427316,
+            "P2": 25.062234066950111
+          },
+          {
+            "P1": 121.50867896675106,
+            "P2": 25.06229003629981
+          },
+          {
+            "P1": 121.50867896230065,
+            "P2": 25.062288958514909
+          }
+        ]
+      }
+    ]
+  }
+]

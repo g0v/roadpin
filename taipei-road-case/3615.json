@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "秀山街與衡陽路口舖面改善工程",
+    "CASE_RANGEpro": "秀山街與衡陽路口舖面改善工程",
+    "WORK_DATEpro": "99/01/18~99/02/12",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.50954976354014,
+            "P2": 25.04201258854166
+          }
+        ]
+      }
+    ]
+  }
+]

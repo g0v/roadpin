@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "萬華區",
+    "CASE_LOCATIONpro": "和平西路三段382巷1~9號、環河南路二段149巷及大理街170巷側溝蓋版更新工程",
+    "CASE_RANGEpro": "和平西路三段382巷1~9號、環河南路二段149巷及大理街170巷側溝蓋版更新工程",
+    "WORK_DATEpro": "98/08/05~98/09/13",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.4914562085834,
+            "P2": 25.034590761345751
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.49326346422157,
+            "P2": 25.0329475487284
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.49292948477957,
+            "P2": 25.033405453485479
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "大湖山莊街65巷",
+    "CASE_RANGEpro": "大湖山莊街65巷",
+    "WORK_DATEpro": "100/06/13~100/07/13",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.60411813549671,
+            "P2": 25.0868314309568
+          }
+        ]
+      }
+    ]
+  }
+]

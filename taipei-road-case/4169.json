@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "碧山路25-20號",
+    "CASE_RANGEpro": "碧山路25-20號擋土牆及側溝段",
+    "WORK_DATEpro": "99/08/12~99/10/01",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.58795460955162,
+            "P2": 25.095662600986376
+          }
+        ]
+      }
+    ]
+  }
+]

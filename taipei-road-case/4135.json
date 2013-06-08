@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "成美橋內湖端",
+    "CASE_RANGEpro": "成美橋內湖端",
+    "WORK_DATEpro": "99/07/26~99/08/30",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "3",
+    "CASE_TYPEpro": "2",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.58267638012556,
+            "P2": 25.054036572901598
+          }
+        ]
+      }
+    ]
+  }
+]

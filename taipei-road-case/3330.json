@@ -1,0 +1,62 @@
+[
+  {
+    "REG_NAMEpro": "中山區",
+    "CASE_LOCATIONpro": "長春路",
+    "CASE_RANGEpro": "中山區長春路(南側) 2至30號",
+    "WORK_DATEpro": "97/09/15~97/10/06",
+    "CTR_WNAMEpro": "百揚營造有限公司",
+    "CTR_ONAMEpro": "大安土木技師事務所",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52308719150503,
+            "P2": 25.054636516407566
+          },
+          {
+            "P1": 121.5237689528926,
+            "P2": 25.054629335968013
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52377079001947,
+            "P2": 25.054629598939105
+          },
+          {
+            "P1": 121.52421593908719,
+            "P2": 25.054626352188411
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52435155728026,
+            "P2": 25.054618286093618
+          },
+          {
+            "P1": 121.52459606919997,
+            "P2": 25.054617422609866
+          }
+        ]
+      }
+    ]
+  }
+]

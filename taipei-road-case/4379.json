@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "中正區",
+    "CASE_LOCATIONpro": "汀洲街師大路",
+    "CASE_RANGEpro": "汀洲師大人行地下道",
+    "WORK_DATEpro": "100/01/10~100/02/24",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "11",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52646738453572,
+            "P2": 25.020679535578115
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "REG_NAMEpro": "大安區",
+    "CASE_LOCATIONpro": "辛亥路五段",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "~",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.55445771957891,
+            "P2": 25.000847346624759
+          },
+          {
+            "P1": 121.55180282990187,
+            "P2": 24.996738266017353
+          },
+          {
+            "P1": 121.55154479952185,
+            "P2": 24.993528857481088
+          },
+          {
+            "P1": 121.55154479952185,
+            "P2": 24.993528857481088
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55248048528179,
+            "P2": 24.999517646471
+          }
+        ]
+      }
+    ]
+  }
+]

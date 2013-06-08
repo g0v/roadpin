@@ -1,0 +1,62 @@
+[
+  {
+    "REG_NAMEpro": "大安區",
+    "CASE_LOCATIONpro": "永康街(信義路至永康街8巷口)與通化街19、57、39等人手孔調降工程",
+    "CASE_RANGEpro": "永康街(信義路至永康街8巷口)與通化街19、57、39等人手孔調降工程",
+    "WORK_DATEpro": "98/10/15~98/11/18",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.52983385129753,
+            "P2": 25.033062839427632
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55460720095576,
+            "P2": 25.031447675607303
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55503912602717,
+            "P2": 25.030235199765542
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55488202181581,
+            "P2": 25.030670087674025
+          }
+        ]
+      }
+    ]
+  }
+]

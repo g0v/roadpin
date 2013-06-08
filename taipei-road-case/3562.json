@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "大同區",
+    "CASE_LOCATIONpro": "庫倫街13巷4弄",
+    "CASE_RANGEpro": "庫倫街13巷4弄溝蓋更新工程",
+    "WORK_DATEpro": "98/09/13~98/10/13",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51703973048475,
+            "P2": 25.072481952045763
+          },
+          {
+            "P1": 121.51733355190859,
+            "P2": 25.072475353031773
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.51703254411336,
+            "P2": 25.072435208075369
+          },
+          {
+            "P1": 121.51733099597044,
+            "P2": 25.072425468719185
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "信義區",
+    "CASE_LOCATIONpro": "中坡南路98巷與永吉路120巷(松隆路至忠孝東路)人手孔調降工程",
+    "CASE_RANGEpro": "中坡南路98巷與永吉路120巷(松隆路至忠孝東路)人手孔調降工程",
+    "WORK_DATEpro": "98/07/15~98/08/17",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.58494896653829,
+            "P2": 25.040506314145443
+          },
+          {
+            "P1": 121.58431974212562,
+            "P2": 25.041946189087685
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.57026968417908,
+            "P2": 25.045250873785218
+          },
+          {
+            "P1": 121.57015605679408,
+            "P2": 25.040736789882672
+          }
+        ]
+      }
+    ]
+  }
+]

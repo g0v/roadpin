@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "松山區",
+    "CASE_LOCATIONpro": "建國民族橋底空間",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/09/13~99/11/22",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "10",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53340795673712,
+            "P2": 25.068273910958091
+          }
+        ]
+      }
+    ]
+  }
+]

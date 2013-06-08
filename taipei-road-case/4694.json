@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "文德路171巷9弄",
+    "CASE_RANGEpro": "文德路171巷9弄",
+    "WORK_DATEpro": "100/07/22~100/08/12",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "2",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.58380675391246,
+            "P2": 25.079141466483939
+          }
+        ]
+      }
+    ]
+  }
+]

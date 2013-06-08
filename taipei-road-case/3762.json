@@ -1,0 +1,34 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "內湖路一段737巷",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/08/01~98/10/01",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.58273892535506,
+            "P2": 25.079646743225634
+          },
+          {
+            "P1": 121.58117535262284,
+            "P2": 25.081666924550333
+          },
+          {
+            "P1": 121.58085741294839,
+            "P2": 25.084346647172097
+          }
+        ]
+      }
+    ]
+  }
+]

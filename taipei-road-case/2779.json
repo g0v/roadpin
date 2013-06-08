@@ -1,0 +1,46 @@
+[
+  {
+    "REG_NAMEpro": "信義區",
+    "CASE_LOCATIONpro": "信義區松信路、永吉路",
+    "CASE_RANGEpro": "永吉路189~223號\r\n松信路68~80號",
+    "WORK_DATEpro": "96/11/05~96/11/22",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "9",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.5727192420166,
+            "P2": 25.045479263961845
+          },
+          {
+            "P1": 121.57413833719464,
+            "P2": 25.045437326922595
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.57201205499943,
+            "P2": 25.046190323337495
+          },
+          {
+            "P1": 121.57199799417803,
+            "P2": 25.045763856643074
+          }
+        ]
+      }
+    ]
+  }
+]

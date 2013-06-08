@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "辛亥路4段21巷38-48號坡面改善工程通報單",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/12/29~100/04/07",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55942244733477,
+            "P2": 25.009799161740808
+          }
+        ]
+      }
+    ]
+  }
+]

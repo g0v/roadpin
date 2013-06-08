@@ -1,0 +1,38 @@
+[
+  {
+    "REG_NAMEpro": "士林區",
+    "CASE_LOCATIONpro": "稻香路",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "98/08/01~98/10/15",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.48292521698073,
+            "P2": 25.144293536536264
+          },
+          {
+            "P1": 121.48307049027933,
+            "P2": 25.144272711179713
+          },
+          {
+            "P1": 121.48317119086552,
+            "P2": 25.144292734420667
+          },
+          {
+            "P1": 121.483261032934,
+            "P2": 25.144394214574312
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "文山區",
+    "CASE_LOCATIONpro": "興隆路四段109巷118號旁暨指南路三段50-51號電桿間擋土牆裝設傾度盤工程",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "99/12/20~100/01/21",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.56435944031269,
+            "P2": 24.986607745339381
+          }
+        ]
+      }
+    ]
+  }
+]

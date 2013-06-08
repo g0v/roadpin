@@ -1,0 +1,30 @@
+[
+  {
+    "REG_NAMEpro": "北投區",
+    "CASE_LOCATIONpro": "東昇路57號旁",
+    "CASE_RANGEpro": "東昇路57號旁",
+    "WORK_DATEpro": "99/01/15~99/02/15",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "3",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.52739350472665,
+            "P2": 25.151847635174491
+          },
+          {
+            "P1": 121.52743577854623,
+            "P2": 25.151791588440432
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "REG_NAMEpro": "大安區",
+    "CASE_LOCATIONpro": "民權東路三段及新生南路一段段街廓",
+    "CASE_RANGEpro": "A路段:中山區民權東路3段60巷(西側) -- 4至12號\r\nB路段:大安區新生南路一段(東側) -- 131~149號\r\nC路段:大安區通化街路段(東側) -- 37號",
+    "WORK_DATEpro": "99/07/12~99/08/10",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "5",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.54229094003225,
+            "P2": 25.061445094669942
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.5324773232656,
+            "P2": 25.036624698205838
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.53303194230597,
+            "P2": 25.040420167255323
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "LineString",
+        "POINTS": [
+          {
+            "P1": 121.5330385980422,
+            "P2": 25.04041591022126
+          },
+          {
+            "P1": 121.53304294029053,
+            "P2": 25.040244520590765
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.55334494047459,
+            "P2": 25.031376124622597
+          }
+        ]
+      }
+    ]
+  }
+]

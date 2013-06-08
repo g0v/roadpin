@@ -1,0 +1,26 @@
+[
+  {
+    "REG_NAMEpro": "內湖區",
+    "CASE_LOCATIONpro": "行愛路77巷56號",
+    "CASE_RANGEpro": "",
+    "WORK_DATEpro": "100/01/04~100/01/17",
+    "CTR_WNAMEpro": "",
+    "CTR_ONAMEpro": "",
+    "CASE_STATUSpro": "6",
+    "CASE_TYPEpro": "4",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": "Point",
+        "POINTS": [
+          {
+            "P1": 121.58295758542809,
+            "P2": 25.063527426410435
+          }
+        ]
+      }
+    ]
+  }
+]
