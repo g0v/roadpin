@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013239",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011219~1011221",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路2391號邊(入口約10公尺處)",
+    "TC_NApro": "昱丞工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51008054905907,
+            "P2": 25.05349656640492
+          },
+          {
+            "P1": 121.51008042448015,
+            "P2": 25.053466467284636
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51003335408362,
+            "P2": 25.053496728485104
+          },
+          {
+            "P1": 121.5100679624109,
+            "P2": 25.053496609632305
+          }
+        ]
+      }
+    ]
+  }
+]

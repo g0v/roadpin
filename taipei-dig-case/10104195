@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "101003994",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010430~1010509",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "延壽街424巷與延壽街口(GD096)",
+    "TC_NApro": "展鑫工程股份公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55637824208907,
+            "P2": 25.055964989422545
+          },
+          {
+            "P1": 121.55636917364278,
+            "P2": 25.055965023396684
+          }
+        ]
+      }
+    ]
+  }
+]

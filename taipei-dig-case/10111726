@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "101010882",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010925~1011004",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "林口街80巷69號對面(HB109)",
+    "TC_NApro": "展鑫工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5813187471217,
+            "P2": 25.039660934908884
+          },
+          {
+            "P1": 121.58130937089075,
+            "P2": 25.039675299039498
+          }
+        ]
+      }
+    ]
+  }
+]

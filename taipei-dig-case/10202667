@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002438",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020430~1020514",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南海路35號旁",
+    "TC_NApro": "台碩營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51374979211423,
+            "P2": 25.031587918771525
+          },
+          {
+            "P1": 121.51383903281743,
+            "P2": 25.031613881963704
+          }
+        ]
+      }
+    ]
+  }
+]

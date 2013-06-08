@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101012564",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010806~1010812",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "秀明路2181號",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57687225823396,
+            "P2": 24.990020629420133
+          },
+          {
+            "P1": 121.57687213780628,
+            "P2": 24.98999482766197
+          },
+          {
+            "P1": 121.5768784278233,
+            "P2": 24.989994803275525
+          }
+        ]
+      }
+    ]
+  }
+]

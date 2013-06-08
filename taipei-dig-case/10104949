@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101004736",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010503~1010505",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "漢中街107號1樓前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5073857174972,
+            "P2": 25.042952762579194
+          },
+          {
+            "P1": 121.50740289910641,
+            "P2": 25.042959402729842
+          }
+        ]
+      }
+    ]
+  }
+]

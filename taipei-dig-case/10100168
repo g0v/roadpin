@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000557",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010221~1010224",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "華齡街214口至14弄3號前(前港里)",
+    "TC_NApro": "宏安工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52135558228288,
+            "P2": 25.084016295205718
+          },
+          {
+            "P1": 121.52150727313861,
+            "P2": 25.084022614429127
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5215022621214,
+            "P2": 25.084021485482705
+          },
+          {
+            "P1": 121.5215034531484,
+            "P2": 25.084007785803156
+          }
+        ]
+      }
+    ]
+  }
+]

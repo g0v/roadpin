@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101003931",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010408~1010408",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "大理街130巷口(糖蔀里)",
+    "TC_NApro": "祥皓工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49679965961225,
+            "P2": 25.03350492901378
+          },
+          {
+            "P1": 121.49679314793708,
+            "P2": 25.033450484286963
+          }
+        ]
+      }
+    ]
+  }
+]

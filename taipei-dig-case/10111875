@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010890",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010925~1011004",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "建國北路2段67號與興安街口(西南角)(CD101)",
+    "TC_NApro": "展鑫工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53705045375206,
+            "P2": 25.055863697726732
+          },
+          {
+            "P1": 121.53706539938041,
+            "P2": 25.055863643678439
+          }
+        ]
+      }
+    ]
+  }
+]

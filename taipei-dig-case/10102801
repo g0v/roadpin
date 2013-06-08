@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中瑞環境科技有限公司",
+    "AC_NOpro": "101004488",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010507~1010509",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "寧波西街114號右前方(龍光里)",
+    "TC_NApro": "中瑞環境科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51344352291932,
+            "P2": 25.029086049377547
+          },
+          {
+            "P1": 121.51338043526138,
+            "P2": 25.029179509370234
+          }
+        ]
+      }
+    ]
+  }
+]

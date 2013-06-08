@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101002922",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010327~1010328",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路228號(建泰里)",
+    "TC_NApro": "網技科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51639224372775,
+            "P2": 25.053209781874269
+          },
+          {
+            "P1": 121.51638612874072,
+            "P2": 25.053190862279244
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51638344036545,
+            "P2": 25.053190257718683
+          },
+          {
+            "P1": 121.51637406346988,
+            "P2": 25.053192330660394
+          }
+        ]
+      }
+    ]
+  }
+]

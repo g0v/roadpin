@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001746",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020313~1020315",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路3268-3號前",
+    "TC_NApro": "台通光電股份有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58346031311335,
+            "P2": 25.052195488316
+          },
+          {
+            "P1": 121.58355180445122,
+            "P2": 25.052077367785021
+          }
+        ]
+      }
+    ]
+  }
+]

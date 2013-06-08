@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101009421",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010729~1010729",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路64557號旁",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5401450129021,
+            "P2": 24.989916417225089
+          },
+          {
+            "P1": 121.54018167189531,
+            "P2": 24.989909115826684
+          },
+          {
+            "P1": 121.54018427655539,
+            "P2": 24.989906722950522
+          }
+        ]
+      }
+    ]
+  }
+]

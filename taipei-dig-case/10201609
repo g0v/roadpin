@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001674",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020307~1020308",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "武昌街120-1號及22巷52號旁",
+    "TC_NApro": "承昌水電行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51226252072144,
+            "P2": 25.04380029318866
+          },
+          {
+            "P1": 121.51226932180727,
+            "P2": 25.043800955870566
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51219446863837,
+            "P2": 25.042641052895238
+          },
+          {
+            "P1": 121.512194448612,
+            "P2": 25.042636231974935
+          }
+        ]
+      }
+    ]
+  }
+]

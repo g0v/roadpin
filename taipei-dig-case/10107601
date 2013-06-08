@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101007173",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010704~1010705",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路1140口",
+    "TC_NApro": "奕揚營造有限公司0357",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52214518668185,
+            "P2": 25.051136852144065
+          },
+          {
+            "P1": 121.5221608135039,
+            "P2": 25.051112908986514
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5221624301244,
+            "P2": 25.051183367237822
+          },
+          {
+            "P1": 121.52213322638836,
+            "P2": 25.051099870153493
+          }
+        ]
+      }
+    ]
+  }
+]

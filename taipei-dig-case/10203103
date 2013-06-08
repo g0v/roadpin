@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003506",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020520~1020522",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "重慶北路4228號前",
+    "TC_NApro": "上人科技有限公司NEG281006",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "計畫性案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51130322862981,
+            "P2": 25.08578407530295
+          },
+          {
+            "P1": 121.51123550260158,
+            "P2": 25.085772843079855
+          }
+        ]
+      }
+    ]
+  }
+]

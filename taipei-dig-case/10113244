@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101011618",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011024~1011026",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路1101口一帶(DE004)",
+    "TC_NApro": "奕揚營造有限公司0559",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54621843499892,
+            "P2": 25.039943046674772
+          },
+          {
+            "P1": 121.54620032025159,
+            "P2": 25.039943113269118
+          }
+        ]
+      }
+    ]
+  }
+]

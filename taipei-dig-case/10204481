@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003969",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020617~1020625",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路1533號前",
+    "TC_NApro": "宏錩工程有限公司",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52335723596681,
+            "P2": 25.048695915388169
+          },
+          {
+            "P1": 121.52337934361724,
+            "P2": 25.048692957545192
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52338092549435,
+            "P2": 25.048694396459851
+          },
+          {
+            "P1": 121.52338574890544,
+            "P2": 25.048712363344816
+          }
+        ]
+      }
+    ]
+  }
+]

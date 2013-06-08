@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013243",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1011220~1011221",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街1370號",
+    "TC_NApro": "昱丞工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50921148873722,
+            "P2": 25.062735825672824
+          },
+          {
+            "P1": 121.50925396938793,
+            "P2": 25.062735679979529
+          }
+        ]
+      }
+    ]
+  }
+]

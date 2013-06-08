@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣欣天然氣",
+    "AC_NOpro": "101009149",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010814~1010815",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "試院路152-2號後",
+    "TC_NApro": "永發實業股份有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54694497068616,
+            "P2": 24.989770582502171
+          },
+          {
+            "P1": 121.5469367032246,
+            "P2": 24.989744584877602
+          }
+        ]
+      }
+    ]
+  }
+]

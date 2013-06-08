@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101010018",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010903~1010905",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "辛亥路131號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52834414194952,
+            "P2": 25.019069636924513
+          },
+          {
+            "P1": 121.52826521045543,
+            "P2": 25.019003985320488
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52833886210043,
+            "P2": 25.019062965878451
+          },
+          {
+            "P1": 121.52838358145327,
+            "P2": 25.019098639410231
+          }
+        ]
+      }
+    ]
+  }
+]

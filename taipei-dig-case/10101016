@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101001141",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1010207~1010216",
+    "CO_TIpro": "9時至20時避開17時至19時往後延長至22時，週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "竹子湖路（陽金公路,中湖戰備道交叉口)(JI016)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55726741910095,
+            "P2": 25.177328797823719
+          },
+          {
+            "P1": 121.55725250106768,
+            "P2": 25.177338161728066
+          }
+        ]
+      }
+    ]
+  }
+]
