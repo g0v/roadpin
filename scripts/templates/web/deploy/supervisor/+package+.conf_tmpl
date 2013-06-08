@@ -1,0 +1,12 @@
+[program:{{project}}]
+command=/srv/{{project}}/scripts/env_run.sh python -m app.main 3456 production.ini
+process_name={{project}}-3456
+directory=/srv/{{project}}
+stdout_logfile=/var/log/{{project}}/log.3456.out.txt
+stdout_logfile_maxbytes=500MB
+stdout_logfile_backups=2
+stderr_logfile=/var/log/{{project}}/log.3456.err.txt
+stderr_logfile_maxbytes=500MB
+stderr_logfile_backups=2
+numprocs=1
+numprocs_start=1
