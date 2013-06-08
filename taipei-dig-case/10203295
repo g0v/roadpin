@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002782",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020422~1020506",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路2187巷前(中央分隔島綠帶)(雙連里)",
+    "TC_NApro": "立新交通工程器材有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51818206178844,
+            "P2": 25.058889015694298
+          },
+          {
+            "P1": 121.51817970642802,
+            "P2": 25.058951127834259
+          }
+        ]
+      }
+    ]
+  }
+]

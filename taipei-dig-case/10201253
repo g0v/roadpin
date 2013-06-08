@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001048",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020221~1020223",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港華街5131號附近",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57581042127136,
+            "P2": 25.08309213676684
+          },
+          {
+            "P1": 121.57578424606074,
+            "P2": 25.0831017989433
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57580546787827,
+            "P2": 25.083154268351898
+          },
+          {
+            "P1": 121.57579487928936,
+            "P2": 25.083132804838264
+          }
+        ]
+      }
+    ]
+  }
+]

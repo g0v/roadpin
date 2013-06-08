@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "宿良城建設有限公司",
+    "AC_NOpro": "102003028",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020514~1020515",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "西安街2333號前",
+    "TC_NApro": "久翔營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50576167194051,
+            "P2": 25.120457725182344
+          },
+          {
+            "P1": 121.50617065393499,
+            "P2": 25.120381812221986
+          }
+        ]
+      }
+    ]
+  }
+]

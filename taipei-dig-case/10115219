@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000063",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020110~1020111",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "峨嵋街47號至53號",
+    "TC_NApro": "奕揚營造有限公司B9524-111962",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50666902456224,
+            "P2": 25.043377532811583
+          },
+          {
+            "P1": 121.50669325953034,
+            "P2": 25.043371473572421
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50667622122225,
+            "P2": 25.043375594315851
+          },
+          {
+            "P1": 121.50668103069926,
+            "P2": 25.043395638293536
+          }
+        ]
+      }
+    ]
+  }
+]

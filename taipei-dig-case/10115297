@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "公共運輸處",
+    "AC_NOpro": "101013444",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020103~1020104",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路2172號前(喬治商職站)",
+    "TC_NApro": "東進鋼鐵機械股份有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55473458059306,
+            "P2": 25.026292378723703
+          },
+          {
+            "P1": 121.55477672727123,
+            "P2": 25.026337605423041
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002731",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020427~1020428",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路54號前(長安松江路口往北專用道)",
+    "TC_NApro": "東進鋼鐵機械股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53291453303766,
+            "P2": 25.04800677826735
+          },
+          {
+            "P1": 121.5329134177872,
+            "P2": 25.047748805899545
+          }
+        ]
+      }
+    ]
+  }
+]

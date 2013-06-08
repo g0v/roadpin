@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101013215",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020103~1020104",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景文街142內",
+    "TC_NApro": "日東電機企業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54045435534989,
+            "P2": 24.988225439834803
+          },
+          {
+            "P1": 121.54048421769879,
+            "P2": 24.988222469460379
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54039461454521,
+            "P2": 24.988229963211147
+          },
+          {
+            "P1": 121.54042920176123,
+            "P2": 24.988226966660577
+          }
+        ]
+      }
+    ]
+  }
+]
