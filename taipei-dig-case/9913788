@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99013279",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990809~0990814",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "忠順街1與木新路三段310巷口(樟新里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55620346143984,
+            "P2": 24.983017137925565
+          },
+          {
+            "P1": 121.55614365635697,
+            "P2": 24.983004460269171
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5561420879167,
+            "P2": 24.983005901598123
+          },
+          {
+            "P1": 121.5561467865812,
+            "P2": 24.983002299884081
+          }
+        ]
+      }
+    ]
+  }
+]

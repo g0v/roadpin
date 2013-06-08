@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010508",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990621~0990623",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "西湖里內湖路12856520號前",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56796216507553,
+            "P2": 25.084232344743729
+          },
+          {
+            "P1": 121.56818762594246,
+            "P2": 25.08422862876305
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56801227592551,
+            "P2": 25.084232152931417
+          },
+          {
+            "P1": 121.56807514400344,
+            "P2": 25.084283245280485
+          }
+        ]
+      }
+    ]
+  }
+]

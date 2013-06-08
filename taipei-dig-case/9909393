@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "99009855",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990615~0990617",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "羅斯福路328316號(大學里)",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53165698745272,
+            "P2": 25.0182007097405
+          },
+          {
+            "P1": 121.53164518717141,
+            "P2": 25.018200751938235
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53167899042813,
+            "P2": 25.018197769153758
+          },
+          {
+            "P1": 121.5316830596459,
+            "P2": 25.018229280660819
+          }
+        ]
+      }
+    ]
+  }
+]

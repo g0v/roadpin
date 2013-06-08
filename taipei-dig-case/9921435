@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "99019953",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991101~0991103",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "幽雅路10號旁（林泉里）",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51316884676936,
+            "P2": 25.137275507405423
+          },
+          {
+            "P1": 121.5131308215127,
+            "P2": 25.137218311589393
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51424370448638,
+            "P2": 25.138292201178345
+          },
+          {
+            "P1": 121.51430026334484,
+            "P2": 25.138263341101784
+          }
+        ]
+      }
+    ]
+  }
+]

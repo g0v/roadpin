@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99007416",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990506~0990519",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路與中正路235巷口附近(捷運路橋下屈臣氏前)(福林里及舊佳里)",
+    "TC_NApro": "磊慶營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52555847438053,
+            "P2": 25.095007216513089
+          },
+          {
+            "P1": 121.52564383204982,
+            "P2": 25.09503186745064
+          }
+        ]
+      }
+    ]
+  }
+]

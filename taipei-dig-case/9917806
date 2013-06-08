@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99016683",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990906~0990920",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "朱崙街.復興北路口(56~58號前)(CE001)",
+    "TC_NApro": "麒瑞營造有限公司651",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54380038181687,
+            "P2": 25.049911494037268
+          },
+          {
+            "P1": 121.54377420423175,
+            "P2": 25.049769109477925
+          }
+        ]
+      }
+    ]
+  }
+]

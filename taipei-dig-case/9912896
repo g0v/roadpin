@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台北市公共運輸處",
+    "AC_NOpro": "99012870",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990802~0990804",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民族東路台北市中山區民族東路10號前",
+    "TC_NApro": "華夏科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52377818443739,
+            "P2": 25.068063658925464
+          },
+          {
+            "P1": 121.52412748728258,
+            "P2": 25.068059555207508
+          }
+        ]
+      }
+    ]
+  }
+]

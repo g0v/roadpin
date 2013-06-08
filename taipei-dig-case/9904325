@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009664",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990609~0990610",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路1084號前(興亞里)",
+    "TC_NApro": "奕揚營造有限公司164",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53226350988047,
+            "P2": 25.051218139345675
+          },
+          {
+            "P1": 121.53226265246019,
+            "P2": 25.051173354306698
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5321957835767,
+            "P2": 25.051172998068751
+          },
+          {
+            "P1": 121.53233475886405,
+            "P2": 25.051172500041744
+          }
+        ]
+      }
+    ]
+  }
+]

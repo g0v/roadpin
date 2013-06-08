@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "地樺營造事業股份有限公司",
+    "AC_NOpro": "99018640",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990908~0990910",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廣州街中華路與廣州街口",
+    "TC_NApro": "尚谷工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50670564219246,
+            "P2": 25.035840813102773
+          },
+          {
+            "P1": 121.50674739370301,
+            "P2": 25.035807754335607
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50702687095185,
+            "P2": 25.035735560390155
+          },
+          {
+            "P1": 121.50720911960045,
+            "P2": 25.035685861769782
+          }
+        ]
+      }
+    ]
+  }
+]

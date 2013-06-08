@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市政府警察局交通警察大隊",
+    "AC_NOpro": "99021344",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991102~0991104",
+    "CO_TIpro": "夜間施工22時至5時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路6226號前",
+    "TC_NApro": "東山科技有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54068985957049,
+            "P2": 24.992348370331491
+          },
+          {
+            "P1": 121.54071639426955,
+            "P2": 24.992422322405385
+          }
+        ]
+      }
+    ]
+  }
+]

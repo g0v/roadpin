@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000307",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990901~0990907",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "政大二街99中間",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58439575677922,
+            "P2": 24.988855477121142
+          },
+          {
+            "P1": 121.58439575677922,
+            "P2": 24.988855477121142
+          },
+          {
+            "P1": 121.58439575677922,
+            "P2": 24.988855477121142
+          }
+        ]
+      }
+    ]
+  }
+]

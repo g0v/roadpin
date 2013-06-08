@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000280",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990105~0990105",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "酒泉街199號旁",
+    "TC_NApro": "力泰瓦斯設備工程有限公司       ",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51183469836897,
+            "P2": 25.071953617174557
+          },
+          {
+            "P1": 121.51184823096311,
+            "P2": 25.071954148306617
+          }
+        ]
+      }
+    ]
+  }
+]

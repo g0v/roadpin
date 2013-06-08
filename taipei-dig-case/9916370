@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "99014916",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990819~0990821",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "麗水街與麗水街9巷口(永康里)",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52876524957199,
+            "P2": 25.030322602677209
+          },
+          {
+            "P1": 121.52876851729016,
+            "P2": 25.030349819708345
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52879209801175,
+            "P2": 25.030346873911494
+          },
+          {
+            "P1": 121.528781107691,
+            "P2": 25.030351210375908
+          }
+        ]
+      }
+    ]
+  }
+]

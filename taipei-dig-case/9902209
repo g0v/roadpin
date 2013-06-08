@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003005",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990304~0990317",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路539-3號附近地區(大直里)(557號旁巷道內)",
+    "TC_NApro": "嘉皇開發工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54756837500035,
+            "P2": 25.080148995290347
+          },
+          {
+            "P1": 121.54768399831657,
+            "P2": 25.080141896943307
+          }
+        ]
+      }
+    ]
+  }
+]

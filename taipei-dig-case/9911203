@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010201",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990611~0990613",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "玉門街11號前附近地區(保安里)",
+    "TC_NApro": "嘉皇開發工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52059652125242,
+            "P2": 25.07241656482843
+          },
+          {
+            "P1": 121.52061692066785,
+            "P2": 25.072416493282933
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52054258776407,
+            "P2": 25.071987444215083
+          },
+          {
+            "P1": 121.5205607172107,
+            "P2": 25.071987380638415
+          }
+        ]
+      }
+    ]
+  }
+]

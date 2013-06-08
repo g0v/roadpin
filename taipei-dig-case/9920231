@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "隆固工程有限公司",
+    "AC_NOpro": "99018978",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990917~0990920",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "復興北路367號前(民有里)",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54438996228871,
+            "P2": 25.061391337909427
+          },
+          {
+            "P1": 121.54438976174272,
+            "P2": 25.061345954802018
+          }
+        ]
+      }
+    ]
+  }
+]

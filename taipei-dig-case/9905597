@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005201",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990402~0990402",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "林森南路99邊",
+    "TC_NApro": "七峰營造股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52143137255324,
+            "P2": 25.037786020535059
+          },
+          {
+            "P1": 121.52143137255324,
+            "P2": 25.037786020535059
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52142509015739,
+            "P2": 25.037788435019266
+          },
+          {
+            "P1": 121.52145653251925,
+            "P2": 25.037783548830507
+          }
+        ]
+      }
+    ]
+  }
+]

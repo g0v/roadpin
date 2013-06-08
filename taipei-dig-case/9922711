@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021587",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991207~0991209",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "延平南路74號(光復里)",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51028949361773,
+            "P2": 25.044510424180938
+          },
+          {
+            "P1": 121.51031464134938,
+            "P2": 25.044504604973916
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51031624324564,
+            "P2": 25.044508535709483
+          },
+          {
+            "P1": 121.51031346599524,
+            "P2": 25.044500772081882
+          }
+        ]
+      }
+    ]
+  }
+]

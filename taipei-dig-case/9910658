@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010853",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990528~0990528",
+    "CO_TIpro": "夜間施工0時至5時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母北路47號與59號共2處",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52674650504672,
+            "P2": 25.12124383139496
+          },
+          {
+            "P1": 121.52673375176481,
+            "P2": 25.121206618315217
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52662769761855,
+            "P2": 25.120702512598577
+          },
+          {
+            "P1": 121.52662438455062,
+            "P2": 25.120665256938437
+          }
+        ]
+      }
+    ]
+  }
+]

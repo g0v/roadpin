@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005671",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990419~0990424",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街1219號(AF037),環河北路1段269號(AF049)",
+    "TC_NApro": "麒瑞營造公司064",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50853545332818,
+            "P2": 25.057944797700259
+          },
+          {
+            "P1": 121.50852672242725,
+            "P2": 25.058021863990525
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5094187309372,
+            "P2": 25.05949270859654
+          },
+          {
+            "P1": 121.50938946720373,
+            "P2": 25.059414698276537
+          }
+        ]
+      }
+    ]
+  }
+]

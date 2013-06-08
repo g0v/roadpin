@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002130",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990204~0990206",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "金泰里敬業三路162巷內",
+    "TC_NApro": "炫華工程有限公司",
+    "PURPpro": "搶修;人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5563678902064,
+            "P2": 25.078978388727108
+          },
+          {
+            "P1": 121.55638629666566,
+            "P2": 25.07898018851516
+          }
+        ]
+      }
+    ]
+  }
+]

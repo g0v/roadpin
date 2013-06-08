@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004750",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990331~0990402",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "大北路與文林路口(仁勇里)",
+    "TC_NApro": "七峰營造股份有限公司NCG941904",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5268235494039,
+            "P2": 25.08929628565458
+          },
+          {
+            "P1": 121.5268554792434,
+            "P2": 25.089402233220476
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003642",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990401~0990402",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路380號(劍潭里)",
+    "TC_NApro": "俍銓營造有限公司086",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53922131098369,
+            "P2": 25.079103050995002
+          },
+          {
+            "P1": 121.53922427241228,
+            "P2": 25.079129627697739
+          }
+        ]
+      }
+    ]
+  }
+]

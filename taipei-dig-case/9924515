@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99022974",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991205~0991206",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路106714號附近(五分里)",
+    "TC_NApro": "緯全營造有限公司920524",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61433175475139,
+            "P2": 25.067816340423818
+          },
+          {
+            "P1": 121.61433161177416,
+            "P2": 25.067787677313618
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61431611063469,
+            "P2": 25.06783360338153
+          },
+          {
+            "P1": 121.61434126217689,
+            "P2": 25.0678306284174
+          }
+        ]
+      }
+    ]
+  }
+]

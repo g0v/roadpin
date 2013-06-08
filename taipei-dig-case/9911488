@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99012621",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990722~0990724",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "東新街6311號(聯成里30068)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58667270166679,
+            "P2": 25.047513260459276
+          },
+          {
+            "P1": 121.58670661368589,
+            "P2": 25.047454724444425
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58668737811694,
+            "P2": 25.047454800417878
+          },
+          {
+            "P1": 121.5867237735058,
+            "P2": 25.047468279906337
+          }
+        ]
+      }
+    ]
+  }
+]

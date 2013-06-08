@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99001172",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990121~0990122",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "東華街148口附近",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51994430239249,
+            "P2": 25.108300622603231
+          },
+          {
+            "P1": 121.51994430239249,
+            "P2": 25.108300622603231
+          },
+          {
+            "P1": 121.51995302802509,
+            "P2": 25.108286598632166
+          }
+        ]
+      }
+    ]
+  }
+]

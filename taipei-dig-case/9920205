@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018683",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991014~0991023",
+    "CO_TIpro": "日夜間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路2西園路2段320巷(和德里,錦德里)",
+    "TC_NApro": "磊慶營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49257826511889,
+            "P2": 25.025703253255415
+          },
+          {
+            "P1": 121.49267611687623,
+            "P2": 25.025786059768137
+          }
+        ]
+      }
+    ]
+  }
+]

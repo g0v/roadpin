@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021046",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991129~0991214",
+    "CO_TIpro": "請依交維訂定時間施作。",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "永欣里石牌路2331巷口",
+    "TC_NApro": "安宏營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52423201579808,
+            "P2": 25.122276751439919
+          },
+          {
+            "P1": 121.52433216250357,
+            "P2": 25.122381500755914
+          }
+        ]
+      }
+    ]
+  }
+]
