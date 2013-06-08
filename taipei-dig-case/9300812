@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000548",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930307~0930308",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路5236276號斜對面",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57219877608875,
+            "P2": 25.038330235840341
+          },
+          {
+            "P1": 121.57219868435475,
+            "P2": 25.038310464835739
+          }
+        ]
+      }
+    ]
+  }
+]

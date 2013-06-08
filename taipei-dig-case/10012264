@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012056",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960510~0960510",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東路286巷口",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53734303551471,
+            "P2": 25.113120349225429
+          },
+          {
+            "P1": 121.53734498835378,
+            "P2": 25.113099812562542
+          }
+        ]
+      }
+    ]
+  }
+]

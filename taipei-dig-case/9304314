@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003161",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930827~0930829",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "石牌路23571號",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52502816644203,
+            "P2": 25.123414029651389
+          },
+          {
+            "P1": 121.52501252754293,
+            "P2": 25.123397654158357
+          }
+        ]
+      }
+    ]
+  }
+]

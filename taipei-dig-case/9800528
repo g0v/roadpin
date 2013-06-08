@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000657",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970820~0970822",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路3358號",
+    "TC_NApro": "暘岡營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5546932935093,
+            "P2": 24.980004688468487
+          },
+          {
+            "P1": 121.55468659867324,
+            "P2": 24.980002682095311
+          }
+        ]
+      }
+    ]
+  }
+]

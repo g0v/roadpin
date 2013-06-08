@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003649",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960610~0960611",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "昌吉街97號(伊寧街9巷交口)",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51296885472199,
+            "P2": 25.065655245878567
+          },
+          {
+            "P1": 121.5130412519721,
+            "P2": 25.065657866638659
+          }
+        ]
+      }
+    ]
+  }
+]

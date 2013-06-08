@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001318",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930501~0930503",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "環河南路一及康定路口",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50337769768031,
+            "P2": 25.045996164864029
+          },
+          {
+            "P1": 121.50339581040619,
+            "P2": 25.045990506081189
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5034026403018,
+            "P2": 25.045988496760504
+          },
+          {
+            "P1": 121.50340649936319,
+            "P2": 25.045987039191356
+          }
+        ]
+      }
+    ]
+  }
+]

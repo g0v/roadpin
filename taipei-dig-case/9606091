@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96005926",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961018~0961020",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "中華路195口至95巷4號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50739302280603,
+            "P2": 25.037406555056133
+          },
+          {
+            "P1": 121.50740044566807,
+            "P2": 25.0374331896307
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50740044109952,
+            "P2": 25.037432079192406
+          },
+          {
+            "P1": 121.50763555147026,
+            "P2": 25.037377956312891
+          }
+        ]
+      }
+    ]
+  }
+]

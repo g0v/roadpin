@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000668",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980117~0980117",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "集英里撫順街411號",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51936175286446,
+            "P2": 25.0633342020402
+          },
+          {
+            "P1": 121.51936042642626,
+            "P2": 25.063353418345908
+          }
+        ]
+      }
+    ]
+  }
+]

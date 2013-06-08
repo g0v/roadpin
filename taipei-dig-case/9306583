@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004644",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931215~0931216",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "寶清街18-5號附近",
+    "TC_NApro": "躍眾營造(TEN93127)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56865105298566,
+            "P2": 25.05010780917501
+          },
+          {
+            "P1": 121.56861897133801,
+            "P2": 25.050199927382781
+          },
+          {
+            "P1": 121.56861540359913,
+            "P2": 25.050199941040859
+          }
+        ]
+      }
+    ]
+  }
+]

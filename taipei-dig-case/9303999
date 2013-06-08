@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002840",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930807~0930815",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路二404號前",
+    "TC_NApro": "聖力營造(TEN13050)NV1310311",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5903355587547,
+            "P2": 25.070160191462566
+          },
+          {
+            "P1": 121.5903439930035,
+            "P2": 25.070162053793073
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59027018359242,
+            "P2": 25.070148895639733
+          },
+          {
+            "P1": 121.59028288041191,
+            "P2": 25.070150831303973
+          }
+        ]
+      }
+    ]
+  }
+]

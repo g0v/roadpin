@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004222",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950716~0950718",
+    "CO_TIpro": "日間施工9時30分至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "光復北路(民權東路4段以南80米處)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5546492605215,
+            "P2": 25.060753503946334
+          },
+          {
+            "P1": 121.55467446113123,
+            "P2": 25.060759187736952
+          }
+        ]
+      }
+    ]
+  }
+]

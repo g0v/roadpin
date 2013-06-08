@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006842",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951121~0951123",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "珠海路141號前(泉源里)",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50791981541258,
+            "P2": 25.141783983700744
+          },
+          {
+            "P1": 121.50790663510493,
+            "P2": 25.141738618278957
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50789911396559,
+            "P2": 25.141742616365413
+          },
+          {
+            "P1": 121.50791425168667,
+            "P2": 25.141733717069418
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98002575",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980418~0980419",
+    "CO_TIpro": "周休二日施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路1227號旁",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54386435682005,
+            "P2": 25.03836018257239
+          },
+          {
+            "P1": 121.54382188480626,
+            "P2": 25.038360338026536
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5438218279171,
+            "P2": 25.038347437157885
+          },
+          {
+            "P1": 121.54383126173721,
+            "P2": 25.038347402629707
+          }
+        ]
+      }
+    ]
+  }
+]

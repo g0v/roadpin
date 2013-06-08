@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣電力股份有限公司臺北南區營業處",
+    "AC_NOpro": "95001067",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950314~0950316",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路35010內",
+    "TC_NApro": "橋興工程",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56426295033768,
+            "P2": 24.983692714379114
+          },
+          {
+            "P1": 121.56375619879104,
+            "P2": 24.9836057984673
+          }
+        ]
+      }
+    ]
+  }
+]

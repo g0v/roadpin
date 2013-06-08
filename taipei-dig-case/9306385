@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004540",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931213~0931214",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "舊莊街一171內",
+    "TC_NApro": "強鋼營造(TEN93124)",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62132309962387,
+            "P2": 25.039094686379485
+          },
+          {
+            "P1": 121.62146177527605,
+            "P2": 25.03929931203124
+          }
+        ]
+      }
+    ]
+  }
+]

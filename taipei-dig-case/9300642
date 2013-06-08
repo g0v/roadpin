@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000985",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930412~0930413",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路7190134號",
+    "TC_NApro": "田峰營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53548707577464,
+            "P2": 25.130346187670778
+          },
+          {
+            "P1": 121.53557940979295,
+            "P2": 25.130256657913137
+          }
+        ]
+      }
+    ]
+  }
+]

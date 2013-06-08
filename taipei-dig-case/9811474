@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009314",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980902~0980904",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "延平北路6150",
+    "TC_NApro": "台球營造工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50692677106234,
+            "P2": 25.089381635864573
+          },
+          {
+            "P1": 121.50694249915543,
+            "P2": 25.089377998001414
+          }
+        ]
+      }
+    ]
+  }
+]

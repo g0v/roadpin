@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣湖天然氣",
+    "AC_NOpro": "98003563",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980115~0980115",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "大湖山莊街100號前",
+    "TC_NApro": "欣湖天然氣股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60364616255328,
+            "P2": 25.087175554895335
+          },
+          {
+            "P1": 121.60366701044414,
+            "P2": 25.087187639719659
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004991",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960810~0960810",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "東華街1480號",
+    "TC_NApro": "暘岡營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51755028481193,
+            "P2": 25.111988560192955
+          },
+          {
+            "P1": 121.51756375528488,
+            "P2": 25.1119944806676
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51756657429685,
+            "P2": 25.111962222876507
+          },
+          {
+            "P1": 121.51758004606018,
+            "P2": 25.111968450296583
+          }
+        ]
+      }
+    ]
+  }
+]

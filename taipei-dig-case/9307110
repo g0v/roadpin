@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001234",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940411~0940413",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路二179246號",
+    "TC_NApro": "雍銓營造(TEN93134)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58345577834795,
+            "P2": 25.08424491667823
+          },
+          {
+            "P1": 121.58365446277678,
+            "P2": 25.084228697519894
+          }
+        ]
+      }
+    ]
+  }
+]

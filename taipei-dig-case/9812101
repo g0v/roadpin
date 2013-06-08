@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012866",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981226~0981228",
+    "CO_TIpro": "夜間施工22時至5時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路111號前(劍潭里)",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53218348324351,
+            "P2": 25.07792222281385
+          },
+          {
+            "P1": 121.53221075633482,
+            "P2": 25.077920599281946
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53219572321412,
+            "P2": 25.077921673354741
+          },
+          {
+            "P1": 121.53219584377642,
+            "P2": 25.077949560442224
+          }
+        ]
+      }
+    ]
+  }
+]

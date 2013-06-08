@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000916",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980223~0980225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "政大三街山月區(政大二街21號後方)",
+    "TC_NApro": "華隆工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58313501978773,
+            "P2": 24.985850908050409
+          },
+          {
+            "P1": 121.58314911734547,
+            "P2": 24.98580517980659
+          }
+        ]
+      }
+    ]
+  }
+]

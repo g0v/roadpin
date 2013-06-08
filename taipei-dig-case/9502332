@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007359",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951220~0951222",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路211號前",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51411038579013,
+            "P2": 25.027845298483978
+          },
+          {
+            "P1": 121.51408961969422,
+            "P2": 25.027855481768253
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51410000274264,
+            "P2": 25.027850390126481
+          },
+          {
+            "P1": 121.51410928063562,
+            "P2": 25.027865434938292
+          }
+        ]
+      }
+    ]
+  }
+]

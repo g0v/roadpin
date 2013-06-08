@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003675",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931016~0931017",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路三46號前",
+    "TC_NApro": "聖力營造(TEN13056)NV1360577",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5921057011691,
+            "P2": 25.053979265509014
+          },
+          {
+            "P1": 121.59209234325945,
+            "P2": 25.053963158683224
+          },
+          {
+            "P1": 121.59209462270826,
+            "P2": 25.053963149595695
+          }
+        ]
+      }
+    ]
+  }
+]

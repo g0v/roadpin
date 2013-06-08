@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002551",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970515~0970517",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廣州街與中華路二段交叉口內13公尺處",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50680422914381,
+            "P2": 25.035760650583516
+          },
+          {
+            "P1": 121.50681615371586,
+            "P2": 25.035792849197563
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50681915471202,
+            "P2": 25.035756293281931
+          },
+          {
+            "P1": 121.50683107639385,
+            "P2": 25.035787787714142
+          }
+        ]
+      }
+    ]
+  }
+]

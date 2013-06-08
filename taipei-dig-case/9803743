@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002974",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980508~0980510",
+    "CO_TIpro": "夜間施工24時至翌日上午5時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "青島西路11號至9號至近7號前(黎明里5)",
+    "TC_NApro": "強鋼營造有限公司NUG811077",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51769746209291,
+            "P2": 25.04471439527234
+          },
+          {
+            "P1": 121.5180369376176,
+            "P2": 25.044630090503716
+          }
+        ]
+      }
+    ]
+  }
+]

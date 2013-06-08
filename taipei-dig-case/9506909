@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "95007384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951222~0951223",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街1612號旁",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53053217700084,
+            "P2": 25.025175225669386
+          },
+          {
+            "P1": 121.53052121550695,
+            "P2": 25.025183841462873
+          }
+        ]
+      }
+    ]
+  }
+]

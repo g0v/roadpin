@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006760",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980121~0980121",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長春路130-9號前(中吉里30056)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53095139168579,
+            "P2": 25.054543827292829
+          },
+          {
+            "P1": 121.53095150491488,
+            "P2": 25.054570107507345
+          }
+        ]
+      }
+    ]
+  }
+]

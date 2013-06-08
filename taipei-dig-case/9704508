@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003631",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970626~0970627",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路42口",
+    "TC_NApro": "上人營造RNCH661905",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52108629378471,
+            "P2": 25.078494343651162
+          },
+          {
+            "P1": 121.5210910729367,
+            "P2": 25.078508663364776
+          }
+        ]
+      }
+    ]
+  }
+]

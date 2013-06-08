@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004395",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940915~0940916",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠誠路士東路",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53081222023383,
+            "P2": 25.112247776692534
+          },
+          {
+            "P1": 121.53081856611919,
+            "P2": 25.112247753973339
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53129687478445,
+            "P2": 25.112197289746724
+          },
+          {
+            "P1": 121.53129996105902,
+            "P2": 25.112200167637344
+          }
+        ]
+      }
+    ]
+  }
+]

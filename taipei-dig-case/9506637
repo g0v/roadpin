@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006517",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951106~0951107",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路7210號",
+    "TC_NApro": "今道企業工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50659593126552,
+            "P2": 25.114945467410454
+          },
+          {
+            "P1": 121.50662439623997,
+            "P2": 25.114971099907351
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50642984596546,
+            "P2": 25.115115129057155
+          },
+          {
+            "P1": 121.50645493738341,
+            "P2": 25.11509211225448
+          }
+        ]
+      }
+    ]
+  }
+]

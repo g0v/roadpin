@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000530",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960310~0960318",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "錦州街159號前及吉林路口",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52983052010895,
+            "P2": 25.06017651273557
+          },
+          {
+            "P1": 121.5299054889711,
+            "P2": 25.060047234634485
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5301662679217,
+            "P2": 25.059957467951094
+          },
+          {
+            "P1": 121.5303082449221,
+            "P2": 25.060037220183741
+          }
+        ]
+      }
+    ]
+  }
+]

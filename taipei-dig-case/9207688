@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000403",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930223~0930224",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "堤頂大道路2489號旁",
+    "TC_NApro": "正利水電工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56165770097768,
+            "P2": 25.082718525705712
+          },
+          {
+            "P1": 121.56164578064129,
+            "P2": 25.082713154038121
+          }
+        ]
+      }
+    ]
+  }
+]

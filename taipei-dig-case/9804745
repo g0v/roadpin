@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004141",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980425~0980425",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "寶興街8019號旁(錦德里)",
+    "TC_NApro": "強鋼營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49401184306356,
+            "P2": 25.025431362969314
+          },
+          {
+            "P1": 121.49402427767676,
+            "P2": 25.0253940536171
+          }
+        ]
+      }
+    ]
+  }
+]

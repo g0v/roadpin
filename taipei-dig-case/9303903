@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002679",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930622~0930623",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路六211號前",
+    "TC_NApro": "台灣號誌股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.541303143148,
+            "P2": 24.99575784164368
+          },
+          {
+            "P1": 121.541303143148,
+            "P2": 24.99575784164368
+          }
+        ]
+      }
+    ]
+  }
+]

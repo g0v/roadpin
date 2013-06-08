@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010819",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981201~0981203",
+    "CO_TIpro": "日間施工10時至15時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信義路2271號前(三愛里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53154323536455,
+            "P2": 25.033541345747004
+          },
+          {
+            "P1": 121.53212839302231,
+            "P2": 25.033533518743965
+          }
+        ]
+      }
+    ]
+  }
+]

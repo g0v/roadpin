@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004454",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950721~0950723",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路2與安和路2段171巷",
+    "TC_NApro": "亞鉅營造股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54840347586459,
+            "P2": 25.027846859014449
+          },
+          {
+            "P1": 121.54841379843246,
+            "P2": 25.027806194685713
+          }
+        ]
+      }
+    ]
+  }
+]

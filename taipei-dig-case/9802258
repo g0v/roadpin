@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003151",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980502~0980503",
+    "CO_TIpro": "夜間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路219號對面(住安里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54594066320064,
+            "P2": 25.032183450836605
+          },
+          {
+            "P1": 121.54596123475166,
+            "P2": 25.031856604960375
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54595828388071,
+            "P2": 25.031899607380304
+          },
+          {
+            "P1": 121.54593940732447,
+            "P2": 25.0318996767259
+          }
+        ]
+      }
+    ]
+  }
+]

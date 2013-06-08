@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96005224",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960913~0960914",
+    "CO_TIpro": "道依本市道安會報核備夜間施工凌晨0時至5時30分前施工完成。",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路1361號前",
+    "TC_NApro": "上人營造(THQ96146)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52208277724223,
+            "P2": 25.094109991274159
+          },
+          {
+            "P1": 121.52200311617258,
+            "P2": 25.094133139533024
+          }
+        ]
+      }
+    ]
+  }
+]

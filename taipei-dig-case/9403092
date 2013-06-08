@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003120",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940727~0940729",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路3954口",
+    "TC_NApro": "躍眾營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56297138703006,
+            "P2": 24.981186531861386
+          },
+          {
+            "P1": 121.56308780815544,
+            "P2": 24.981194668133273
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56308779541018,
+            "P2": 24.981191869472074
+          },
+          {
+            "P1": 121.56308457364179,
+            "P2": 24.981180415980656
+          }
+        ]
+      }
+    ]
+  }
+]

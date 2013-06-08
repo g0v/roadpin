@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000844",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960123~0960123",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中和街20巷內",
+    "TC_NApro": "德鷹企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50320610823313,
+            "P2": 25.1375561159789
+          },
+          {
+            "P1": 121.50321178823944,
+            "P2": 25.137562687100829
+          },
+          {
+            "P1": 121.50320949499564,
+            "P2": 25.13755971566161
+          }
+        ]
+      }
+    ]
+  }
+]

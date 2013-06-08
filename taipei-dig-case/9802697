@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002026",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980313~0980313",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東路8921號旁(天祿里)",
+    "TC_NApro": "陽明山瓦斯股份有限公司 修護課",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52848081782011,
+            "P2": 25.112938014791915
+          },
+          {
+            "P1": 121.52849363856848,
+            "P2": 25.1129379690922
+          }
+        ]
+      }
+    ]
+  }
+]

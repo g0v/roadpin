@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96005865",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961015~0961017",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "自強街120156號附近",
+    "TC_NApro": "上人營造(THQ96097)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51625685384558,
+            "P2": 25.110156244865721
+          },
+          {
+            "P1": 121.515892015132,
+            "P2": 25.110087755445374
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51617566691397,
+            "P2": 25.110177671056213
+          },
+          {
+            "P1": 121.51618481550023,
+            "P2": 25.110143811347594
+          }
+        ]
+      }
+    ]
+  }
+]

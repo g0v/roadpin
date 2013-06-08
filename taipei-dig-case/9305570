@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003835",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931018~0931020",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路356號旁",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52151201182613,
+            "P2": 25.094161878620962
+          },
+          {
+            "P1": 121.52150354281174,
+            "P2": 25.094175360113208
+          }
+        ]
+      }
+    ]
+  }
+]

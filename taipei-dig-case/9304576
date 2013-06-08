@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003453",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930920~0930922",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路647口至10弄交口",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58693804549229,
+            "P2": 25.068906769371367
+          },
+          {
+            "P1": 121.58695574246887,
+            "P2": 25.069313138395174
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96006542",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961103~0961104",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街28444~50號與吳興街281巷47弄口",
+    "TC_NApro": "緯全營造(TEQ26051)NV2640414",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56536055156909,
+            "P2": 25.026237300485747
+          },
+          {
+            "P1": 121.56553043221507,
+            "P2": 25.026236654224416
+          }
+        ]
+      }
+    ]
+  }
+]

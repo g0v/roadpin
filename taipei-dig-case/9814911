@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "98012223",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981205~0981207",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "聖山里忠誠路1135號旁",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52952649752965,
+            "P2": 25.105752864708794
+          },
+          {
+            "P1": 121.52955185427962,
+            "P2": 25.105792903525675
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52953286757925,
+            "P2": 25.105770040260847
+          },
+          {
+            "P1": 121.52948263556435,
+            "P2": 25.105801754349486
+          }
+        ]
+      }
+    ]
+  }
+]

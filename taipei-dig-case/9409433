@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣電力股份有限公司臺北市區營業處",
+    "AC_NOpro": "95000110",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950110~0950112",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路4223與敦化南路1段161巷叉口",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5528954021234,
+            "P2": 25.04327159609652
+          },
+          {
+            "P1": 121.5528855417231,
+            "P2": 25.043194262569582
+          }
+        ]
+      }
+    ]
+  }
+]

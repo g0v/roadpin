@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012796",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981208~0981208",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路17729號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52750988983398,
+            "P2": 25.03855569415018
+          },
+          {
+            "P1": 121.52751618919811,
+            "P2": 25.038554949540931
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52752011186122,
+            "P2": 25.038554583519932
+          },
+          {
+            "P1": 121.52752247869131,
+            "P2": 25.038554213994495
+          }
+        ]
+      }
+    ]
+  }
+]

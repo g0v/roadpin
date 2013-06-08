@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002093",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970423~0970425",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街3950與通化街123巷交叉口",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55493246470019,
+            "P2": 25.028841025245342
+          },
+          {
+            "P1": 121.55491876717672,
+            "P2": 25.028785174727133
+          }
+        ]
+      }
+    ]
+  }
+]

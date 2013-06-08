@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005731",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941111~0941113",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路276172號旁",
+    "TC_NApro": "同新工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53966316742739,
+            "P2": 25.023165659799162
+          },
+          {
+            "P1": 121.53965649217678,
+            "P2": 25.023157287930037
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53967015333937,
+            "P2": 25.023154439633405
+          },
+          {
+            "P1": 121.53966096668599,
+            "P2": 25.023160882912912
+          }
+        ]
+      }
+    ]
+  }
+]

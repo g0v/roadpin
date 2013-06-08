@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007243",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951214~0951215",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大同街豐年路口",
+    "TC_NApro": "上人營造",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49845365692852,
+            "P2": 25.13381808010416
+          },
+          {
+            "P1": 121.49844999490074,
+            "P2": 25.133697749547114
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49812879374994,
+            "P2": 25.133678787596477
+          },
+          {
+            "P1": 121.4984405500804,
+            "P2": 25.133692003415938
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "91003484",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0910817~0910820",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "延吉街138",
+    "TC_NApro": "喬翔水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55413141771655,
+            "P2": 25.0396415140443
+          },
+          {
+            "P1": 121.55452885165566,
+            "P2": 25.039631454635174
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "97006691",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971121~0971122",
+    "CO_TIpro": "周五周六夜間施工24時至5時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "復興南路133號前(中崙里)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54403322434769,
+            "P2": 25.046142078362088
+          },
+          {
+            "P1": 121.54389479290055,
+            "P2": 25.046145456185492
+          }
+        ]
+      }
+    ]
+  }
+]

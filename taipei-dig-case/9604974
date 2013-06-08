@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004695",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960710~0960710",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路482號後防火巷口",
+    "TC_NApro": "聯欣水電工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55295415135703,
+            "P2": 25.057554078451897
+          },
+          {
+            "P1": 121.5529799404121,
+            "P2": 25.057556329706149
+          },
+          {
+            "P1": 121.55297929883038,
+            "P2": 25.0575569189161
+          }
+        ]
+      }
+    ]
+  }
+]

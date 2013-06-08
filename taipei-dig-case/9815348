@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "隆固工程有限公司",
+    "AC_NOpro": "98012950",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981214~0981216",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路4319至319-3號",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55609156088113,
+            "P2": 25.041315805877971
+          },
+          {
+            "P1": 121.55616234493677,
+            "P2": 25.041313148494435
+          }
+        ]
+      }
+    ]
+  }
+]

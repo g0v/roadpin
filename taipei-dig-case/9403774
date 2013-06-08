@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002973",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940629~0940629",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路311378號前(6/29日09:30已電話傳真挖掘管制組及一分隊)",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54670207298025,
+            "P2": 25.058228318521206
+          },
+          {
+            "P1": 121.546703461668,
+            "P2": 25.058183895556255
+          }
+        ]
+      }
+    ]
+  }
+]

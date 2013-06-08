@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "94005954",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941117~0941118",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信義路4與信義路4段199巷交接口",
+    "TC_NApro": "眾興欣業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55165175757358,
+            "P2": 25.033183775664554
+          },
+          {
+            "P1": 121.55166275136706,
+            "P2": 25.0331825612078
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "城啟工程有限公司",
+    "AC_NOpro": "98003149",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980502~0980503",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路2與信義路4段30巷27弄交叉口(住安里)",
+    "TC_NApro": "城啟工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5458246443114,
+            "P2": 25.031855869848922
+          },
+          {
+            "P1": 121.54601838731018,
+            "P2": 25.031795437586194
+          }
+        ]
+      }
+    ]
+  }
+]

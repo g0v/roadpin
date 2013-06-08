@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002568",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960529~0960530",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街2767號前",
+    "TC_NApro": "寶隆瓦斯工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53869503423667,
+            "P2": 25.026063885568512
+          },
+          {
+            "P1": 121.53870276830372,
+            "P2": 25.026076451689203
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53869197072174,
+            "P2": 25.0260657564527
+          },
+          {
+            "P1": 121.53869911623769,
+            "P2": 25.026061532505604
+          }
+        ]
+      }
+    ]
+  }
+]

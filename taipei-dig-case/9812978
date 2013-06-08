@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010420",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981008~0981009",
+    "CO_TIpro": "巷道日間施工9時至17時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "五常街2811號至5號前",
+    "TC_NApro": "協鼎工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54520556679952,
+            "P2": 25.064284315865674
+          },
+          {
+            "P1": 121.5450293595851,
+            "P2": 25.064289549041046
+          }
+        ]
+      }
+    ]
+  }
+]

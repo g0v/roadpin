@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001437",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950401~0950402",
+    "CO_TIpro": "幹道人行磚道周休二日施工夜間施工22時至翌日清晨3時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路152號",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56838295747659,
+            "P2": 25.047933807550972
+          },
+          {
+            "P1": 121.56848472655371,
+            "P2": 25.0478885489005
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003955",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980525~0980526",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路475號~479號前(興德里5)",
+    "TC_NApro": "強鋼營造有限公司NU18313811",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49806027060403,
+            "P2": 25.020187798558432
+          },
+          {
+            "P1": 121.49807450442111,
+            "P2": 25.020206375861079
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000758",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960131~0960131",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "復興北路356號前及366號前共兩處",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54403067744293,
+            "P2": 25.060153875186487
+          },
+          {
+            "P1": 121.54403077112633,
+            "P2": 25.060175090687977
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54402996200018,
+            "P2": 25.060306090207231
+          },
+          {
+            "P1": 121.54402987429619,
+            "P2": 25.060286228887026
+          }
+        ]
+      }
+    ]
+  }
+]

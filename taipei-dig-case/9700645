@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "97000633",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970224~0970226",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路391號",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52884478059107,
+            "P2": 25.017268577830855
+          },
+          {
+            "P1": 121.52882891349003,
+            "P2": 25.017249034297109
+          }
+        ]
+      }
+    ]
+  }
+]

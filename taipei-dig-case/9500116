@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000378",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941230~0941230",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東路與忠誠路2段口(士東路大葉高島屋百貨公司前)",
+    "TC_NApro": "陽明山瓦斯股份有限公司 修護課",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53130643704991,
+            "P2": 25.112115552364198
+          },
+          {
+            "P1": 121.53132746830804,
+            "P2": 25.112117914549962
+          }
+        ]
+      }
+    ]
+  }
+]

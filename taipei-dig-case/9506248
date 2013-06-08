@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004798",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950807~0950809",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "菁山路18號對面",
+    "TC_NApro": "榮電股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54712203129611,
+            "P2": 25.137952598767935
+          },
+          {
+            "P1": 121.54713146277052,
+            "P2": 25.137932521950159
+          }
+        ]
+      }
+    ]
+  }
+]

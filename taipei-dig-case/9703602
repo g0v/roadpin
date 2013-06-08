@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97004083",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970721~0970722",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路169號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51944806099368,
+            "P2": 25.031171327046305
+          },
+          {
+            "P1": 121.51943064618915,
+            "P2": 25.03116083409196
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51947552235558,
+            "P2": 25.031092099964521
+          },
+          {
+            "P1": 121.51948360121197,
+            "P2": 25.031085743043342
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008580",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980821~0980821",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路2371074號後巷口",
+    "TC_NApro": "同新工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50086672777293,
+            "P2": 25.025198311621732
+          },
+          {
+            "P1": 121.5008667051269,
+            "P2": 25.025192732331583
+          }
+        ]
+      }
+    ]
+  }
+]

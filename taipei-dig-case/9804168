@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003212",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980525~0980526",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "錦州街441號前(江寧里)",
+    "TC_NApro": "七峰營造有限公司282",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54299607421223,
+            "P2": 25.059982301835561
+          },
+          {
+            "P1": 121.54302229928884,
+            "P2": 25.059982205934624
+          }
+        ]
+      }
+    ]
+  }
+]

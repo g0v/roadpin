@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98011071",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981110~0981112",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福志路809號(福德抽水站前)(福志里)",
+    "TC_NApro": "宗輝工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52890402845763,
+            "P2": 25.0991901808977
+          },
+          {
+            "P1": 121.52868472440402,
+            "P2": 25.099258401813362
+          }
+        ]
+      }
+    ]
+  }
+]

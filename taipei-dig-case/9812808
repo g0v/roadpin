@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010168",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981028~0981030",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文德路1011口東側(紫陽里)",
+    "TC_NApro": "晉宏交通工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58393168382223,
+            "P2": 25.078711671689334
+          },
+          {
+            "P1": 121.58394115777503,
+            "P2": 25.078717367165488
+          }
+        ]
+      }
+    ]
+  }
+]

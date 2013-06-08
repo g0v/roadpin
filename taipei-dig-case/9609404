@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "97000101",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970116~0970118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "安泰街129與114巷交口",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61651552266427,
+            "P2": 25.077440061259104
+          },
+          {
+            "P1": 121.61651575075941,
+            "P2": 25.077485606186357
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.6163810578647,
+            "P2": 25.07742639175785
+          },
+          {
+            "P1": 121.61638127876799,
+            "P2": 25.077470510304046
+          }
+        ]
+      }
+    ]
+  }
+]

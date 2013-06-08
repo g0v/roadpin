@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006860",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971215~0971229",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "臥龍街380號前",
+    "TC_NApro": "暘岡營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56137213416791,
+            "P2": 25.014955032396614
+          },
+          {
+            "P1": 121.56138779258357,
+            "P2": 25.014971205721491
+          }
+        ]
+      }
+    ]
+  }
+]

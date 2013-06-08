@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000207",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960122~0960124",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "麗水街99號前",
+    "TC_NApro": "弘大瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52901644285227,
+            "P2": 25.030301801867175
+          },
+          {
+            "P1": 121.52901901760545,
+            "P2": 25.030301431579474
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52901753166468,
+            "P2": 25.030301527149437
+          },
+          {
+            "P1": 121.52901616879878,
+            "P2": 25.030284107827082
+          }
+        ]
+      }
+    ]
+  }
+]

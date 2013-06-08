@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003235",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940712~0940713",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街139號前(7/12)09.15分已電傳挖掘管制組及二分隊",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56179456122311,
+            "P2": 25.029101307873695
+          },
+          {
+            "P1": 121.56182582175303,
+            "P2": 25.029068237365212
+          }
+        ]
+      }
+    ]
+  }
+]

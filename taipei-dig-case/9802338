@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001803",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980328~0980329",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北2137與吉林路交叉口南側",
+    "TC_NApro": "品田營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53014803822039,
+            "P2": 25.060898894956107
+          },
+          {
+            "P1": 121.53019787267317,
+            "P2": 25.060901109451144
+          }
+        ]
+      }
+    ]
+  }
+]

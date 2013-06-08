@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001623",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970313~0970313",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路3與和平西路口（西北側）",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51566677490412,
+            "P2": 25.027290674250377
+          },
+          {
+            "P1": 121.51565949179926,
+            "P2": 25.0272787824457
+          }
+        ]
+      }
+    ]
+  }
+]

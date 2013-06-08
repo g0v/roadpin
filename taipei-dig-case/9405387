@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "94004271",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941016~0941019",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "天津街與中山北路一段53巷口東南角(路燈)",
+    "TC_NApro": "淂立科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52273483221144,
+            "P2": 25.048771793987807
+          },
+          {
+            "P1": 121.52270335788795,
+            "P2": 25.048781474483423
+          }
+        ]
+      }
+    ]
+  }
+]

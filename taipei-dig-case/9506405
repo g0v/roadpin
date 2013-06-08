@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004934",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950815~0950816",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "金山南路229號前人行道",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52720954213208,
+            "P2": 25.032853777023728
+          },
+          {
+            "P1": 121.52719676161952,
+            "P2": 25.032807959779095
+          }
+        ]
+      }
+    ]
+  }
+]

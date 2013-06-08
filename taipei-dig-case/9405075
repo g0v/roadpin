@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004188",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940914~0940916",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路386口",
+    "TC_NApro": "金樹水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53355032505802,
+            "P2": 25.018503870032944
+          },
+          {
+            "P1": 121.53344453287039,
+            "P2": 25.018028379596362
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53342655025551,
+            "P2": 25.018246291678086
+          },
+          {
+            "P1": 121.53348941572466,
+            "P2": 25.018234600446309
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "立磊汽車事業股份有限公司",
+    "AC_NOpro": "94005188",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941021~0941024",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞湖街182號",
+    "TC_NApro": "永峻工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57637239876996,
+            "P2": 25.06920438097341
+          },
+          {
+            "P1": 121.57636643885682,
+            "P2": 25.069138138768764
+          }
+        ]
+      }
+    ]
+  }
+]

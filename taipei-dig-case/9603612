@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003048",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960702~0960704",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "新生南路1148之4號及138號前",
+    "TC_NApro": "七峰營造(TSQ70019)nu15224741",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5325497684432,
+            "P2": 25.036242648286652
+          },
+          {
+            "P1": 121.53254577257819,
+            "P2": 25.036228335078288
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53251921397877,
+            "P2": 25.034844067602396
+          },
+          {
+            "P1": 121.53250657358305,
+            "P2": 25.034831211801258
+          }
+        ]
+      }
+    ]
+  }
+]

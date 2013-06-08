@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005923",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951018~0951020",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路5041號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53282780095131,
+            "P2": 25.06537207025784
+          },
+          {
+            "P1": 121.53280252620318,
+            "P2": 25.065372160962561
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53281521313559,
+            "P2": 25.065372115432886
+          },
+          {
+            "P1": 121.53281512370499,
+            "P2": 25.065351441579981
+          }
+        ]
+      }
+    ]
+  }
+]

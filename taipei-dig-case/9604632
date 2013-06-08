@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003755",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960712~0960714",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "德行東路164號",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5298915257392,
+            "P2": 25.10796923809146
+          },
+          {
+            "P1": 121.52991340636966,
+            "P2": 25.107931892418911
+          }
+        ]
+      }
+    ]
+  }
+]

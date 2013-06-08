@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007450",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951123~0951124",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京西路12號前",
+    "TC_NApro": "大臺北瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52131173070383,
+            "P2": 25.052156807727862
+          },
+          {
+            "P1": 121.52135373073359,
+            "P2": 25.052151694877836
+          }
+        ]
+      }
+    ]
+  }
+]

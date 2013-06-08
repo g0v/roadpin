@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "薪豐工程有限公司                                                                ",
+    "AC_NOpro": "92005819",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930105~0930107",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "明水路67246號",
+    "TC_NApro": "薪豐工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55222544190606,
+            "P2": 25.082396689091226
+          },
+          {
+            "P1": 121.55228581773638,
+            "P2": 25.08246399372274
+          }
+        ]
+      }
+    ]
+  }
+]

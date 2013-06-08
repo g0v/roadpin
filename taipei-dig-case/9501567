@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001489",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950330~0950401",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街81與瑞安街71巷交口(安東市場後方)",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54153749557749,
+            "P2": 25.027580156769933
+          },
+          {
+            "P1": 121.54153763109112,
+            "P2": 25.027611032243087
+          }
+        ]
+      }
+    ]
+  }
+]

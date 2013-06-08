@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006906",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941218~0941220",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泰安街29號至6號及新建房屋前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52686143475366,
+            "P2": 25.040440029468972
+          },
+          {
+            "P1": 121.52735780949094,
+            "P2": 25.040322257905252
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52714059723823,
+            "P2": 25.040371148273888
+          },
+          {
+            "P1": 121.52729238619943,
+            "P2": 25.040271571852802
+          }
+        ]
+      }
+    ]
+  }
+]

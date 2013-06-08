@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95004200",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950708~0950708",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "臥龍街267之2號前路燈",
+    "TC_NApro": "捷航科技工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55528306715013,
+            "P2": 25.018470962145674
+          },
+          {
+            "P1": 121.55528219735733,
+            "P2": 25.018453812084061
+          }
+        ]
+      }
+    ]
+  }
+]

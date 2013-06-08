@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000660",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930322~0930324",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "紫雲街75號前2處",
+    "TC_NApro": "年豐工程公司",
+    "PURPpro": "管線改善;其他;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57662058449395,
+            "P2": 25.015313521751054
+          },
+          {
+            "P1": 121.5766307589487,
+            "P2": 25.015328197998219
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57657422972669,
+            "P2": 25.015337625822067
+          },
+          {
+            "P1": 121.57658439532345,
+            "P2": 25.015350406218307
+          }
+        ]
+      }
+    ]
+  }
+]

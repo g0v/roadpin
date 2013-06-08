@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94007210",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941226~0941228",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "文昌街259號8M以下道路",
+    "TC_NApro": "敏全水電工程公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55556870876903,
+            "P2": 25.032092319022013
+          },
+          {
+            "P1": 121.55556846359679,
+            "P2": 25.032037880848584
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5556344185627,
+            "P2": 25.032029057629543
+          },
+          {
+            "P1": 121.55564700292619,
+            "P2": 25.032029010578253
+          }
+        ]
+      }
+    ]
+  }
+]

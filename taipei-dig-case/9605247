@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004393",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960820~0960822",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路22口",
+    "TC_NApro": "奕揚營造(TSQ60010)NUG613228",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49755553933785,
+            "P2": 25.032556355138976
+          },
+          {
+            "P1": 121.49769171850397,
+            "P2": 25.032776608978569
+          },
+          {
+            "P1": 121.49769485968871,
+            "P2": 25.03277659845876
+          }
+        ]
+      }
+    ]
+  }
+]

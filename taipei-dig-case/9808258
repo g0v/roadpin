@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008662",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980926~0980927",
+    "CO_TIpro": "周休二日間施工10時至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "桂林路150及152號前(青山里)",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49799683691812,
+            "P2": 25.038213675649772
+          },
+          {
+            "P1": 121.49797215226251,
+            "P2": 25.038213758380085
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49798312715025,
+            "P2": 25.038214967474541
+          },
+          {
+            "P1": 121.49798370222557,
+            "P2": 25.038357383633993
+          }
+        ]
+      }
+    ]
+  }
+]

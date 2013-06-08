@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004819",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980704~0980705",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路1107號至115號(正得里)",
+    "TC_NApro": "奕揚營造有限公司403",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5223342185316,
+            "P2": 25.050777972504239
+          },
+          {
+            "P1": 121.52241623347724,
+            "P2": 25.050949668428153
+          }
+        ]
+      }
+    ]
+  }
+]

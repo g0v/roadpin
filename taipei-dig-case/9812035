@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009718",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980916~0980916",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "華西街11號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49855433260662,
+            "P2": 25.039399450934049
+          },
+          {
+            "P1": 121.4985449624389,
+            "P2": 25.03940055671702
+          }
+        ]
+      }
+    ]
+  }
+]

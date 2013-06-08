@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006587",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951115~0951117",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信義路1東門國小往西約60米(東門里)(1處)",
+    "TC_NApro": "京翔科技股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51929083932475,
+            "P2": 25.037854952799254
+          },
+          {
+            "P1": 121.51930657524184,
+            "P2": 25.037850112927064
+          }
+        ]
+      }
+    ]
+  }
+]

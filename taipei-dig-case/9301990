@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001323",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930503~0930504",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路11268號邊",
+    "TC_NApro": "旭初工程公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54331374927263,
+            "P2": 25.042789097933078
+          },
+          {
+            "P1": 121.54331617719043,
+            "P2": 25.042890293388052
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54352951618465,
+            "P2": 25.0427276402717
+          },
+          {
+            "P1": 121.54352951618465,
+            "P2": 25.0427276402717
+          }
+        ]
+      }
+    ]
+  }
+]

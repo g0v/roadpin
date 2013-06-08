@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006207",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971023~0971024",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路2389號前(文祥里)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52703233573851,
+            "P2": 25.036499478112784
+          },
+          {
+            "P1": 121.52733406646087,
+            "P2": 25.036426751884093
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52704810855832,
+            "P2": 25.03650802591325
+          },
+          {
+            "P1": 121.52704170585989,
+            "P2": 25.036482246417243
+          }
+        ]
+      }
+    ]
+  }
+]

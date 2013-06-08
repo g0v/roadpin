@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "97003446",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970619~0970620",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路52914436號",
+    "TC_NApro": "台利實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56529514304076,
+            "P2": 25.053133391919744
+          },
+          {
+            "P1": 121.56529522395633,
+            "P2": 25.053151032336473
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56523390508599,
+            "P2": 25.053155192897222
+          },
+          {
+            "P1": 121.56523280234413,
+            "P2": 25.053150294886432
+          }
+        ]
+      }
+    ]
+  }
+]

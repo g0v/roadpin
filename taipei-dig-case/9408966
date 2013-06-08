@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94007445",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950107~0950108",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路南港抽水站旁",
+    "TC_NApro": "緯全營造(TEO94143)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.6126050897646,
+            "P2": 25.061361788323026
+          },
+          {
+            "P1": 121.61252483056437,
+            "P2": 25.061266784305253
+          }
+        ]
+      }
+    ]
+  }
+]

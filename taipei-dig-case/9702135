@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台灣大學",
+    "AC_NOpro": "97001679",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970412~0970413",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "辛亥路2台灣大學側人行道",
+    "TC_NApro": "源茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54029630986,
+            "P2": 25.020828683336482
+          },
+          {
+            "P1": 121.54029299333148,
+            "P2": 25.020788565619728
+          }
+        ]
+      }
+    ]
+  }
+]

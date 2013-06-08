@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000154",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940115~0940117",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "星雲街150~168巷交口",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59685715941562,
+            "P2": 25.079424503866107
+          },
+          {
+            "P1": 121.5969714849216,
+            "P2": 25.079451127857862
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59690217251774,
+            "P2": 25.079487608702809
+          },
+          {
+            "P1": 121.59691431121799,
+            "P2": 25.079435558931554
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013310",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981216~0981216",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "永倫里延平北路6258口",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50377236984038,
+            "P2": 25.088971313206212
+          },
+          {
+            "P1": 121.50375400003632,
+            "P2": 25.088968983152991
+          }
+        ]
+      }
+    ]
+  }
+]

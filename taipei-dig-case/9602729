@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002248",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960526~0960528",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "牯嶺街38號旁與重慶南路3段3巷口",
+    "TC_NApro": "七峰營造(TSQ70003)NU16219713",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51658553553891,
+            "P2": 25.029446459647723
+          },
+          {
+            "P1": 121.51657822478458,
+            "P2": 25.029439849418118
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51652349366871,
+            "P2": 25.029422326542825
+          },
+          {
+            "P1": 121.51653685999403,
+            "P2": 25.029424491969305
+          }
+        ]
+      }
+    ]
+  }
+]

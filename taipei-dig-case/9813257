@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010497",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981013~0981014",
+    "CO_TIpro": "日夜間施工9時至9時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路3158號至168號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5167228319545,
+            "P2": 25.023400469532135
+          },
+          {
+            "P1": 121.51672610831494,
+            "P2": 25.022980814504422
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005972",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951012~0951014",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "桂林路1號前",
+    "TC_NApro": "協鼎瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50535919563812,
+            "P2": 25.037565880138615
+          },
+          {
+            "P1": 121.50539038532175,
+            "P2": 25.037559634961525
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5053759341392,
+            "P2": 25.037563746750156
+          },
+          {
+            "P1": 121.50538157075283,
+            "P2": 25.037585033852881
+          }
+        ]
+      }
+    ]
+  }
+]

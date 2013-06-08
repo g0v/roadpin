@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002095",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980409~0980410",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "金龍路91號前附近(金龍里)",
+    "TC_NApro": "躍眾營造(股)公司98040-810804",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59152113801032,
+            "P2": 25.085145047143111
+          },
+          {
+            "P1": 121.59152644521015,
+            "P2": 25.085158161640443
+          }
+        ]
+      }
+    ]
+  }
+]

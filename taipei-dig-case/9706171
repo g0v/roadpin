@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004930",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970822~0970824",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "仰德大道191口(芝山里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53722792502114,
+            "P2": 25.106790708871468
+          },
+          {
+            "P1": 121.53723422104318,
+            "P2": 25.106790686061945
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53730808343133,
+            "P2": 25.10712291855884
+          },
+          {
+            "P1": 121.5373112264933,
+            "P2": 25.107122907170229
+          }
+        ]
+      }
+    ]
+  }
+]

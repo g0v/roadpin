@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003177",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930904~0930905",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "潭美街507號",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59762669168835,
+            "P2": 25.060265173834949
+          },
+          {
+            "P1": 121.59770652676482,
+            "P2": 25.060275234659073
+          },
+          {
+            "P1": 121.59770389004736,
+            "P2": 25.06030377364025
+          }
+        ]
+      }
+    ]
+  }
+]

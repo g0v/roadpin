@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中瑞環境科技有限公司",
+    "AC_NOpro": "96006417",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961031~0961102",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路719122號(天母里)",
+    "TC_NApro": "中瑞環境科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5315983124691,
+            "P2": 25.125363354215544
+          },
+          {
+            "P1": 121.53156419085491,
+            "P2": 25.1253018517939
+          }
+        ]
+      }
+    ]
+  }
+]

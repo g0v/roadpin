@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004957",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950818~0950819",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "園區街距與重陽路交口約50M",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61167731976249,
+            "P2": 25.059353012394279
+          },
+          {
+            "P1": 121.61169360076895,
+            "P2": 25.059358362098376
+          }
+        ]
+      }
+    ]
+  }
+]

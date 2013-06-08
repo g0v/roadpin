@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003421",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980422~0980422",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路2791、4弄口(景聯里)",
+    "TC_NApro": "強鋼營造有限公司NU1866173",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55838329768393,
+            "P2": 25.029787727305067
+          },
+          {
+            "P1": 121.55837378329159,
+            "P2": 25.029772000090791
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55836266437903,
+            "P2": 25.02974767518042
+          },
+          {
+            "P1": 121.55835629448123,
+            "P2": 25.029730500692569
+          }
+        ]
+      }
+    ]
+  }
+]

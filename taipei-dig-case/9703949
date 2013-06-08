@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003163",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970523~0970523",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "軍功路14396號前",
+    "TC_NApro": "穩豐工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56704434792063,
+            "P2": 25.006605045962594
+          },
+          {
+            "P1": 121.56707266180493,
+            "P2": 25.006604938005228
+          }
+        ]
+      }
+    ]
+  }
+]

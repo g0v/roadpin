@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "96006780",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961113~0961115",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "翠嶺路2號邊",
+    "TC_NApro": "祥皓工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50556881040959,
+            "P2": 25.1421594726584
+          },
+          {
+            "P1": 121.5055813412165,
+            "P2": 25.142143667081005
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50549145249235,
+            "P2": 25.142109577320543
+          },
+          {
+            "P1": 121.50547882136986,
+            "P2": 25.142101025806475
+          }
+        ]
+      }
+    ]
+  }
+]

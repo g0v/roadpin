@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006396",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941207~0941208",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路619061口以南約50m",
+    "TC_NApro": "光峰工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59453315089409,
+            "P2": 25.065437525492573
+          },
+          {
+            "P1": 121.5945267832882,
+            "P2": 25.065412001859844
+          }
+        ]
+      }
+    ]
+  }
+]

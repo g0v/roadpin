@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003282",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970517~0970517",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路5733號前",
+    "TC_NApro": "緯全營造RNV1760209",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59611402062801,
+            "P2": 25.056792389827621
+          },
+          {
+            "P1": 121.59612171650851,
+            "P2": 25.056756526920843
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59612429667874,
+            "P2": 25.056746964970905
+          },
+          {
+            "P1": 121.59611400905415,
+            "P2": 25.056789997461951
+          }
+        ]
+      }
+    ]
+  }
+]

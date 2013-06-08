@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007238",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951125~0951125",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "新東街923號前",
+    "TC_NApro": "中華工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56512495956447,
+            "P2": 25.057625254886073
+          },
+          {
+            "P1": 121.5651248941427,
+            "P2": 25.057610990892954
+          }
+        ]
+      }
+    ]
+  }
+]

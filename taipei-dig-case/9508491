@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006926",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951127~0951129",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "育英街47內",
+    "TC_NApro": "國盛電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53823115366906,
+            "P2": 24.991306575985764
+          },
+          {
+            "P1": 121.53824707831913,
+            "P2": 24.991346603174442
+          },
+          {
+            "P1": 121.53776966462205,
+            "P2": 24.991494494524925
+          }
+        ]
+      }
+    ]
+  }
+]

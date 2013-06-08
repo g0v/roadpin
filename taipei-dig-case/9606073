@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "96004951",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960907~0960908",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "金山南路281號前",
+    "TC_NApro": "奕揚營造(TSQ60067)NUG612384",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52689437893946,
+            "P2": 25.03110665432288
+          },
+          {
+            "P1": 121.52689109090422,
+            "P2": 25.031072269032482
+          }
+        ]
+      }
+    ]
+  }
+]

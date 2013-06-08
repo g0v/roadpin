@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006170",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971008~0971008",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠誠路2102號前(三玉里)",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52983610286086,
+            "P2": 25.108517551567523
+          },
+          {
+            "P1": 121.52983541282626,
+            "P2": 25.108511586541983
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52980922329401,
+            "P2": 25.108520040023141
+          },
+          {
+            "P1": 121.52981381400701,
+            "P2": 25.108520023620574
+          }
+        ]
+      }
+    ]
+  }
+]

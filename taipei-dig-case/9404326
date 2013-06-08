@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源安源資訊股份有限公司",
+    "AC_NOpro": "94003393",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940812~0940818",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路1139號前",
+    "TC_NApro": "明照科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51182291959742,
+            "P2": 25.053030502329765
+          },
+          {
+            "P1": 121.51186048117457,
+            "P2": 25.053030372883605
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92001806",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920513~0920515",
+    "CO_TIpro": "人行磚道日間施工（9時至17時）",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6191157號邊",
+    "TC_NApro": "雍銓營造(TEM92043)NVG210064",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57410511719901,
+            "P2": 25.074988813478306
+          },
+          {
+            "P1": 121.57401737966926,
+            "P2": 25.074943832400105
+          }
+        ]
+      }
+    ]
+  }
+]

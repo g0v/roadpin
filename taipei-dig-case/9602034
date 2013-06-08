@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001809",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960430~0960502",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路2371054號及60號前",
+    "TC_NApro": "雍欣營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50086509399016,
+            "P2": 25.025472004005785
+          },
+          {
+            "P1": 121.50086824489591,
+            "P2": 25.02547199338839
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50073768047454,
+            "P2": 25.025472433286847
+          },
+          {
+            "P1": 121.50072038021783,
+            "P2": 25.025472491566376
+          }
+        ]
+      }
+    ]
+  }
+]

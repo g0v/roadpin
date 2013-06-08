@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004599",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970716~0970716",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "光復南路6巷口旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55768954702683,
+            "P2": 25.047305923198174
+          },
+          {
+            "P1": 121.55768947951461,
+            "P2": 25.047291000132759
+          }
+        ]
+      }
+    ]
+  }
+]

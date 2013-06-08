@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005073",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950825~0950827",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路2974號前",
+    "TC_NApro": "茂德瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51416099217178,
+            "P2": 25.056357209129775
+          },
+          {
+            "P1": 121.51417378598779,
+            "P2": 25.056359241286483
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51416773389184,
+            "P2": 25.056357727471603
+          },
+          {
+            "P1": 121.51416443196844,
+            "P2": 25.056373989396572
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000526",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980110~0980110",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "漢口街2與西寧南路交叉口",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50681727973284,
+            "P2": 25.045448491310076
+          },
+          {
+            "P1": 121.50681290444499,
+            "P2": 25.04543525302811
+          }
+        ]
+      }
+    ]
+  }
+]

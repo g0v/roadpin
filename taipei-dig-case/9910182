@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "99010180",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981027~0981027",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "舊莊街158號旁(舊莊里40095)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61849232781469,
+            "P2": 25.040913778443013
+          },
+          {
+            "P1": 121.6185181910368,
+            "P2": 25.040895750263765
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000620",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971015~0971015",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "富康街13號前(新富里)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61732231486953,
+            "P2": 25.053720136634883
+          },
+          {
+            "P1": 121.61731586373533,
+            "P2": 25.053688637843788
+          }
+        ]
+      }
+    ]
+  }
+]

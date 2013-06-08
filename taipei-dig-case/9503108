@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95002533",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950512~0950513",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路3250號前中央分隔島路燈",
+    "TC_NApro": "淂立科技有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51902968023016,
+            "P2": 25.072694562744726
+          },
+          {
+            "P1": 121.51905057496521,
+            "P2": 25.072689704827368
+          }
+        ]
+      }
+    ]
+  }
+]

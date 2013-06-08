@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004024",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960722~0960722",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路1中南街口",
+    "TC_NApro": "智敦通訊科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61558937781092,
+            "P2": 25.051060173881272
+          },
+          {
+            "P1": 121.61555542428418,
+            "P2": 25.050957007696166
+          }
+        ]
+      }
+    ]
+  }
+]

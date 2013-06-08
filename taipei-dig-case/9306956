@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000294",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940122~0940123",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "堤頂大道路二(彩虹河濱公園跨堤道路口)",
+    "TC_NApro": "欣唐股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57278431605703,
+            "P2": 25.060058655442464
+          },
+          {
+            "P1": 121.57278431605703,
+            "P2": 25.060058655442464
+          }
+        ]
+      }
+    ]
+  }
+]

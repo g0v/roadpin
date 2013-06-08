@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "98000971",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980305~0980307",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路618042與民權東路6段180巷交叉口,(湖興里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59247308119491,
+            "P2": 25.066208190278786
+          },
+          {
+            "P1": 121.59250307724921,
+            "P2": 25.066175822687111
+          }
+        ]
+      }
+    ]
+  }
+]

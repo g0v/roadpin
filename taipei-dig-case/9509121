@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007563",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960111~0960112",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路35310號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53401350197606,
+            "P2": 25.039399652144894
+          },
+          {
+            "P1": 121.53403232743277,
+            "P2": 25.039398952519289
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53402251695309,
+            "P2": 25.039398987780096
+          },
+          {
+            "P1": 121.53402308747405,
+            "P2": 25.039370547360889
+          }
+        ]
+      }
+    ]
+  }
+]

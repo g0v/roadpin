@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006981",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971216~0971217",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "安和路11024號前(敦安里)",
+    "TC_NApro": "奕揚營造有限公司NU1763261",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5519211422566,
+            "P2": 25.034070250123744
+          },
+          {
+            "P1": 121.55193844357632,
+            "P2": 25.034070185864589
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55190384735953,
+            "P2": 25.034071749815809
+          },
+          {
+            "P1": 121.55188497048974,
+            "P2": 25.034071819922257
+          }
+        ]
+      }
+    ]
+  }
+]

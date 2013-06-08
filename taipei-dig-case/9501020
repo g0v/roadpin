@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001622",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950408~0950411",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "玉成街384號",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58100775479359,
+            "P2": 25.048664350592389
+          },
+          {
+            "P1": 121.58113302023453,
+            "P2": 25.048663860567704
+          }
+        ]
+      }
+    ]
+  }
+]

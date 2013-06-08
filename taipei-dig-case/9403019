@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "城啟工程有限公司                                                                ",
+    "AC_NOpro": "94003754",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940824~0940826",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景福街54520號",
+    "TC_NApro": "城啟工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53718421478068,
+            "P2": 24.999717599983466
+          },
+          {
+            "P1": 121.5372974816336,
+            "P2": 24.999657334613875
+          }
+        ]
+      }
+    ]
+  }
+]

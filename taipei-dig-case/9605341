@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007101",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961203~0961205",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6232",
+    "TC_NApro": "竣祥企業行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60044077571182,
+            "P2": 25.066303970516362
+          },
+          {
+            "P1": 121.60045057636006,
+            "P2": 25.066246603368143
+          }
+        ]
+      }
+    ]
+  }
+]

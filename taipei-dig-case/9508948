@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007244",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951218~0951219",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路5883018號對面",
+    "TC_NApro": "七峰營造(560173)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55023440350777,
+            "P2": 25.080095448037426
+          },
+          {
+            "P1": 121.55022920338529,
+            "P2": 25.080107474543148
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55023498544867,
+            "P2": 25.08022562948128
+          },
+          {
+            "P1": 121.5502347365391,
+            "P2": 25.079881664018053
+          }
+        ]
+      }
+    ]
+  }
+]

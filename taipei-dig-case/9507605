@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006003",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951016~0951018",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母東路433號旁(天山里)",
+    "TC_NApro": "韋利瓦斯工程行",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53229161583828,
+            "P2": 25.118288861538812
+          },
+          {
+            "P1": 121.53232572664057,
+            "P2": 25.118288739052215
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53232576809791,
+            "P2": 25.118298308541338
+          },
+          {
+            "P1": 121.53232568557439,
+            "P2": 25.118279259841266
+          }
+        ]
+      }
+    ]
+  }
+]

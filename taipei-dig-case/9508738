@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006988",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951101~0951101",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "和興路內(與木柵路1段76巷口)",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55025985562675,
+            "P2": 24.986637933587023
+          },
+          {
+            "P1": 121.5503102003493,
+            "P2": 24.986643525400481
+          }
+        ]
+      }
+    ]
+  }
+]

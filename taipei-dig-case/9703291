@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004296",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970726~0970727",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路1146號旁邊",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56410127432537,
+            "P2": 25.082528877932017
+          },
+          {
+            "P1": 121.56413219324436,
+            "P2": 25.082567752206984
+          }
+        ]
+      }
+    ]
+  }
+]

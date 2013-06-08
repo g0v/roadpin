@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司",
+    "AC_NOpro": "95000449",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950218~0950219",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "洲子街75號旁",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57136927697005,
+            "P2": 25.079756659855331
+          },
+          {
+            "P1": 121.57143712176996,
+            "P2": 25.079679931740998
+          }
+        ]
+      }
+    ]
+  }
+]

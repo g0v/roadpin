@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000418",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930225~0930226",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖三路與行愛路口",
+    "TC_NApro": "躍眾營造(TEM92139)NVG210212",
+    "PURPpro": "",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.579569915526,
+            "P2": 25.064397444908636
+          },
+          {
+            "P1": 121.57948524551243,
+            "P2": 25.064539785502067
+          }
+        ]
+      }
+    ]
+  }
+]

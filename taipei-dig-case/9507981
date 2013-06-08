@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95006262",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951021~0951022",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路6310號前中央分隔島路燈",
+    "TC_NApro": "捷航科技工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59001037494089,
+            "P2": 25.049263983136779
+          },
+          {
+            "P1": 121.59001428762623,
+            "P2": 25.04925322429186
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005916",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971011~0971013",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街1329號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50924257100596,
+            "P2": 25.062299303197214
+          },
+          {
+            "P1": 121.50924246598821,
+            "P2": 25.062273898627467
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50924251543685,
+            "P2": 25.062285860622833
+          },
+          {
+            "P1": 121.50927368696227,
+            "P2": 25.062285753711816
+          }
+        ]
+      }
+    ]
+  }
+]

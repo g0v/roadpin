@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000716",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950216~0950219",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功橋旁重陽路39巷底",
+    "TC_NApro": "大湖導管工程實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59276622207344,
+            "P2": 25.057927453043632
+          },
+          {
+            "P1": 121.59264648604891,
+            "P2": 25.058152185784159
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59264204564705,
+            "P2": 25.058156266092993
+          },
+          {
+            "P1": 121.59275421513478,
+            "P2": 25.05821287517783
+          }
+        ]
+      }
+    ]
+  }
+]

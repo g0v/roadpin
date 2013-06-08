@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "96006852",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961116~0961118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "臨沂街7131號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53013216751158,
+            "P2": 25.035093299756181
+          },
+          {
+            "P1": 121.530154449785,
+            "P2": 25.035071634164666
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53013335657624,
+            "P2": 25.03506331331895
+          },
+          {
+            "P1": 121.53014128000061,
+            "P2": 25.035069279685064
+          }
+        ]
+      }
+    ]
+  }
+]

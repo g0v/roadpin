@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000995",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980210~0980210",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路3881號左側",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5274484790161,
+            "P2": 25.067833034611109
+          },
+          {
+            "P1": 121.52746455607344,
+            "P2": 25.0678329774908
+          }
+        ]
+      }
+    ]
+  }
+]

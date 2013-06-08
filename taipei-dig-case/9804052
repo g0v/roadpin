@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "98003097",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980429~0980430",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖三路23號斜對面(湖元里0321)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57547604060973,
+            "P2": 25.062810748637762
+          },
+          {
+            "P1": 121.5754978896113,
+            "P2": 25.06277339643292
+          }
+        ]
+      }
+    ]
+  }
+]

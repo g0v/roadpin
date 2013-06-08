@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007295",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961205~0961207",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "三重路100旁巷內",
+    "TC_NApro": "俍銓營造(TEQ96199)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61621031466333,
+            "P2": 25.062213932053726
+          },
+          {
+            "P1": 121.61635685917857,
+            "P2": 25.062151220591328
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.6162050596365,
+            "P2": 25.062211561457907
+          },
+          {
+            "P1": 121.61619970905625,
+            "P2": 25.062190088132613
+          }
+        ]
+      }
+    ]
+  }
+]

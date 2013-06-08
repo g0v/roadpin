@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008048",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980809~0980809",
+    "CO_TIpro": "日間施工11時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松高路松高路與松仁路口西南側",
+    "TC_NApro": "寶隆瓦斯工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56816972426421,
+            "P2": 25.038776604548104
+          },
+          {
+            "P1": 121.56816957635748,
+            "P2": 25.038744501471548
+          }
+        ]
+      }
+    ]
+  }
+]

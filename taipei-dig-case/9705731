@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97004851",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970820~0970822",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "延吉街55號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55374780182201,
+            "P2": 25.044813740026516
+          },
+          {
+            "P1": 121.55370845626577,
+            "P2": 25.044811024797742
+          }
+        ]
+      }
+    ]
+  }
+]

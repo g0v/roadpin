@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004893",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970825~0970827",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路615022號前至溪口街36巷11號前",
+    "TC_NApro": "德俊工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5404930992833,
+            "P2": 24.995388142961747
+          },
+          {
+            "P1": 121.54009346776488,
+            "P2": 24.995343731556304
+          }
+        ]
+      }
+    ]
+  }
+]

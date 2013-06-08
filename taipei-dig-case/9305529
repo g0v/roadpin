@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003925",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931022~0931023",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "舊莊街一352號",
+    "TC_NApro": "躍眾營(TEN93107)",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61898493027361,
+            "P2": 25.042826314278614
+          },
+          {
+            "P1": 121.61901567136255,
+            "P2": 25.042850110294371
+          },
+          {
+            "P1": 121.61906371240652,
+            "P2": 25.042825986015814
+          }
+        ]
+      }
+    ]
+  }
+]

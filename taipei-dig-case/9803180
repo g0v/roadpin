@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002858",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980323~0980323",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路3744號(瑩雪里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5156506726793,
+            "P2": 25.026282870728348
+          },
+          {
+            "P1": 121.51566953647125,
+            "P2": 25.026279934353724
+          }
+        ]
+      }
+    ]
+  }
+]

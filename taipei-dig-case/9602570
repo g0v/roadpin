@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002104",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960515~0960517",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路475號旁",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54715207428345,
+            "P2": 25.041562482707665
+          },
+          {
+            "P1": 121.54712586305344,
+            "P2": 25.041562579235265
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54715128484048,
+            "P2": 25.041567703821141
+          },
+          {
+            "P1": 121.54715204115377,
+            "P2": 25.041555016641979
+          }
+        ]
+      }
+    ]
+  }
+]

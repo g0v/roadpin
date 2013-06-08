@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002000",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960507~0960509",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "堤頂大道2與樂群ㄧ路交接路口中央分隔島上紅綠燈到堤頂大道上手孔(金泰里)",
+    "TC_NApro": "松下資訊科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56850422742636,
+            "P2": 25.077070989212984
+          },
+          {
+            "P1": 121.56852140667323,
+            "P2": 25.077010995712371
+          }
+        ]
+      }
+    ]
+  }
+]

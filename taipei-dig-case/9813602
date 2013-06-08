@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "98010816",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981109~0981112",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路2301口(興泰里)",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55325597402914,
+            "P2": 25.001207613249257
+          },
+          {
+            "P1": 121.55324534398321,
+            "P2": 25.001176596189389
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55324931963121,
+            "P2": 25.001186133111734
+          },
+          {
+            "P1": 121.55321004897805,
+            "P2": 25.001197031615202
+          }
+        ]
+      }
+    ]
+  }
+]

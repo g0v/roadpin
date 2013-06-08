@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005589",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950920~0950922",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路253-4號對面槽化島上(東門里)(1處)",
+    "TC_NApro": "京翔科技股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52263446531579,
+            "P2": 25.032481188497066
+          },
+          {
+            "P1": 121.52255595965039,
+            "P2": 25.032522090892112
+          }
+        ]
+      }
+    ]
+  }
+]

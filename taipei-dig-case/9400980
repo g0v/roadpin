@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000967",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940325~0940327",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路226529對面",
+    "TC_NApro": "春元工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54401208498678,
+            "P2": 25.027304340899967
+          },
+          {
+            "P1": 121.54404380042818,
+            "P2": 25.027306030426164
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54404107154457,
+            "P2": 25.027136583756146
+          },
+          {
+            "P1": 121.54404107154457,
+            "P2": 25.027136583756146
+          }
+        ]
+      }
+    ]
+  }
+]

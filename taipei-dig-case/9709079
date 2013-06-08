@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97007261",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971119~0971119",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "秀明路2165號前",
+    "TC_NApro": "軒展工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57688039040761,
+            "P2": 24.990120285843378
+          },
+          {
+            "P1": 121.57688027680398,
+            "P2": 24.99009594660653
+          }
+        ]
+      }
+    ]
+  }
+]

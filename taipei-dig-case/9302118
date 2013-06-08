@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "景美國中                                                                        ",
+    "AC_NOpro": "93001468",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930510~0930511",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景華街52側門",
+    "TC_NApro": "偉麒工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54367877492878,
+            "P2": 24.993803984912017
+          },
+          {
+            "P1": 121.54367859380845,
+            "P2": 24.9937628174427
+          }
+        ]
+      }
+    ]
+  }
+]

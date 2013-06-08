@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001191",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950320~0950321",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松德路200內(近信義路五段91巷)",
+    "TC_NApro": "俍銓營造(TEP95019)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57218145386288,
+            "P2": 25.034425593774021
+          },
+          {
+            "P1": 121.57221296483847,
+            "P2": 25.03442547243931
+          }
+        ]
+      }
+    ]
+  }
+]

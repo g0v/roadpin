@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002418",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980413~0980415",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "天母西路1206號旁(榮華里)",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52271130791795,
+            "P2": 25.118536779712805
+          },
+          {
+            "P1": 121.52274886076697,
+            "P2": 25.11852058653508
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52275007264505,
+            "P2": 25.118528075475854
+          },
+          {
+            "P1": 121.52274649247822,
+            "P2": 25.118516315629211
+          }
+        ]
+      }
+    ]
+  }
+]

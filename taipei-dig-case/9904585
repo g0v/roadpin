@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004755",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980722~0980724",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山里中山北路265211號對面",
+    "TC_NApro": "安宏營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52420722477859,
+            "P2": 25.056414543538072
+          },
+          {
+            "P1": 121.5242222834046,
+            "P2": 25.056415402214924
+          }
+        ]
+      }
+    ]
+  }
+]

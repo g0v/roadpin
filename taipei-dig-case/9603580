@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "96002772",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960612~0960614",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "永康街123號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52912669697322,
+            "P2": 25.031481576525525
+          },
+          {
+            "P1": 121.52911949571602,
+            "P2": 25.031454472821284
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52901614553277,
+            "P2": 25.031498771324873
+          },
+          {
+            "P1": 121.529011790493,
+            "P2": 25.0314768215384
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006934",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980608~0980608",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "明水路457號(永安里30003)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55072807139757,
+            "P2": 25.077190928374712
+          },
+          {
+            "P1": 121.55073371166004,
+            "P2": 25.077190907445381
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971201~0971201",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "福德街2682615號(中行里0236)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58642154523477,
+            "P2": 25.039675134631125
+          },
+          {
+            "P1": 121.5864235186514,
+            "P2": 25.039677510234526
+          }
+        ]
+      }
+    ]
+  }
+]

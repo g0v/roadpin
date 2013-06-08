@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司",
+    "AC_NOpro": "98011941",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981201~0981205",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路330368號前(中正里)",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5473472246003,
+            "P2": 25.05214565958288
+          },
+          {
+            "P1": 121.54729928849494,
+            "P2": 25.052157301822469
+          }
+        ]
+      }
+    ]
+  }
+]

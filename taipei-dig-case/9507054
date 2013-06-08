@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005496",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950913~0950914",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街1272號",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50924434686195,
+            "P2": 25.060592508138051
+          },
+          {
+            "P1": 121.50926327748049,
+            "P2": 25.060592443214219
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50926323008615,
+            "P2": 25.060580977751943
+          },
+          {
+            "P1": 121.50926313529757,
+            "P2": 25.060558046827349
+          }
+        ]
+      }
+    ]
+  }
+]

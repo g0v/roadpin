@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "97005036",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970903~0970905",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路158口(試院里)",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54730680614978,
+            "P2": 24.986687572575445
+          },
+          {
+            "P1": 121.54731918004569,
+            "P2": 24.98663879335971
+          }
+        ]
+      }
+    ]
+  }
+]

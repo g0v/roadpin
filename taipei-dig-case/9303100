@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "李倫常                                                                          ",
+    "AC_NOpro": "93002122",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930619~0930620",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路362號前",
+    "TC_NApro": "",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51099783594079,
+            "P2": 25.053507226146429
+          },
+          {
+            "P1": 121.511020046868,
+            "P2": 25.053509767862554
+          }
+        ]
+      }
+    ]
+  }
+]

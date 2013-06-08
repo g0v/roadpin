@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000907",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940317~0940319",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "知行路270號274號前2處",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46732729080597,
+            "P2": 25.121111846655332
+          },
+          {
+            "P1": 121.46732729080597,
+            "P2": 25.121111846655332
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46730810825225,
+            "P2": 25.121022078386204
+          },
+          {
+            "P1": 121.46730810825225,
+            "P2": 25.121022078386204
+          }
+        ]
+      }
+    ]
+  }
+]

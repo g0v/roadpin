@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007505",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980816~0980817",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "試院路84口-(拆除交接箱基礎台共一座)(華興里)",
+    "TC_NApro": "躍眾營造(股)公司NUG876211KZ3",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54868965903394,
+            "P2": 24.9896147711618
+          },
+          {
+            "P1": 121.54866609302073,
+            "P2": 24.98961916446353
+          }
+        ]
+      }
+    ]
+  }
+]

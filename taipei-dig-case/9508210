@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951103~0951105",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路250號及54號前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52888709259462,
+            "P2": 25.037827063946974
+          },
+          {
+            "P1": 121.52892484762721,
+            "P2": 25.037826929555525
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52878322909324,
+            "P2": 25.037824544626936
+          },
+          {
+            "P1": 121.5288179121939,
+            "P2": 25.037824421194834
+          }
+        ]
+      }
+    ]
+  }
+]

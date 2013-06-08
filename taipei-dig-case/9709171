@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "97007373",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980110~0980111",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "舊佳里中山北路5697號前",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52719448987646,
+            "P2": 25.097454876312902
+          },
+          {
+            "P1": 121.52723544286495,
+            "P2": 25.097463325398927
+          }
+        ]
+      }
+    ]
+  }
+]

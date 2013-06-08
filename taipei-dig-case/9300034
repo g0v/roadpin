@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000136",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930206~0930208",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "辛亥路117口及汀州路口",
+    "TC_NApro": "世堡企業有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52783242191327,
+            "P2": 25.017932850662472
+          },
+          {
+            "P1": 121.52776096845226,
+            "P2": 25.0179984676615
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52800041109624,
+            "P2": 25.018847521356289
+          },
+          {
+            "P1": 121.52798488443551,
+            "P2": 25.018831145385825
+          }
+        ]
+      }
+    ]
+  }
+]

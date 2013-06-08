@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "96004056",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960822~0960824",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "衡陽路20號22號",
+    "TC_NApro": "七峰營造(TSQ70093)nu16125811",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51302892485137,
+            "P2": 25.042027388687814
+          },
+          {
+            "P1": 121.51303833514731,
+            "P2": 25.042021623368182
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51289672970808,
+            "P2": 25.042016379466659
+          },
+          {
+            "P1": 121.51291245659128,
+            "P2": 25.04201632517292
+          }
+        ]
+      }
+    ]
+  }
+]

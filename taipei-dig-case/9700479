@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97000430",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970129~0970130",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路21811-1號對面(龍安國小)",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53589430802938,
+            "P2": 25.023167260121603
+          },
+          {
+            "P1": 121.53580970132265,
+            "P2": 25.023167565109659
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001650",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940521~0940522",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "環東大道路505號後重陽路505號後旁",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61181661498446,
+            "P2": 25.061556883155582
+          },
+          {
+            "P1": 121.61177641842949,
+            "P2": 25.061585667372309
+          }
+        ]
+      }
+    ]
+  }
+]

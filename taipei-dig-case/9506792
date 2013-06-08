@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005199",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950904~0950906",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分，幹道利用夜間21時至翌日清晨1時施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路250號對面(幸市里)(1處)",
+    "TC_NApro": "京翔科技股份有限公司",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53126951689653,
+            "P2": 25.04016324134362
+          },
+          {
+            "P1": 121.53124816891936,
+            "P2": 25.040084502753739
+          }
+        ]
+      }
+    ]
+  }
+]

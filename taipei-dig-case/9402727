@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002174",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940604~0940605",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門街41號之1號邊",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51764281829449,
+            "P2": 25.02563397719431
+          },
+          {
+            "P1": 121.51760510290109,
+            "P2": 25.025642685215274
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣電力股份有限公司臺北市區營業處",
+    "AC_NOpro": "95001867",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950422~0950423",
+    "CO_TIpro": "週休二日日間施工上午8時至下午16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "青島東路15號",
+    "TC_NApro": "金樹水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52340467433265,
+            "P2": 25.043167707251765
+          },
+          {
+            "P1": 121.52344301513988,
+            "P2": 25.043305159785945
+          }
+        ]
+      }
+    ]
+  }
+]

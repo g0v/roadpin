@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006205",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980618~0980618",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "軍功路15012號邊",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56676356774456,
+            "P2": 25.004969861310663
+          },
+          {
+            "P1": 121.56677927659341,
+            "P2": 25.004966930523988
+          }
+        ]
+      }
+    ]
+  }
+]

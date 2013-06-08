@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002070",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940526~0940527",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "三重路100南港經貿園區(經貿地飆)",
+    "TC_NApro": "雍銓營造(TEO94039)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61494519556673,
+            "P2": 25.061525180938897
+          },
+          {
+            "P1": 121.61500462937993,
+            "P2": 25.061458669669349
+          }
+        ]
+      }
+    ]
+  }
+]

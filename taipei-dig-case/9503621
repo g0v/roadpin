@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95002795",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950518~0950520",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "國興路104號前方右側路燈",
+    "TC_NApro": "巨人水電工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50530994806233,
+            "P2": 25.027237282478072
+          },
+          {
+            "P1": 121.5053148214145,
+            "P2": 25.027241689676405
+          }
+        ]
+      }
+    ]
+  }
+]

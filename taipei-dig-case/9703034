@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002489",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970510~0970511",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "蘭州街47號前",
+    "TC_NApro": "奕揚營造720155-192",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51485767205776,
+            "P2": 25.063045110949439
+          },
+          {
+            "P1": 121.51478035184358,
+            "P2": 25.062974093613068
+          }
+        ]
+      }
+    ]
+  }
+]

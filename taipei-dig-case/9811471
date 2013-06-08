@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009356",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981026~0981027",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶里敦煌路21等2處",
+    "TC_NApro": "品田營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51722190917174,
+            "P2": 25.075980908634492
+          },
+          {
+            "P1": 121.51732009135674,
+            "P2": 25.075928294191705
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51751689595457,
+            "P2": 25.076505591281194
+          },
+          {
+            "P1": 121.51741755621849,
+            "P2": 25.076584770338066
+          }
+        ]
+      }
+    ]
+  }
+]

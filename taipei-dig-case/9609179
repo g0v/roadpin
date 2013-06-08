@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "和順汽車電機行",
+    "AC_NOpro": "96007637",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970114~0970115",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "長順街41號",
+    "TC_NApro": "中投工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49175134768302,
+            "P2": 25.030608649825457
+          },
+          {
+            "P1": 121.49184240781338,
+            "P2": 25.030565347645076
+          }
+        ]
+      }
+    ]
+  }
+]

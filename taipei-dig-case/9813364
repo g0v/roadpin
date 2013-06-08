@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010786",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981107~0981108",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "建國南路1(212巷口)(民輝里)",
+    "TC_NApro": "七峰營造有限公司708",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53738896785357,
+            "P2": 25.039471163023666
+          },
+          {
+            "P1": 121.53749331951507,
+            "P2": 25.03947621142277
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53763341118908,
+            "P2": 25.039475704570279
+          },
+          {
+            "P1": 121.53765130982086,
+            "P2": 25.039478357246459
+          }
+        ]
+      }
+    ]
+  }
+]

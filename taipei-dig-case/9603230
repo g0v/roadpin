@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "96003961",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960723~0960725",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路39與向陽路258巷交岔口約20公尺處(東新里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59429816134843,
+            "P2": 25.058116893987162
+          },
+          {
+            "P1": 121.59430092759699,
+            "P2": 25.058147930107577
+          }
+        ]
+      }
+    ]
+  }
+]

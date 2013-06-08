@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000471",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930227~0930229",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "復興路四路12左中和街口",
+    "TC_NApro": "福康營造股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49946806252783,
+            "P2": 25.141145283380261
+          },
+          {
+            "P1": 121.49947945332815,
+            "P2": 25.141117258290464
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49974600937028,
+            "P2": 25.14147314440709
+          },
+          {
+            "P1": 121.49973447599092,
+            "P2": 25.141466141503166
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009268",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981107~0981114",
+    "CO_TIpro": "周休二日日間施工9時30分至17時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "懷寧街寶慶路口(黎明里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51392771682,
+            "P2": 25.040814304297708
+          },
+          {
+            "P1": 121.51389546504755,
+            "P2": 25.040625232633708
+          }
+        ]
+      }
+    ]
+  }
+]

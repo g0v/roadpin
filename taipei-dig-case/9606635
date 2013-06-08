@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96005601",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960928~0960929",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街3502號附近",
+    "TC_NApro": "俍銓營造(TEQ96191)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56614861558359,
+            "P2": 25.025386477801369
+          },
+          {
+            "P1": 121.56630379982288,
+            "P2": 25.02549576690658
+          }
+        ]
+      }
+    ]
+  }
+]

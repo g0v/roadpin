@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "90000898",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0900401~0900406",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路六1151911號前車道旁等八筆",
+    "TC_NApro": "馬亞科技工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61179901909122,
+            "P2": 25.06048849795685
+          },
+          {
+            "P1": 121.61179290156838,
+            "P2": 25.060474078443516
+          }
+        ]
+      }
+    ]
+  }
+]

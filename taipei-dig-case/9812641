@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "98010609",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980930~0980930",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康寧路31892116號(明湖里30433)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61251438018016,
+            "P2": 25.070836906004178
+          },
+          {
+            "P1": 121.61253812976541,
+            "P2": 25.070811006164597
+          }
+        ]
+      }
+    ]
+  }
+]

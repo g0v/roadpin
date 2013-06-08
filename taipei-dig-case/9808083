@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98006309",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980803~0980805",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路113116號對面",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52617516446209,
+            "P2": 25.03603047447988
+          },
+          {
+            "P1": 121.52618302633618,
+            "P2": 25.036029011178449
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52617375773947,
+            "P2": 25.03606773828507
+          },
+          {
+            "P1": 121.52616261399452,
+            "P2": 25.036036251741788
+          }
+        ]
+      }
+    ]
+  }
+]

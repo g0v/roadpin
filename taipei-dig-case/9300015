@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000107",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930110~0930111",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路6452號前",
+    "TC_NApro": "興業水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59419612366288,
+            "P2": 25.050100080813298
+          },
+          {
+            "P1": 121.59417900949605,
+            "P2": 25.050147636453115
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北自來水事業處陽明營業分處",
+    "AC_NOpro": "95000383",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950118~0950120",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "德行東路1099號",
+    "TC_NApro": "今道企業工程有限公司",
+    "PURPpro": "新設;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52822707639912,
+            "P2": 25.107829600485225
+          },
+          {
+            "P1": 121.52826777522394,
+            "P2": 25.10784037935294
+          }
+        ]
+      }
+    ]
+  }
+]

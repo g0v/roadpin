@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "90005103",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0901225~0901231",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "福志路6號至18號",
+    "TC_NApro": "巨門工程股份有限公司",
+    "PURPpro": "搶修;管線改善;新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53157158690706,
+            "P2": 25.098219913613644
+          },
+          {
+            "P1": 121.53161827003106,
+            "P2": 25.09823960787125
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53206871739027,
+            "P2": 25.09817849831715
+          },
+          {
+            "P1": 121.53203467236186,
+            "P2": 25.09821545461541
+          }
+        ]
+      }
+    ]
+  }
+]

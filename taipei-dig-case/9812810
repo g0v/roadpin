@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009844",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981028~0981030",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "牯嶺街896號前(南福里)",
+    "TC_NApro": "中華瓦斯工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51895272402921,
+            "P2": 25.026643146064966
+          },
+          {
+            "P1": 121.51894987574099,
+            "P2": 25.026627943689803
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5189515843867,
+            "P2": 25.026636044942684
+          },
+          {
+            "P1": 121.51896270321019,
+            "P2": 25.026633983831111
+          }
+        ]
+      }
+    ]
+  }
+]

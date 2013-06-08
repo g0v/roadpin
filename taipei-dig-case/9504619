@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003597",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950610~0950612",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民生西路4532號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52092238404613,
+            "P2": 25.057771542650396
+          },
+          {
+            "P1": 121.52095459083603,
+            "P2": 25.057770436584992
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52093348024981,
+            "P2": 25.057770510641184
+          },
+          {
+            "P1": 121.5209333943704,
+            "P2": 25.057750197843983
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001709",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960420~0960428",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景福街3及景仁街20巷內等2處",
+    "TC_NApro": "國盛電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53994182045092,
+            "P2": 24.997539617851583
+          },
+          {
+            "P1": 121.53996674422194,
+            "P2": 24.997485069899337
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53934428213411,
+            "P2": 24.998995065440127
+          },
+          {
+            "P1": 121.53932248298156,
+            "P2": 24.999043869114768
+          }
+        ]
+      }
+    ]
+  }
+]

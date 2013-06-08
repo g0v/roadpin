@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98010938",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981026~0981026",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "莒光路298號後(雙園里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49829816014066,
+            "P2": 25.030980044211624
+          },
+          {
+            "P1": 121.49830119540886,
+            "P2": 25.030951369828525
+          }
+        ]
+      }
+    ]
+  }
+]

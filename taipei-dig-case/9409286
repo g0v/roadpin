@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000687",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950207~0950209",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "金山南路215935號前",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52780796624253,
+            "P2": 25.028732776583908
+          },
+          {
+            "P1": 121.52779123091864,
+            "P2": 25.028735273593508
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52779875730425,
+            "P2": 25.028734253778264
+          },
+          {
+            "P1": 121.52780494336828,
+            "P2": 25.0287673648352
+          }
+        ]
+      }
+    ]
+  }
+]

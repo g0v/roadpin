@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003784",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980529~0980531",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路27717-1號前(中山里)",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52375680567647,
+            "P2": 25.057289198617546
+          },
+          {
+            "P1": 121.52375673986393,
+            "P2": 25.057273715758118
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52374824611212,
+            "P2": 25.057273745714518
+          },
+          {
+            "P1": 121.52376524352673,
+            "P2": 25.057273685766297
+          }
+        ]
+      }
+    ]
+  }
+]

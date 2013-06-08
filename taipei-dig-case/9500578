@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "銘異企業有限公司",
+    "AC_NOpro": "95000680",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950208~0950209",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路2209號",
+    "TC_NApro": "融成營造有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51836657923707,
+            "P2": 25.05944462563123
+          },
+          {
+            "P1": 121.51836641970664,
+            "P2": 25.059406708402808
+          }
+        ]
+      }
+    ]
+  }
+]

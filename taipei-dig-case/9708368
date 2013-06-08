@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006615",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971129~0971130",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "富陽街76號(黎平里)",
+    "TC_NApro": "瑞泰營造有限公司NUG716338",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5564253828211,
+            "P2": 25.02126433206049
+          },
+          {
+            "P1": 121.55640255622581,
+            "P2": 25.021434009482594
+          }
+        ]
+      }
+    ]
+  }
+]

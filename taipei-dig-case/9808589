@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "義芳化學工業股份有限公司",
+    "AC_NOpro": "98006456",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980724~0980725",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路1興順街口",
+    "TC_NApro": "元晶電子有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54337301906332,
+            "P2": 25.000299191449617
+          },
+          {
+            "P1": 121.54341682615304,
+            "P2": 25.000247435876236
+          }
+        ]
+      }
+    ]
+  }
+]

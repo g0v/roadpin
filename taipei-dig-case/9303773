@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003111",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930828~0930829",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路4234號前",
+    "TC_NApro": "雍銓營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55259864525718,
+            "P2": 25.037289550888755
+          },
+          {
+            "P1": 121.55253836591984,
+            "P2": 25.037283004024847
+          }
+        ]
+      }
+    ]
+  }
+]

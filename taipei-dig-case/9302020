@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001436",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930505~0930507",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母北路87(至天母北路口30公尺處)",
+    "TC_NApro": "夆典科技開發公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52692858356829,
+            "P2": 25.121591762872985
+          },
+          {
+            "P1": 121.52725820269731,
+            "P2": 25.121776476465076
+          }
+        ]
+      }
+    ]
+  }
+]

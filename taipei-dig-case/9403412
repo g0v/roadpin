@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "三樺工程有限公司                                                                ",
+    "AC_NOpro": "94004234",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940919~0940922",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠誠路116由忠誠路一段進入約20M",
+    "TC_NApro": "三樺工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52560908057684,
+            "P2": 25.10419448773251
+          },
+          {
+            "P1": 121.52563396673662,
+            "P2": 25.104194399528865
+          }
+        ]
+      }
+    ]
+  }
+]

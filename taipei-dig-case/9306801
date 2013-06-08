@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004791",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931229~0931230",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "寧夏路72號",
+    "TC_NApro": "弘偉工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51524584672612,
+            "P2": 25.05746742028505
+          },
+          {
+            "P1": 121.51535468166543,
+            "P2": 25.05749349481485
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51523070329623,
+            "P2": 25.057899013572769
+          },
+          {
+            "P1": 121.51523549555428,
+            "P2": 25.057883649262692
+          }
+        ]
+      }
+    ]
+  }
+]

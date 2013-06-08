@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000823",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970307~0970309",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "臥龍街271-1號(加油站旁)",
+    "TC_NApro": "強鋼營造有限公司NUG716091-2032",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55692623347926,
+            "P2": 25.01834790252866
+          },
+          {
+            "P1": 121.55708660958892,
+            "P2": 25.01833583603733
+          }
+        ]
+      }
+    ]
+  }
+]

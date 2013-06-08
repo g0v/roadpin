@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006201",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961023~0961025",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路2727號邊",
+    "TC_NApro": "齊得水電公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52209033891377,
+            "P2": 25.056800077165192
+          },
+          {
+            "P1": 121.52215982488855,
+            "P2": 25.056799832861806
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52216112808974,
+            "P2": 25.056798636577842
+          },
+          {
+            "P1": 121.5221612191795,
+            "P2": 25.056820132029749
+          }
+        ]
+      }
+    ]
+  }
+]

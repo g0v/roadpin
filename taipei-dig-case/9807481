@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005554",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980721~0980723",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "永康街56號前(錦安里)",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52964477641066,
+            "P2": 25.028446886703115
+          },
+          {
+            "P1": 121.52960331839849,
+            "P2": 25.028447034435551
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52964419323205,
+            "P2": 25.028440298289613
+          },
+          {
+            "P1": 121.52964508323083,
+            "P2": 25.028453728887413
+          }
+        ]
+      }
+    ]
+  }
+]

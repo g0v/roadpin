@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003655",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950619~0950621",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "基湖路122號-158號(煙波巴洛克大樓對面人行道)(1處)",
+    "TC_NApro": "京翔科技股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5633284636876,
+            "P2": 25.077367269530487
+          },
+          {
+            "P1": 121.56334417015816,
+            "P2": 25.07735529298127
+          }
+        ]
+      }
+    ]
+  }
+]

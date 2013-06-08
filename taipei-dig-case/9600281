@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001827",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960430~0960502",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路1151號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54239105793934,
+            "P2": 25.001424876766581
+          },
+          {
+            "P1": 121.54236482626219,
+            "P2": 25.001407096796502
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5424397883058,
+            "P2": 25.001332251413331
+          },
+          {
+            "P1": 121.54244786605112,
+            "P2": 25.001321839650661
+          }
+        ]
+      }
+    ]
+  }
+]

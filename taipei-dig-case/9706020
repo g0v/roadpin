@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004861",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971001~0971003",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路855號(朱園里)",
+    "TC_NApro": "台利實業有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53397336589562,
+            "P2": 25.049977318337721
+          },
+          {
+            "P1": 121.53397339589317,
+            "P2": 25.049984242737246
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53398993957346,
+            "P2": 25.050000930278525
+          },
+          {
+            "P1": 121.53398983952638,
+            "P2": 25.049977836909704
+          }
+        ]
+      }
+    ]
+  }
+]

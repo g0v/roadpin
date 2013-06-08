@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005642",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941104~0941105",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路4865915號至27號前",
+    "TC_NApro": "田峰營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49548285197785,
+            "P2": 25.019622024626617
+          },
+          {
+            "P1": 121.49543600041565,
+            "P2": 25.019551490646446
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49557399838056,
+            "P2": 25.019767885961024
+          },
+          {
+            "P1": 121.49548027588558,
+            "P2": 25.019622033212311
+          }
+        ]
+      }
+    ]
+  }
+]

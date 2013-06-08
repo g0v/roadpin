@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "98009647",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981011~0981013",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "金湖路179號附近(近康湖路1段口)紫雲里",
+    "TC_NApro": "上人科技有限公司98656-810310",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59931619283496,
+            "P2": 25.07896945317777
+          },
+          {
+            "P1": 121.59939442283535,
+            "P2": 25.078877404339782
+          }
+        ]
+      }
+    ]
+  }
+]

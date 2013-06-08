@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002038",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940528~0940529",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "市民大道八德路四段204巷口",
+    "TC_NApro": "登峰造極廣告工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56438381681578,
+            "P2": 25.047564823714161
+          },
+          {
+            "P1": 121.56440708383413,
+            "P2": 25.047559950463622
+          }
+        ]
+      }
+    ]
+  }
+]

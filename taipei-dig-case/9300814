@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000519",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930322~0930323",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路3158737號",
+    "TC_NApro": "景久工程行  申0793",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55586046878713,
+            "P2": 25.047203521760974
+          },
+          {
+            "P1": 121.55587033656808,
+            "P2": 25.047150129219208
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5558766223587,
+            "P2": 25.047203461313416
+          },
+          {
+            "P1": 121.55588244365704,
+            "P2": 25.047153785402685
+          }
+        ]
+      }
+    ]
+  }
+]

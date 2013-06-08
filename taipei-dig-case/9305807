@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004193",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931013~0931014",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路15318號前",
+    "TC_NApro": "茂德工程有限公司25013162",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52663749070511,
+            "P2": 25.049515371691285
+          },
+          {
+            "P1": 121.52662363268281,
+            "P2": 25.049472898716395
+          }
+        ]
+      }
+    ]
+  }
+]

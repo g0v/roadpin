@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006619",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951111~0951112",
+    "CO_TIpro": "周休二日施工9時30分至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路3與長興街口旁",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54505535917971,
+            "P2": 25.017339224398867
+          },
+          {
+            "P1": 121.54501784113128,
+            "P2": 25.017369154566886
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54497505589448,
+            "P2": 25.0173281434069
+          },
+          {
+            "P1": 121.54496747536048,
+            "P2": 25.017316705545092
+          }
+        ]
+      }
+    ]
+  }
+]

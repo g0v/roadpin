@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "城啟工程有限公司                                                                ",
+    "AC_NOpro": "94003278",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940806~0940807",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "嘉興街與嘉興街256巷交口",
+    "TC_NApro": "城啟工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55582959022631,
+            "P2": 25.024586329155841
+          },
+          {
+            "P1": 121.55576043413592,
+            "P2": 25.02460951898474
+          }
+        ]
+      }
+    ]
+  }
+]

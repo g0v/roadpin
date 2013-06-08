@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001165",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930422~0930423",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新明路17417號",
+    "TC_NApro": "躍眾營造TEN93026",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58540147963888,
+            "P2": 25.057393864030804
+          },
+          {
+            "P1": 121.58530538222337,
+            "P2": 25.057569295369564
+          },
+          {
+            "P1": 121.58530384917326,
+            "P2": 25.05760126046378
+          }
+        ]
+      }
+    ]
+  }
+]

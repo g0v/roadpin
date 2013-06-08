@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98005217",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980627~0980628",
+    "CO_TIpro": "周休二日施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路2250號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55053602403538,
+            "P2": 25.022612002440773
+          },
+          {
+            "P1": 121.55055482243337,
+            "P2": 25.022594734369708
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55049483529639,
+            "P2": 25.022547658532641
+          },
+          {
+            "P1": 121.55050431614379,
+            "P2": 25.022556218133762
+          }
+        ]
+      }
+    ]
+  }
+]

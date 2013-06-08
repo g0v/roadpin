@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台北大眾捷運股份有限公司",
+    "AC_NOpro": "96007322",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961208~0961209",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路4與光復南路交叉口(國父紀念館5號出口)",
+    "TC_NApro": "華上光電股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.557779361956,
+            "P2": 25.041274928729386
+          },
+          {
+            "P1": 121.55780024443772,
+            "P2": 25.041255747021683
+          }
+        ]
+      }
+    ]
+  }
+]

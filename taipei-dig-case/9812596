@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010046",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980930~0980930",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "樂群二路1166116號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55371766453033,
+            "P2": 25.077866771584819
+          },
+          {
+            "P1": 121.55371771825438,
+            "P2": 25.07787871541295
+          },
+          {
+            "P1": 121.55371766453033,
+            "P2": 25.077866771584819
+          }
+        ]
+      }
+    ]
+  }
+]

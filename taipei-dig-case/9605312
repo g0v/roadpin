@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002592",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970517~0970518",
+    "CO_TIpro": "日間施工8時至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路1319號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54376882946829,
+            "P2": 25.033887739236331
+          },
+          {
+            "P1": 121.54378185995674,
+            "P2": 25.033887691554874
+          }
+        ]
+      }
+    ]
+  }
+]

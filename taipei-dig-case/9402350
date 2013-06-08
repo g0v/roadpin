@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001942",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940523~0940525",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街507號",
+    "TC_NApro": "齊得水電企業公司",
+    "PURPpro": "管線改善;擴充;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53065336817738,
+            "P2": 25.022850063709253
+          },
+          {
+            "P1": 121.53064315345743,
+            "P2": 25.022824911839393
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53072360891305,
+            "P2": 25.022801693301744
+          },
+          {
+            "P1": 121.53073372503189,
+            "P2": 25.02280391420361
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006668",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941207~0941209",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "指南路153號",
+    "TC_NApro": "上人營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57076525372861,
+            "P2": 24.987537173903771
+          },
+          {
+            "P1": 121.57081554665348,
+            "P2": 24.9875312932983
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002920",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940719~0940721",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路719122號",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53137815960896,
+            "P2": 25.125445169569122
+          },
+          {
+            "P1": 121.53134993616447,
+            "P2": 25.125408346429609
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53160817882383,
+            "P2": 25.125296737676308
+          },
+          {
+            "P1": 121.53160500554458,
+            "P2": 25.125296749058343
+          }
+        ]
+      }
+    ]
+  }
+]

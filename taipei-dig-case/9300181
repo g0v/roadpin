@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000303",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930213~0930214",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路166-8號",
+    "TC_NApro": "景久工程行  申0914",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54803172358179,
+            "P2": 24.986773452257729
+          },
+          {
+            "P1": 121.54802378852402,
+            "P2": 24.9868157330032
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001780",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930605~0930606",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "環河北路239號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50889648427399,
+            "P2": 25.064150661839644
+          },
+          {
+            "P1": 121.50882215692867,
+            "P2": 25.064153263871418
+          }
+        ]
+      }
+    ]
+  }
+]

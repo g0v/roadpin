@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98011301",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981029~0981029",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路2393號(螢雪里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5145814094958,
+            "P2": 25.026136502454253
+          },
+          {
+            "P1": 121.51461018356,
+            "P2": 25.026122066233388
+          }
+        ]
+      }
+    ]
+  }
+]

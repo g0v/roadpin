@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "96006752",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961120~0961121",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "長沙街242號",
+    "TC_NApro": "奕揚營造(TSQ70175)un16146313",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50632813853387,
+            "P2": 25.04039002261262
+          },
+          {
+            "P1": 121.50635332681452,
+            "P2": 25.040394234137427
+          }
+        ]
+      }
+    ]
+  }
+]

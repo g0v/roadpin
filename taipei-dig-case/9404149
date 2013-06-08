@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003869",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940830~0940831",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "新光路232號(木柵捷運動物園站)",
+    "TC_NApro": "強鋼營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59636464990136,
+            "P2": 24.999972854399857
+          },
+          {
+            "P1": 121.59636449780524,
+            "P2": 24.9999413471567
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980212~0980214",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街1128號前(大有里)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50974980372011,
+            "P2": 25.056920554368659
+          },
+          {
+            "P1": 121.5097844248879,
+            "P2": 25.056923306447519
+          }
+        ]
+      }
+    ]
+  }
+]

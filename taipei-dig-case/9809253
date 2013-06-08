@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007286",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980721~0980721",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "興寧街662226號前(雙園里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49885415448239,
+            "P2": 25.03130726209961
+          },
+          {
+            "P1": 121.498851084044,
+            "P2": 25.031285550808146
+          }
+        ]
+      }
+    ]
+  }
+]

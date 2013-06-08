@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "空軍台北有線電中隊",
+    "AC_NOpro": "98004603",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980428~0980428",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "復興北路321號",
+    "TC_NApro": "空軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54432843187666,
+            "P2": 25.058973083661829
+          },
+          {
+            "P1": 121.54432659996625,
+            "P2": 25.058912891538149
+          }
+        ]
+      }
+    ]
+  }
+]

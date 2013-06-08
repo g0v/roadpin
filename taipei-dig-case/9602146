@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001838",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960517~0960518",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路232058號及57號旁",
+    "TC_NApro": "七峰營造(TSQ10070)NUG613060",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49104005064582,
+            "P2": 25.027301226066456
+          },
+          {
+            "P1": 121.49104985424178,
+            "P2": 25.027292219739454
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49089672029145,
+            "P2": 25.027169338434785
+          },
+          {
+            "P1": 121.49090898223602,
+            "P2": 25.027158085027004
+          }
+        ]
+      }
+    ]
+  }
+]

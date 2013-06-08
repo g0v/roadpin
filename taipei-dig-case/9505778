@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004680",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950802~0951231",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "公館路(三合街至公館路九二巷間)",
+    "TC_NApro": "翔益營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50755808716978,
+            "P2": 25.127336599693791
+          },
+          {
+            "P1": 121.50760274589936,
+            "P2": 25.127344571916225
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50464305898788,
+            "P2": 25.130336077341703
+          },
+          {
+            "P1": 121.5046476217771,
+            "P2": 25.130360437326008
+          }
+        ]
+      }
+    ]
+  }
+]

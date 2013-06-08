@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002133",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980311~0980312",
+    "CO_TIpro": "日夜間施工",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "四維路5220號前",
+    "TC_NApro": "寶隆工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54658830989273,
+            "P2": 25.034852505890324
+          },
+          {
+            "P1": 121.54650761169236,
+            "P2": 25.03485330826765
+          }
+        ]
+      }
+    ]
+  }
+]

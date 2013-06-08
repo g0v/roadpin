@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000480",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930322~0930327",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "新東街2628至46號",
+    "TC_NApro": "霈德工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56720919832321,
+            "P2": 25.058534011617528
+          },
+          {
+            "P1": 121.56809838160817,
+            "P2": 25.058608614469573
+          }
+        ]
+      }
+    ]
+  }
+]

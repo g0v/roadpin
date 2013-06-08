@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "96007062",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961128~0961130",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路61817號3樓",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49529182492067,
+            "P2": 25.017104006893735
+          },
+          {
+            "P1": 121.49530040279225,
+            "P2": 25.017118215656364
+          }
+        ]
+      }
+    ]
+  }
+]

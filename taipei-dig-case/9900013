@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000013",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981229~0981229",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新明路1743號前(石潭里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58507074561915,
+            "P2": 25.058072238909293
+          },
+          {
+            "P1": 121.58509360516833,
+            "P2": 25.058027243668647
+          }
+        ]
+      }
+    ]
+  }
+]

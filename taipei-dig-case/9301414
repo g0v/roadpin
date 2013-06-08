@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001426",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930507~0930508",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "育英街61號前",
+    "TC_NApro": "景久工程行 申a0122",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5383984219209,
+            "P2": 24.991865442582945
+          },
+          {
+            "P1": 121.53841881440052,
+            "P2": 24.991862299233208
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53841191178114,
+            "P2": 24.991846795868916
+          },
+          {
+            "P1": 121.53841191178114,
+            "P2": 24.991846795868916
+          }
+        ]
+      }
+    ]
+  }
+]

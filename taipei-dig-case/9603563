@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003047",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960623~0960625",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "和平西路與環河南路交叉口",
+    "TC_NApro": "七峰營造(TSQ70056)NV16573",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49463475294762,
+            "P2": 25.035518039964408
+          },
+          {
+            "P1": 121.49461270152878,
+            "P2": 25.035512380525088
+          }
+        ]
+      }
+    ]
+  }
+]

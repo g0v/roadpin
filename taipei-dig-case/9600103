@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000140",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960124~0960126",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路7235口",
+    "TC_NApro": "上人營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5036544349943,
+            "P2": 25.114882272469149
+          },
+          {
+            "P1": 121.50386278002679,
+            "P2": 25.115030616655712
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50365750886164,
+            "P2": 25.114882262026555
+          },
+          {
+            "P1": 121.50369204915984,
+            "P2": 25.114841970122406
+          }
+        ]
+      }
+    ]
+  }
+]

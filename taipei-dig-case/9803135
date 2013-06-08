@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002761",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980324~0980324",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬寧街141號前",
+    "TC_NApro": "德俊工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57044086901382,
+            "P2": 25.002942337636011
+          },
+          {
+            "P1": 121.57044108964735,
+            "P2": 25.002990113290814
+          }
+        ]
+      }
+    ]
+  }
+]

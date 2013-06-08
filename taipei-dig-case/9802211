@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "98001834",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980319~0980321",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路138728號斜對面(麗山里0624)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57011242640718,
+            "P2": 25.082104603346867
+          },
+          {
+            "P1": 121.57010555490996,
+            "P2": 25.082087115490072
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002127",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940530~0940531",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路/仁愛路",
+    "TC_NApro": "登峰造極廣告工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54863967441726,
+            "P2": 25.039024875759477
+          },
+          {
+            "P1": 121.54864274636888,
+            "P2": 25.039024864416234
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54898532384269,
+            "P2": 25.036108534780215
+          },
+          {
+            "P1": 121.54899166578599,
+            "P2": 25.036108511349632
+          }
+        ]
+      }
+    ]
+  }
+]

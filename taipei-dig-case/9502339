@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004077",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950708~0950710",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路341625口對面",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55827174623411,
+            "P2": 25.017665390819015
+          },
+          {
+            "P1": 121.55828730526483,
+            "P2": 25.017622358847227
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55881955375524,
+            "P2": 25.017752168856415
+          },
+          {
+            "P1": 121.55883200709519,
+            "P2": 25.017723503111974
+          }
+        ]
+      }
+    ]
+  }
+]

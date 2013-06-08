@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002835",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960612~0960614",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路3954",
+    "TC_NApro": "晃盛電氣工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56225018311699,
+            "P2": 24.981060409145268
+          },
+          {
+            "P1": 121.56225946598431,
+            "P2": 24.981025968003419
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56252405855618,
+            "P2": 24.981119564580563
+          },
+          {
+            "P1": 121.56253331842595,
+            "P2": 24.981082261603493
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006849",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951125~0951126",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "敬業一路與敬業三路交口",
+    "TC_NApro": "光鋒工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55608249043237,
+            "P2": 25.083632660810014
+          },
+          {
+            "P1": 121.55608261974258,
+            "P2": 25.083661279019125
+          }
+        ]
+      }
+    ]
+  }
+]

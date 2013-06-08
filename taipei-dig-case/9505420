@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004683",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950805~0950806",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路2762.8號",
+    "TC_NApro": "光鋒工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52719080718417,
+            "P2": 25.057232837213011
+          },
+          {
+            "P1": 121.52719084967298,
+            "P2": 25.057242767904587
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52702490404064,
+            "P2": 25.057235141407865
+          },
+          {
+            "P1": 121.52702494265466,
+            "P2": 25.057244169309552
+          }
+        ]
+      }
+    ]
+  }
+]

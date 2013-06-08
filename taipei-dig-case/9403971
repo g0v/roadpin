@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003058",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940730~0940731",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路144.46號",
+    "TC_NApro": "光峰工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52419082502536,
+            "P2": 25.062364972755383
+          },
+          {
+            "P1": 121.5241908607516,
+            "P2": 25.062373368701984
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52427278877316,
+            "P2": 25.062363780568663
+          },
+          {
+            "P1": 121.52427282834714,
+            "P2": 25.062373079305104
+          }
+        ]
+      }
+    ]
+  }
+]

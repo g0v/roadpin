@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97007860",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971208~0971208",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路4165口",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56188447486612,
+            "P2": 24.983892702765871
+          },
+          {
+            "P1": 121.56189067337641,
+            "P2": 24.98387260991235
+          }
+        ]
+      }
+    ]
+  }
+]

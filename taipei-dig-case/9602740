@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002399",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960526~0960527",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路1與信義路口",
+    "TC_NApro": "七峰營造(TSQ10099)NUG612120",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53247228632178,
+            "P2": 25.033754431422466
+          },
+          {
+            "P1": 121.53246855120925,
+            "P2": 25.033616857143233
+          }
+        ]
+      }
+    ]
+  }
+]

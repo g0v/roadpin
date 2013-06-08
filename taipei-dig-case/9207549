@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000032",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930110~0930112",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "愛國東路7419號",
+    "TC_NApro": "旭初工程公司 申0821",
+    "PURPpro": "管線改善;其他;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51926303841668,
+            "P2": 25.032993342844541
+          },
+          {
+            "P1": 121.51925999994583,
+            "P2": 25.032977734891624
+          }
+        ]
+      }
+    ]
+  }
+]

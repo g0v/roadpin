@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006551",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941208~0941210",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街25623號前",
+    "TC_NApro": "茂德工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53851699546925,
+            "P2": 25.02730575415745
+          },
+          {
+            "P1": 121.53853320655827,
+            "P2": 25.027296757638421
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53852183098024,
+            "P2": 25.027301222605772
+          },
+          {
+            "P1": 121.53848917554716,
+            "P2": 25.027265770347061
+          }
+        ]
+      }
+    ]
+  }
+]

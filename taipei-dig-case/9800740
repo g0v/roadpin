@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004081",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980528~0980530",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "永樂里迪化街132巷1號",
+    "TC_NApro": "昱丞工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50990695846589,
+            "P2": 25.054356146137167
+          },
+          {
+            "P1": 121.50991296638802,
+            "P2": 25.054320672326195
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50988545791965,
+            "P2": 25.054338488848526
+          },
+          {
+            "P1": 121.50989062170007,
+            "P2": 25.054319367749464
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013629",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960725~0960725",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路167(185巷口及155巷口)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51261016563164,
+            "P2": 25.0547907409443
+          },
+          {
+            "P1": 121.51258664740317,
+            "P2": 25.054809934510097
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51276919639274,
+            "P2": 25.054566612169378
+          },
+          {
+            "P1": 121.51273145998816,
+            "P2": 25.054572475269726
+          }
+        ]
+      }
+    ]
+  }
+]

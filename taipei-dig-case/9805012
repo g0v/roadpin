@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003912",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980521~0980629",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "復興北路51410號至36號",
+    "TC_NApro": "台球營造工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54266107173946,
+            "P2": 25.065675185725809
+          },
+          {
+            "P1": 121.54360775358265,
+            "P2": 25.06566455424684
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54242635803946,
+            "P2": 25.065674851744916
+          },
+          {
+            "P1": 121.54249715650535,
+            "P2": 25.065672200640691
+          }
+        ]
+      }
+    ]
+  }
+]

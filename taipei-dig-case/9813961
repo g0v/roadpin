@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "98011164",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980908~0980908",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "基河路188口",
+    "TC_NApro": "桃隆股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52216523597679,
+            "P2": 25.090142237525093
+          },
+          {
+            "P1": 121.52217465988687,
+            "P2": 25.090129583207734
+          }
+        ]
+      }
+    ]
+  }
+]
