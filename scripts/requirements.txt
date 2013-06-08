@@ -1,0 +1,17 @@
+Beaker==1.6.4
+PyYAML==3.10
+WebOb==1.2.3
+WebTest==1.4.3
+argparse==1.2.1
+bottle==0.11.6
+distribute==0.6.35
+fluent-logger==0.3.3
+gevent==0.13.8
+greenlet==0.4.0
+mock==1.0.1
+msgpack-python==0.3.0
+nose==1.2.1
+redis==2.7.2
+pygeoip==0.2.6
+ujson==1.30
+wsgiref==0.1.2

@@ -1,0 +1,116 @@
+<html>
+
+<head>
+  <title>GOV 路見不平</title>
+  <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+  <script src="http://code.jquery.com/jquery-1.10.0.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/hashgrid/6/hashgrid.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.4/handlebars.min.js"></script>
+</head>
+
+<body id="#body">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div id="main" class="container">
+
+  <form action>
+  Begin Date <input type="text" id="begin-at" /> End Date <input type="text" id="end-at" />
+  <div class="btn btn-primary" id="search">Search</div></p>
+  <div class="btn btn-primary" id="today">Today</div></p>
+  
+  </form>
+
+  <br />
+  <br />
+
+  <table class="table">
+    <thead>
+      <tr>
+      </tr>
+    </thead>
+    <tbody id="table-tbody"></tbody>
+    </tbody>
+      <script id="table-tbody-template" type="text/x-handlebars-template">
+        {% raw %}
+          {{#each data}}
+            <tr>
+              <td>{{REG_NAMEpro}}</td>
+              <td>{{CASE_RANGEpro}}</td>
+              <td>{{CASE_LOCATIONpro}}</td>
+              <td>{{beginAt}}</td>
+              <td>{{endAt}}</td>
+            </tr>
+          {{/each}}
+        {% endraw %}  
+      </script>
+  </table>
+
+</div>
+
+<script>
+  var template = Handlebars.compile($('#table-tbody-template').html())
+  var Data = Backbone.Collection.extend({
+    url: 'http://202.169.163.170:3456/get_json_today'
+  })
+  var data = new Data()
+
+
+  var render = function() {
+    var context = {
+      data: data.toJSON()
+    };
+    $('#table-tbody').html(template(context));
+  }
+  
+</script>
+
+</body>
+
+<script>
+  $('#begin-at').datepicker();
+  $('#end-at').datepicker();
+  var Table = Backbone.View.extend({
+    el: '#main',
+
+    template: Handlebars.compile($('#table-tbody-template').html()),
+
+    data: new (Backbone.Collection.extend({
+      url: 'http://202.169.163.170:3456/get_json_today'
+    }))(),
+
+    events: {
+      'click #today': 'getData'
+    },
+
+    getData: function() {
+      this.data.fetch({reset: true});
+    },
+
+    render: function() {
+      var context = {
+        data: this.data.toJSON()
+      };
+      this.$el.find('#table-tbody').html(template(context));
+    },
+
+    initialize: function() {
+      this.listenTo(this.data, 'reset', this.render); 
+    }
+
+  });
+
+  table = new Table()
+
+</script>
+
+</html>
