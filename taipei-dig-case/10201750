@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003797",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020602~1020712",
+    "CO_TIpro": "依交維計畫訂定時間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路4200號對面",
+    "TC_NApro": "力泰瓦斯設備工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51184257533316,
+            "P2": 25.075002591557666
+          },
+          {
+            "P1": 121.51175463014937,
+            "P2": 25.075043024405552
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51163739764751,
+            "P2": 25.075108403302732
+          },
+          {
+            "P1": 121.51185099503209,
+            "P2": 25.075008295322466
+          }
+        ]
+      }
+    ]
+  }
+]

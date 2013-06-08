@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102002866",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020429~1020430",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "指南路245122號附近",
+    "TC_NApro": "緯全營造有限公司W41048-2254001",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57512896849342,
+            "P2": 24.989034632995789
+          },
+          {
+            "P1": 121.57515073489871,
+            "P2": 24.988980082497232
+          }
+        ]
+      }
+    ]
+  }
+]

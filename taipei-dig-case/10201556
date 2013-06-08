@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001378",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020122~1020122",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "漢口街290819號",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50369783215031,
+            "P2": 25.045708095318151
+          },
+          {
+            "P1": 121.50370830729317,
+            "P2": 25.045705667360348
+          }
+        ]
+      }
+    ]
+  }
+]

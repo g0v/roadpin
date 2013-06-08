@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001040",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020221~1020222",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠義街68號邊(聖山里)",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53107364833828,
+            "P2": 25.105464196695671
+          },
+          {
+            "P1": 121.53108442299582,
+            "P2": 25.105470387413376
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53105306686487,
+            "P2": 25.105450927050232
+          },
+          {
+            "P1": 121.53102877490385,
+            "P2": 25.10548304530127
+          }
+        ]
+      }
+    ]
+  }
+]

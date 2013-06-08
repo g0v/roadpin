@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000414",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020111~1020111",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路15934號",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54570816660872,
+            "P2": 24.986915751721213
+          },
+          {
+            "P1": 121.54570816660872,
+            "P2": 24.986915751721213
+          },
+          {
+            "P1": 121.54572652186947,
+            "P2": 24.986918076855538
+          }
+        ]
+      }
+    ]
+  }
+]

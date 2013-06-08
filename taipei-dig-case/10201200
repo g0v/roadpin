@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102001323",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020225~1020226",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央南路132號前(中央里)",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50141945238291,
+            "P2": 25.132206791409505
+          },
+          {
+            "P1": 121.50141876688993,
+            "P2": 25.13219678170821
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50134858006858,
+            "P2": 25.132261749750008
+          },
+          {
+            "P1": 121.50142805429464,
+            "P2": 25.132253834147345
+          }
+        ]
+      }
+    ]
+  }
+]

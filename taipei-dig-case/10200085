@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102000350",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020128~1020129",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "青田街217號",
+    "TC_NApro": "軒展工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53103077095985,
+            "P2": 25.028263537478804
+          },
+          {
+            "P1": 121.53103380100019,
+            "P2": 25.028237733457622
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5309803114791,
+            "P2": 25.028235053633818
+          },
+          {
+            "P1": 121.5309944734346,
+            "P2": 25.02823787396537
+          }
+        ]
+      }
+    ]
+  }
+]

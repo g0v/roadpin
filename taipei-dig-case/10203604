@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "102003557",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1020522~1020524",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路4235口",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51186125030375,
+            "P2": 25.075617633992383
+          },
+          {
+            "P1": 121.51196680507127,
+            "P2": 25.075647369388875
+          }
+        ]
+      }
+    ]
+  }
+]
