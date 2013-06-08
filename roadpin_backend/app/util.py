@@ -7,6 +7,7 @@ import time
 import ujson as json
 import traceback
 from datetime import datetime
+from datetime import timedelta
 
 from app import cfg
 
@@ -51,3 +52,39 @@ def date_to_timestamp(the_date):
     the_timestamp = int(time.mktime(the_date_datetime.timetuple()))
     cfg.logger.debug('the_timestamp: %s', the_timestamp)
     return the_timestamp
+
+
+def date_today():
+    today = datetime.today()
+    return datetime_to_date(today)
+
+
+def date_tomorrow():
+    today = datetime.today()
+    the_timedelta = timedelta(days=1)
+    tomorrow = today + the_timedelta
+    return datetime_to_date(tomorrow)
+
+
+def datetime_to_date(the_datetime):
+    year = '%04d' % the_datetime.year
+    month = '%02d' % the_datetime.month
+    day = '%02d' % the_datetime.day
+    result = month + '/' + day + '/' + year
+    cfg.logger.debug('result: %s', result)
+    return result
+
+
+def timestamp_to_date(the_timestamp):
+    the_datetime = datetime.fromtimestamp(_float(the_timestamp))
+    return datetime_to_date(the_datetime)
+
+
+def _float(the_val, default_val=0):
+    result = default_val
+    try:
+        result = float(the_val)
+    except:
+        cfg.logger.exception('unable to _float: the_val: %s default_val: %s', the_val, default_val)
+        
+    return result
