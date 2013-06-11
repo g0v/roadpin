@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015722",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990825~0990827",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "臨沂街447號(三愛里)",
+    "TC_NApro": "七峰營造股份有限公司D6088-912210",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52845177437347,
+            "P2": 25.037084926262587
+          },
+          {
+            "P1": 121.52849263123888,
+            "P2": 25.037073315314245
+          }
+        ]
+      }
+    ]
+  }
+]

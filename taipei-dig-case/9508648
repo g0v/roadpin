@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006666",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951113~0951114",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "青田街516號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53282250623666,
+            "P2": 25.028355205973313
+          },
+          {
+            "P1": 121.53282071904609,
+            "P2": 25.028400262439014
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53280991662045,
+            "P2": 25.028399849761136
+          },
+          {
+            "P1": 121.53283201495702,
+            "P2": 25.028400221943553
+          }
+        ]
+      }
+    ]
+  }
+]

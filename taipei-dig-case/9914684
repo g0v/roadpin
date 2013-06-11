@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "99013449",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990811~0990813",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "蘭興里中山北路6405(天母橋端)(IE095)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52563398550062,
+            "P2": 25.113527586308063
+          },
+          {
+            "P1": 121.52562433751211,
+            "P2": 25.113478896545878
+          }
+        ]
+      }
+    ]
+  }
+]

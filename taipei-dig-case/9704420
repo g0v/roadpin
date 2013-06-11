@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006756",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971119~0971121",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "大湖山莊街57號附近",
+    "TC_NApro": "欣德營造97840-710426",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60342901895899,
+            "P2": 25.085210904914288
+          },
+          {
+            "P1": 121.60345838155071,
+            "P2": 25.085315879616111
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99016930",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990913~0990917",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民權東路三段106巷3弄32號對面燈桿路口監控(GE052)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5480158117352,
+            "P2": 25.061175240057615
+          },
+          {
+            "P1": 121.54803218186669,
+            "P2": 25.061172200395063
+          }
+        ]
+      }
+    ]
+  }
+]

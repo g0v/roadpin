@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006523",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951114~0951116",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路248〈巷口至巷內45米〉",
+    "TC_NApro": "秉鉅工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52156078038912,
+            "P2": 25.027693850703297
+          },
+          {
+            "P1": 121.52118850431418,
+            "P2": 25.027458711179431
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52122009234151,
+            "P2": 25.027477198255148
+          },
+          {
+            "P1": 121.5212435417961,
+            "P2": 25.027445608022671
+          }
+        ]
+      }
+    ]
+  }
+]

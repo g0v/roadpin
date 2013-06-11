@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98006121",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980323~0980323",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路4491034號(興德里)",
+    "TC_NApro": "宏泰陽企業也限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49839479883708,
+            "P2": 25.019887675475967
+          },
+          {
+            "P1": 121.49838532002728,
+            "P2": 25.019876232525611
+          }
+        ]
+      }
+    ]
+  }
+]

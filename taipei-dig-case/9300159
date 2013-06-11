@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000249",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930206~0930208",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街1182617號左",
+    "TC_NApro": "茂德工程有限公司02-25013162(0932198525)",
+    "PURPpro": "檢修;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55977522010947,
+            "P2": 25.029972278677203
+          },
+          {
+            "P1": 121.55981376310007,
+            "P2": 25.02992798638677
+          }
+        ]
+      }
+    ]
+  }
+]

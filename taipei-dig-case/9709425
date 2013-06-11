@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "雄硯工程有限公司",
+    "AC_NOpro": "97007812",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980105~0980107",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "安康路26113號前(五分里)",
+    "TC_NApro": "雄硯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61359138566705,
+            "P2": 25.066370400019622
+          },
+          {
+            "P1": 121.61356647947824,
+            "P2": 25.066348953260992
+          }
+        ]
+      }
+    ]
+  }
+]

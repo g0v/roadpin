@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94007397",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941211~0941211",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路42432號前",
+    "TC_NApro": "大臺北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4976841700051,
+            "P2": 25.02090424688533
+          },
+          {
+            "P1": 121.49766889951118,
+            "P2": 25.020876762274092
+          }
+        ]
+      }
+    ]
+  }
+]

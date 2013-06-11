@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011678",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000801~1000802",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "迪化街2317號一帶",
+    "TC_NApro": "奕揚營造有限公司0397",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51230215734397,
+            "P2": 25.073843233166571
+          },
+          {
+            "P1": 121.5122788830751,
+            "P2": 25.073843313494159
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51230215858359,
+            "P2": 25.073843531087363
+          },
+          {
+            "P1": 121.51230806512258,
+            "P2": 25.073843212776186
+          }
+        ]
+      }
+    ]
+  }
+]

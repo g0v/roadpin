@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000830",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960301~0960303",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "樂群三路56號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5517194405469,
+            "P2": 25.082499865218022
+          },
+          {
+            "P1": 121.55171956762189,
+            "P2": 25.082528212617621
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55171219919058,
+            "P2": 25.082498808782557
+          },
+          {
+            "P1": 121.55172667219048,
+            "P2": 25.082498754972889
+          }
+        ]
+      }
+    ]
+  }
+]

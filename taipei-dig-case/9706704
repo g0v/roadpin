@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "揚名汽車商行",
+    "AC_NOpro": "97005270",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970913~0970914",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "福德街85號(松隆里)",
+    "TC_NApro": "揚名汽車商行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5813411248796,
+            "P2": 25.036735041470763
+          },
+          {
+            "P1": 121.58139295648142,
+            "P2": 25.036755043363954
+          }
+        ]
+      }
+    ]
+  }
+]

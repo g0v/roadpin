@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "97000418",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970220~0970222",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "開封街222號(1處拆除)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50853212054956,
+            "P2": 25.045919908895236
+          },
+          {
+            "P1": 121.50855351911883,
+            "P2": 25.045915655645057
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50858400252052,
+            "P2": 25.045889080986225
+          },
+          {
+            "P1": 121.5085886771341,
+            "P2": 25.045909964962579
+          }
+        ]
+      }
+    ]
+  }
+]

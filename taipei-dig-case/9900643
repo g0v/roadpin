@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "99001586",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990130~0990207",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "同德路85忠孝東路6段70巷21弄口(萬福里)",
+    "TC_NApro": "奕揚營造有限公司91008-861019",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58544462632358,
+            "P2": 25.046251234406668
+          },
+          {
+            "P1": 121.5854318227855,
+            "P2": 25.046205422655106
+          }
+        ]
+      }
+    ]
+  }
+]

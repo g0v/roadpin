@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "98010282",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980804~0980804",
+    "CO_TIpro": "幹道日間施工9時至17時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4289號(新聚里30286)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5661597475837,
+            "P2": 25.049041918572978
+          },
+          {
+            "P1": 121.56615777543465,
+            "P2": 25.049041926089902
+          }
+        ]
+      }
+    ]
+  }
+]

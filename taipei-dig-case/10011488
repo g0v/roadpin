@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "力麒建設股份有限公司",
+    "AC_NOpro": "100010812",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000710~1000810",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路1109號",
+    "TC_NApro": "大巍工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51711247224807,
+            "P2": 25.02689515980536
+          },
+          {
+            "P1": 121.51730414162545,
+            "P2": 25.026837164514
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51762476685819,
+            "P2": 25.0267729871091
+          },
+          {
+            "P1": 121.51781328486409,
+            "P2": 25.026715002140246
+          }
+        ]
+      }
+    ]
+  }
+]

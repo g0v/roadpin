@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003013",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970610~0970611",
+    "CO_TIpro": "日間施工9時30分至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "長沙街242號旁",
+    "TC_NApro": "瑞泰營造RNUG711120",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.506365894486,
+            "P2": 25.040389893940826
+          },
+          {
+            "P1": 121.50644136519632,
+            "P2": 25.040379606514392
+          },
+          {
+            "P1": 121.50644288785433,
+            "P2": 25.040366700200948
+          }
+        ]
+      }
+    ]
+  }
+]

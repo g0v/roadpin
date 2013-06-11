@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000312",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960126~0960128",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路(距福林路口50公尺處)",
+    "TC_NApro": "榮電股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53098301546639,
+            "P2": 25.096026956979458
+          },
+          {
+            "P1": 121.53136421380597,
+            "P2": 25.096094385223783
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53137053389638,
+            "P2": 25.096088584671715
+          },
+          {
+            "P1": 121.5313858889529,
+            "P2": 25.096016937721025
+          }
+        ]
+      }
+    ]
+  }
+]

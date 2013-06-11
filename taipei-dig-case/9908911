@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010167",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990505~0990505",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "西湖里基湖路35與瑞光路548巷口共兩處",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56710022273221,
+            "P2": 25.078816908969348
+          },
+          {
+            "P1": 121.56709227503028,
+            "P2": 25.07880021953105
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56729839427324,
+            "P2": 25.079133845975637
+          },
+          {
+            "P1": 121.56730897000864,
+            "P2": 25.079152917768447
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007163",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980724~0980724",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松高路20口(興雅里30249)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56774995985985,
+            "P2": 25.03876974985058
+          },
+          {
+            "P1": 121.56775716678664,
+            "P2": 25.038770318161362
+          }
+        ]
+      }
+    ]
+  }
+]

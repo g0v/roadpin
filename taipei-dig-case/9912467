@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99011248",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990624~0990624",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "虎林街120131號(長春里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57517308534688,
+            "P2": 25.041950946961776
+          },
+          {
+            "P1": 121.57517292489892,
+            "P2": 25.041916550865103
+          }
+        ]
+      }
+    ]
+  }
+]

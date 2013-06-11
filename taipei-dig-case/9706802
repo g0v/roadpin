@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005382",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970829~0970829",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街28446號前",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5633642163818,
+            "P2": 25.022204253333026
+          },
+          {
+            "P1": 121.56339148359034,
+            "P2": 25.022173761593198
+          }
+        ]
+      }
+    ]
+  }
+]

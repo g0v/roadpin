@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "99020842",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991104~0991108",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港富里文德路1013口對面(NE008)",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58313667515353,
+            "P2": 25.078893930326466
+          },
+          {
+            "P1": 121.5831712456616,
+            "P2": 25.078909503132046
+          }
+        ]
+      }
+    ]
+  }
+]

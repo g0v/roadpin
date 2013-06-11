@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司",
+    "AC_NOpro": "95002130",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950506~0950507",
+    "CO_TIpro": "周休二日施工9時至17時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "濱江路301巷口",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54587435879246,
+            "P2": 25.072222794618462
+          },
+          {
+            "P1": 121.545874269943,
+            "P2": 25.07220275277902
+          }
+        ]
+      }
+    ]
+  }
+]

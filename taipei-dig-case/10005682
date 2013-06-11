@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005104",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000325~1000325",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路3140口(林興里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52839472346489,
+            "P2": 25.020037240532393
+          },
+          {
+            "P1": 121.52839785205843,
+            "P2": 25.020034367510441
+          }
+        ]
+      }
+    ]
+  }
+]

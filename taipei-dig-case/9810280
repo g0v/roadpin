@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002492",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990301~0990302",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "建國北路123距23巷口15公尺(朱崙里)",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53707990209334,
+            "P2": 25.047042197793914
+          },
+          {
+            "P1": 121.53708258172563,
+            "P2": 25.047027156416529
+          }
+        ]
+      }
+    ]
+  }
+]

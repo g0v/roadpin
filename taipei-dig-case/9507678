@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005886",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951017~0951019",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分，幹道利用夜間23時至翌日清晨05時施工。",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "中山北路1、市民大道2段(梅花里)",
+    "TC_NApro": "佰鴻工業股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52067469416936,
+            "P2": 25.047588409678745
+          },
+          {
+            "P1": 121.52067468234841,
+            "P2": 25.04758561102275
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002842",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930719~0930719",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路16610",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60119854425145,
+            "P2": 25.056467948374429
+          },
+          {
+            "P1": 121.60105351051907,
+            "P2": 25.056420055272685
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60104227778724,
+            "P2": 25.056433552403661
+          },
+          {
+            "P1": 121.60106356322231,
+            "P2": 25.056388145867196
+          }
+        ]
+      }
+    ]
+  }
+]

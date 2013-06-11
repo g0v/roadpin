@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96003244",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960628~0960701",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路5245號前",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53926128645992,
+            "P2": 25.001124037820095
+          },
+          {
+            "P1": 121.5393589113264,
+            "P2": 25.001152348060387
+          }
+        ]
+      }
+    ]
+  }
+]

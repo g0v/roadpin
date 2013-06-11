@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "100015792",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001019~1001020",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景興路1775號對面",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5450241123708,
+            "P2": 24.99265973461711
+          },
+          {
+            "P1": 121.54496286411749,
+            "P2": 24.992680028434343
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54494687818691,
+            "P2": 24.992619896650371
+          },
+          {
+            "P1": 121.54494053111412,
+            "P2": 24.992607018743971
+          }
+        ]
+      }
+    ]
+  }
+]

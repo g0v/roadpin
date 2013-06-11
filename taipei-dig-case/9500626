@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001513",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950401~0950403",
+    "CO_TIpro": "幹道日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "興中路56口-9號",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60702375230503,
+            "P2": 25.05624735199067
+          },
+          {
+            "P1": 121.60630912630573,
+            "P2": 25.056117831149574
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60677450714587,
+            "P2": 25.056250717847764
+          },
+          {
+            "P1": 121.60678470410437,
+            "P2": 25.056208154494328
+          }
+        ]
+      }
+    ]
+  }
+]

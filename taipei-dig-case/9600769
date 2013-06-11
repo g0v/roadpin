@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000727",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960226~0960227",
+    "CO_TIpro": "夜間施工0時至6時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民族東路與吉林路口東側探挖",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53051487055862,
+            "P2": 25.068154845300032
+          },
+          {
+            "P1": 121.5305139566722,
+            "P2": 25.067942690038041
+          }
+        ]
+      }
+    ]
+  }
+]

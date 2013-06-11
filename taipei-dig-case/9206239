@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92004946",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921113~0921115",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路114口",
+    "TC_NApro": "茂德工程有限公司-02-25013162(0932198525)",
+    "PURPpro": "檢修;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52544785447461,
+            "P2": 25.039360043033014
+          },
+          {
+            "P1": 121.52552150446462,
+            "P2": 25.039341636151679
+          }
+        ]
+      }
+    ]
+  }
+]

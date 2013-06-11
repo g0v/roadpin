@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99013865",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990528~0990531",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "中山南愛國西路口一帶(龍福里、新營里)",
+    "TC_NApro": "道錄科技股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51634619579077,
+            "P2": 25.034562609882421
+          },
+          {
+            "P1": 121.51642219918516,
+            "P2": 25.034555177481757
+          }
+        ]
+      }
+    ]
+  }
+]

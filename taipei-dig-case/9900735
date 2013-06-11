@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "99001136",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990130~0990131",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "濟南路337號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53593534962727,
+            "P2": 25.039968433174042
+          },
+          {
+            "P1": 121.53593603282744,
+            "P2": 25.039945499460043
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53572916900913,
+            "P2": 25.039948394171105
+          },
+          {
+            "P1": 121.53574097136277,
+            "P2": 25.039948351614779
+          }
+        ]
+      }
+    ]
+  }
+]

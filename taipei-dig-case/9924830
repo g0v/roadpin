@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024428",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991225~0991226",
+    "CO_TIpro": "週休二日日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "撫遠街2551號一帶(人行道)(新益里)",
+    "TC_NApro": "奕揚營造有限公司950103",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56715915595652,
+            "P2": 25.06050822846289
+          },
+          {
+            "P1": 121.56735173679,
+            "P2": 25.060642208515873
+          }
+        ]
+      }
+    ]
+  }
+]

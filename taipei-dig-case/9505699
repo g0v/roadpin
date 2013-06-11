@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006584",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951115~0951117",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路1150號",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49943468101246,
+            "P2": 25.037210523761438
+          },
+          {
+            "P1": 121.4994313823962,
+            "P2": 25.037179026821647
+          },
+          {
+            "P1": 121.49941880909171,
+            "P2": 25.0371819580697
+          }
+        ]
+      }
+    ]
+  }
+]

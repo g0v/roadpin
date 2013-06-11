@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "99016914",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990913~0990915",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠誠路22110號旁（三玉里）",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5307612740427,
+            "P2": 25.108904377744587
+          },
+          {
+            "P1": 121.53080539898997,
+            "P2": 25.108918556217
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53103875231274,
+            "P2": 25.109009444894816
+          },
+          {
+            "P1": 121.53105742776323,
+            "P2": 25.108957783146593
+          }
+        ]
+      }
+    ]
+  }
+]

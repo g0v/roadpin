@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005537",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990413~0990415",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "永倫里延平北路6258202號前",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50397988930722,
+            "P2": 25.089909143457831
+          },
+          {
+            "P1": 121.50397984578125,
+            "P2": 25.089898517625503
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50396823724257,
+            "P2": 25.08991317342382
+          },
+          {
+            "P1": 121.50396235899702,
+            "P2": 25.08990123126404
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011395",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000713~1000713",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "指南路131號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56974095443545,
+            "P2": 24.987466617583728
+          },
+          {
+            "P1": 121.5697737389293,
+            "P2": 24.987472459616971
+          }
+        ]
+      }
+    ]
+  }
+]

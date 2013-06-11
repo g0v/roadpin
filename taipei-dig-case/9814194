@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012926",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981219~0981220",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街200~204號附近(內溝里)",
+    "TC_NApro": "上人科技有限公司98106-830904",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62130321295315,
+            "P2": 25.075911476452784
+          },
+          {
+            "P1": 121.62120878570309,
+            "P2": 25.075909488331973
+          }
+        ]
+      }
+    ]
+  }
+]

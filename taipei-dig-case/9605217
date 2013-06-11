@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004264",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960806~0960807",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "濱江街97號",
+    "TC_NApro": "七峰營造(TNQ30160)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53452049904585,
+            "P2": 25.073405434994545
+          },
+          {
+            "P1": 121.53451972649734,
+            "P2": 25.073227477597126
+          },
+          {
+            "P1": 121.53448421091102,
+            "P2": 25.073202525667639
+          }
+        ]
+      }
+    ]
+  }
+]

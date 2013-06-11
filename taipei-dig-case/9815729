@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013336",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981224~0990107",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "集英里錦西街1-1號及4號前",
+    "TC_NApro": "偉僑營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52247721984868,
+            "P2": 25.06013059649068
+          },
+          {
+            "P1": 121.52243610575204,
+            "P2": 25.060060105766624
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52243610575204,
+            "P2": 25.060060105766624
+          },
+          {
+            "P1": 121.52234705478257,
+            "P2": 25.059995353965139
+          }
+        ]
+      }
+    ]
+  }
+]

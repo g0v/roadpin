@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004968",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941012~0941013",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路6(449巷5號前左側)",
+    "TC_NApro": "榮電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51139334243308,
+            "P2": 25.108780034517928
+          },
+          {
+            "P1": 121.51130018128251,
+            "P2": 25.108766542955873
+          }
+        ]
+      }
+    ]
+  }
+]

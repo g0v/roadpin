@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002886",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970601~0970603",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路3279號及11號前",
+    "TC_NApro": "力泰瓦斯設備工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51624295152486,
+            "P2": 25.02843953818131
+          },
+          {
+            "P1": 121.51625832787615,
+            "P2": 25.028443746027794
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51625231299028,
+            "P2": 25.028441329337838
+          },
+          {
+            "P1": 121.51623979021427,
+            "P2": 25.02847970607602
+          }
+        ]
+      }
+    ]
+  }
+]

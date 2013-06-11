@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "協運企業社",
+    "AC_NOpro": "98013717",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981229~0981231",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街13521-2號",
+    "TC_NApro": "協運企業社",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54100558568787,
+            "P2": 25.026448620680664
+          },
+          {
+            "P1": 121.54100396355514,
+            "P2": 25.026376961825324
+          }
+        ]
+      }
+    ]
+  }
+]

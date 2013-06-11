@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000738",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930322~0930324",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "久康街18號前",
+    "TC_NApro": "德俊工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56499373904599,
+            "P2": 24.98880326964149
+          },
+          {
+            "P1": 121.56497159081758,
+            "P2": 24.988833778379714
+          },
+          {
+            "P1": 121.56497159081758,
+            "P2": 24.988833778379714
+          }
+        ]
+      }
+    ]
+  }
+]

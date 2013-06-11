@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002239",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940608~0940610",
+    "CO_TIpro": "日間施工(9時至16時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街54與雲和街72巷口",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53000605778665,
+            "P2": 25.022643734180679
+          },
+          {
+            "P1": 121.53005787165736,
+            "P2": 25.022642104942587
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53005787165736,
+            "P2": 25.022642104942587
+          },
+          {
+            "P1": 121.53004478335822,
+            "P2": 25.022524606042982
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018032",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991005~0991008",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "稻香路石仙路口(稻香里)",
+    "TC_NApro": "台灣號誌股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48878842820028,
+            "P2": 25.143213733311342
+          },
+          {
+            "P1": 121.48878370722707,
+            "P2": 25.143213748888719
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.48884891006763,
+            "P2": 25.142979916956051
+          },
+          {
+            "P1": 121.48884417918541,
+            "P2": 25.142979932567965
+          }
+        ]
+      }
+    ]
+  }
+]

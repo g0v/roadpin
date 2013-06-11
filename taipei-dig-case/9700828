@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000901",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970305~0970307",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路17779號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5257075819743,
+            "P2": 25.0389772463144
+          },
+          {
+            "P1": 121.52597151528319,
+            "P2": 25.038893190879037
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52625760787998,
+            "P2": 25.038842017948078
+          },
+          {
+            "P1": 121.5263833061322,
+            "P2": 25.038805740315553
+          }
+        ]
+      }
+    ]
+  }
+]

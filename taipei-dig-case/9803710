@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005033",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980625~0980627",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路618077(近180巷口附近)(湖興里)",
+    "TC_NApro": "奕揚營造有限公司98636-810223",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59281200190624,
+            "P2": 25.066069359547065
+          },
+          {
+            "P1": 121.59294943282924,
+            "P2": 25.066018651366523
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002698",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970516~0970518",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路1143號",
+    "TC_NApro": "躍眾營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55035060210422,
+            "P2": 24.987359322416303
+          },
+          {
+            "P1": 121.55037577449339,
+            "P2": 24.987362091223158
+          }
+        ]
+      }
+    ]
+  }
+]

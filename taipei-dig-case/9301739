@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001229",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930426~0930427",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路10730號旁",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52616824834681,
+            "P2": 25.049775959084506
+          },
+          {
+            "P1": 121.52617561629904,
+            "P2": 25.04980717003194
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52621889671893,
+            "P2": 25.049800426232775
+          },
+          {
+            "P1": 121.52621617889393,
+            "P2": 25.04979059528846
+          }
+        ]
+      }
+    ]
+  }
+]

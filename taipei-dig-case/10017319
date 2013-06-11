@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016053",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001107~1001109",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬美街223號",
+    "TC_NApro": "緯全營造有限公司U41096-2054718",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56237051880865,
+            "P2": 25.002903174877254
+          },
+          {
+            "P1": 121.56237031001098,
+            "P2": 25.002857313072884
+          }
+        ]
+      }
+    ]
+  }
+]

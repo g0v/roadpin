@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001089",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970323~0970324",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "光復南路9614號前",
+    "TC_NApro": "上人營造2770088-93",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55644480750159,
+            "P2": 25.043753197416553
+          },
+          {
+            "P1": 121.55646840294554,
+            "P2": 25.04375310903653
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55650772449332,
+            "P2": 25.043750569316853
+          },
+          {
+            "P1": 121.55653131993653,
+            "P2": 25.04375048092686
+          }
+        ]
+      }
+    ]
+  }
+]

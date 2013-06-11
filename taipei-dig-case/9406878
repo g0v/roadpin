@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005646",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941108~0941110",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "連雲街26212號邊",
+    "TC_NApro": "齊得水電工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53082837111367,
+            "P2": 25.037041110203905
+          },
+          {
+            "P1": 121.5308463537468,
+            "P2": 25.037028858081136
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53083060443042,
+            "P2": 25.037007427563996
+          },
+          {
+            "P1": 121.53082502719609,
+            "P2": 25.037000947285396
+          }
+        ]
+      }
+    ]
+  }
+]

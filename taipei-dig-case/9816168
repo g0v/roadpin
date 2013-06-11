@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012993",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981209~0981209",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路2131-1號前(新生里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52787945465786,
+            "P2": 25.060480637327831
+          },
+          {
+            "P1": 121.52787868769447,
+            "P2": 25.060449682925643
+          }
+        ]
+      }
+    ]
+  }
+]

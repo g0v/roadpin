@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002051",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940528~0940529",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "同德街85與忠孝東路6段70巷21弄交口",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58546622205567,
+            "P2": 25.046236912148157
+          },
+          {
+            "P1": 121.58553085946349,
+            "P2": 25.046262567727641
+          }
+        ]
+      }
+    ]
+  }
+]

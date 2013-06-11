@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99011087",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990622~0990622",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路11349104~126號(安湖里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61500078429205,
+            "P2": 25.070568155914142
+          },
+          {
+            "P1": 121.6149490417358,
+            "P2": 25.070605637582929
+          }
+        ]
+      }
+    ]
+  }
+]

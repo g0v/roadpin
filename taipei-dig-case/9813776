@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "98011168",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981021~0981021",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "林泉里幽雅路7號邊",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51369646925917,
+            "P2": 25.136968371597188
+          },
+          {
+            "P1": 121.51373426678951,
+            "P2": 25.136971102404161
+          }
+        ]
+      }
+    ]
+  }
+]

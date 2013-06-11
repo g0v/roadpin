@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006549",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941208~0941210",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街25620號邊",
+    "TC_NApro": "齊得水電工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5383436150714,
+            "P2": 25.02735639771166
+          },
+          {
+            "P1": 121.5383688892753,
+            "P2": 25.027380681939164
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5384190811852,
+            "P2": 25.027347547695253
+          },
+          {
+            "P1": 121.53842845653529,
+            "P2": 25.027338846791654
+          }
+        ]
+      }
+    ]
+  }
+]

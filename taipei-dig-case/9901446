@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99001291",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990122~0990122",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天玉街38186號旁(天玉里)",
+    "TC_NApro": "陽明山瓦斯股份有限公司 修護課",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52970163788463,
+            "P2": 25.119193929356111
+          },
+          {
+            "P1": 121.52970800903859,
+            "P2": 25.119199684485125
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52970243116528,
+            "P2": 25.11919392652144
+          },
+          {
+            "P1": 121.5297072094918,
+            "P2": 25.119198233840383
+          }
+        ]
+      }
+    ]
+  }
+]

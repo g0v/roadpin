@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004838",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960827~0961031",
+    "CO_TIpro": "夜間施工22時至6時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路639號前巷子",
+    "TC_NApro": "煇昇營造股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58352723071458,
+            "P2": 25.046687788976417
+          },
+          {
+            "P1": 121.58337784601146,
+            "P2": 25.046654827682719
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "原吉機車行",
+    "AC_NOpro": "94006485",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941205~0941206",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "至誠路1301號",
+    "TC_NApro": "原吉機車行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53101983751685,
+            "P2": 25.10143233126287
+          },
+          {
+            "P1": 121.53107317792109,
+            "P2": 25.101432140273229
+          }
+        ]
+      }
+    ]
+  }
+]

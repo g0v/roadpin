@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005217",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000302~1000302",
+    "CO_TIpro": "夜間施工日間完成",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路1594號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52550146420363,
+            "P2": 25.051528442809037
+          },
+          {
+            "P1": 121.52549649946383,
+            "P2": 25.05150997093423
+          }
+        ]
+      }
+    ]
+  }
+]

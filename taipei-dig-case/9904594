@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004712",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990403~0990404",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "羅斯福路4122號~130號對面(銘傳國小側)",
+    "TC_NApro": "杰昇工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53589498940694,
+            "P2": 25.013177545795003
+          },
+          {
+            "P1": 121.53597891124176,
+            "P2": 25.013073546752654
+          }
+        ]
+      }
+    ]
+  }
+]

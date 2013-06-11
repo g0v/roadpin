@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011073",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000707~1000707",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港墘路250號前",
+    "TC_NApro": "俍銓營造工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57324478442962,
+            "P2": 25.074820038475281
+          },
+          {
+            "P1": 121.57330520122447,
+            "P2": 25.074841300727247
+          },
+          {
+            "P1": 121.57330520122447,
+            "P2": 25.074841300727247
+          }
+        ]
+      }
+    ]
+  }
+]

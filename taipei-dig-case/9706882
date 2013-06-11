@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "宏普建設股份有限公司",
+    "AC_NOpro": "97005964",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971014~0971016",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "陽光街321靠近陽光街365巷附近 ,瑞光路132巷83號對面(湖元里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57802721432927,
+            "P2": 25.071399219403645
+          },
+          {
+            "P1": 121.57801651991781,
+            "P2": 25.071355069125389
+          }
+        ]
+      }
+    ]
+  }
+]

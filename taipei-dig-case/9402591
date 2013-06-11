@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940404~0940404",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "青島西路及公園路口",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5172604995436,
+            "P2": 25.044810486324749
+          },
+          {
+            "P1": 121.51730455110018,
+            "P2": 25.04479886729586
+          }
+        ]
+      }
+    ]
+  }
+]

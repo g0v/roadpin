@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100019384",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001227~1001227",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "公館路16611號後方(奇岩里)",
+    "TC_NApro": "華盛工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50612181237932,
+            "P2": 25.128670113260696
+          },
+          {
+            "P1": 121.5061118483757,
+            "P2": 25.128661101261571
+          }
+        ]
+      }
+    ]
+  }
+]

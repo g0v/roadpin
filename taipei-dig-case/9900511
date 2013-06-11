@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "99001274",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990127~0990129",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街18614號附近(內溝里)",
+    "TC_NApro": "緯全營造有限公司99002-830905",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62014038964165,
+            "P2": 25.076277573785941
+          },
+          {
+            "P1": 121.62014801946661,
+            "P2": 25.07622977517557
+          }
+        ]
+      }
+    ]
+  }
+]

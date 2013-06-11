@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "99024861",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000110~1000114",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "光復南路180距巷口13米處(DE202)",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55740218700458,
+            "P2": 25.042091322422053
+          },
+          {
+            "P1": 121.55741341700474,
+            "P2": 25.042140004553531
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017122",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001111~1001120",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港都里內湖路16679號前(NI018)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57599023307088,
+            "P2": 25.080098218269466
+          },
+          {
+            "P1": 121.57603002404613,
+            "P2": 25.080193615789227
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57599597995224,
+            "P2": 25.080205691923176
+          },
+          {
+            "P1": 121.57604574444198,
+            "P2": 25.080191162359277
+          }
+        ]
+      }
+    ]
+  }
+]

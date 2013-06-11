@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92003967",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920913~0920916",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "舊宗路2211號旁",
+    "TC_NApro": "雍銓營造(TEM92088)NVG220071",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "計畫性案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57322357548108,
+            "P2": 25.073047324300475
+          },
+          {
+            "P1": 121.57348206678887,
+            "P2": 25.072893211387655
+          },
+          {
+            "P1": 121.57367447853234,
+            "P2": 25.07312990359792
+          }
+        ]
+      }
+    ]
+  }
+]

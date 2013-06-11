@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002718",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990308~0990310",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "珠海路11314號邊",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50435624485627,
+            "P2": 25.141936011142889
+          },
+          {
+            "P1": 121.50433872803286,
+            "P2": 25.141887346892247
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50419120035637,
+            "P2": 25.14200393958205
+          },
+          {
+            "P1": 121.504202154346,
+            "P2": 25.141988130457779
+          }
+        ]
+      }
+    ]
+  }
+]

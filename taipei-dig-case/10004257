@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003732",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000306~1000306",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "建泰里承德路1105號",
+    "TC_NApro": "安大股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51775634185057,
+            "P2": 25.052595810768619
+          },
+          {
+            "P1": 121.51776108944007,
+            "P2": 25.05260296249233
+          }
+        ]
+      }
+    ]
+  }
+]

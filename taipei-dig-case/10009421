@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009543",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000427~1000429",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路184林森南路11巷口(幸福里)",
+    "TC_NApro": "昕銳開發工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52408141977323,
+            "P2": 25.043701254087281
+          },
+          {
+            "P1": 121.5241191400598,
+            "P2": 25.043692517277826
+          }
+        ]
+      }
+    ]
+  }
+]

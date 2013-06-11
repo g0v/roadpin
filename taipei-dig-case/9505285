@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004448",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950724~0950726",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南昌路1124號及126巷內拆除",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5183575256555,
+            "P2": 25.029289123837319
+          },
+          {
+            "P1": 121.51837968994167,
+            "P2": 25.029257989937019
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51805502356058,
+            "P2": 25.029057344364421
+          },
+          {
+            "P1": 121.51806554694868,
+            "P2": 25.029062092566129
+          }
+        ]
+      }
+    ]
+  }
+]

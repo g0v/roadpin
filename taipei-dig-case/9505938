@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004673",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950803~0950805",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "久康街34號前",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56516802293582,
+            "P2": 24.988986148719444
+          },
+          {
+            "P1": 121.56515250640742,
+            "P2": 24.988972214124249
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56512934120181,
+            "P2": 24.98895361397339
+          },
+          {
+            "P1": 121.56511134790044,
+            "P2": 24.988939598499531
+          }
+        ]
+      }
+    ]
+  }
+]

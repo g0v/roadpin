@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "97001951",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970417~0970420",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路1102內",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54127670118338,
+            "P2": 25.00262659361692
+          },
+          {
+            "P1": 121.54113796679732,
+            "P2": 25.002549709624095
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5411601801557,
+            "P2": 25.002595482480377
+          },
+          {
+            "P1": 121.5411821021236,
+            "P2": 25.002572480397472
+          }
+        ]
+      }
+    ]
+  }
+]

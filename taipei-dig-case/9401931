@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001777",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940414~0940414",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路4與光復南路交口 (東北角)",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55754759631348,
+            "P2": 25.033021205904266
+          },
+          {
+            "P1": 121.55756612571045,
+            "P2": 25.032999107970749
+          }
+        ]
+      }
+    ]
+  }
+]

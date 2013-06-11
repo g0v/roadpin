@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "100006387",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000326~1000326",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "八德路2251號(朱崙里40370)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54100289620409,
+            "P2": 25.046671029711934
+          },
+          {
+            "P1": 121.5410324202653,
+            "P2": 25.046678090447013
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54100826707951,
+            "P2": 25.046700270023077
+          },
+          {
+            "P1": 121.54101601779026,
+            "P2": 25.046673365325674
+          }
+        ]
+      }
+    ]
+  }
+]

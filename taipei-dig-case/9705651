@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007267",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971210~0971212",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "石牌路23579號旁(永和里)",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52492244643543,
+            "P2": 25.123834050807456
+          },
+          {
+            "P1": 121.52493882242338,
+            "P2": 25.12381637023044
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52494367292448,
+            "P2": 25.123818998243838
+          },
+          {
+            "P1": 121.52493397192249,
+            "P2": 25.123813742216871
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004091",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971025~0971025",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路1189號至東南街口",
+    "TC_NApro": "欣湖天然氣股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61213301307582,
+            "P2": 25.055002685746803
+          },
+          {
+            "P1": 121.61222225274365,
+            "P2": 25.055019037666153
+          }
+        ]
+      }
+    ]
+  }
+]

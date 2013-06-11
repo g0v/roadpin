@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015903",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990909~0990910",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路4001距1弄口約60M(劍潭里0219)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54127804931751,
+            "P2": 25.078971455992839
+          },
+          {
+            "P1": 121.54127797436871,
+            "P2": 25.078954411403842
+          }
+        ]
+      }
+    ]
+  }
+]

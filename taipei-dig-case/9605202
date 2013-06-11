@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004240",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960805~0960806",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "陽光街55號斜對面以東約50M(陽光公園)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58702775601672,
+            "P2": 25.076548935561433
+          },
+          {
+            "P1": 121.58704203458085,
+            "P2": 25.076518662516634
+          }
+        ]
+      }
+    ]
+  }
+]

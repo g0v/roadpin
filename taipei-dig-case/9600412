@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000443",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960203~0960204",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路520號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54609912144647,
+            "P2": 25.079519118264894
+          },
+          {
+            "P1": 121.54610160404535,
+            "P2": 25.079475413639436
+          }
+        ]
+      }
+    ]
+  }
+]

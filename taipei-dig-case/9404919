@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003830",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940921~0940923",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路476號延期",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53445739400749,
+            "P2": 25.014106915888831
+          },
+          {
+            "P1": 121.53448369453295,
+            "P2": 25.014140225259347
+          }
+        ]
+      }
+    ]
+  }
+]

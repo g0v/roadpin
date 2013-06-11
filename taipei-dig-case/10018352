@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017067",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001114~1001123",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "松江路87號(CE064)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53311739835492,
+            "P2": 25.050045918550367
+          },
+          {
+            "P1": 121.53312390950919,
+            "P2": 25.050045895180485
+          }
+        ]
+      }
+    ]
+  }
+]

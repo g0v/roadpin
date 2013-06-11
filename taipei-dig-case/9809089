@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "城啟工程有限公司",
+    "AC_NOpro": "98006807",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980730~0980802",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路2233與興隆路2段217巷6弄交叉口(興豐里)",
+    "TC_NApro": "城啟工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54985433847311,
+            "P2": 25.002188930986303
+          },
+          {
+            "P1": 121.54985377964981,
+            "P2": 25.002063388530722
+          }
+        ]
+      }
+    ]
+  }
+]

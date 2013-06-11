@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "大臺北瓦斯",
+    "AC_NOpro": "97007632",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971227~0971228",
+    "CO_TIpro": "周休二日日間施工9時至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "開封街222號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50861147714954,
+            "P2": 25.045918716353842
+          },
+          {
+            "P1": 121.50860747380538,
+            "P2": 25.045904402514445
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50862388144358,
+            "P2": 25.045915496003381
+          },
+          {
+            "P1": 121.50859512042533,
+            "P2": 25.045919964059905
+          }
+        ]
+      }
+    ]
+  }
+]

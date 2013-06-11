@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005625",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970920~0970921",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "華興里木柵路1287號前",
+    "TC_NApro": "躍眾營造有限公司776228",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55370618763145,
+            "P2": 24.987871614179774
+          },
+          {
+            "P1": 121.55381019132481,
+            "P2": 24.987921387241876
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "89001631",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0890410~0890412",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "仙岩路229號",
+    "TC_NApro": "泉邦有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5491202969046,
+            "P2": 24.998468586521259
+          },
+          {
+            "P1": 121.54913636265991,
+            "P2": 24.998450200196928
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009444",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990525~1000331",
+    "CO_TIpro": "全日施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "中正區及台北市全市",
+    "TC_NApro": "聖東營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5123569646572,
+            "P2": 25.024013882349085
+          },
+          {
+            "P1": 121.51249408758528,
+            "P2": 25.024204507272405
+          }
+        ]
+      }
+    ]
+  }
+]

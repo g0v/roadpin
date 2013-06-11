@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003565",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000301~1000301",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街5422號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52986334878547,
+            "P2": 25.022586391004307
+          },
+          {
+            "P1": 121.52990527969371,
+            "P2": 25.022581456657715
+          },
+          {
+            "P1": 121.52990528996617,
+            "P2": 25.02258384906165
+          }
+        ]
+      }
+    ]
+  }
+]

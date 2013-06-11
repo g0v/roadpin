@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000847",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930214~0930214",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "平菁路與永公路500巷口",
+    "TC_NApro": "欣唐股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56997822083353,
+            "P2": 25.138953209125219
+          },
+          {
+            "P1": 121.56997822083353,
+            "P2": 25.138953209125219
+          }
+        ]
+      }
+    ]
+  }
+]

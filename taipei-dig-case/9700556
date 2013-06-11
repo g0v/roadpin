@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001717",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970412~0970413",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "昆明街223號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5039211024429,
+            "P2": 25.038463117993167
+          },
+          {
+            "P1": 121.50402983943798,
+            "P2": 25.03845293564984
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50392115858921,
+            "P2": 25.038476858544165
+          },
+          {
+            "P1": 121.50391782784736,
+            "P2": 25.038452340540317
+          }
+        ]
+      }
+    ]
+  }
+]

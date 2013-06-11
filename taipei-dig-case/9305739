@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003994",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931027~0931029",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中央北路45831020-1號挖掘地點 約在捷運關渡站邊隧道上方道路(如圖)",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46493817288787,
+            "P2": 25.12376754725577
+          },
+          {
+            "P1": 121.46498503639981,
+            "P2": 25.123782657586851
+          }
+        ]
+      }
+    ]
+  }
+]

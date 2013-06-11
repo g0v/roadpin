@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "98000962",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971011~0971012",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東91402號(天祿里)",
+    "TC_NApro": "宇力工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52997690123638,
+            "P2": 25.11340233651908
+          },
+          {
+            "P1": 121.52996398611893,
+            "P2": 25.113380507917345
+          }
+        ]
+      }
+    ]
+  }
+]

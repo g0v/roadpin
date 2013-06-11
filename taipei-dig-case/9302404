@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001655",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930521~0930526",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路31154及1弄",
+    "TC_NApro": "宏旺工程有限公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58982754738015,
+            "P2": 25.086108010540705
+          },
+          {
+            "P1": 121.59036167126803,
+            "P2": 25.085898965927722
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59046457719475,
+            "P2": 25.085961932603766
+          },
+          {
+            "P1": 121.5909107691685,
+            "P2": 25.085753235926724
+          }
+        ]
+      }
+    ]
+  }
+]

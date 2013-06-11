@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011164",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000810~1000819",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路44168、芳蘭路口(DF064)",
+    "TC_NApro": "奕揚營造有限公司BP320-926040",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54402038622897,
+            "P2": 25.011507096583884
+          },
+          {
+            "P1": 121.54402663950928,
+            "P2": 25.011498478976566
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54391148897931,
+            "P2": 25.011422937968568
+          },
+          {
+            "P1": 121.54414505079484,
+            "P2": 25.011601236641351
+          }
+        ]
+      }
+    ]
+  }
+]

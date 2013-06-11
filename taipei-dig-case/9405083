@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004589",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940821~0940822",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路與臥龍街口",
+    "TC_NApro": "自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54831380765609,
+            "P2": 25.020243939794568
+          },
+          {
+            "P1": 121.5483264289351,
+            "P2": 25.020252469902594
+          },
+          {
+            "P1": 121.54831062425781,
+            "P2": 25.02024106255579
+          }
+        ]
+      }
+    ]
+  }
+]

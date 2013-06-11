@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101002031",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001224~1001224",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路5150292號",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56903162837833,
+            "P2": 25.027203366096121
+          },
+          {
+            "P1": 121.56906919153695,
+            "P2": 25.027162379457959
+          },
+          {
+            "P1": 121.56907234245072,
+            "P2": 25.027162367394045
+          }
+        ]
+      }
+    ]
+  }
+]

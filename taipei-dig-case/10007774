@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007158",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000419~1000419",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路3314巷口(玉成里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58144026612459,
+            "P2": 25.051454474998192
+          },
+          {
+            "P1": 121.58144966239171,
+            "P2": 25.051433673832541
+          }
+        ]
+      }
+    ]
+  }
+]

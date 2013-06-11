@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100008764",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000606~1000615",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "寧安街9巷1號(GB089)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55458688505912,
+            "P2": 25.049752848320935
+          },
+          {
+            "P1": 121.55457378976027,
+            "P2": 25.049756481338754
+          }
+        ]
+      }
+    ]
+  }
+]

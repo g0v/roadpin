@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013692",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990109~0990110",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "師大路92口(古莊里)",
+    "TC_NApro": "瑞通營造有限公司S18110-814652",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52823441683641,
+            "P2": 25.022358713125811
+          },
+          {
+            "P1": 121.52823434620014,
+            "P2": 25.02234221004759
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52829844278877,
+            "P2": 25.022311972934443
+          },
+          {
+            "P1": 121.52829836572884,
+            "P2": 25.0222939712179
+          }
+        ]
+      }
+    ]
+  }
+]

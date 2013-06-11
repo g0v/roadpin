@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "城啟工程有限公司",
+    "AC_NOpro": "98007464",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980814~0980817",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路1141與潮州街交叉口(錦安里)",
+    "TC_NApro": "城啟工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53044883916654,
+            "P2": 25.02805251693238
+          },
+          {
+            "P1": 121.53028557350234,
+            "P2": 25.028129061712967
+          }
+        ]
+      }
+    ]
+  }
+]

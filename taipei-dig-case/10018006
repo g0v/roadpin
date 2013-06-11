@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001103~1001112",
+    "CO_TIpro": "日間施工9時至20時避開17時至19時往後延長至22時日間施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "振華街34號前朝停車場方向(JB071)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51827541877786,
+            "P2": 25.115557179705444
+          },
+          {
+            "P1": 121.51827407967072,
+            "P2": 25.11555001617328
+          }
+        ]
+      }
+    ]
+  }
+]

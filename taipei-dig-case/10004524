@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003945",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000309~1000309",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "大道路71口(大道里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58176334654628,
+            "P2": 25.042584900030121
+          },
+          {
+            "P1": 121.58174807902394,
+            "P2": 25.042573078963706
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005670",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990413~0991231",
+    "CO_TIpro": "日間施工8時至18時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "全區",
+    "TC_NApro": "友全營造有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53706754716457,
+            "P2": 25.049949921270521
+          },
+          {
+            "P1": 121.53706802176419,
+            "P2": 25.050058842831803
+          }
+        ]
+      }
+    ]
+  }
+]

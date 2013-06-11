@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000671",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990101~0990101",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路7592號附近",
+    "TC_NApro": "俍銓營造工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55279248561708,
+            "P2": 25.0857425687931
+          },
+          {
+            "P1": 121.55278453933209,
+            "P2": 25.085725869550306
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55276876406508,
+            "P2": 25.085716376716935
+          },
+          {
+            "P1": 121.5527582114686,
+            "P2": 25.08570208862464
+          }
+        ]
+      }
+    ]
+  }
+]

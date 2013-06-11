@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007753",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000524~1000526",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "赤峰街25號前",
+    "TC_NApro": "茂德工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5192686132484,
+            "P2": 25.0538215962629
+          },
+          {
+            "P1": 121.51926573639537,
+            "P2": 25.053811549073565
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51926689461978,
+            "P2": 25.053815932656367
+          },
+          {
+            "P1": 121.51930706678608,
+            "P2": 25.053804949508319
+          }
+        ]
+      }
+    ]
+  }
+]

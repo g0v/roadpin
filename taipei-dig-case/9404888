@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003829",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940829~0940830",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東118311口",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53302880332996,
+            "P2": 25.027413651273086
+          },
+          {
+            "P1": 121.53302850614297,
+            "P2": 25.027344858453965
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53302863016576,
+            "P2": 25.027373567268324
+          },
+          {
+            "P1": 121.53323315637873,
+            "P2": 25.027375722633774
+          }
+        ]
+      }
+    ]
+  }
+]

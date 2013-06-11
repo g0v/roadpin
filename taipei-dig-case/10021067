@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000677",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001215~1001217",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路2保安街口附近",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51149777309639,
+            "P2": 25.05881316155503
+          },
+          {
+            "P1": 121.51150869719925,
+            "P2": 25.058699009359366
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51137405126328,
+            "P2": 25.0587943218022
+          },
+          {
+            "P1": 121.51138336713524,
+            "P2": 25.058689067782883
+          }
+        ]
+      }
+    ]
+  }
+]

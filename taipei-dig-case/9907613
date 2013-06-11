@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99007719",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990511~0990517",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松仁路、莊敬路477(麥當勞前)(HD098)(三張里)",
+    "TC_NApro": "強鋼營造有限公司941043",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5682722615892,
+            "P2": 25.026535831415561
+          },
+          {
+            "P1": 121.56827557090048,
+            "P2": 25.026570215577905
+          }
+        ]
+      }
+    ]
+  }
+]

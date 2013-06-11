@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004670",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980417~0980419",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "建國北路392號前至96號前",
+    "TC_NApro": "瑞泰營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53409155287027,
+            "P2": 25.066788106713862
+          },
+          {
+            "P1": 121.53427799978246,
+            "P2": 25.066649523813865
+          },
+          {
+            "P1": 121.53427799978246,
+            "P2": 25.066649523813865
+          }
+        ]
+      }
+    ]
+  }
+]

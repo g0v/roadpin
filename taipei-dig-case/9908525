@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99007705",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990505~0990506",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "辛亥路750號一帶(樟林里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55423350779419,
+            "P2": 24.984572418251904
+          },
+          {
+            "P1": 121.554245933078,
+            "P2": 24.984537965888855
+          },
+          {
+            "P1": 121.554245933078,
+            "P2": 24.984537965888855
+          }
+        ]
+      }
+    ]
+  }
+]

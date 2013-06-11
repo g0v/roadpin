@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007807",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980822~0980823",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路470號附近(三重里)",
+    "TC_NApro": "上人科技有限公司98081-860815",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61123680244855,
+            "P2": 25.05960033243435
+          },
+          {
+            "P1": 121.61118957039486,
+            "P2": 25.05959335865527
+          }
+        ]
+      }
+    ]
+  }
+]

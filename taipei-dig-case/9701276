@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001338",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970327~0970328",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "開封街12號(麥當勞旁)",
+    "TC_NApro": "強剛營造RNU17107711",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51505392866541,
+            "P2": 25.046343047122452
+          },
+          {
+            "P1": 121.51505383282331,
+            "P2": 25.046320107146965
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51505356936194,
+            "P2": 25.0462570470408
+          },
+          {
+            "P1": 121.51505977641654,
+            "P2": 25.0462340942397
+          }
+        ]
+      }
+    ]
+  }
+]

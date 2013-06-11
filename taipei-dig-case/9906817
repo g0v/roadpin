@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99008729",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990526~0990529",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "秀明路11039內(木柵里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56534471626843,
+            "P2": 24.99081744690751
+          },
+          {
+            "P1": 121.56562419566795,
+            "P2": 24.991065758379133
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56558787932141,
+            "P2": 24.991032934909349
+          },
+          {
+            "P1": 121.56555967389126,
+            "P2": 24.991055964419516
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002919",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940714~0940716",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "美德街89號",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52466987801086,
+            "P2": 25.096651588287916
+          },
+          {
+            "P1": 121.52471351280667,
+            "P2": 25.096654322899052
+          }
+        ]
+      }
+    ]
+  }
+]

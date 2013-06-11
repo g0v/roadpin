@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006638",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971117~0971118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "舊莊街1215內(舊莊里)",
+    "TC_NApro": "緯全營造有限公司17205-760600",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.62280744072132,
+            "P2": 25.038327685392154
+          },
+          {
+            "P1": 121.62280991202916,
+            "P2": 25.038299011249023
+          }
+        ]
+      }
+    ]
+  }
+]

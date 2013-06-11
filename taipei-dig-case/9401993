@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001665",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940516~0940517",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "莊敬路391口手孔埋設工程",
+    "TC_NApro": "訓誠工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56549417909089,
+            "P2": 25.0273593113004
+          },
+          {
+            "P1": 121.56548627478681,
+            "P2": 25.027342639504518
+          }
+        ]
+      }
+    ]
+  }
+]

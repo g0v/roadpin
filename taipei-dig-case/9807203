@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005627",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980708~0980710",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路239巷口附近(梅花里)",
+    "TC_NApro": "強鋼營造有限公司28051-1624241",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52809203281224,
+            "P2": 25.043542115348568
+          },
+          {
+            "P1": 121.52807368985219,
+            "P2": 25.043544563957045
+          }
+        ]
+      }
+    ]
+  }
+]

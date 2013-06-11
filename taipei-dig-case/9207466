@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "民族汽車商行                                                                    ",
+    "AC_NOpro": "92005756",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930101~0930105",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路3113號之2號",
+    "TC_NApro": "民族汽車商行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51388376934398,
+            "P2": 25.067118696046983
+          },
+          {
+            "P1": 121.51385095363182,
+            "P2": 25.067117004024048
+          }
+        ]
+      }
+    ]
+  }
+]

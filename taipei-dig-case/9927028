@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000700",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000117~1000119",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "石牌路23258號旁（永欣里）",
+    "TC_NApro": "宇力工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52324450514936,
+            "P2": 25.122208242731077
+          },
+          {
+            "P1": 121.52326333456666,
+            "P2": 25.122193839853129
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52326803644198,
+            "P2": 25.122189534971415
+          },
+          {
+            "P1": 121.52329810638527,
+            "P2": 25.122225251775443
+          }
+        ]
+      }
+    ]
+  }
+]

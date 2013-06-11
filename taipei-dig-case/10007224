@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "100014639",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000915~1000916",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "延平北路546~30號前",
+    "TC_NApro": "上人科技有限公司NEG081038",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51099670274736,
+            "P2": 25.079829127949928
+          },
+          {
+            "P1": 121.51109782723542,
+            "P2": 25.079547872678543
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51104805510718,
+            "P2": 25.079691364001047
+          },
+          {
+            "P1": 121.51107164372122,
+            "P2": 25.079685549973536
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006454",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971018~0971019",
+    "CO_TIpro": "夜間施工日間完成。",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路121號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52513161551094,
+            "P2": 25.050700190664376
+          },
+          {
+            "P1": 121.52512705334533,
+            "P2": 25.050673835864544
+          },
+          {
+            "P1": 121.52513608388952,
+            "P2": 25.0507022061773
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100008265",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000530~1000601",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街3821號前",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52998643020342,
+            "P2": 25.024392795342351
+          },
+          {
+            "P1": 121.52998426860745,
+            "P2": 25.024415508658837
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5299813350878,
+            "P2": 25.024392298908293
+          },
+          {
+            "P1": 121.52999322959865,
+            "P2": 25.02439329472773
+          }
+        ]
+      }
+    ]
+  }
+]

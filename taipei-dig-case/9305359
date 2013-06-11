@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003696",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931013~0931015",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路125左無名巷內120公尺",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59610298018698,
+            "P2": 25.056794537662
+          },
+          {
+            "P1": 121.59615837890995,
+            "P2": 25.056588838671619
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59614346870934,
+            "P2": 25.056682247741396
+          },
+          {
+            "P1": 121.59617421508357,
+            "P2": 25.056686818857376
+          }
+        ]
+      }
+    ]
+  }
+]

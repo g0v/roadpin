@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005518",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990329~1000331",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "太原路82號    [建泰里]",
+    "TC_NApro": "輝昇營造工程有限公司",
+    "PURPpro": "搶修;人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51558221934272,
+            "P2": 25.051767014840784
+          },
+          {
+            "P1": 121.51558694875985,
+            "P2": 25.051769860317215
+          }
+        ]
+      }
+    ]
+  }
+]

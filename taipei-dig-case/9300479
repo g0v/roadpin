@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000401",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930306~0930307",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路富陽街口",
+    "TC_NApro": "世堡企業有限公司",
+    "PURPpro": "遷移;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55656114123066,
+            "P2": 25.020105407150922
+          },
+          {
+            "P1": 121.55655751567241,
+            "P2": 25.020443972771808
+          }
+        ]
+      }
+    ]
+  }
+]

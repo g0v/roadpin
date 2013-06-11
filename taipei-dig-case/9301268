@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000877",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930407~0930408",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京西路126號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52141496768027,
+            "P2": 25.051469591260716
+          },
+          {
+            "P1": 121.52141055453885,
+            "P2": 25.051574332142486
+          }
+        ]
+      }
+    ]
+  }
+]

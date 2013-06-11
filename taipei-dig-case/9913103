@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "99013206",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990805~0990806",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "浦城街31號及33號附近(古莊里)",
+    "TC_NApro": "瑞通營造有限公司18221-946413",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52678825896888,
+            "P2": 25.023096428509255
+          },
+          {
+            "P1": 121.52679160787761,
+            "P2": 25.023145141188447
+          }
+        ]
+      }
+    ]
+  }
+]

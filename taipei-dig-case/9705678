@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "97004566",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970901~0970903",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "翠山里中社路21718號前",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56265323571542,
+            "P2": 25.107819656518473
+          },
+          {
+            "P1": 121.56270527563362,
+            "P2": 25.107842390025247
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56268476186246,
+            "P2": 25.107829566937372
+          },
+          {
+            "P1": 121.56269880900535,
+            "P2": 25.107805147213629
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中瑞環境科技有限公司",
+    "AC_NOpro": "98011267",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981116~0981119",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路11111號(文祥里)",
+    "TC_NApro": "中瑞環境科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52510588605186,
+            "P2": 25.036971415274714
+          },
+          {
+            "P1": 121.52521134517501,
+            "P2": 25.036878748649002
+          }
+        ]
+      }
+    ]
+  }
+]

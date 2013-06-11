@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "宜鋒實業有限公司",
+    "AC_NOpro": "97002366",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970508~0970510",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路17716號旁(文北里)",
+    "TC_NApro": "宜鋒實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52685148055009,
+            "P2": 25.038629694954587
+          },
+          {
+            "P1": 121.5268599093329,
+            "P2": 25.038644913462758
+          }
+        ]
+      }
+    ]
+  }
+]

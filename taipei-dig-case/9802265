@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001810",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980404~0980405",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "德行東路285號前( 芝山里)",
+    "TC_NApro": "上人科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5363482977512,
+            "P2": 25.109934930885359
+          },
+          {
+            "P1": 121.53635216217666,
+            "P2": 25.109918431839766
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53635284210883,
+            "P2": 25.109924279502664
+          },
+          {
+            "P1": 121.53635541753465,
+            "P2": 25.109912326186823
+          }
+        ]
+      }
+    ]
+  }
+]

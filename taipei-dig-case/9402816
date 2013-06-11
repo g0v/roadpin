@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002488",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940622~0940624",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "試院路43號",
+    "TC_NApro": "齊德水電企業公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55037944883979,
+            "P2": 24.988091647395372
+          },
+          {
+            "P1": 121.55040146462545,
+            "P2": 24.98809734394699
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55037035785098,
+            "P2": 24.988163364127743
+          },
+          {
+            "P1": 121.55037970410048,
+            "P2": 24.988148974881135
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013156",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980826~0980826",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "復興北路4791號右前",
+    "TC_NApro": "協鼎工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54463134700026,
+            "P2": 25.064610664441755
+          },
+          {
+            "P1": 121.54462915456105,
+            "P2": 25.064540732466238
+          }
+        ]
+      }
+    ]
+  }
+]

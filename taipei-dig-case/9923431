@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021184",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990906~0990910",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路484號前",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57451779202434,
+            "P2": 24.997820022865209
+          },
+          {
+            "P1": 121.57450728904746,
+            "P2": 24.997815278554203
+          }
+        ]
+      }
+    ]
+  }
+]

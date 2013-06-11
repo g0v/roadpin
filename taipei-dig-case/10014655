@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013284",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000811~1000811",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路1552號前",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54126061465171,
+            "P2": 25.003653489064931
+          },
+          {
+            "P1": 121.54127873881247,
+            "P2": 25.003661304630469
+          },
+          {
+            "P1": 121.54129134231151,
+            "P2": 25.003666278380852
+          }
+        ]
+      }
+    ]
+  }
+]

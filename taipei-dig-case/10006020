@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006079",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000501~1000510",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "撫遠街38945號附近(GC215)",
+    "TC_NApro": "奕揚營造有限公司02013",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56761508773161,
+            "P2": 25.064941081457718
+          },
+          {
+            "P1": 121.56764426097361,
+            "P2": 25.064935273260676
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56779833247902,
+            "P2": 25.0648757855123
+          },
+          {
+            "P1": 121.56795893838975,
+            "P2": 25.064877076120212
+          }
+        ]
+      }
+    ]
+  }
+]

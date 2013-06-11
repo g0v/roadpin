@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002770",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930803~0930805",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "致遠一路二102號104.106.108",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51297793932956,
+            "P2": 25.112730444602313
+          },
+          {
+            "P1": 121.51299912719863,
+            "P2": 25.11274662166625
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51288780995503,
+            "P2": 25.112850196653184
+          },
+          {
+            "P1": 121.5129121643964,
+            "P2": 25.112864828017635
+          }
+        ]
+      }
+    ]
+  }
+]

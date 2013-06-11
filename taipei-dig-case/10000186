@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002100",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991229~0991229",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "星明里五原路166號和10號",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51773209426142,
+            "P2": 25.055918380535715
+          },
+          {
+            "P1": 121.51773594359317,
+            "P2": 25.055898063034117
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51775517267127,
+            "P2": 25.055792295598582
+          },
+          {
+            "P1": 121.51775193979978,
+            "P2": 25.055803646099033
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "偉邦營造股份有限公司",
+    "AC_NOpro": "99019023",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991011~0991015",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "樂群三路金泰段7-5地號等2筆土地",
+    "TC_NApro": "城嘉營造有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56045154351234,
+            "P2": 25.08283820175113
+          },
+          {
+            "P1": 121.56051671570035,
+            "P2": 25.082749580738909
+          }
+        ]
+      }
+    ]
+  }
+]

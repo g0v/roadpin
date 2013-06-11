@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99012929",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990727~0990729",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路6761入巷內約32m至48m處(松友里)",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57731212637445,
+            "P2": 25.035005896232796
+          },
+          {
+            "P1": 121.57729472374687,
+            "P2": 25.035030908250043
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57729690897911,
+            "P2": 25.03502989765078
+          },
+          {
+            "P1": 121.57741343375929,
+            "P2": 25.035123236969675
+          }
+        ]
+      }
+    ]
+  }
+]

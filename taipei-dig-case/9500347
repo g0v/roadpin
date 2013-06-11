@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004078",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950707~0950709",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路341629號前",
+    "TC_NApro": "吉懋工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55820538938121,
+            "P2": 25.017605513120536
+          },
+          {
+            "P1": 121.55821580602809,
+            "P2": 25.017608453268874
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5582099579852,
+            "P2": 25.017607933542564
+          },
+          {
+            "P1": 121.55819904824143,
+            "P2": 25.017649323000846
+          }
+        ]
+      }
+    ]
+  }
+]

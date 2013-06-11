@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006634",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000418~1000418",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "永公路109號(新安里)",
+    "TC_NApro": "鎮沅有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55136773495218,
+            "P2": 25.113342782673847
+          },
+          {
+            "P1": 121.55141195079108,
+            "P2": 25.113374143827848
+          },
+          {
+            "P1": 121.55139606057267,
+            "P2": 25.113339806443832
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010280",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981031~0981101",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "仁愛路4446號(紅磚)",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55892565417248,
+            "P2": 25.037205894964842
+          },
+          {
+            "P1": 121.55892582953,
+            "P2": 25.037244588450154
+          }
+        ]
+      }
+    ]
+  }
+]

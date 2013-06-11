@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000305",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921221~0921222",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "臨沂街6310號之1後側",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52928669173426,
+            "P2": 25.035920720184116
+          },
+          {
+            "P1": 121.52927363151447,
+            "P2": 25.035902349456226
+          }
+        ]
+      }
+    ]
+  }
+]

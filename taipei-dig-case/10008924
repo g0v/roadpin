@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣欣天然氣",
+    "AC_NOpro": "100011997",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000808~1000809",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "溪口街281號旁",
+    "TC_NApro": "益強工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54035124890187,
+            "P2": 24.994714502885049
+          },
+          {
+            "P1": 121.54035110926846,
+            "P2": 24.994682570998751
+          }
+        ]
+      }
+    ]
+  }
+]

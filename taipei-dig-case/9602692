@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96006585",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961110~0961111",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "行忠路行愛路口共2處",
+    "TC_NApro": "俍銓營造(TEQ96080)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57890879623307,
+            "P2": 25.065361305270738
+          },
+          {
+            "P1": 121.57885671454466,
+            "P2": 25.065440331616308
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57859236316423,
+            "P2": 25.065551241580003
+          },
+          {
+            "P1": 121.57866332875612,
+            "P2": 25.065584404632254
+          }
+        ]
+      }
+    ]
+  }
+]

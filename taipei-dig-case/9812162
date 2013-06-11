@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98009737",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980920~0980920",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路23724號(和德里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49119848524789,
+            "P2": 25.02502933881761
+          },
+          {
+            "P1": 121.49118743699344,
+            "P2": 25.025019345096648
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電北區",
+    "AC_NOpro": "100007407",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000509~1000520",
+    "CO_TIpro": "日間施工9時至16時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "溫泉路78號前(JF066)",
+    "TC_NApro": "榮電股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50537387690139,
+            "P2": 25.135200780889935
+          },
+          {
+            "P1": 121.50537952541424,
+            "P2": 25.1352502980665
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50528872572416,
+            "P2": 25.135222539800132
+          },
+          {
+            "P1": 121.50537575293832,
+            "P2": 25.135215634521167
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003854",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950630~0950702",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路34450號前(萬大國小)",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49814604209189,
+            "P2": 25.0236161877658
+          },
+          {
+            "P1": 121.4981744146348,
+            "P2": 25.023624669382549
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49823107231192,
+            "P2": 25.023644521886279
+          },
+          {
+            "P1": 121.49825629751791,
+            "P2": 25.023658792023536
+          }
+        ]
+      }
+    ]
+  }
+]

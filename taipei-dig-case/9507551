@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005930",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951005~0951008",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞光路132口附近",
+    "TC_NApro": "俍銓營造(TEP95172)",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57977816701478,
+            "P2": 25.072820723950805
+          },
+          {
+            "P1": 121.57995046881869,
+            "P2": 25.072657637705213
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57986693835439,
+            "P2": 25.072727298837684
+          },
+          {
+            "P1": 121.57965860624763,
+            "P2": 25.072501149415288
+          }
+        ]
+      }
+    ]
+  }
+]

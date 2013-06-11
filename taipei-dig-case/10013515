@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "聯維有線",
+    "AC_NOpro": "100012775",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000722~1000724",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "博愛路127號(貴陽街口)建國里",
+    "TC_NApro": "漢鑫潛鑽工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51117489914691,
+            "P2": 25.03834337357884
+          },
+          {
+            "P1": 121.51116971436507,
+            "P2": 25.038302241445241
+          }
+        ]
+      }
+    ]
+  }
+]

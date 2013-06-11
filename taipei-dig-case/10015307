@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100014205",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000921~1000930",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路4806底(敦化北路199巷口)(GD085)",
+    "TC_NApro": "奕揚營造有限公司944",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5522059300426,
+            "P2": 25.056413500637671
+          },
+          {
+            "P1": 121.55224254516186,
+            "P2": 25.056509395484376
+          }
+        ]
+      }
+    ]
+  }
+]

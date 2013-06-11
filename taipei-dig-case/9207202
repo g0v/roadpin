@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000060",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930112~0930113",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門街1479號對面",
+    "TC_NApro": "雍銓營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51945110020003,
+            "P2": 25.021456783275397
+          },
+          {
+            "P1": 121.51943378334175,
+            "P2": 25.021462170356362
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52023871723687,
+            "P2": 25.021434708940721
+          },
+          {
+            "P1": 121.52026583309836,
+            "P2": 25.021450413198657
+          }
+        ]
+      }
+    ]
+  }
+]

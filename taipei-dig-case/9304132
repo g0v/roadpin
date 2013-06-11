@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002911",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930810~0930812",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路117612號前至大安路1段176巷16號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54500733728516,
+            "P2": 25.036212646238326
+          },
+          {
+            "P1": 121.54471136438467,
+            "P2": 25.03621779412266
+          }
+        ]
+      }
+    ]
+  }
+]

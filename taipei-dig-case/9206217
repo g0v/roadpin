@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92005160",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921120~0921121",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路212830號",
+    "TC_NApro": "弘偉工程行",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52148063173372,
+            "P2": 25.061552874190507
+          },
+          {
+            "P1": 121.5214804918658,
+            "P2": 25.061519832060036
+          }
+        ]
+      }
+    ]
+  }
+]

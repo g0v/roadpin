@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000921",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940326~0940327",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松壽路與市府路口(世貿三管側)",
+    "TC_NApro": "緯全營造(TEO24013)NV2440076",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56368478721566,
+            "P2": 25.035587292807577
+          },
+          {
+            "P1": 121.56373096417977,
+            "P2": 25.035587117632943
+          }
+        ]
+      }
+    ]
+  }
+]

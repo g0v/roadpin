@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001834",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960430~0960502",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路484至504巷口",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61150719470928,
+            "P2": 25.060124104194866
+          },
+          {
+            "P1": 121.6118433752539,
+            "P2": 25.060509043365208
+          }
+        ]
+      }
+    ]
+  }
+]

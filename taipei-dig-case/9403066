@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002366",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940530~0940531",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景文街82號前",
+    "TC_NApro": "景豐工程公司",
+    "PURPpro": "",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54101387210812,
+            "P2": 24.990166706635044
+          },
+          {
+            "P1": 121.54101375671513,
+            "P2": 24.990140344985491
+          }
+        ]
+      }
+    ]
+  }
+]

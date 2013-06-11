@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98010534",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981012~0981012",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "許昌街26號(黎明里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51639096297244,
+            "P2": 25.045232269097962
+          },
+          {
+            "P1": 121.51639247261221,
+            "P2": 25.045216491824277
+          }
+        ]
+      }
+    ]
+  }
+]

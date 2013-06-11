@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006574",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941206~0941208",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "忠孝東路2121口",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53210148410832,
+            "P2": 25.042285287289182
+          },
+          {
+            "P1": 121.53217425862418,
+            "P2": 25.042385328281814
+          }
+        ]
+      }
+    ]
+  }
+]

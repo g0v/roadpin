@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001772",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980205~0980205",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路與南海路交口(廈安里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50910931003038,
+            "P2": 25.030248284791096
+          },
+          {
+            "P1": 121.5090936456993,
+            "P2": 25.030265536956392
+          }
+        ]
+      }
+    ]
+  }
+]

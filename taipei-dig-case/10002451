@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002170",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000128~1000128",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "保儀路36號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56855167902478,
+            "P2": 24.987910599142786
+          },
+          {
+            "P1": 121.56855049518914,
+            "P2": 24.987892267632777
+          }
+        ]
+      }
+    ]
+  }
+]

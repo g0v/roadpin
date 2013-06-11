@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003324",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990305~0990306",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路424119號,177號",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49486775947983,
+            "P2": 25.020723553003229
+          },
+          {
+            "P1": 121.49488395231751,
+            "P2": 25.020726704079063
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4931727725683,
+            "P2": 25.020203054262737
+          },
+          {
+            "P1": 121.49318898578773,
+            "P2": 25.020211333425838
+          }
+        ]
+      }
+    ]
+  }
+]

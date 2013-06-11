@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺灣固網",
+    "AC_NOpro": "97005974",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971018~0971019",
+    "CO_TIpro": "日間施工施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路236口",
+    "TC_NApro": "杰昇工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53138141549346,
+            "P2": 25.048102235052522
+          },
+          {
+            "P1": 121.53145413712186,
+            "P2": 25.048101974888041
+          }
+        ]
+      }
+    ]
+  }
+]

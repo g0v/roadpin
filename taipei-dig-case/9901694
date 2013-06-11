@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002394",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990224~0990226",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "和平西路3143~157號附近(青山里)",
+    "TC_NApro": "奕揚營造有限公司B9003-G813517",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49887741048097,
+            "P2": 25.03513916722175
+          },
+          {
+            "P1": 121.49854393651144,
+            "P2": 25.035146010195049
+          }
+        ]
+      }
+    ]
+  }
+]

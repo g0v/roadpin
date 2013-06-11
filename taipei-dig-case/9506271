@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006178",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951023~0951025",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母北路43旁",
+    "TC_NApro": "上人營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52700276717458,
+            "P2": 25.120345550082451
+          },
+          {
+            "P1": 121.52709058943833,
+            "P2": 25.120267868183472
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52708744107338,
+            "P2": 25.120273657274808
+          },
+          {
+            "P1": 121.52711262796598,
+            "P2": 25.120273567712474
+          }
+        ]
+      }
+    ]
+  }
+]

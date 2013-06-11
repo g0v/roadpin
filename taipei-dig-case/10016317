@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "100015138",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000929~1000930",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "育英街與羅斯福路6段口(景美里)  ",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53943584829898,
+            "P2": 24.990333587672559
+          },
+          {
+            "P1": 121.53944682584596,
+            "P2": 24.990324953116037
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53945621218617,
+            "P2": 24.990314879830564
+          },
+          {
+            "P1": 121.53946562722685,
+            "P2": 24.990309112847584
+          }
+        ]
+      }
+    ]
+  }
+]

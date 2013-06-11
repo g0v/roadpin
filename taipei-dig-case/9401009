@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000959",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940328~0940330",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信義路373內",
+    "TC_NApro": "齊得水電企業公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53701915995193,
+            "P2": 25.033604815639226
+          },
+          {
+            "P1": 121.53705087694924,
+            "P2": 25.033606506630846
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53705361974737,
+            "P2": 25.033781279911413
+          },
+          {
+            "P1": 121.53705361974737,
+            "P2": 25.033781279911413
+          }
+        ]
+      }
+    ]
+  }
+]

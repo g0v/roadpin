@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004309",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940914~0940916",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "民族街15號之1",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50526098653734,
+            "P2": 25.13233520177716
+          },
+          {
+            "P1": 121.50525939980015,
+            "P2": 25.132335207187548
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5053439757353,
+            "P2": 25.132427184615683
+          },
+          {
+            "P1": 121.50536411896675,
+            "P2": 25.13240580991436
+          }
+        ]
+      }
+    ]
+  }
+]

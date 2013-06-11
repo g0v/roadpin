@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020725",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991028~0991031",
+    "CO_TIpro": "夜間施工22時至5時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "辛亥路539號前(興業里、興得里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55375384846109,
+            "P2": 24.999138149369251
+          },
+          {
+            "P1": 121.55385323237302,
+            "P2": 24.99909001178435
+          }
+        ]
+      }
+    ]
+  }
+]

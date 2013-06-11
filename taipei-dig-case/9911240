@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010257",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990606~0990606",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "嘉興街310號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55472049212658,
+            "P2": 25.023231118502604
+          },
+          {
+            "P1": 121.5547099662726,
+            "P2": 25.02322160610181
+          }
+        ]
+      }
+    ]
+  }
+]

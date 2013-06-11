@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000759",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980108~0980109",
+    "CO_TIpro": "日夜間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路1118口",
+    "TC_NApro": "茂德工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51296350759634,
+            "P2": 25.04160298831286
+          },
+          {
+            "P1": 121.51298465718284,
+            "P2": 25.041603420861311
+          }
+        ]
+      }
+    ]
+  }
+]

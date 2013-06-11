@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信股份有限公司臺灣北區電信分公司文山營運處",
+    "AC_NOpro": "94006305",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941122~0941123",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路498號",
+    "TC_NApro": "強鋼營造股份有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57635621444176,
+            "P2": 24.999725361579035
+          },
+          {
+            "P1": 121.57638458652976,
+            "P2": 24.999733828301505
+          }
+        ]
+      }
+    ]
+  }
+]

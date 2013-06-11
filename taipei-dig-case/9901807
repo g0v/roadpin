@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002764",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990127~0990127",
+    "CO_TIpro": "夜間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路422內(鄰江里)",
+    "TC_NApro": "大銪企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51025156639582,
+            "P2": 25.068992697894778
+          },
+          {
+            "P1": 121.51025163170513,
+            "P2": 25.06900846062819
+          },
+          {
+            "P1": 121.51019020124684,
+            "P2": 25.068992908801853
+          }
+        ]
+      }
+    ]
+  }
+]

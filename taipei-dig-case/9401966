@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001928",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940523~0940524",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "植福路286口及距巷口約85m2處",
+    "TC_NApro": "光峰工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56101286592642,
+            "P2": 25.08126529408354
+          },
+          {
+            "P1": 121.56101540710944,
+            "P2": 25.08127909728162
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56027959661344,
+            "P2": 25.081221841098866
+          },
+          {
+            "P1": 121.56025163156147,
+            "P2": 25.081219599403596
+          }
+        ]
+      }
+    ]
+  }
+]

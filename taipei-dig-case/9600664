@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000599",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960207~0960208",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "尊賢街2496號",
+    "TC_NApro": "上人營造有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50657298126369,
+            "P2": 25.117316114572152
+          },
+          {
+            "P1": 121.50658228300992,
+            "P2": 25.117287373793438
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50649738643581,
+            "P2": 25.117307706004421
+          },
+          {
+            "P1": 121.50656983162452,
+            "P2": 25.117321812965557
+          }
+        ]
+      }
+    ]
+  }
+]

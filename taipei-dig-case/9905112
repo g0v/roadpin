@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99005801",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990421~0990422",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路354號前(晴光里)",
+    "TC_NApro": "奕揚營造有限公司147",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52739919957253,
+            "P2": 25.064986591409134
+          },
+          {
+            "P1": 121.52739907688145,
+            "P2": 25.064957936880656
+          }
+        ]
+      }
+    ]
+  }
+]

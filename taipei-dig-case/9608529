@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "96007248",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961219~0961221",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泰安街1內(文北里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52846637034199,
+            "P2": 25.040206623911235
+          },
+          {
+            "P1": 121.52861269482337,
+            "P2": 25.040210400740158
+          }
+        ]
+      }
+    ]
+  }
+]

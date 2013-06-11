@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92005799",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930103~0930104",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路2847號對面",
+    "TC_NApro": "正利水電工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61493323654109,
+            "P2": 25.044827848173657
+          },
+          {
+            "P1": 121.6149253869944,
+            "P2": 25.044843589324113
+          }
+        ]
+      }
+    ]
+  }
+]

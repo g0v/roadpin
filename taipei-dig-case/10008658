@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007989",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000506~1000506",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路2199號旁(力行里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54334557623294,
+            "P2": 25.048112887382054
+          },
+          {
+            "P1": 121.54336196052012,
+            "P2": 25.048113423300226
+          }
+        ]
+      }
+    ]
+  }
+]

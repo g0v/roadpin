@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009294",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990531~0990604",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路2390號對面及325號。",
+    "TC_NApro": "陸軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58982479847131,
+            "P2": 25.071601025807933
+          },
+          {
+            "P1": 121.58982164087382,
+            "P2": 25.071548143541218
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59013374790699,
+            "P2": 25.070631856177616
+          },
+          {
+            "P1": 121.59015962246518,
+            "P2": 25.070578867522261
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99012588",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990721~0990723",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "東園街136號旁及東園街140巷1號旁(保德里)",
+    "TC_NApro": "御向工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49725978387086,
+            "P2": 25.023259005887759
+          },
+          {
+            "P1": 121.49727922199563,
+            "P2": 25.023270731570186
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49742195228747,
+            "P2": 25.023440045624163
+          },
+          {
+            "P1": 121.49743624097206,
+            "P2": 25.023447581419031
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92004895",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921017~0921017",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路52552號(5段259號前)",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57074765467797,
+            "P2": 25.040844161337624
+          },
+          {
+            "P1": 121.57076876218991,
+            "P2": 25.040844080251272
+          }
+        ]
+      }
+    ]
+  }
+]

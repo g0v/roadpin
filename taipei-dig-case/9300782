@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000898",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930403~0930404",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民生西路234號旁",
+    "TC_NApro": "弘偉工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51437779414316,
+            "P2": 25.056676863901618
+          },
+          {
+            "P1": 121.51437893296267,
+            "P2": 25.056664762368648
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51440436503361,
+            "P2": 25.056679028878882
+          },
+          {
+            "P1": 121.5144043465663,
+            "P2": 25.056674605197824
+          }
+        ]
+      }
+    ]
+  }
+]

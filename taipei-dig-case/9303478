@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003193",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930904~0930905",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "光復北路265號旁",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55720154487698,
+            "P2": 25.04878426924321
+          },
+          {
+            "P1": 121.55721680822575,
+            "P2": 25.04874069693102
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55738143462513,
+            "P2": 25.048787566659986
+          },
+          {
+            "P1": 121.55737829639786,
+            "P2": 25.04879489113177
+          }
+        ]
+      }
+    ]
+  }
+]

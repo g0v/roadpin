@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100008179",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000530~1000628",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "仁德里柳州街(南寧路至桂林路段)西側段",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50496894255372,
+            "P2": 25.03702551289912
+          },
+          {
+            "P1": 121.50488219188084,
+            "P2": 25.036584379540628
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50496580310933,
+            "P2": 25.037028394498563
+          },
+          {
+            "P1": 121.50506200986381,
+            "P2": 25.037472357535503
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004945",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000412~1000421",
+    "CO_TIpro": "日間施工9時至16時，巷弄道路週休二日不得施工",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "知行路293巷16號旁(JE088)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.46664854724263,
+            "P2": 25.121718248078167
+          },
+          {
+            "P1": 121.46664697026016,
+            "P2": 25.121710344502237
+          }
+        ]
+      }
+    ]
+  }
+]

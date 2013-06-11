@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013977",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981229~0981231",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路3108號及306-1號前",
+    "TC_NApro": "介展電訊股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55724122476225,
+            "P2": 24.999133766255152
+          },
+          {
+            "P1": 121.55725587738282,
+            "P2": 24.999122995035
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5587602836153,
+            "P2": 24.990977912280922
+          },
+          {
+            "P1": 121.55876245620779,
+            "P2": 24.990969860096069
+          }
+        ]
+      }
+    ]
+  }
+]

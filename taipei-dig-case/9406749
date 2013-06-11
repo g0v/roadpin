@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005322",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941028~0941029",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "康定路(內江街至成都路)",
+    "TC_NApro": "漢鑫潛鑽工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50256696391324,
+            "P2": 25.042939565613015
+          },
+          {
+            "P1": 121.50256122963945,
+            "P2": 25.042894264057797
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50237406899015,
+            "P2": 25.041736594500435
+          },
+          {
+            "P1": 121.50236833485128,
+            "P2": 25.041691292928533
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "96006139",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961022~0961024",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "文林路58717號對面",
+    "TC_NApro": "上人營造(THQ96180)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52199863777908,
+            "P2": 25.097761832251077
+          },
+          {
+            "P1": 121.52199327146599,
+            "P2": 25.097733187252814
+          }
+        ]
+      }
+    ]
+  }
+]

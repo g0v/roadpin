@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003116",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970625~0970627",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路210735距35弄口約45M",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54099454996671,
+            "P2": 25.02717916648124
+          },
+          {
+            "P1": 121.541000950911,
+            "P2": 25.027179143182966
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5409977498847,
+            "P2": 25.027179028441292
+          },
+          {
+            "P1": 121.54099768710508,
+            "P2": 25.027164710164218
+          }
+        ]
+      }
+    ]
+  }
+]

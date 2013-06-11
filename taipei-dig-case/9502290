@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003049",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950525~0950527",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路5236278號前",
+    "TC_NApro": "茂德工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57258679263552,
+            "P2": 25.038278184186339
+          },
+          {
+            "P1": 121.57260066750109,
+            "P2": 25.038278491838078
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57259353104159,
+            "P2": 25.038278158219
+          },
+          {
+            "P1": 121.57259376242097,
+            "P2": 25.038327991980704
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002640",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940702~0940704",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "同德街3號對面",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52728886829057,
+            "P2": 25.124877922713388
+          },
+          {
+            "P1": 121.52724771642053,
+            "P2": 25.124832207089135
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52708785756656,
+            "P2": 25.124993292762433
+          },
+          {
+            "P1": 121.5270784125059,
+            "P2": 25.124987638738673
+          }
+        ]
+      }
+    ]
+  }
+]

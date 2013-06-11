@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001673",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980227~0980228",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路2與杭州南路口",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52527980253757,
+            "P2": 25.038186853698036
+          },
+          {
+            "P1": 121.52526966741586,
+            "P2": 25.038159507411528
+          }
+        ]
+      }
+    ]
+  }
+]

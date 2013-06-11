@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021180",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990917~0990922",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬芳路1-1至1-13名牌指標對面黃網線上",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57083797014299,
+            "P2": 24.994771082552809
+          },
+          {
+            "P1": 121.57083474065009,
+            "P2": 24.994753905497372
+          }
+        ]
+      }
+    ]
+  }
+]

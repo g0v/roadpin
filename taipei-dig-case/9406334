@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005022",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941101~0941103",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "樂業街76號對面",
+    "TC_NApro": "春元工程公司",
+    "PURPpro": "遷移;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55083759366178,
+            "P2": 25.021703746004992
+          },
+          {
+            "P1": 121.55080914118631,
+            "P2": 25.021678031183495
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55082177241444,
+            "P2": 25.021666518746848
+          },
+          {
+            "P1": 121.55080605677453,
+            "P2": 25.0216751536332
+          }
+        ]
+      }
+    ]
+  }
+]

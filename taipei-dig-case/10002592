@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002771",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000301~1000303",
+    "CO_TIpro": "夜間施工22時至5時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路4與萬芳路口(博嘉里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57174981092871,
+            "P2": 24.99473757175193
+          },
+          {
+            "P1": 121.57177181192179,
+            "P2": 24.9947331898372
+          }
+        ]
+      }
+    ]
+  }
+]

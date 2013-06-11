@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007477",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961230~0970101",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路155內",
+    "TC_NApro": "奕揚營造(TSQ60132)NUG612505",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51981053853827,
+            "P2": 25.026797625419842
+          },
+          {
+            "P1": 121.51987817554425,
+            "P2": 25.026705907308319
+          },
+          {
+            "P1": 121.51979300532869,
+            "P2": 25.026478977379863
+          }
+        ]
+      }
+    ]
+  }
+]

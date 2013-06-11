@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013446",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000825~1000904",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路2段16巷口(CA131)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52231011951801,
+            "P2": 25.052815778334509
+          },
+          {
+            "P1": 121.52230985448672,
+            "P2": 25.052830413733016
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99008166",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990428~0990430",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信陽街14號.信陽街1號(黎明里)",
+    "TC_NApro": "漢鑫潛鑽工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51572722669559,
+            "P2": 25.04437951783774
+          },
+          {
+            "P1": 121.51575570708268,
+            "P2": 25.044376818881961
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51686278679492,
+            "P2": 25.044435264925792
+          },
+          {
+            "P1": 121.51688984557508,
+            "P2": 25.044433870739876
+          }
+        ]
+      }
+    ]
+  }
+]

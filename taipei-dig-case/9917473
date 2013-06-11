@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "元景營造股份有限公司",
+    "AC_NOpro": "99016138",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990826~0990901",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廣州街(愛國西路30號後面)",
+    "TC_NApro": "翔聯企業股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "大隊長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51053361378511,
+            "P2": 25.034757025429951
+          },
+          {
+            "P1": 121.50982654490278,
+            "P2": 25.034957240163489
+          }
+        ]
+      }
+    ]
+  }
+]

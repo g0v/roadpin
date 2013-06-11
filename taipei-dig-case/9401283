@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001315",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940314~0940315",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "長安西路289號前側",
+    "TC_NApro": "茂德工程有限公司25013162",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50918623009001,
+            "P2": 25.0517574000383
+          },
+          {
+            "P1": 121.50918638375698,
+            "P2": 25.051794595125639
+          }
+        ]
+      }
+    ]
+  }
+]

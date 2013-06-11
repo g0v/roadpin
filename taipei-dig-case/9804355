@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003374",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980418~0980418",
+    "CO_TIpro": "日間夜間施工",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街1號前2處",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55917076992223,
+            "P2": 25.031643685096562
+          },
+          {
+            "P1": 121.55918121565567,
+            "P2": 25.031635285829704
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55921257360134,
+            "P2": 25.031612480376918
+          },
+          {
+            "P1": 121.55919950201115,
+            "P2": 25.031620889526462
+          }
+        ]
+      }
+    ]
+  }
+]

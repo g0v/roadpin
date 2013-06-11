@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006617",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980804~0980806",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "士東路468號前",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52749056534532,
+            "P2": 25.11120622949468
+          },
+          {
+            "P1": 121.52754393095633,
+            "P2": 25.11117164305227
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5277557120794,
+            "P2": 25.111371536093145
+          },
+          {
+            "P1": 121.52776219293634,
+            "P2": 25.11141450423219
+          }
+        ]
+      }
+    ]
+  }
+]

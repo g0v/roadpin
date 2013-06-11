@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011262",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980927~0980927",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "羅斯福路3293號(大學里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.531554391265,
+            "P2": 25.017444062910592
+          },
+          {
+            "P1": 121.53154335899572,
+            "P2": 25.017438369521273
+          }
+        ]
+      }
+    ]
+  }
+]

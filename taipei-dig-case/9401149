@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001218",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940411~0940412",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路48657號後側方",
+    "TC_NApro": "同新工程(股)27697133",
+    "PURPpro": "新設;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49585552604519,
+            "P2": 25.019974142398134
+          },
+          {
+            "P1": 121.49585103839665,
+            "P2": 25.019966934876674
+          }
+        ]
+      }
+    ]
+  }
+]

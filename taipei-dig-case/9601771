@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "96001575",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960413~0960415",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4224號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56488821259833,
+            "P2": 25.04856794096375
+          },
+          {
+            "P1": 121.56487517992666,
+            "P2": 25.048632721374229
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56484231644156,
+            "P2": 25.048729942617879
+          },
+          {
+            "P1": 121.56485565502695,
+            "P2": 25.04873191417019
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014411",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990818~0990820",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "長沙街2171號旁(菜園里)",
+    "TC_NApro": "御向工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50156712109573,
+            "P2": 25.040442789112628
+          },
+          {
+            "P1": 121.50155615349659,
+            "P2": 25.040419064224608
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50151493842989,
+            "P2": 25.04044098811271
+          },
+          {
+            "P1": 121.50153228969138,
+            "P2": 25.040431025736925
+          }
+        ]
+      }
+    ]
+  }
+]

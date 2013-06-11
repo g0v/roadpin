@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003675",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990313~0990314",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街123號附近，共1處(樂康里)",
+    "TC_NApro": "桂裕營造工程有限公司1920053",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61917654174091,
+            "P2": 25.070812462623969
+          },
+          {
+            "P1": 121.61918197731666,
+            "P2": 25.070850655173356
+          }
+        ]
+      }
+    ]
+  }
+]

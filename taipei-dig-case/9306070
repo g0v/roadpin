@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "三重客運股份有限公司                                                            ",
+    "AC_NOpro": "93004268",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931109~0931111",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路125(向陽段九地號前)",
+    "TC_NApro": "佑榮工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.6002846829015,
+            "P2": 25.057858430947842
+          },
+          {
+            "P1": 121.60031037848975,
+            "P2": 25.057823027733708
+          }
+        ]
+      }
+    ]
+  }
+]

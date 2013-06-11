@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "暵鴻工程有限公司",
+    "AC_NOpro": "95006002",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951016~0951017",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "開封街223號",
+    "TC_NApro": "暵鴻工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5070471307927,
+            "P2": 25.046755134063837
+          },
+          {
+            "P1": 121.5070594575666,
+            "P2": 25.046692076061614
+          }
+        ]
+      }
+    ]
+  }
+]

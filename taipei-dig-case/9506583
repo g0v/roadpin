@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005847",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950930~0951001",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康樂街151口等二處",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61934644406642,
+            "P2": 25.071653562987127
+          },
+          {
+            "P1": 121.61944701928061,
+            "P2": 25.071646823765786
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61941285528714,
+            "P2": 25.073131247732029
+          },
+          {
+            "P1": 121.61880294979936,
+            "P2": 25.073190667554627
+          }
+        ]
+      }
+    ]
+  }
+]

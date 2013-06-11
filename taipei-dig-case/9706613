@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005292",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970916~0970917",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西園路279號前(雙園里9月)",
+    "TC_NApro": "奕揚營造有限公司RNU16315241",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49665584992553,
+            "P2": 25.030360409020663
+          },
+          {
+            "P1": 121.49664000909876,
+            "P2": 25.030331797743223
+          }
+        ]
+      }
+    ]
+  }
+]

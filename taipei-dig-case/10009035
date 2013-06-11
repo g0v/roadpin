@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "100009561",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000519~1000519",
+    "CO_TIpro": "",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "朱崙街15號(力行里40396)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53791752720694,
+            "P2": 25.049859002703545
+          },
+          {
+            "P1": 121.53793718685965,
+            "P2": 25.049858335654658
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53791814745033,
+            "P2": 25.049851245373311
+          },
+          {
+            "P1": 121.53793584744122,
+            "P2": 25.049851181271968
+          }
+        ]
+      }
+    ]
+  }
+]

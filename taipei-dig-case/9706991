@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005598",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971002~0971005",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路2保安街口(延平里)",
+    "TC_NApro": "中外工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51154739322142,
+            "P2": 25.058694786356188
+          },
+          {
+            "P1": 121.51155657095781,
+            "P2": 25.058694754740205
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51152957328169,
+            "P2": 25.058823840536895
+          },
+          {
+            "P1": 121.51152953358886,
+            "P2": 25.0588142799675
+          }
+        ]
+      }
+    ]
+  }
+]

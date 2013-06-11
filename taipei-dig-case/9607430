@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003912",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970714~0970716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信義路2181內約31m處",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52936546432443,
+            "P2": 25.034104164800347
+          },
+          {
+            "P1": 121.52936483121454,
+            "P2": 25.034092872947223
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52936485430635,
+            "P2": 25.034098253591281
+          },
+          {
+            "P1": 121.52933887478228,
+            "P2": 25.034098878790772
+          }
+        ]
+      }
+    ]
+  }
+]

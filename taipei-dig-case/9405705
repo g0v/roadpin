@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004570",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940927~0940929",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "華齡街23515號",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52034880889028,
+            "P2": 25.083829888686736
+          },
+          {
+            "P1": 121.52038926646515,
+            "P2": 25.083832545494392
+          }
+        ]
+      }
+    ]
+  }
+]

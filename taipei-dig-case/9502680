@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95002160",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950429~0950430",
+    "CO_TIpro": "周休二日施工9時至17時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "至誠路272號前路燈",
+    "TC_NApro": "巨人水電工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52820017813278,
+            "P2": 25.101360786991368
+          },
+          {
+            "P1": 121.52820332597791,
+            "P2": 25.101354997870509
+          }
+        ]
+      }
+    ]
+  }
+]

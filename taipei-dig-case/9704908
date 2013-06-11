@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "97003957",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970714~0970716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "大龍街62口至昌吉街口(蓬萊里)",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51600332498653,
+            "P2": 25.065003062594833
+          },
+          {
+            "P1": 121.51601869482902,
+            "P2": 25.065669450000982
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5160093698335,
+            "P2": 25.065319781320344
+          },
+          {
+            "P1": 121.51606915713788,
+            "P2": 25.06531957351498
+          }
+        ]
+      }
+    ]
+  }
+]

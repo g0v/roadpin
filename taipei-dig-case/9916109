@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014699",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990811~0990815",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路2吳興街口 及 73號前",
+    "TC_NApro": "陸軍自辦",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55813548306084,
+            "P2": 25.030312916517921
+          },
+          {
+            "P1": 121.55816063713721,
+            "P2": 25.030364417304479
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55900747027683,
+            "P2": 25.031770953787092
+          },
+          {
+            "P1": 121.55903035588028,
+            "P2": 25.031822462940333
+          }
+        ]
+      }
+    ]
+  }
+]

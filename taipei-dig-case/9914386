@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020834",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991101~0991102",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景華街172號旁(興福里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54733726581361,
+            "P2": 24.997103899051204
+          },
+          {
+            "P1": 121.54780881506801,
+            "P2": 24.997047705914518
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54768935451047,
+            "P2": 24.997061046911213
+          },
+          {
+            "P1": 121.54767643066523,
+            "P2": 24.996983705693555
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003992",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950704~0950705",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "光復南路69226號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5565980636156,
+            "P2": 25.030224537871113
+          },
+          {
+            "P1": 121.5566275918427,
+            "P2": 25.03022442728156
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55662763094621,
+            "P2": 25.030233094056012
+          },
+          {
+            "P1": 121.55662754174131,
+            "P2": 25.030213322976781
+          }
+        ]
+      }
+    ]
+  }
+]

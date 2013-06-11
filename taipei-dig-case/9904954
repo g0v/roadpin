@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004593",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990322~0990324",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "中研里研究院路2段南深橋~舊庄街1段3巷間",
+    "TC_NApro": "炫華工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61697454162314,
+            "P2": 25.0423223488831
+          },
+          {
+            "P1": 121.61698575281005,
+            "P2": 25.042326933670356
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61535417495603,
+            "P2": 25.04488305353382
+          },
+          {
+            "P1": 121.61537517204967,
+            "P2": 25.04488655065861
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001914",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940519~0940520",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "公館路200號及228巷口",
+    "TC_NApro": "俍銓營造工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50787123205353,
+            "P2": 25.126298303135759
+          },
+          {
+            "P1": 121.50790204112987,
+            "P2": 25.126314538188197
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50782971369397,
+            "P2": 25.126186317974838
+          },
+          {
+            "P1": 121.50781446873239,
+            "P2": 25.126216794481255
+          }
+        ]
+      }
+    ]
+  }
+]

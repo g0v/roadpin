@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "阜川實業有限公司",
+    "AC_NOpro": "97001782",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970408~0970410",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "同德路509號左前方(萬福里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58484225684887,
+            "P2": 25.044816855821949
+          },
+          {
+            "P1": 121.58488309052183,
+            "P2": 25.044803080841824
+          }
+        ]
+      }
+    ]
+  }
+]

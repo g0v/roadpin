@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水陽明",
+    "AC_NOpro": "97004134",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970716~0970718",
+    "CO_TIpro": "日間施工日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "磺溪街884號",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52348005112062,
+            "P2": 25.108171604320237
+          },
+          {
+            "P1": 121.52348938045093,
+            "P2": 25.108145769415852
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52351468693767,
+            "P2": 25.108174343912982
+          },
+          {
+            "P1": 121.52352414828154,
+            "P2": 25.108177181407445
+          }
+        ]
+      }
+    ]
+  }
+]

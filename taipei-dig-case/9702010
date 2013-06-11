@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001630",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970315~0970315",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路3322(重慶派出所前)(老師里)",
+    "TC_NApro": "佰鴻工業股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51364105360239,
+            "P2": 25.075333503385785
+          },
+          {
+            "P1": 121.51364100211517,
+            "P2": 25.075321162247835
+          }
+        ]
+      }
+    ]
+  }
+]

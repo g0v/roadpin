@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000660",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000119~1000121",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "翠嶺路5-1號及9號旁(開明里)",
+    "TC_NApro": "宏安工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50604908506564,
+            "P2": 25.14240088341672
+          },
+          {
+            "P1": 121.50605657862813,
+            "P2": 25.142382955382146
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50589907336776,
+            "P2": 25.142347688483603
+          },
+          {
+            "P1": 121.50591108239338,
+            "P2": 25.142325610231673
+          }
+        ]
+      }
+    ]
+  }
+]

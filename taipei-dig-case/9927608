@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "100003358",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000307~1000309",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路411249號前",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54965350191885,
+            "P2": 25.034234840149665
+          },
+          {
+            "P1": 121.54961574811496,
+            "P2": 25.034234979789304
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54965129312996,
+            "P2": 25.034444091307922
+          },
+          {
+            "P1": 121.54965547791176,
+            "P2": 25.033971123651568
+          }
+        ]
+      }
+    ]
+  }
+]

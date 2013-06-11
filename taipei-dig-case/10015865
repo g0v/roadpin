@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "100014968",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000928~1000930",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "漢口街253口",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50619569678794,
+            "P2": 25.045602345440216
+          },
+          {
+            "P1": 121.50631673388888,
+            "P2": 25.045960239059472
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50627210648347,
+            "P2": 25.045819932423345
+          },
+          {
+            "P1": 121.50630354761914,
+            "P2": 25.045814092442587
+          }
+        ]
+      }
+    ]
+  }
+]

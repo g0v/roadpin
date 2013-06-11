@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100018146",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001126~1001126",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "錦州街166號(中庄里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52973542712259,
+            "P2": 25.060000633835731
+          },
+          {
+            "P1": 121.5297451004916,
+            "P2": 25.060000599326184
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009506",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981010~0981011",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "復興北路97號至101號(中正里)",
+    "TC_NApro": "七峰營造有限公司577",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54422083263336,
+            "P2": 25.052287323253804
+          },
+          {
+            "P1": 121.54422922918309,
+            "P2": 25.0530015087992
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54416602248558,
+            "P2": 25.05234485205785
+          },
+          {
+            "P1": 121.54421034722408,
+            "P2": 25.05228736167388
+          }
+        ]
+      }
+    ]
+  }
+]

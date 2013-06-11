@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006396",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971104~0971106",
+    "CO_TIpro": "日間施工9時30分至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西藏路(萬板橋下)近大里國中(綠堤里)",
+    "TC_NApro": "億燈工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49038425014356,
+            "P2": 25.029897391805747
+          },
+          {
+            "P1": 121.49051702492265,
+            "P2": 25.030000569206557
+          }
+        ]
+      }
+    ]
+  }
+]

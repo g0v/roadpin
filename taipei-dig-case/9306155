@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "百福園大廈管理委員會                                                            ",
+    "AC_NOpro": "93004388",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931120~0931121",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路213號",
+    "TC_NApro": "大合鑽探技術顧問公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55924906415179,
+            "P2": 25.032028950909822
+          },
+          {
+            "P1": 121.55923789737959,
+            "P2": 25.032013825828038
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001957",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940523~0940525",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "昆明街252號",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50407492828182,
+            "P2": 25.039243236395798
+          },
+          {
+            "P1": 121.50407754315911,
+            "P2": 25.039252616729179
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50404375417303,
+            "P2": 25.039229168065443
+          },
+          {
+            "P1": 121.50407485078688,
+            "P2": 25.039224277687872
+          }
+        ]
+      }
+    ]
+  }
+]

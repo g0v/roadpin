@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005585",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941109~0941111",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "光復南路(松山菸廠門口邊)",
+    "TC_NApro": "尚昱企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55781885329449,
+            "P2": 25.043371368185948
+          },
+          {
+            "P1": 121.55782249600657,
+            "P2": 25.043563200051494
+          }
+        ]
+      }
+    ]
+  }
+]

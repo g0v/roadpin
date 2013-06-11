@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005462",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941101~0941103",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街4017號",
+    "TC_NApro": "齊得水電企業公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5302314518724,
+            "P2": 25.024114597113897
+          },
+          {
+            "P1": 121.53023134364699,
+            "P2": 25.024089409169409
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53027921068465,
+            "P2": 25.024091495436135
+          },
+          {
+            "P1": 121.5302892282067,
+            "P2": 25.024093806999119
+          }
+        ]
+      }
+    ]
+  }
+]

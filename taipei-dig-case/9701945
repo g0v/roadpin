@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "銘昜工程有限公司",
+    "AC_NOpro": "97001529",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970402~0970404",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民權西路194號前(集英里)",
+    "TC_NApro": "銘昜工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51405794579637,
+            "P2": 25.062592705969
+          },
+          {
+            "P1": 121.51403560995739,
+            "P2": 25.06257963846425
+          }
+        ]
+      }
+    ]
+  }
+]

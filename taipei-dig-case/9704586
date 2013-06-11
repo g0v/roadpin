@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "97004105",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970726~0970728",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街75號前",
+    "TC_NApro": "嘉信機電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54049881647923,
+            "P2": 25.027183877059496
+          },
+          {
+            "P1": 121.54049400815582,
+            "P2": 25.026805528457
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54050394067691,
+            "P2": 25.026917277806451
+          },
+          {
+            "P1": 121.54053855395287,
+            "P2": 25.026920022856164
+          }
+        ]
+      }
+    ]
+  }
+]

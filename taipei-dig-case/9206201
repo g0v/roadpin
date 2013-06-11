@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92004883",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921021~0921022",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路3014815號側",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56806864404493,
+            "P2": 25.042523438232109
+          },
+          {
+            "P1": 121.56806859621267,
+            "P2": 25.042513056196086
+          }
+        ]
+      }
+    ]
+  }
+]

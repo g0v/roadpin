@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003569",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000224~1000224",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "三重路底近南湖大橋(三重里)",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61321408230312,
+            "P2": 25.061771165557218
+          },
+          {
+            "P1": 121.61317378832787,
+            "P2": 25.061808202092653
+          }
+        ]
+      }
+    ]
+  }
+]

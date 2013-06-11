@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011096",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000721~1000730",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "公園路21號右側路口監控(ED042):公園路21號左側(ED043)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51517615436161,
+            "P2": 25.037546206448329
+          },
+          {
+            "P1": 121.51515747503603,
+            "P2": 25.037546271210783
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51515514325185,
+            "P2": 25.03702836579393
+          },
+          {
+            "P1": 121.5151403986457,
+            "P2": 25.037028561360952
+          }
+        ]
+      }
+    ]
+  }
+]

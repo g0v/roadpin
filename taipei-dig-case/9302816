@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002006",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930614~0930616",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中山路32號40號",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51093805272041,
+            "P2": 25.137921376437944
+          },
+          {
+            "P1": 121.5109556387016,
+            "P2": 25.137905155747141
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51082025516028,
+            "P2": 25.137855788268482
+          },
+          {
+            "P1": 121.51083464349259,
+            "P2": 25.13783380072444
+          }
+        ]
+      }
+    ]
+  }
+]

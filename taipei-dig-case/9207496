@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92005795",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930110~0930111",
+    "CO_TIpro": "週休2日（6時至22時）",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路3264號",
+    "TC_NApro": "弘偉工程行",
+    "PURPpro": "新設;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51911375461434,
+            "P2": 25.073192345004042
+          },
+          {
+            "P1": 121.51913186180096,
+            "P2": 25.073184607854671
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51911971739052,
+            "P2": 25.073172462491385
+          },
+          {
+            "P1": 121.5191257502004,
+            "P2": 25.073169191303077
+          }
+        ]
+      }
+    ]
+  }
+]

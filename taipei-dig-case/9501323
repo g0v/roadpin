@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001183",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950318~0950319",
+    "CO_TIpro": "幹道日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "成福路201號對面",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.588671624625,
+            "P2": 25.040205370794091
+          },
+          {
+            "P1": 121.58872594794531,
+            "P2": 25.04022989226462
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99021773",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991201~0991215",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路2131號前至中央分隔島(AG048)(光能里,星明里)",
+    "TC_NApro": "麒瑞營造有限公司925",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5183449421973,
+            "P2": 25.056857669532377
+          },
+          {
+            "P1": 121.51812800263885,
+            "P2": 25.056901427172992
+          }
+        ]
+      }
+    ]
+  }
+]

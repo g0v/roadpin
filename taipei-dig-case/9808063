@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008632",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980916~0980918",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路12334號前(建倫里)",
+    "TC_NApro": "中華瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5494449071666,
+            "P2": 25.040197341822761
+          },
+          {
+            "P1": 121.54947607290333,
+            "P2": 25.040197226566857
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54945825541698,
+            "P2": 25.040197292459585
+          },
+          {
+            "P1": 121.54945771775195,
+            "P2": 25.040076625694965
+          }
+        ]
+      }
+    ]
+  }
+]

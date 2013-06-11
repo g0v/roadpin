@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006847",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941208~0941208",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路528號前",
+    "TC_NApro": "橋興工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5384639017886,
+            "P2": 25.00707159078949
+          },
+          {
+            "P1": 121.53843815176816,
+            "P2": 25.007118991200308
+          },
+          {
+            "P1": 121.5384225462542,
+            "P2": 25.007107220903571
+          }
+        ]
+      }
+    ]
+  }
+]

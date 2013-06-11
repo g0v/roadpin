@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "100007949",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000516~1000517",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "珠海路11318~20號間(遷移電桿)",
+    "TC_NApro": "緯全營造有限公司NE7080172",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50408799975671,
+            "P2": 25.142102099682393
+          },
+          {
+            "P1": 121.50409664925756,
+            "P2": 25.142099921595644
+          }
+        ]
+      }
+    ]
+  }
+]

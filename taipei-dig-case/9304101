@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003980",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931027~0931028",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "泰順街507號邊",
+    "TC_NApro": "旭初工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53095168088291,
+            "P2": 25.022774155750398
+          },
+          {
+            "P1": 121.5309465247508,
+            "P2": 25.022750249764371
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5308526893585,
+            "P2": 25.022772613395915
+          },
+          {
+            "P1": 121.5308526893585,
+            "P2": 25.022772613395915
+          }
+        ]
+      }
+    ]
+  }
+]

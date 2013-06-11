@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99011272",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990630~0990709",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路240-1號前(CB039)",
+    "TC_NApro": "麒瑞營造有限公司429",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52259542740872,
+            "P2": 25.05425435102541
+          },
+          {
+            "P1": 121.52246123100744,
+            "P2": 25.054286529670872
+          }
+        ]
+      }
+    ]
+  }
+]

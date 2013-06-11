@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006922",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941214~0941215",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街28422126號前",
+    "TC_NApro": "雍銓營造工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56078279507935,
+            "P2": 25.022937530651415
+          },
+          {
+            "P1": 121.56070435811105,
+            "P2": 25.022989376681974
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56043211219694,
+            "P2": 25.023302864048656
+          },
+          {
+            "P1": 121.56040382669923,
+            "P2": 25.023314436306549
+          }
+        ]
+      }
+    ]
+  }
+]

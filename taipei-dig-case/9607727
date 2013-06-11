@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006844",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961013~0961013",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路4159與木柵路5段交界處",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58182538210141,
+            "P2": 25.002373394232691
+          },
+          {
+            "P1": 121.58184724585641,
+            "P2": 25.002341773726588
+          },
+          {
+            "P1": 121.58189766547376,
+            "P2": 25.002361636812747
+          }
+        ]
+      }
+    ]
+  }
+]

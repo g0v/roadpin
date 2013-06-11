@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016297",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001024~1001026",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "大安路1(忠孝東路4段與大安路1段路口)(光武里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54607573514961,
+            "P2": 25.041751300849075
+          },
+          {
+            "P1": 121.546100291497,
+            "P2": 25.041751210589098
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54611716058371,
+            "P2": 25.041662258508794
+          },
+          {
+            "P1": 121.5461170186388,
+            "P2": 25.041630209491316
+          }
+        ]
+      }
+    ]
+  }
+]

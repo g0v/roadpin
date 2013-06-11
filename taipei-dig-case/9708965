@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007074",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971129~0971201",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平里涼州街56號",
+    "TC_NApro": "今道企業工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51147568811186,
+            "P2": 25.06039303807567
+          },
+          {
+            "P1": 121.51149485373703,
+            "P2": 25.060394678359511
+          }
+        ]
+      }
+    ]
+  }
+]

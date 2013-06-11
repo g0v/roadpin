@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002278",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980406~0980408",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "晉江街4616號前",
+    "TC_NApro": "寶隆瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52271354815386,
+            "P2": 25.023878235767132
+          },
+          {
+            "P1": 121.5227001444387,
+            "P2": 25.023867124189795
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52270684629598,
+            "P2": 25.023872679978627
+          },
+          {
+            "P1": 121.52269299512686,
+            "P2": 25.0238869298586
+          }
+        ]
+      }
+    ]
+  }
+]

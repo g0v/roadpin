@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001598",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960429~0960501",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "康定路168號",
+    "TC_NApro": "七峰營造(TSQ10059)NUG611065KNU",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50182941375149,
+            "P2": 25.039159175385709
+          },
+          {
+            "P1": 121.50183211723734,
+            "P2": 25.039204983778102
+          },
+          {
+            "P1": 121.50182208693995,
+            "P2": 25.039211888026369
+          }
+        ]
+      }
+    ]
+  }
+]

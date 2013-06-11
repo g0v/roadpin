@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003480",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950526~0950526",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路21214號前",
+    "TC_NApro": "韋利瓦斯工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52587747489412,
+            "P2": 25.095452637652912
+          },
+          {
+            "P1": 121.52587369407982,
+            "P2": 25.095472693202687
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52586793656785,
+            "P2": 25.095470998294623
+          },
+          {
+            "P1": 121.52587845284835,
+            "P2": 25.095472676332349
+          }
+        ]
+      }
+    ]
+  }
+]

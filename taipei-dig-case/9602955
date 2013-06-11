@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002456",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960508~0960508",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "敦化南路1223號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54904420359281,
+            "P2": 25.0405018762838
+          },
+          {
+            "P1": 121.54904412380243,
+            "P2": 25.0404839559237
+          }
+        ]
+      }
+    ]
+  }
+]

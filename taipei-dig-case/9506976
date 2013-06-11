@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005690",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950926~0950928",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "永康街2311號對面",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53050503827501,
+            "P2": 25.031676435748821
+          },
+          {
+            "P1": 121.53050103344823,
+            "P2": 25.031689901863256
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53052225765073,
+            "P2": 25.031694249850897
+          },
+          {
+            "P1": 121.53052959998908,
+            "P2": 25.031696480656528
+          }
+        ]
+      }
+    ]
+  }
+]

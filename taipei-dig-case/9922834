@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020465",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990824~0990826",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "福興路8261號",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55125251114068,
+            "P2": 25.005713292436603
+          },
+          {
+            "P1": 121.55127450846391,
+            "P2": 25.005707478072964
+          },
+          {
+            "P1": 121.55127134531428,
+            "P2": 25.005704627897089
+          }
+        ]
+      }
+    ]
+  }
+]

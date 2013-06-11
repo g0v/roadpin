@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98012880",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981215~0981216",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "愛國西路48巷口及12號前(愛國里)",
+    "TC_NApro": "尹正電氣工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50743576104894,
+            "P2": 25.036141629091258
+          },
+          {
+            "P1": 121.50740006921473,
+            "P2": 25.036065075469324
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5076252733916,
+            "P2": 25.036395203559202
+          },
+          {
+            "P1": 121.50749890332445,
+            "P2": 25.036271426861287
+          }
+        ]
+      }
+    ]
+  }
+]

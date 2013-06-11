@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002739",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980227~0980227",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路4100號前(美仁里0690)",
+    "TC_NApro": "祥昌水工程股份有限公司\t\t",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55429782897318,
+            "P2": 25.051219373653669
+          },
+          {
+            "P1": 121.55429153581066,
+            "P2": 25.051219397139107
+          }
+        ]
+      }
+    ]
+  }
+]

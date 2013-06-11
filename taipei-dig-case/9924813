@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99022486",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991208~0991212",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "富錦街與民生東路4段131巷口(GD078)",
+    "TC_NApro": "麒瑞營造有限公司763",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55331477550786,
+            "P2": 25.059546183438364
+          },
+          {
+            "P1": 121.55319538097537,
+            "P2": 25.059764122084459
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016130",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001029~1001030",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "舊莊街13122號附近(共2處)",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61813992015934,
+            "P2": 25.041975931639332
+          },
+          {
+            "P1": 121.61816865934372,
+            "P2": 25.041954316479565
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61826534135842,
+            "P2": 25.041889418392035
+          },
+          {
+            "P1": 121.61828114968918,
+            "P2": 25.041903679984227
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "96005035",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960906~0960907",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "民族街24號對面共2處",
+    "TC_NApro": "亦揚營造(THQ96066)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50482935340394,
+            "P2": 25.132046965392625
+          },
+          {
+            "P1": 121.50481355605574,
+            "P2": 25.132032682795593
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50501353852549,
+            "P2": 25.132170544587815
+          },
+          {
+            "P1": 121.50510826413799,
+            "P2": 25.132234717533439
+          }
+        ]
+      }
+    ]
+  }
+]

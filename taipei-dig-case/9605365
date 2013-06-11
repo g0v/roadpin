@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98011118",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981116~0981118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "連雲街26222號前",
+    "TC_NApro": "同新工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5305580444777,
+            "P2": 25.036694603711386
+          },
+          {
+            "P1": 121.53055065328212,
+            "P2": 25.0366856923225
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53055373690708,
+            "P2": 25.036690709941784
+          },
+          {
+            "P1": 121.53053907704313,
+            "P2": 25.036701370255205
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004752",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950809~0950811",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "林森北路3號前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52352520533256,
+            "P2": 25.04497063710479
+          },
+          {
+            "P1": 121.52348059641193,
+            "P2": 25.044827519041647
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52349962020372,
+            "P2": 25.044873314533945
+          },
+          {
+            "P1": 121.52351851194655,
+            "P2": 25.044864671306133
+          }
+        ]
+      }
+    ]
+  }
+]

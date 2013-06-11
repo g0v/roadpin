@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "弘吉輪胎行",
+    "AC_NOpro": "97004219",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970901~0970903",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路212號(木新里)",
+    "TC_NApro": "弘吉輪胎行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57056865789961,
+            "P2": 24.986940413396706
+          },
+          {
+            "P1": 121.57056834274383,
+            "P2": 24.986872135232296
+          }
+        ]
+      }
+    ]
+  }
+]

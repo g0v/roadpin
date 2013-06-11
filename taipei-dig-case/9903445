@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004546",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990327~0990331",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路2154與仙岩路口(興安里)",
+    "TC_NApro": "躍眾營造(股)公司TSTC0003-3950073",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55136999718054,
+            "P2": 25.000681688409852
+          },
+          {
+            "P1": 121.55139288147369,
+            "P2": 25.000701673010788
+          }
+        ]
+      }
+    ]
+  }
+]

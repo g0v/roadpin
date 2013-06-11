@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "99012194",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990716~0990718",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文湖街60距與內湖路1段91巷24弄交口約30M(西康里0171)",
+    "TC_NApro": "明泉水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56349103555169,
+            "P2": 25.084459291361188
+          },
+          {
+            "P1": 121.56352494206047,
+            "P2": 25.084453438864504
+          }
+        ]
+      }
+    ]
+  }
+]

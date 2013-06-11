@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "嘉盈工程有限公司",
+    "AC_NOpro": "94007072",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941224~0941225",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖1608號內湖路1段608號與江南街口(位江南街上)",
+    "TC_NApro": "嘉盈工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57871260173691,
+            "P2": 25.078285537673644
+          },
+          {
+            "P1": 121.57865393747416,
+            "P2": 25.078268613286497
+          }
+        ]
+      }
+    ]
+  }
+]

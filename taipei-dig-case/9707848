@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "雄硯工程有限公司",
+    "AC_NOpro": "97006657",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971117~0971119",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "忠誠路22120號前(三玉里)",
+    "TC_NApro": "雄硯工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53149427443772,
+            "P2": 25.109140533046872
+          },
+          {
+            "P1": 121.53152232729133,
+            "P2": 25.109166297631688
+          }
+        ]
+      }
+    ]
+  }
+]

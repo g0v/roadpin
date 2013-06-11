@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "96004607",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960820~0960822",
+    "CO_TIpro": "夜間施工24時至5時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路5139號前",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56155492744227,
+            "P2": 25.058557920889452
+          },
+          {
+            "P1": 121.56155191627212,
+            "P2": 25.058586596188317
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56168066736103,
+            "P2": 25.05852878142813
+          },
+          {
+            "P1": 121.56173102863095,
+            "P2": 25.0585314528087
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95003596",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950614~0950616",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路5291625號前",
+    "TC_NApro": "茂德工程工司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56521456448867,
+            "P2": 25.051727911443425
+          },
+          {
+            "P1": 121.56524240351143,
+            "P2": 25.051725729058148
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56522903383977,
+            "P2": 25.051727856379937
+          },
+          {
+            "P1": 121.56522921062953,
+            "P2": 25.051766405302349
+          }
+        ]
+      }
+    ]
+  }
+]

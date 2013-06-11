@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001149",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940402~0940404",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "東園街18號,18-1號",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49562442209482,
+            "P2": 25.027290478900088
+          },
+          {
+            "P1": 121.49564366847295,
+            "P2": 25.02729628298804
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49563966338563,
+            "P2": 25.027261267303235
+          },
+          {
+            "P1": 121.495661485649,
+            "P2": 25.027266972518248
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005149",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950826~0950827",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路369號",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51846020747854,
+            "P2": 25.065418333674522
+          },
+          {
+            "P1": 121.51852156085499,
+            "P2": 25.065418119412108
+          }
+        ]
+      }
+    ]
+  }
+]

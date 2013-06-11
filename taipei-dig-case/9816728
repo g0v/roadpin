@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002531",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990301~0990303",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大業路10號旁及中央南路2段123號前",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50016014575591,
+            "P2": 25.121409539263368
+          },
+          {
+            "P1": 121.50016001936356,
+            "P2": 25.121378492445782
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4996234946195,
+            "P2": 25.122095462801106
+          },
+          {
+            "P1": 121.49957623830092,
+            "P2": 25.122087027438816
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002842",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940716~0940717",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路123.134號前",
+    "TC_NApro": "昇泉工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57062541172405,
+            "P2": 25.045307538927286
+          },
+          {
+            "P1": 121.57062551786,
+            "P2": 25.045330469666283
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57018571505672,
+            "P2": 25.045504141990349
+          },
+          {
+            "P1": 121.57016680671626,
+            "P2": 25.045487061343721
+          }
+        ]
+      }
+    ]
+  }
+]

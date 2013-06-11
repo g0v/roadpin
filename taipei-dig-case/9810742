@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008366",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981001~0981030",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "誠安里忠孝東路32519",
+    "TC_NApro": "安禾營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5416959735024,
+            "P2": 25.043035169405648
+          },
+          {
+            "P1": 121.54231595029286,
+            "P2": 25.043027599064818
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54228702000025,
+            "P2": 25.04306748221806
+          },
+          {
+            "P1": 121.54169324055155,
+            "P2": 25.043076275016826
+          }
+        ]
+      }
+    ]
+  }
+]

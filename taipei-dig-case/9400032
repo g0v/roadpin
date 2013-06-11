@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94000092",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940122~0940123",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松德路277號至293號前",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57458435294801,
+            "P2": 25.031808126813008
+          },
+          {
+            "P1": 121.57460267007592,
+            "P2": 25.032443177358097
+          }
+        ]
+      }
+    ]
+  }
+]

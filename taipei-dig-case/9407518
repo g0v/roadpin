@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "94006402",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941122~0941123",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路140號中央分隔島路燈",
+    "TC_NApro": "淂立科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52417356591826,
+            "P2": 25.051924284264995
+          },
+          {
+            "P1": 121.52417368763321,
+            "P2": 25.051952902746763
+          }
+        ]
+      }
+    ]
+  }
+]

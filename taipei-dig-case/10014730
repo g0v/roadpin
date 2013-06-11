@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100013900",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000829~1000907",
+    "CO_TIpro": "日間施工9時至22時(請避開17:00至19:00施工)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "堤頂大道1與南京東路6段(分隔島)(NB084  )",
+    "TC_NApro": "奕揚營造有限公司811132",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57619813445336,
+            "P2": 25.054567949315377
+          },
+          {
+            "P1": 121.57649617769758,
+            "P2": 25.054375706170394
+          }
+        ]
+      }
+    ]
+  }
+]

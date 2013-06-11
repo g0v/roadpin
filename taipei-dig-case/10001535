@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信東區",
+    "AC_NOpro": "100001600",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000216~1000220",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "健康路與寶清街123號旁口東南角號誌(人行道)(GA180)",
+    "TC_NApro": "強鋼營造有限公司02002",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56742409375318,
+            "P2": 25.053966854994105
+          },
+          {
+            "P1": 121.56737678355988,
+            "P2": 25.053944104611336
+          }
+        ]
+      }
+    ]
+  }
+]

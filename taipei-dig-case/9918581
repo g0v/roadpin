@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017417",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990914~0990919",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4207口及204巷口(吉祥里)",
+    "TC_NApro": "台灣號誌股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56417365565739,
+            "P2": 25.048673007239483
+          },
+          {
+            "P1": 121.56383208630953,
+            "P2": 25.048637045560916
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56415719664678,
+            "P2": 25.048515422587304
+          },
+          {
+            "P1": 121.56387389302975,
+            "P2": 25.048490705270627
+          }
+        ]
+      }
+    ]
+  }
+]

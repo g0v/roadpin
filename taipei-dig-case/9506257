@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005517",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950914~0950916",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "潮州街158號邊",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52912147188152,
+            "P2": 25.02817468544513
+          },
+          {
+            "P1": 121.5291342525917,
+            "P2": 25.028220502548706
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52918762362005,
+            "P2": 25.028211735864783
+          },
+          {
+            "P1": 121.52920653681619,
+            "P2": 25.028208779540964
+          }
+        ]
+      }
+    ]
+  }
+]

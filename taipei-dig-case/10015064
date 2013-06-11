@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100014085",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000905~1000914",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路4、萬芳路口(KE070)",
+    "TC_NApro": "奕揚營造有限公司UC4034-010150",
+    "PURPpro": "新設;人手孔新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57187425304292,
+            "P2": 24.995065417264712
+          },
+          {
+            "P1": 121.57187419225069,
+            "P2": 24.9950522816574
+          }
+        ]
+      }
+    ]
+  }
+]

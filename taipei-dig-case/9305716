@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004028",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931029~0931031",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信安街115對面",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55601572319652,
+            "P2": 25.024553673729713
+          },
+          {
+            "P1": 121.5560868096141,
+            "P2": 25.024519101218505
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55583603743571,
+            "P2": 25.024631806420093
+          },
+          {
+            "P1": 121.5558340155073,
+            "P2": 25.024622876211236
+          }
+        ]
+      }
+    ]
+  }
+]

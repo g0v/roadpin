@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003697",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931013~0931015",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路30號對面巷內華固亞瑪森工地",
+    "TC_NApro": "躍眾營造(TEN93097)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59622717794731,
+            "P2": 25.056346432296941
+          },
+          {
+            "P1": 121.59628076486723,
+            "P2": 25.056155546400959
+          }
+        ]
+      }
+    ]
+  }
+]

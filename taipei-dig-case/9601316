@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001539",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960212~0960213",
+    "CO_TIpro": "",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "研究院路11017號前",
+    "TC_NApro": "欣湖天然氣公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61683867012506,
+            "P2": 25.051609668355443
+          },
+          {
+            "P1": 121.61677360717438,
+            "P2": 25.051621602668774
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61669768819344,
+            "P2": 25.051577301762041
+          },
+          {
+            "P1": 121.61662929302422,
+            "P2": 25.051590766544216
+          }
+        ]
+      }
+    ]
+  }
+]

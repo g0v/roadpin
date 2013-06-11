@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "陽明山瓦斯股份有限公司",
+    "AC_NOpro": "95003082",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950526~0950528",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "公館路190號旁",
+    "TC_NApro": "宏安工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50721839849558,
+            "P2": 25.128024069106626
+          },
+          {
+            "P1": 121.50723815148248,
+            "P2": 25.128028515485692
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50723490393293,
+            "P2": 25.128034575342056
+          },
+          {
+            "P1": 121.50723981235082,
+            "P2": 25.128022461059981
+          }
+        ]
+      }
+    ]
+  }
+]

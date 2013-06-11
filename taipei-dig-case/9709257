@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007364",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970310~0970310",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "康定路與廣州街交口(仁德里)",
+    "TC_NApro": "祥皓工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50139843715918,
+            "P2": 25.036438536205825
+          },
+          {
+            "P1": 121.50139837190349,
+            "P2": 25.03642248448714
+          },
+          {
+            "P1": 121.50139585491907,
+            "P2": 25.036422492980144
+          }
+        ]
+      }
+    ]
+  }
+]

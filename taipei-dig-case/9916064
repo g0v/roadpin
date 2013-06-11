@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "99016113",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990808~0990808",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路12-4號前(正得里40144)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修;路平專案道路更新",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52208265632019,
+            "P2": 25.049484071809356
+          },
+          {
+            "P1": 121.52212906616437,
+            "P2": 25.049472072902333
+          }
+        ]
+      }
+    ]
+  }
+]

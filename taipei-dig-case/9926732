@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "99024316",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991225~0991226",
+    "CO_TIpro": "日間施工9時至16時30分@0900@1630",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路4174號前",
+    "TC_NApro": "七峰營造股份有限公司NC1964229",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52268214734075,
+            "P2": 25.086374276501157
+          },
+          {
+            "P1": 121.52265869193525,
+            "P2": 25.086411617712365
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000703",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990114~0990114",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "大業路新北投捷運站前一帶(中心里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50382690813424,
+            "P2": 25.136889927231856
+          },
+          {
+            "P1": 121.50383950333062,
+            "P2": 25.136889884400961
+          }
+        ]
+      }
+    ]
+  }
+]

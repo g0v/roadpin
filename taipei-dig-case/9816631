@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000379",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990111~0990115",
+    "CO_TIpro": "夜間施工22時至翌日清晨6時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "下埤里復興北路424號",
+    "TC_NApro": "嘉邑營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54414628576527,
+            "P2": 25.062826837101994
+          },
+          {
+            "P1": 121.54414548483754,
+            "P2": 25.062820538482256
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99016912",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990920~0990922",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路7639號前(天玉里)",
+    "TC_NApro": "宏安工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53079360324057,
+            "P2": 25.120673931063987
+          },
+          {
+            "P1": 121.53077733477035,
+            "P2": 25.12063127804435
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53076661605593,
+            "P2": 25.120633753974019
+          },
+          {
+            "P1": 121.53078937167513,
+            "P2": 25.120626350816796
+          }
+        ]
+      }
+    ]
+  }
+]

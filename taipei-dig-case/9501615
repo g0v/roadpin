@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000098",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960117~0960118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "承德路381口斜對面與民權西路105號",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51765282405691,
+            "P2": 25.063421891723362
+          },
+          {
+            "P1": 121.51765268141006,
+            "P2": 25.063387946790286
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51770156446227,
+            "P2": 25.062826322528387
+          },
+          {
+            "P1": 121.51783199960549,
+            "P2": 25.062825867684403
+          }
+        ]
+      }
+    ]
+  }
+]

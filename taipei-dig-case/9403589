@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002867",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940719~0940721",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "歸綏街831之10號與1之11號交界處",
+    "TC_NApro": "建大水電工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51635732340149,
+            "P2": 25.058847378857674
+          },
+          {
+            "P1": 121.51634096355734,
+            "P2": 25.058869554458081
+          }
+        ]
+      }
+    ]
+  }
+]

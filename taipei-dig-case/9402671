@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002247",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940607~0940608",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路2208號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52161569977551,
+            "P2": 25.05328217020703
+          },
+          {
+            "P1": 121.52161388934074,
+            "P2": 25.053299329857545
+          }
+        ]
+      }
+    ]
+  }
+]

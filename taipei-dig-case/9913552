@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司",
+    "AC_NOpro": "99013667",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990813~0990815",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "明水路6725號對面(成功里)",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55147800006101,
+            "P2": 25.083354918348427
+          },
+          {
+            "P1": 121.5514747934143,
+            "P2": 25.08334060285501
+          }
+        ]
+      }
+    ]
+  }
+]

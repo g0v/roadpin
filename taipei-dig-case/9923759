@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000492",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000112~1000114",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "基河路100號斜對面（義信里）",
+    "TC_NApro": "順盛工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52409098742558,
+            "P2": 25.087414695880554
+          },
+          {
+            "P1": 121.52410975046814,
+            "P2": 25.087385965687186
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52411913923851,
+            "P2": 25.087374466955655
+          },
+          {
+            "P1": 121.52420745296841,
+            "P2": 25.087417146327684
+          }
+        ]
+      }
+    ]
+  }
+]

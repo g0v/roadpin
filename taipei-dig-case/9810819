@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "98008904",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980924~0980925",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "同安街2874號附近(板溪里)",
+    "TC_NApro": "強鋼營造有限公司18054-1846472",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52123806157825,
+            "P2": 25.024940271467528
+          },
+          {
+            "P1": 121.5212284229052,
+            "P2": 25.02489157167507
+          }
+        ]
+      }
+    ]
+  }
+]

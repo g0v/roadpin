@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "宏霖機車行",
+    "AC_NOpro": "96001853",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960501~0960503",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路1293號",
+    "TC_NApro": "宏霖機車行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50050792530485,
+            "P2": 25.024780237116332
+          },
+          {
+            "P1": 121.50050131952241,
+            "P2": 25.024702861440947
+          }
+        ]
+      }
+    ]
+  }
+]

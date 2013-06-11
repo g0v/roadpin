@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98013056",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981216~0981219",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "辛亥路4166口等2處(興泰里)",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5562957098023,
+            "P2": 25.003423204476913
+          },
+          {
+            "P1": 121.55630678061809,
+            "P2": 25.003437490624986
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55640340744162,
+            "P2": 25.00359048909398
+          },
+          {
+            "P1": 121.55641606637728,
+            "P2": 25.003607640219986
+          }
+        ]
+      }
+    ]
+  }
+]

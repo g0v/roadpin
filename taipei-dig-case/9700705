@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "97001417",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970330~0970331",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路47551號旁邊",
+    "TC_NApro": "台利實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55082846822413,
+            "P2": 25.058606113404348
+          },
+          {
+            "P1": 121.55082316886175,
+            "P2": 25.058653376660143
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55080880411505,
+            "P2": 25.058650414586182
+          },
+          {
+            "P1": 121.55080987280681,
+            "P2": 25.058643377799047
+          }
+        ]
+      }
+    ]
+  }
+]

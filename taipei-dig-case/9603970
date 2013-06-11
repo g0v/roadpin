@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96003173",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960623~0960624",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松智路與松壽路口",
+    "TC_NApro": "緯全營造(TEQ26035)nv2545076",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56539539372362,
+            "P2": 25.035556580786022
+          },
+          {
+            "P1": 121.56541421821702,
+            "P2": 25.035545043564568
+          }
+        ]
+      }
+    ]
+  }
+]

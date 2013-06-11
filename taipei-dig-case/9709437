@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97007609",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971227~0971228",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中原街(新生北路2段101巷口)(中原里)",
+    "TC_NApro": "七峰營造有限公司717",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52890460054739,
+            "P2": 25.057201311335977
+          },
+          {
+            "P1": 121.52888624534778,
+            "P2": 25.057201376708036
+          }
+        ]
+      }
+    ]
+  }
+]

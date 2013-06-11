@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000742",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930324~0930326",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "金門街122313號旁",
+    "TC_NApro": "雍銓營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5228583306277,
+            "P2": 25.022594203958008
+          },
+          {
+            "P1": 121.52210941937422,
+            "P2": 25.021859873612996
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5221897869463,
+            "P2": 25.022049813088174
+          },
+          {
+            "P1": 121.52232243547175,
+            "P2": 25.022067493519888
+          }
+        ]
+      }
+    ]
+  }
+]

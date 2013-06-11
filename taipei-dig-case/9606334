@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水東區",
+    "AC_NOpro": "96005136",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960907~0960909",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路38452號",
+    "TC_NApro": "華益工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52598176213796,
+            "P2": 25.067221479681269
+          },
+          {
+            "P1": 121.52601637801445,
+            "P2": 25.067219921579877
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52598193351548,
+            "P2": 25.067261608657137
+          },
+          {
+            "P1": 121.52602127356445,
+            "P2": 25.067261469273436
+          }
+        ]
+      }
+    ]
+  }
+]

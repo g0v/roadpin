@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "96003076",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960618~0960619",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "仁愛路4(國父紀念館前)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56041993847586,
+            "P2": 25.037486581590464
+          },
+          {
+            "P1": 121.55950442022348,
+            "P2": 25.037498626452287
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55950755842306,
+            "P2": 25.037495752749614
+          },
+          {
+            "P1": 121.55844426600821,
+            "P2": 25.037531278651144
+          }
+        ]
+      }
+    ]
+  }
+]

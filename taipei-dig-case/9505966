@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005950",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951014~0951015",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路165號及長安西路173號",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51412805031661,
+            "P2": 25.051359482377972
+          },
+          {
+            "P1": 121.51414537573442,
+            "P2": 25.051355088937942
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51406748673998,
+            "P2": 25.051547385322664
+          },
+          {
+            "P1": 121.51410047128449,
+            "P2": 25.051543027969949
+          }
+        ]
+      }
+    ]
+  }
+]

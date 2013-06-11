@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004155",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940914~0940916",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "崇德街253號",
+    "TC_NApro": "春元工程公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55887353118141,
+            "P2": 25.022758472382112
+          },
+          {
+            "P1": 121.55884184962727,
+            "P2": 25.022742160439137
+          }
+        ]
+      }
+    ]
+  }
+]

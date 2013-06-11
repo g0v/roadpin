@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "88006105",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0881214~0881216",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "麗水街3313號前至15號止",
+    "TC_NApro": "星南通信電機有限公司",
+    "PURPpro": "擴充;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52957632987594,
+            "P2": 25.027769059251803
+          },
+          {
+            "P1": 121.52947511298591,
+            "P2": 25.027757863924457
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52945410665291,
+            "P2": 25.027757938754874
+          },
+          {
+            "P1": 121.52888536605731,
+            "P2": 25.027833000743993
+          }
+        ]
+      }
+    ]
+  }
+]

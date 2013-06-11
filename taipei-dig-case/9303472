@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002748",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930814~0930815",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "重慶北路四(與延平北路五段244巷對面分隔島上)",
+    "TC_NApro": "欣唐股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51145026310715,
+            "P2": 25.084724446467956
+          },
+          {
+            "P1": 121.51145026310715,
+            "P2": 25.084724446467956
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003969",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970714~0970716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景隆街367號(萬有里)",
+    "TC_NApro": "強鋼營造有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54371417424746,
+            "P2": 24.99816353226716
+          },
+          {
+            "P1": 121.54372659390415,
+            "P2": 24.998129089835903
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54376399607054,
+            "P2": 24.998051555275982
+          },
+          {
+            "P1": 121.54377956319675,
+            "P2": 24.998014239429352
+          }
+        ]
+      }
+    ]
+  }
+]

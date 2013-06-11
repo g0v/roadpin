@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001036",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960326~0960328",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泉州街37號",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51434768225167,
+            "P2": 25.028910152654579
+          },
+          {
+            "P1": 121.51435398624786,
+            "P2": 25.028912992741091
+          },
+          {
+            "P1": 121.51433219808858,
+            "P2": 25.028970405506449
+          }
+        ]
+      }
+    ]
+  }
+]

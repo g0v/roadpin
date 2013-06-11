@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中瑞環境科技有限公司",
+    "AC_NOpro": "99009499",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990605~0990607",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "五常街11口(靠近五常街)(行孝里)",
+    "TC_NApro": "中瑞環境科技有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53770320589048,
+            "P2": 25.064177781115895
+          },
+          {
+            "P1": 121.53772763248591,
+            "P2": 25.064112880494008
+          }
+        ]
+      }
+    ]
+  }
+]

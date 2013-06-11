@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005732",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941116~0941118",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "大龍路17715號旁",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51634194918965,
+            "P2": 25.068775839533966
+          },
+          {
+            "P1": 121.51635929513024,
+            "P2": 25.068775779201481
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51635926182009,
+            "P2": 25.068767834646771
+          },
+          {
+            "P1": 121.51635934017463,
+            "P2": 25.068786522406135
+          }
+        ]
+      }
+    ]
+  }
+]

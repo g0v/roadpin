@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99012465",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990719~0990720",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "溪口街15號(景慶里)",
+    "TC_NApro": "躍眾營造有限公司T40016-977069",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54003435674598,
+            "P2": 24.993963125111321
+          },
+          {
+            "P1": 121.54002865956214,
+            "P2": 24.993919783815713
+          }
+        ]
+      }
+    ]
+  }
+]

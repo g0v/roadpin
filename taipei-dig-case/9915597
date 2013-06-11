@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014119",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990730~0990731",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "萬美街155號及53號對面",
+    "TC_NApro": "緯全營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56834143738504,
+            "P2": 25.002261939565852
+          },
+          {
+            "P1": 121.56835066037087,
+            "P2": 25.002261904324357
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56811444869814,
+            "P2": 25.002167984957733
+          },
+          {
+            "P1": 121.56812499472657,
+            "P2": 25.002169136381518
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015671",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990827~0990829",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "成功里敬業一路與樂群二路口工地",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55286819770619,
+            "P2": 25.080809008760689
+          },
+          {
+            "P1": 121.55292157669496,
+            "P2": 25.080775298005381
+          }
+        ]
+      }
+    ]
+  }
+]

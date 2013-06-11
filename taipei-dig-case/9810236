@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台北市立內湖高工",
+    "AC_NOpro": "98008135",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980827~0980829",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "洲子街靠內湖運動中心",
+    "TC_NApro": "楊東營造",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57427144857068,
+            "P2": 25.078611671797493
+          },
+          {
+            "P1": 121.57420759827348,
+            "P2": 25.078641061128607
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99001919",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990204~0990205",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "大北路69號前",
+    "TC_NApro": "博茂工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5250882436187,
+            "P2": 25.089911312842741
+          },
+          {
+            "P1": 121.52506912570742,
+            "P2": 25.089856923600031
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52510395215968,
+            "P2": 25.089905533493077
+          },
+          {
+            "P1": 121.52512597795874,
+            "P2": 25.089902584630519
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018145",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991007~0991008",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "政大一街181號旁附近(萬興里)",
+    "TC_NApro": "緯全營造有限公司T41125-3954388",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5829451270002,
+            "P2": 24.985175214912903
+          },
+          {
+            "P1": 121.58297232827866,
+            "P2": 24.985171280454527
+          }
+        ]
+      }
+    ]
+  }
+]

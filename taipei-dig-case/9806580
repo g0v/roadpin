@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005766",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980717~0980719",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南芳里迪化街1263號",
+    "TC_NApro": "昱丞工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50924996703003,
+            "P2": 25.060782023764713
+          },
+          {
+            "P1": 121.50926569631685,
+            "P2": 25.060781969819327
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50931295830372,
+            "P2": 25.0607949435328
+          },
+          {
+            "P1": 121.50924868337877,
+            "P2": 25.06079038814212
+          }
+        ]
+      }
+    ]
+  }
+]

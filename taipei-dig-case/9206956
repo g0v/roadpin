@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "陽信商業銀行有限公司                                                            ",
+    "AC_NOpro": "92005457",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0921213~0921214",
+    "CO_TIpro": "人行磚道日間施工（9時至17時）",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "長安西路205號",
+    "TC_NApro": "日月營造股份有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51273563994442,
+            "P2": 25.05170375064062
+          },
+          {
+            "P1": 121.51277257116925,
+            "P2": 25.051695136769823
+          }
+        ]
+      }
+    ]
+  }
+]

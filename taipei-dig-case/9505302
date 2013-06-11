@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004148",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950712~0950714",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "泰安街68號",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52746625950753,
+            "P2": 25.039983320727725
+          },
+          {
+            "P1": 121.52746134702234,
+            "P2": 25.039970066920681
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52731320829726,
+            "P2": 25.040019344267918
+          },
+          {
+            "P1": 121.5273106644881,
+            "P2": 25.040003825034361
+          }
+        ]
+      }
+    ]
+  }
+]

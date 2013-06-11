@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001092",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970324~0970325",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "麗水街口及麗水街6巷16號旁及金華國小旁共2處",
+    "TC_NApro": "奕揚營造RNU17206611",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52902005568323,
+            "P2": 25.032408253922217
+          },
+          {
+            "P1": 121.52903115321216,
+            "P2": 25.032412701366272
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52895459797627,
+            "P2": 25.032360258989709
+          },
+          {
+            "P1": 121.52894962027604,
+            "P2": 25.032347935339605
+          }
+        ]
+      }
+    ]
+  }
+]

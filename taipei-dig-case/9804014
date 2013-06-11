@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "環康實業股份有限公司",
+    "AC_NOpro": "98007501",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980820~0980824",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶里哈密街5953靠近45巷23號旁",
+    "TC_NApro": "環康實業股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51703179581227,
+            "P2": 25.075188323518439
+          },
+          {
+            "P1": 121.51707650713391,
+            "P2": 25.075140039354263
+          }
+        ]
+      }
+    ]
+  }
+]

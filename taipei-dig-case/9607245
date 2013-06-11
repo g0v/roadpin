@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "禾典實業有限公司",
+    "AC_NOpro": "96005967",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961016~0961018",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛296仁愛路2段96號空地前人行道設置車輛出入汽車斜坡道",
+    "TC_NApro": "日升營造工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53148308538114,
+            "P2": 25.037781697793584
+          },
+          {
+            "P1": 121.53168445530221,
+            "P2": 25.037780977376187
+          }
+        ]
+      }
+    ]
+  }
+]

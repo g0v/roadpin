@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000209",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950114~0950115",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4670號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57616612747088,
+            "P2": 25.049663469826754
+          },
+          {
+            "P1": 121.57616635359585,
+            "P2": 25.049690643228526
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57615654194544,
+            "P2": 25.049690591007483
+          },
+          {
+            "P1": 121.57617864198514,
+            "P2": 25.049690505281497
+          }
+        ]
+      }
+    ]
+  }
+]

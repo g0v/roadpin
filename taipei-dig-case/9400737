@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001377",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940415~0940416",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路七82",
+    "TC_NApro": "台球營造公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53263389185028,
+            "P2": 25.120958914761076
+          },
+          {
+            "P1": 121.5326438221162,
+            "P2": 25.120893516670087
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53276112580244,
+            "P2": 25.120732036355506
+          },
+          {
+            "P1": 121.53278419984312,
+            "P2": 25.120724911615625
+          }
+        ]
+      }
+    ]
+  }
+]

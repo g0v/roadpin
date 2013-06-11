@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009121",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980923~0980925",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "明水路與北安路口(成功里)",
+    "TC_NApro": "晉宏交通工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55234915714037,
+            "P2": 25.08516844224086
+          },
+          {
+            "P1": 121.5523492214469,
+            "P2": 25.085182769407208
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55237857075923,
+            "P2": 25.085177405867533
+          },
+          {
+            "P1": 121.5523723659409,
+            "P2": 25.085197498167371
+          }
+        ]
+      }
+    ]
+  }
+]

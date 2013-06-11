@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000492",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970301~0970302",
+    "CO_TIpro": "周休二日施工8時至17時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路(長春路21巷-長春路口) (康樂里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "計畫性案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52544933800186,
+            "P2": 25.054621039654869
+          },
+          {
+            "P1": 121.52545737013504,
+            "P2": 25.054659226944022
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006502",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961102~0961105",
+    "CO_TIpro": "夜間施工24時至5時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "辛亥路4246號前",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55491853867531,
+            "P2": 25.001340434446103
+          },
+          {
+            "P1": 121.55494994026071,
+            "P2": 25.001328851633655
+          }
+        ]
+      }
+    ]
+  }
+]

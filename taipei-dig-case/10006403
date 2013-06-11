@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006787",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000401~1000403",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "康定路至三水街口(市場內水果攤前)(福音里)",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50147941997118,
+            "P2": 25.035846832919912
+          },
+          {
+            "P1": 121.50150031042563,
+            "P2": 25.035827649956083
+          }
+        ]
+      }
+    ]
+  }
+]

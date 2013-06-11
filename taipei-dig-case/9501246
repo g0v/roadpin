@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001616",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950406~0950407",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "陽光街68162號",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58250151455076,
+            "P2": 25.075298078329858
+          },
+          {
+            "P1": 121.582503375692,
+            "P2": 25.075293376485217
+          }
+        ]
+      }
+    ]
+  }
+]

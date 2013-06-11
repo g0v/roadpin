@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003055",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930824~0930826",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "愛富三街122-1號挖掘地點在愛富三街",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54407207870307,
+            "P2": 25.138920519688853
+          },
+          {
+            "P1": 121.54410498568126,
+            "P2": 25.138848897676581
+          }
+        ]
+      }
+    ]
+  }
+]

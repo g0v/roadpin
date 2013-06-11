@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002585",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990301~0990303",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "聯成里忠孝東路62501口",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58833343171854,
+            "P2": 25.048389033649865
+          },
+          {
+            "P1": 121.58835007404609,
+            "P2": 25.048339783250746
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58834525933398,
+            "P2": 25.04839205631918
+          },
+          {
+            "P1": 121.58833512636369,
+            "P2": 25.048389026937777
+          }
+        ]
+      }
+    ]
+  }
+]

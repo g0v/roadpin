@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "隆固工程有限公司",
+    "AC_NOpro": "99015857",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990901~0990905",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "金門街4414號(河堤里)",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52172358380075,
+            "P2": 25.0210476802714
+          },
+          {
+            "P1": 121.52181133981176,
+            "P2": 25.020969983502987
+          }
+        ]
+      }
+    ]
+  }
+]

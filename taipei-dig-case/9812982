@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010893",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981109~0981111",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南陽街27號前(黎明里)",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51606646190436,
+            "P2": 25.043482412687286
+          },
+          {
+            "P1": 121.51606640790602,
+            "P2": 25.043469511769423
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51606629750762,
+            "P2": 25.043476283201947
+          },
+          {
+            "P1": 121.51608654296896,
+            "P2": 25.043476086480624
+          }
+        ]
+      }
+    ]
+  }
+]

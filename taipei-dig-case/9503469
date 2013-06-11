@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "安源資訊股份有限公司",
+    "AC_NOpro": "95002784",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950520~0950521",
+    "CO_TIpro": "夜間22時至翌日清晨03時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路102號前前中央分隔島路燈",
+    "TC_NApro": "巨人水電工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50051646240706,
+            "P2": 25.029847815669338
+          },
+          {
+            "P1": 121.50050794078688,
+            "P2": 25.029847844367424
+          }
+        ]
+      }
+    ]
+  }
+]

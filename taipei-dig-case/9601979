@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "96001660",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960309~0960309",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路351口",
+    "TC_NApro": "秉鉅工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53579508201028,
+            "P2": 25.038274978553591
+          },
+          {
+            "P1": 121.53579499481812,
+            "P2": 25.038254909505742
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53582657572176,
+            "P2": 25.038282024230782
+          },
+          {
+            "P1": 121.5358548970234,
+            "P2": 25.038281922096072
+          }
+        ]
+      }
+    ]
+  }
+]

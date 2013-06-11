@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "銘昜工程有限公司",
+    "AC_NOpro": "97000371",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970128~0970130",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "三重路19-4號對面及南港國小對面約８０公尺處",
+    "TC_NApro": "銘昜工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61491529346844,
+            "P2": 25.056689800749975
+          },
+          {
+            "P1": 121.61500651076318,
+            "P2": 25.056857821368546
+          }
+        ]
+      }
+    ]
+  }
+]

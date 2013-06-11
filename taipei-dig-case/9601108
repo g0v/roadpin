@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000962",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960214~0960215",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路與民族西路口東北角",
+    "TC_NApro": "大臺北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51090306999468,
+            "P2": 25.068583852313136
+          },
+          {
+            "P1": 121.51090295089695,
+            "P2": 25.068555143555933
+          }
+        ]
+      }
+    ]
+  }
+]

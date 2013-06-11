@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007459",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980901~0980902",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "建明里承德路120號",
+    "TC_NApro": "昱丞工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51667400994433,
+            "P2": 25.050157806867528
+          },
+          {
+            "P1": 121.5166873671309,
+            "P2": 25.050154889482076
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51668111602865,
+            "P2": 25.050164941397981
+          },
+          {
+            "P1": 121.5166905547256,
+            "P2": 25.050163482131879
+          }
+        ]
+      }
+    ]
+  }
+]
