@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003617",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940820~0940821",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "南寧路柳州街口至廣州街口",
+    "TC_NApro": "東穎營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50500322241264,
+            "P2": 25.036592960231104
+          },
+          {
+            "P1": 121.50511827276219,
+            "P2": 25.036254377161605
+          }
+        ]
+      }
+    ]
+  }
+]

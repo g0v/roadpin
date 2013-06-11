@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100018978",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001217~1001217",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路6395號",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54102421391131,
+            "P2": 24.998416141368583
+          },
+          {
+            "P1": 121.54102938111325,
+            "P2": 24.998399402541946
+          },
+          {
+            "P1": 121.54102938111325,
+            "P2": 24.998399402541946
+          }
+        ]
+      }
+    ]
+  }
+]

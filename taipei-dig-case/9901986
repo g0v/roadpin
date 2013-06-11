@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002765",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981211~0981213",
+    "CO_TIpro": "",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民生西路336號(永樂里)",
+    "TC_NApro": "偉盟工業股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51104876657318,
+            "P2": 25.05665910638735
+          },
+          {
+            "P1": 121.51100984607828,
+            "P2": 25.056659240317895
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007796",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980727~0980727",
+    "CO_TIpro": "日間施工8時至17時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "承德路7236號前(人行道上等2處)",
+    "TC_NApro": "桃隆股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50631094118437,
+            "P2": 25.115155131937875
+          },
+          {
+            "P1": 121.50630567605633,
+            "P2": 25.115150365085302
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50620634737719,
+            "P2": 25.11524147166347
+          },
+          {
+            "P1": 121.50621424017291,
+            "P2": 25.11524622954736
+          }
+        ]
+      }
+    ]
+  }
+]

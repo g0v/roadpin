@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001051",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930417~0930418",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "潮州街143號邊",
+    "TC_NApro": "旭初工程公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53001909520334,
+            "P2": 25.028147472515325
+          },
+          {
+            "P1": 121.53001687592963,
+            "P2": 25.028115250216473
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52993514913216,
+            "P2": 25.028120145950545
+          },
+          {
+            "P1": 121.52993514913216,
+            "P2": 25.028120145950545
+          }
+        ]
+      }
+    ]
+  }
+]

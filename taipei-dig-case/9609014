@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007594",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961222~0961223",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "紹興南街38巷口前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52293561783461,
+            "P2": 25.0368548878752
+          },
+          {
+            "P1": 121.52303096988773,
+            "P2": 25.036832108499553
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005789",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971004~0971005",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "三張里莊敬路371號附近",
+    "TC_NApro": "奕揚營造有限公司97292-740208",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5649944868357,
+            "P2": 25.027505371324256
+          },
+          {
+            "P1": 121.56494475305826,
+            "P2": 25.027522289323255
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000757",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990120~0990122",
+    "CO_TIpro": "夜間施工0時至6時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中正路399口",
+    "TC_NApro": "品田營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52122247028058,
+            "P2": 25.093778438856695
+          },
+          {
+            "P1": 121.5211514883746,
+            "P2": 25.09372536886897
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52116863549985,
+            "P2": 25.093743075733467
+          },
+          {
+            "P1": 121.52112248534344,
+            "P2": 25.093789894566353
+          }
+        ]
+      }
+    ]
+  }
+]

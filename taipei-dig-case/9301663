@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001705",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930524~0930526",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "景豐街481168-1號",
+    "TC_NApro": "磊庭營造   a9226238",
+    "PURPpro": "管線改善;遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54571655832648,
+            "P2": 25.001992135967487
+          },
+          {
+            "P1": 121.54571737633393,
+            "P2": 25.002177299031189
+          }
+        ]
+      }
+    ]
+  }
+]

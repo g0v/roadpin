@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信士林",
+    "AC_NOpro": "97006411",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971015~0971015",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "泉源路75號",
+    "TC_NApro": "星南通信電機工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51934298809655,
+            "P2": 25.143102559160496
+          },
+          {
+            "P1": 121.5193618514697,
+            "P2": 25.143095324839933
+          }
+        ]
+      }
+    ]
+  }
+]

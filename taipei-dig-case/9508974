@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007023",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951213~0951215",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路3124號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54556238072803,
+            "P2": 25.057489684441673
+          },
+          {
+            "P1": 121.54556203816316,
+            "P2": 25.057412315561894
+          }
+        ]
+      }
+    ]
+  }
+]

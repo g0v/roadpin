@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010485",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000704~1000713",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "三民路439號對面(挖掘位置為延壽街314巷上)(GA156)",
+    "TC_NApro": "奕揚營造有限公司854081",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56192076308687,
+            "P2": 25.055924286729926
+          },
+          {
+            "P1": 121.56191428670175,
+            "P2": 25.055884181745636
+          }
+        ]
+      }
+    ]
+  }
+]

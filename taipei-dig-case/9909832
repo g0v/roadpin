@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009448",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990612~0990613",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "四平街116號、118號前(中央里)",
+    "TC_NApro": "緯全營造有限公司395",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53532923876632,
+            "P2": 25.0533398236594
+          },
+          {
+            "P1": 121.53530918030597,
+            "P2": 25.0533400765179
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004695",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990304~0990306",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路268號[朝陽里] 6344-GC0983",
+    "TC_NApro": "煇昇營造工程有限公司",
+    "PURPpro": "搶修;人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51377111890035,
+            "P2": 25.055805770787988
+          },
+          {
+            "P1": 121.51376848995677,
+            "P2": 25.055802791597376
+          }
+        ]
+      }
+    ]
+  }
+]

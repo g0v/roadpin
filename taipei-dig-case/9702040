@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97003926",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970709~0970711",
+    "CO_TIpro": "日間施工9時至17時9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路384內15公尺處",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52641162351002,
+            "P2": 25.021564144544051
+          },
+          {
+            "P1": 121.52638979262615,
+            "P2": 25.021582052309888
+          }
+        ]
+      }
+    ]
+  }
+]

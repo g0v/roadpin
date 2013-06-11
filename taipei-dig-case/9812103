@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009686",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980920~0980920",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "建國南路127011號左前",
+    "TC_NApro": "力泰瓦斯設備工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5365983265028,
+            "P2": 25.036211273174992
+          },
+          {
+            "P1": 121.53659756595307,
+            "P2": 25.036252841086103
+          }
+        ]
+      }
+    ]
+  }
+]

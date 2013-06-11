@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020760",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991101~0991105",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "德昌街185274號旁至寶興街222巷交口(銘德里)",
+    "TC_NApro": "祥皓工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49439786267254,
+            "P2": 25.022074782993798
+          },
+          {
+            "P1": 121.49483640165256,
+            "P2": 25.021930002611107
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002723",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930804~0930805",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "敬業三路1613號邊",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55537711648594,
+            "P2": 25.079228834546672
+          },
+          {
+            "P1": 121.55532964258698,
+            "P2": 25.079230817794322
+          }
+        ]
+      }
+    ]
+  }
+]

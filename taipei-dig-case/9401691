@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001498",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940427~0940429",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路4401號",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "管線改善;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53332702412277,
+            "P2": 25.014886577341368
+          },
+          {
+            "P1": 121.53335139216861,
+            "P2": 25.014862475230821
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53335138982847,
+            "P2": 25.014861933554197
+          },
+          {
+            "P1": 121.53334243359129,
+            "P2": 25.014852847316249
+          }
+        ]
+      }
+    ]
+  }
+]

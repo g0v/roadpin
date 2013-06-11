@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "日昇車業有限公司                                                                ",
+    "AC_NOpro": "93000556",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930306~0930308",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路338號",
+    "TC_NApro": "日昇車業有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51230418648251,
+            "P2": 25.053601763548258
+          },
+          {
+            "P1": 121.51233897322055,
+            "P2": 25.053601643550468
+          }
+        ]
+      }
+    ]
+  }
+]

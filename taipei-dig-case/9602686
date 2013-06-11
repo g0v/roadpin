@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "96002170",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960511~0960512",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路54235口及423巷口",
+    "TC_NApro": "緯詮營造(TEQ16016)NV2650218",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57527031714129,
+            "P2": 25.040894392590015
+          },
+          {
+            "P1": 121.57527335816853,
+            "P2": 25.04087287609282
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57528707104886,
+            "P2": 25.040776801069626
+          },
+          {
+            "P1": 121.57529647825835,
+            "P2": 25.040771031856892
+          }
+        ]
+      }
+    ]
+  }
+]

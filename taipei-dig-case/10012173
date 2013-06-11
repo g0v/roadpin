@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011900",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000730~1000731",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路2106號至110號",
+    "TC_NApro": "俍銓營造工程有限公司0406",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53538546732278,
+            "P2": 25.048115988792055
+          },
+          {
+            "P1": 121.5353492849128,
+            "P2": 25.048116119198212
+          }
+        ]
+      }
+    ]
+  }
+]

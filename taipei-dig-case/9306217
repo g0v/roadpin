@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004533",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931213~0931214",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "稻香路110號前",
+    "TC_NApro": "和興水電工程有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49040664678522,
+            "P2": 25.141824758395707
+          },
+          {
+            "P1": 121.49042760815863,
+            "P2": 25.141808528936956
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49058033216339,
+            "P2": 25.141978832444337
+          },
+          {
+            "P1": 121.49058033216339,
+            "P2": 25.141978832444337
+          }
+        ]
+      }
+    ]
+  }
+]

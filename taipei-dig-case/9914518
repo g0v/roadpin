@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99013792",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990807~0990808",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路224號前(東明里)",
+    "TC_NApro": "俍銓工程營造有限公司960308",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60544082732442,
+            "P2": 25.053931812840251
+          },
+          {
+            "P1": 121.60546190200516,
+            "P2": 25.053950839125179
+          }
+        ]
+      }
+    ]
+  }
+]

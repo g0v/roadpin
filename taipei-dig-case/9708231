@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97006541",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971117~0971118",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "基隆路3155與芳蘭路口",
+    "TC_NApro": "三安工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54510420959664,
+            "P2": 25.012215063494459
+          },
+          {
+            "P1": 121.5447068832362,
+            "P2": 25.01187493321547
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54518768399004,
+            "P2": 25.012121596755922
+          },
+          {
+            "P1": 121.54509635304866,
+            "P2": 25.012215092295161
+          }
+        ]
+      }
+    ]
+  }
+]

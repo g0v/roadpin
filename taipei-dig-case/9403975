@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "益騵汽車電機冷氣行                                                              ",
+    "AC_NOpro": "94003081",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940730~0940731",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "吉林路14415號",
+    "TC_NApro": "三多水電工程行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5292376808973,
+            "P2": 25.055875774774112
+          },
+          {
+            "P1": 121.52927149182756,
+            "P2": 25.055879084933885
+          }
+        ]
+      }
+    ]
+  }
+]

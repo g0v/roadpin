@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001366",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950322~0950324",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路31941號前",
+    "TC_NApro": "茂德工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54279407956251,
+            "P2": 25.051231759750721
+          },
+          {
+            "P1": 121.54277752900704,
+            "P2": 25.051231820233191
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54277676757428,
+            "P2": 25.051238955160191
+          },
+          {
+            "P1": 121.54277670754085,
+            "P2": 25.051225323052826
+          }
+        ]
+      }
+    ]
+  }
+]

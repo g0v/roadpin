@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004081",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990329~0990331",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "臨沂街616號前(三愛里)",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52917464858724,
+            "P2": 25.036676677725762
+          },
+          {
+            "P1": 121.52917751365393,
+            "P2": 25.036683889971606
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52918369466792,
+            "P2": 25.036674063484551
+          },
+          {
+            "P1": 121.529166155184,
+            "P2": 25.03667876637067
+          }
+        ]
+      }
+    ]
+  }
+]

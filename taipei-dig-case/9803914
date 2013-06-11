@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98003205",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980504~0980506",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南陽街171號前(黎明里)",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51627210238337,
+            "P2": 25.043943077464927
+          },
+          {
+            "P1": 121.51627710797618,
+            "P2": 25.04394331285545
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.516274610664,
+            "P2": 25.043943321534062
+          },
+          {
+            "P1": 121.51627464676641,
+            "P2": 25.043951943210324
+          }
+        ]
+      }
+    ]
+  }
+]

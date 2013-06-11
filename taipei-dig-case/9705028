@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "宜鋒實業有限公司",
+    "AC_NOpro": "97004014",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970714~0970716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖三路271號旁(湖元里)",
+    "TC_NApro": "宜鋒實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58231921767269,
+            "P2": 25.065795376431595
+          },
+          {
+            "P1": 121.58234295463106,
+            "P2": 25.065853694318726
+          }
+        ]
+      }
+    ]
+  }
+]

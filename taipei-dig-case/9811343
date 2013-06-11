@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "98009284",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981102~0981104",
+    "CO_TIpro": "夜間24時至翌日上午5時30分施工",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬大路618口至環河南路(華中里)",
+    "TC_NApro": "強鋼營造有限公司28134-1833961",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49572313171703,
+            "P2": 25.01691961468984
+          },
+          {
+            "P1": 121.49552993665171,
+            "P2": 25.01659634797177
+          }
+        ]
+      }
+    ]
+  }
+]

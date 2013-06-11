@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001258",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970324~0970326",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路與中坡北路口",
+    "TC_NApro": "星南通信電機工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58061622884887,
+            "P2": 25.04498532001255
+          },
+          {
+            "P1": 121.58071586344144,
+            "P2": 25.04498493056586
+          }
+        ]
+      }
+    ]
+  }
+]

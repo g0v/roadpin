@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北自來水事業處東區營業分處",
+    "AC_NOpro": "95000484",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950120~0950121",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "康寧路37016號右側入巷內約35m",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61101433813602,
+            "P2": 25.069319975451553
+          },
+          {
+            "P1": 121.61100010014211,
+            "P2": 25.069307124100618
+          }
+        ]
+      }
+    ]
+  }
+]

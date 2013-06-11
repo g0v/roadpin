@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004731",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000326~1000327",
+    "CO_TIpro": "週休二日日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路7178號前至對面圓環(天山里)",
+    "TC_NApro": "七峰營造股份有限公司NEG083003",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53277651147694,
+            "P2": 25.124245543744347
+          },
+          {
+            "P1": 121.53271943026967,
+            "P2": 25.124393843455774
+          }
+        ]
+      }
+    ]
+  }
+]

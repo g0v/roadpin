@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000575",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930308~0930309",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "保安街4932號旁",
+    "TC_NApro": "潮裕興業公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51189437570778,
+            "P2": 25.059829734667812
+          },
+          {
+            "P1": 121.51189678712829,
+            "P2": 25.059813746707242
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51188164804387,
+            "P2": 25.059819847688498
+          },
+          {
+            "P1": 121.51189374202237,
+            "P2": 25.059820347680759
+          }
+        ]
+      }
+    ]
+  }
+]

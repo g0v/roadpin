@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93004157",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0931106~0931107",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "成功路2373號",
+    "TC_NApro": "自辦",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59003051709851,
+            "P2": 25.073460581475111
+          },
+          {
+            "P1": 121.59000038395108,
+            "P2": 25.073460701253737
+          },
+          {
+            "P1": 121.59000038395108,
+            "P2": 25.073460701253737
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "和平汽車美容行                                                                  ",
+    "AC_NOpro": "93003640",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930930~0931002",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "和平西路226-3號前",
+    "TC_NApro": "威博營造有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51334763141244,
+            "P2": 25.027970807135027
+          },
+          {
+            "P1": 121.5133668872469,
+            "P2": 25.027954851194661
+          }
+        ]
+      }
+    ]
+  }
+]

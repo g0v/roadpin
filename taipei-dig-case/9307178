@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "國美建設股份有限公司                                                            ",
+    "AC_NOpro": "94000106",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940114~0940227",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長春路龍江路口至長春路258巷口",
+    "TC_NApro": "金弘承營造股份有限公司",
+    "PURPpro": "新設;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53915267053655,
+            "P2": 25.054396708664516
+          },
+          {
+            "P1": 121.53908082536788,
+            "P2": 25.054444095785314
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信股份有限公司臺灣北區電信分公司士林營運處",
+    "AC_NOpro": "94006503",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941205~0941206",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "仰德大道3191號-2號",
+    "TC_NApro": "星南公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55096249497225,
+            "P2": 25.123286310812418
+          },
+          {
+            "P1": 121.55085876114153,
+            "P2": 25.123306738397371
+          }
+        ]
+      }
+    ]
+  }
+]

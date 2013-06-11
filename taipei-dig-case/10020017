@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "101000116",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001025~1001027",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路214號前及中山北路1段華陰街口至市民大道口",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52244421004296,
+            "P2": 25.052761328016263
+          },
+          {
+            "P1": 121.52244063794312,
+            "P2": 25.052673831708166
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52097286097674,
+            "P2": 25.048618422342347
+          },
+          {
+            "P1": 121.52068861843151,
+            "P2": 25.048038924058307
+          }
+        ]
+      }
+    ]
+  }
+]

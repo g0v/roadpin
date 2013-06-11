@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004397",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970725~0970726",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "寶興街18815號前及拆除1處(孝德里)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.4953421573843,
+            "P2": 25.022844165755018
+          },
+          {
+            "P1": 121.49535445359219,
+            "P2": 25.022844124780956
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49533704413715,
+            "P2": 25.022886010021253
+          },
+          {
+            "P1": 121.49533956987756,
+            "P2": 25.022875908179426
+          }
+        ]
+      }
+    ]
+  }
+]

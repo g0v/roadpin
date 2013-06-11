@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004379",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000318~1000318",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母北路32號(天玉里)",
+    "TC_NApro": "鎮沅有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52647575995324,
+            "P2": 25.119769822701919
+          },
+          {
+            "P1": 121.52646315664123,
+            "P2": 25.119769867463908
+          },
+          {
+            "P1": 121.52646624855873,
+            "P2": 25.119755529103692
+          }
+        ]
+      }
+    ]
+  }
+]

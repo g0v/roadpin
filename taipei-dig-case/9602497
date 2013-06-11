@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002173",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960514~0960516",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "貴陽街2與康定路口共1處",
+    "TC_NApro": "七峰營造(TEQ10075)nu14117311",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50193363877197,
+            "P2": 25.039878451823178
+          },
+          {
+            "P1": 121.50193370293171,
+            "P2": 25.039894214638444
+          }
+        ]
+      }
+    ]
+  }
+]

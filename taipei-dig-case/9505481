@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004271",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950718~0950720",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路114327號及29號前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52655217048178,
+            "P2": 25.035501331263823
+          },
+          {
+            "P1": 121.52658357054719,
+            "P2": 25.035498331014075
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52667473704223,
+            "P2": 25.035475076634583
+          },
+          {
+            "P1": 121.52669989425631,
+            "P2": 25.0354720984868
+          }
+        ]
+      }
+    ]
+  }
+]

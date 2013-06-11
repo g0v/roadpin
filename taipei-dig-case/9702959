@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "97002497",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970511~0970512",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "青田街1221號前~和平東路1段141巷口",
+    "TC_NApro": "奕揚營造RNU17204613",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53048690786092,
+            "P2": 25.026927609789936
+          },
+          {
+            "P1": 121.53068187809957,
+            "P2": 25.026908279859537
+          }
+        ]
+      }
+    ]
+  }
+]

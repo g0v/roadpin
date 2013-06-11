@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "游鴻春",
+    "AC_NOpro": "99003008",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990311~0990312",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路42號",
+    "TC_NApro": "盛耀工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5438920198479,
+            "P2": 25.041145178612453
+          },
+          {
+            "P1": 121.54389488307419,
+            "P2": 25.041082107257303
+          }
+        ]
+      }
+    ]
+  }
+]

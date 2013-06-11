@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99006709",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990510~0990512",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "晉江街1241號前(頂東里)",
+    "TC_NApro": "中華瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52537554093651,
+            "P2": 25.021819991242829
+          },
+          {
+            "P1": 121.52539584957329,
+            "P2": 25.021802892503541
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52536814841611,
+            "P2": 25.021812794902747
+          },
+          {
+            "P1": 121.5253835070248,
+            "P2": 25.021829252986372
+          }
+        ]
+      }
+    ]
+  }
+]

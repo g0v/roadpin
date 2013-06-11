@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100014164",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000907~1000916",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "杭州南路1段18巷8號(EE023)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52466433662232,
+            "P2": 25.038683486224581
+          },
+          {
+            "P1": 121.52466822119774,
+            "P2": 25.038674164574527
+          }
+        ]
+      }
+    ]
+  }
+]

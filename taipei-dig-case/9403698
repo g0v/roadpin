@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002911",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940716~0940717",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "重慶南路/中正橋頭",
+    "TC_NApro": "登峰造極廣告工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51642399188671,
+            "P2": 25.02147518440276
+          },
+          {
+            "P1": 121.51642717458751,
+            "P2": 25.021478062335611
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51666595850129,
+            "P2": 25.0214055495826
+          },
+          {
+            "P1": 121.51666598268911,
+            "P2": 25.021411327476965
+          }
+        ]
+      }
+    ]
+  }
+]

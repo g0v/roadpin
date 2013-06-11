@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004861",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941002~0941004",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路3603號溫州街76號",
+    "TC_NApro": "建大水電工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53280951249045,
+            "P2": 25.019287184830251
+          },
+          {
+            "P1": 121.53280846245914,
+            "P2": 25.019273465913678
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53348537121612,
+            "P2": 25.019843418539605
+          },
+          {
+            "P1": 121.53349914334406,
+            "P2": 25.019843369117613
+          }
+        ]
+      }
+    ]
+  }
+]

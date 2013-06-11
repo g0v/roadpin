@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020744",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991027~0991031",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路61151號前(NE147)(湖興里)",
+    "TC_NApro": "躍眾營造股份有限公司811086",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59195244345771,
+            "P2": 25.069101598207144
+          },
+          {
+            "P1": 121.5919462458446,
+            "P2": 25.069121683047243
+          }
+        ]
+      }
+    ]
+  }
+]

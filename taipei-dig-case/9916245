@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015286",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990821~0990918",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "延吉街59號(吉仁里)",
+    "TC_NApro": "阜川實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55372129234931,
+            "P2": 25.044526928103572
+          },
+          {
+            "P1": 121.5537641011544,
+            "P2": 25.044601294908947
+          }
+        ]
+      }
+    ]
+  }
+]

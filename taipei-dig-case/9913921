@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99013406",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990731~0990808",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "玉成里南港路3與東新街交叉口",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58234573427274,
+            "P2": 25.051171673775716
+          },
+          {
+            "P1": 121.58271881345635,
+            "P2": 25.051325473941514
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58227209207222,
+            "P2": 25.051124195387555
+          },
+          {
+            "P1": 121.58227743624337,
+            "P2": 25.051145670084921
+          }
+        ]
+      }
+    ]
+  }
+]

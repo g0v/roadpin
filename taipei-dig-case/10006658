@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006968",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000428~1000430",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "寧波西街106-6號114號(龍光里)",
+    "TC_NApro": "億燈工程有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51405363125932,
+            "P2": 25.029261125620017
+          },
+          {
+            "P1": 121.51334320881581,
+            "P2": 25.029091731488656
+          }
+        ]
+      }
+    ]
+  }
+]

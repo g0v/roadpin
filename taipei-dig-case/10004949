@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004977",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000411~1000420",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "金山南路2和平東路1段口(DB225)",
+    "TC_NApro": "奕揚營造有限公司AP564-822298",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52607437033106,
+            "P2": 25.026704482282533
+          },
+          {
+            "P1": 121.52592831845536,
+            "P2": 25.026760891961469
+          }
+        ]
+      }
+    ]
+  }
+]

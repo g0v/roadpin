@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004322",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950722~0950723",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "虎林街120(永吉路200巷-松信路口)",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "計畫性案件",
+    "OK_LEVELpro": "處長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57255209263883,
+            "P2": 25.042009686678188
+          },
+          {
+            "P1": 121.57197082608433,
+            "P2": 25.042020050833969
+          }
+        ]
+      }
+    ]
+  }
+]

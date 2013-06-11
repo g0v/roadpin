@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001696",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980318~0980320",
+    "CO_TIpro": "夜間施工0時至5時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "林泉里幽雅路25號前",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51440609841717,
+            "P2": 25.137367021510777
+          },
+          {
+            "P1": 121.5143401138275,
+            "P2": 25.137274100162731
+          }
+        ]
+      }
+    ]
+  }
+]

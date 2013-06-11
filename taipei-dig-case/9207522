@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000165",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930130~0930203",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民權東路3140口",
+    "TC_NApro": "中外工程股份有限公司CFM32129",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54656749511591,
+            "P2": 25.061829006426372
+          },
+          {
+            "P1": 121.54657891600934,
+            "P2": 25.061834110353878
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54689198135513,
+            "P2": 25.061825193512608
+          },
+          {
+            "P1": 121.54690051674535,
+            "P2": 25.061827780199035
+          }
+        ]
+      }
+    ]
+  }
+]

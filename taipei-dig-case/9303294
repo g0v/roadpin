@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002256",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930705~0930706",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路277口約10M處",
+    "TC_NApro": "大德工程行",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52309157967241,
+            "P2": 25.057240742521934
+          },
+          {
+            "P1": 121.52309310902238,
+            "P2": 25.057274140891632
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52299792851029,
+            "P2": 25.05724296826002
+          },
+          {
+            "P1": 121.52299797296034,
+            "P2": 25.057253440632728
+          }
+        ]
+      }
+    ]
+  }
+]

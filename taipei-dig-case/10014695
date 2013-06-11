@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "100013717",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000830~1000831",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路230號",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52698104078161,
+            "P2": 25.037873947872345
+          },
+          {
+            "P1": 121.52698265315028,
+            "P2": 25.037882545896974
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52698105918276,
+            "P2": 25.037878254192655
+          },
+          {
+            "P1": 121.52698101019018,
+            "P2": 25.03786678872768
+          }
+        ]
+      }
+    ]
+  }
+]

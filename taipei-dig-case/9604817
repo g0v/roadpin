@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "捷興馳汽車企業有限公司",
+    "AC_NOpro": "96003974",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960721~0960722",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "辛亥路696號",
+    "TC_NApro": "中投工程有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55218066847615,
+            "P2": 24.988210582204616
+          },
+          {
+            "P1": 121.55218725292457,
+            "P2": 24.988276480936936
+          }
+        ]
+      }
+    ]
+  }
+]

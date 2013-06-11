@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005635",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980514~0980514",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "新東街1650號附近",
+    "TC_NApro": "緯全營造有限公司28036-2850248",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56873763047666,
+            "P2": 25.058016819910485
+          },
+          {
+            "P1": 121.56874800610629,
+            "P2": 25.057992901119896
+          }
+        ]
+      }
+    ]
+  }
+]

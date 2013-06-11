@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "99008377",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990519~0990521",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "羅斯福路6142巷與溪口街36巷交口(公園綠地灌溉用水)景仁里",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54038664021698,
+            "P2": 24.995970914360033
+          },
+          {
+            "P1": 121.54042896602739,
+            "P2": 24.995940660926166
+          }
+        ]
+      }
+    ]
+  }
+]

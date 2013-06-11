@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000596",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970224~0970225",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路12855673號",
+    "TC_NApro": "欣利豐企業有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56996205921429,
+            "P2": 25.084066443353521
+          },
+          {
+            "P1": 121.56996224506334,
+            "P2": 25.084106571942744
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56999366270794,
+            "P2": 25.084092114854595
+          },
+          {
+            "P1": 121.56999374236199,
+            "P2": 25.084109312821273
+          }
+        ]
+      }
+    ]
+  }
+]

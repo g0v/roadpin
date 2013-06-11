@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97000468",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970220~0970222",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路1501號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52392391045618,
+            "P2": 25.02640571013438
+          },
+          {
+            "P1": 121.5239301790087,
+            "P2": 25.026428186010321
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52389686098323,
+            "P2": 25.026431679950829
+          },
+          {
+            "P1": 121.52390672989908,
+            "P2": 25.02643164516574
+          }
+        ]
+      }
+    ]
+  }
+]

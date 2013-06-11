@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007699",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000430~1000430",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4624口(慈祐里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57405914382368,
+            "P2": 25.049655124652382
+          },
+          {
+            "P1": 121.57405908819749,
+            "P2": 25.049643180820951
+          }
+        ]
+      }
+    ]
+  }
+]

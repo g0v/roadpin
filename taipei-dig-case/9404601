@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "泰元輪胎行                                                                      ",
+    "AC_NOpro": "94003696",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940823~0940825",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路1143號",
+    "TC_NApro": "泰元輪胎行",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54223889907772,
+            "P2": 25.001584596774691
+          },
+          {
+            "P1": 121.54226879577279,
+            "P2": 25.001557132669213
+          }
+        ]
+      }
+    ]
+  }
+]

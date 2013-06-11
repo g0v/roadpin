@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004417",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970809~0970811",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德里承德路498號前",
+    "TC_NApro": "上人科技有限公司761910",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52338660861064,
+            "P2": 25.08235023030597
+          },
+          {
+            "P1": 121.52308486093563,
+            "P2": 25.082445889768273
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5230864431739,
+            "P2": 25.082447310616853
+          },
+          {
+            "P1": 121.52310718009437,
+            "P2": 25.082514595516379
+          }
+        ]
+      }
+    ]
+  }
+]

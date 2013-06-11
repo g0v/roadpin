@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002703",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930731~0930801",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "潭美街50057號(祥旺安康廠辦大樓)",
+    "TC_NApro": "躍眾營造TEN93036",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60029796128904,
+            "P2": 25.059749735623811
+          },
+          {
+            "P1": 121.6003266043611,
+            "P2": 25.059749619827194
+          }
+        ]
+      }
+    ]
+  }
+]

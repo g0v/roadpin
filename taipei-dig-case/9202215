@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92002660",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920705~0920707",
+    "CO_TIpro": "日間施工（9時至17時）",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "安康路3225號對面",
+    "TC_NApro": "雍銓營造(TEM92057)NVG210086",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59491956043647,
+            "P2": 25.061979441299012
+          },
+          {
+            "P1": 121.59492099670366,
+            "P2": 25.061886898898429
+          }
+        ]
+      }
+    ]
+  }
+]

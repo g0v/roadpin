@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004085",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950711~0950713",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "水源路55號對面(水源快速道路往河濱公園缺口)",
+    "TC_NApro": "眾興欣業有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52170610844183,
+            "P2": 25.020162293849975
+          },
+          {
+            "P1": 121.52179392223827,
+            "P2": 25.020145283696209
+          }
+        ]
+      }
+    ]
+  }
+]

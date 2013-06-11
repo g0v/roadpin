@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002701",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960613~0960615",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "延平北路6185號及189巷2號",
+    "TC_NApro": "奕揚營造",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5060965994163,
+            "P2": 25.089200478996304
+          },
+          {
+            "P1": 121.50616269990799,
+            "P2": 25.0891945658515
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50606450112866,
+            "P2": 25.089037181329243
+          },
+          {
+            "P1": 121.50600778374911,
+            "P2": 25.08903457608983
+          }
+        ]
+      }
+    ]
+  }
+]

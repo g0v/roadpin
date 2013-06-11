@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020732",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991026~0991109",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "基湖路與基湖路120巷口分隔島上(基湖路149號前)(CH095)",
+    "TC_NApro": "麒瑞營造有限公司665",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56362471356755,
+            "P2": 25.077719599189837
+          },
+          {
+            "P1": 121.56353984780442,
+            "P2": 25.077721230512147
+          }
+        ]
+      }
+    ]
+  }
+]

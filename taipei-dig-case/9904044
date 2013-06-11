@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003776",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990312~0990312",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "臥龍街398號、412號",
+    "TC_NApro": "瑞通營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56189283792199,
+            "P2": 25.014563775766234
+          },
+          {
+            "P1": 121.56187591096621,
+            "P2": 25.014578004752643
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56216898641634,
+            "P2": 25.014170155948111
+          },
+          {
+            "P1": 121.56216074752209,
+            "P2": 25.014186329262486
+          }
+        ]
+      }
+    ]
+  }
+]

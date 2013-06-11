@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006077",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961108~0961110",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "永吉路180305號前",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57103049157747,
+            "P2": 25.044458514000546
+          },
+          {
+            "P1": 121.57104623296287,
+            "P2": 25.044459410461762
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57103654097607,
+            "P2": 25.04440593869468
+          },
+          {
+            "P1": 121.57103783926054,
+            "P2": 25.044459442726332
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017227",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001126~1001127",
+    "CO_TIpro": "週休二日日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路2(346巷口)一帶",
+    "TC_NApro": "俍銓營造工程有限公司0728",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.544947559212,
+            "P2": 25.047508352017392
+          },
+          {
+            "P1": 121.54488612552133,
+            "P2": 25.04749281443187
+          }
+        ]
+      }
+    ]
+  }
+]

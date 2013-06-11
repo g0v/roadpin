@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98008446",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980819~0980819",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街2084726號前",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54158661661246,
+            "P2": 25.02968698235933
+          },
+          {
+            "P1": 121.54159920076673,
+            "P2": 25.029686936501562
+          }
+        ]
+      }
+    ]
+  }
+]

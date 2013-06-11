@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "98006808",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980803~0980806",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路22336內(興豐里)",
+    "TC_NApro": "橋興電氣工程",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54971269773019,
+            "P2": 25.0021946456718
+          },
+          {
+            "P1": 121.5497475083299,
+            "P2": 25.00224325060773
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54942080144873,
+            "P2": 25.002336183082821
+          },
+          {
+            "P1": 121.54989785918578,
+            "P2": 25.002102244950063
+          }
+        ]
+      }
+    ]
+  }
+]

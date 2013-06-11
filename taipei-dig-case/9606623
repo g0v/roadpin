@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96005415",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961005~0961007",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路2民權西路(南方里)",
+    "TC_NApro": "東屋股份有份公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51091095862512,
+            "P2": 25.062463831764237
+          },
+          {
+            "P1": 121.51092666434599,
+            "P2": 25.062458044911331
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51093770746336,
+            "P2": 25.062589861540566
+          },
+          {
+            "P1": 121.51095607344134,
+            "P2": 25.062592190772591
+          }
+        ]
+      }
+    ]
+  }
+]

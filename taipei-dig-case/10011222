@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010109",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000617~1000617",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "中和街222號(福德里)",
+    "TC_NApro": "鎮沅有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52465581045348,
+            "P2": 25.094745846414664
+          },
+          {
+            "P1": 121.52466834017957,
+            "P2": 25.094731474669512
+          },
+          {
+            "P1": 121.52464936832926,
+            "P2": 25.09471147253468
+          }
+        ]
+      }
+    ]
+  }
+]

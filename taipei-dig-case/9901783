@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99001576",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990128~0990128",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "南京東路159及102號前",
+    "TC_NApro": "福添電力股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52620744663921,
+            "P2": 25.051747274903221
+          },
+          {
+            "P1": 121.52621845729418,
+            "P2": 25.051747235893849
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5248101450933,
+            "P2": 25.051764162848347
+          },
+          {
+            "P1": 121.52482063049133,
+            "P2": 25.051764125798556
+          }
+        ]
+      }
+    ]
+  }
+]

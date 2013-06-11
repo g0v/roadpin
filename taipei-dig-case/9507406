@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000703",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960306~0960308",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "基湖路14531號右",
+    "TC_NApro": "茂德瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56538728844822,
+            "P2": 25.077355558733846
+          },
+          {
+            "P1": 121.56539332682713,
+            "P2": 25.077353730135197
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56539045715559,
+            "P2": 25.077354824424514
+          },
+          {
+            "P1": 121.56540719940458,
+            "P2": 25.0773957476611
+          }
+        ]
+      }
+    ]
+  }
+]

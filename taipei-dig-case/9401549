@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002654",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940704~0940706",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路41592號邊(博嘉國小邊)",
+    "TC_NApro": "齊得水電企業公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57552765324863,
+            "P2": 25.000431042955302
+          },
+          {
+            "P1": 121.57557282907193,
+            "P2": 25.00041019390169
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57551236821496,
+            "P2": 25.000403566513459
+          },
+          {
+            "P1": 121.57555507837334,
+            "P2": 25.000385074300375
+          }
+        ]
+      }
+    ]
+  }
+]

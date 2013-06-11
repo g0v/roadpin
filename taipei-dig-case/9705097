@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "97004138",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970719~0970720",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "濟南路258號及60號前",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53165448278813,
+            "P2": 25.03998628670378
+          },
+          {
+            "P1": 121.53167318981137,
+            "P2": 25.039983375926145
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53188210794984,
+            "P2": 25.039962739378975
+          },
+          {
+            "P1": 121.53190081496358,
+            "P2": 25.039959828572822
+          }
+        ]
+      }
+    ]
+  }
+]

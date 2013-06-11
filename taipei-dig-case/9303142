@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002313",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930710~0930711",
+    "CO_TIpro": "週休二日(六時至二十二時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "羅斯福路3與辛亥路1段口",
+    "TC_NApro": "上人營造有限公司",
+    "PURPpro": "檢修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5292640792285,
+            "P2": 25.019122718058867
+          },
+          {
+            "P1": 121.52925897623497,
+            "P2": 25.019111089999374
+          }
+        ]
+      }
+    ]
+  }
+]

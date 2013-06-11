@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002060",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940526~0940528",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "秀明路1萬壽橋兩側",
+    "TC_NApro": "尚昱企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57114508713408,
+            "P2": 24.991279118318257
+          },
+          {
+            "P1": 121.57116765991994,
+            "P2": 24.991276413526116
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57287063123957,
+            "P2": 24.991268151096619
+          },
+          {
+            "P1": 121.57290387152905,
+            "P2": 24.991258814475589
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000772",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950213~0950215",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路27912與恆光街61巷交叉口",
+    "TC_NApro": "橋興工程",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57089024530346,
+            "P2": 24.98371573940701
+          },
+          {
+            "P1": 121.57082117435868,
+            "P2": 24.983730359006149
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57077301408556,
+            "P2": 24.983532738397695
+          },
+          {
+            "P1": 121.57073535510094,
+            "P2": 24.983550036185566
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020794",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990804~0990804",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "秀湖里大湖街16640號及160巷內共3處",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60156842930972,
+            "P2": 25.081155889966009
+          },
+          {
+            "P1": 121.60159036462684,
+            "P2": 25.081157471212695
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60150013191083,
+            "P2": 25.081385774287625
+          },
+          {
+            "P1": 121.60150186819453,
+            "P2": 25.081365797457345
+          }
+        ]
+      }
+    ]
+  }
+]

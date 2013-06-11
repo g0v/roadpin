@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002643",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960602~0960604",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安西路8號",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52107756595392,
+            "P2": 25.049673560977812
+          },
+          {
+            "P1": 121.52116920848937,
+            "P2": 25.049652348544519
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52112026544306,
+            "P2": 25.049662965720589
+          },
+          {
+            "P1": 121.52111073974136,
+            "P2": 25.0496297578476
+          }
+        ]
+      }
+    ]
+  }
+]

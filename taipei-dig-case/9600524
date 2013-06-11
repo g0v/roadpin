@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "瓏山林營建股份有限公司",
+    "AC_NOpro": "96000655",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960226~0960302",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民權東路6146號",
+    "TC_NApro": "鼎晟營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58968325702979,
+            "P2": 25.068652496309394
+          },
+          {
+            "P1": 121.58983727610435,
+            "P2": 25.068649627446369
+          }
+        ]
+      }
+    ]
+  }
+]

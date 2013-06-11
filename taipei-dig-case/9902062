@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "環康實業股份有限公司",
+    "AC_NOpro": "99009214",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990610~0990612",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "港華里港華街1071號對面",
+    "TC_NApro": "環康實業股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57338134164544,
+            "P2": 25.083513804474066
+          },
+          {
+            "P1": 121.57337356407918,
+            "P2": 25.083531755031032
+          }
+        ]
+      }
+    ]
+  }
+]

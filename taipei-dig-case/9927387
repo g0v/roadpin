@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000272",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991219~0991220",
+    "CO_TIpro": "日夜間施工23時至6時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "南京東路4120口",
+    "TC_NApro": "大台北區瓦斯(股)公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55508334148892,
+            "P2": 25.051195982617603
+          },
+          {
+            "P1": 121.55511219713246,
+            "P2": 25.051195053225651
+          }
+        ]
+      }
+    ]
+  }
+]

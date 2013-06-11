@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016814",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001117~1001119",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西寧南路293號前",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50623006006516,
+            "P2": 25.038545513987309
+          },
+          {
+            "P1": 121.50622430848503,
+            "P2": 25.038580761151973
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50632069750857,
+            "P2": 25.038507729595544
+          },
+          {
+            "P1": 121.50627707965056,
+            "P2": 25.038501603706578
+          }
+        ]
+      }
+    ]
+  }
+]

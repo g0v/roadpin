@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003003",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930807~0930807",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路4與敦化南路1段交口   南側",
+    "TC_NApro": "協鼎工程有限公司25030330",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54864688290036,
+            "P2": 25.037259415731359
+          },
+          {
+            "P1": 121.54867107854503,
+            "P2": 25.037240818904042
+          }
+        ]
+      }
+    ]
+  }
+]

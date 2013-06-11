@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000506",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950218~0950222",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "惠安街(西藏路口至南海路口)",
+    "TC_NApro": "漢鑫潛鑽工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50592497475091,
+            "P2": 25.030037600462268
+          },
+          {
+            "P1": 121.50596535095663,
+            "P2": 25.030000628401236
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50787947562772,
+            "P2": 25.027786731563079
+          },
+          {
+            "P1": 121.5079066783336,
+            "P2": 25.027823563502391
+          }
+        ]
+      }
+    ]
+  }
+]

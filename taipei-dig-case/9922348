@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99020087",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991013~0991013",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "北寧路與八德路3段交口(東北側)(美仁里)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55262385484568,
+            "P2": 25.048106041113968
+          },
+          {
+            "P1": 121.55262369959233,
+            "P2": 25.048071410187088
+          }
+        ]
+      }
+    ]
+  }
+]

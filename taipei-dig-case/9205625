@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "92004429",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0920924~0920925",
+    "CO_TIpro": "夜間施工（0時至6時）",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "三民路與富錦街交口  (西北側)",
+    "TC_NApro": "大台北區瓦斯股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.563100039475,
+            "P2": 25.060711134352044
+          },
+          {
+            "P1": 121.56310087619335,
+            "P2": 25.060699033659493
+          }
+        ]
+      }
+    ]
+  }
+]

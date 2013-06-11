@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006704",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000425~1000504",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "松河街70號(GA020)",
+    "TC_NApro": "奕揚營造有限公司02019",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5741127873804,
+            "P2": 25.050565346104023
+          },
+          {
+            "P1": 121.5740974056947,
+            "P2": 25.0506418456389
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57426807865451,
+            "P2": 25.050691345431687
+          },
+          {
+            "P1": 121.57427327676146,
+            "P2": 25.050681773709673
+          }
+        ]
+      }
+    ]
+  }
+]

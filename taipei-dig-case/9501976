@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001831",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950420~0950421",
+    "CO_TIpro": "人行磚道日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "重陽路39底之斜對面(以東約40m)",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59444012182938,
+            "P2": 25.058133912273025
+          },
+          {
+            "P1": 121.59444286661075,
+            "P2": 25.058148165479011
+          }
+        ]
+      }
+    ]
+  }
+]

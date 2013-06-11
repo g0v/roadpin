@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "99023294",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990812~0990813",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路21526號前至以北30米處(松江里)",
+    "TC_NApro": "國盛電氣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53489846519534,
+            "P2": 25.061563844576515
+          },
+          {
+            "P1": 121.53489385474204,
+            "P2": 25.0612256261795
+          }
+        ]
+      }
+    ]
+  }
+]

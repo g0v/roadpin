@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "德昀工程有限公司",
+    "AC_NOpro": "96000606",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960209~0960210",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞光路548與基湖路35巷交叉口南向斜對面20米處(西湖里)",
+    "TC_NApro": "德昀工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56698465325411,
+            "P2": 25.078544588352283
+          },
+          {
+            "P1": 121.56695962684151,
+            "P2": 25.078577636066765
+          }
+        ]
+      }
+    ]
+  }
+]

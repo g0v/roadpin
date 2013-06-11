@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000232",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991210~0991217",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木新路221837號與木新路2段218巷25號",
+    "TC_NApro": "輝竣工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56778108578857,
+            "P2": 24.984065329498726
+          },
+          {
+            "P1": 121.56778734918538,
+            "P2": 24.984059572767272
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56775969047519,
+            "P2": 24.984127885485105
+          },
+          {
+            "P1": 121.56775963782054,
+            "P2": 24.984116420015905
+          }
+        ]
+      }
+    ]
+  }
+]

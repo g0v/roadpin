@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000281",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960128~0960130",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "同安街8014號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51973300257043,
+            "P2": 25.022024116113016
+          },
+          {
+            "P1": 121.5197622294872,
+            "P2": 25.022023472241269
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51974875661279,
+            "P2": 25.022024061032649
+          },
+          {
+            "P1": 121.51974750436553,
+            "P2": 25.021985515476153
+          }
+        ]
+      }
+    ]
+  }
+]

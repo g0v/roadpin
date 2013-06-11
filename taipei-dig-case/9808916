@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010354",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980716~0980716",
+    "CO_TIpro": "幹道日間施工9時至17時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "軍功路98號前(博嘉里)",
+    "TC_NApro": "強鋼營造有限公司NU3854485",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57289729658429,
+            "P2": 25.000544866124933
+          },
+          {
+            "P1": 121.57291292164733,
+            "P2": 25.00052402334655
+          }
+        ]
+      }
+    ]
+  }
+]

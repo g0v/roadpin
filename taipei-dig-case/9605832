@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "財團法人台北市南海普陀山慧濟寺",
+    "AC_NOpro": "96004835",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960328~0960328",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路719034-1號",
+    "TC_NApro": "裕祥營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53614611347695,
+            "P2": 25.126057074714232
+          },
+          {
+            "P1": 121.53618649367527,
+            "P2": 25.126056928631488
+          }
+        ]
+      }
+    ]
+  }
+]

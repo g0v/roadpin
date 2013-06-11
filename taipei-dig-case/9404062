@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003931",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940907~0940909",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "東華街1與裕民6路口",
+    "TC_NApro": "鴻展瓦斯管路工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51686256068811,
+            "P2": 25.11279296899442
+          },
+          {
+            "P1": 121.51684516640211,
+            "P2": 25.112783008572066
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51684053040843,
+            "P2": 25.112788802641017
+          },
+          {
+            "P1": 121.5168483215226,
+            "P2": 25.112778754422116
+          }
+        ]
+      }
+    ]
+  }
+]

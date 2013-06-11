@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100007776",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000512~1000513",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "寧波西街203號(永昌里)",
+    "TC_NApro": "進宏企業有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51054350622101,
+            "P2": 25.025883908438963
+          },
+          {
+            "P1": 121.51054217360506,
+            "P2": 25.025877945447682
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51053817320791,
+            "P2": 25.025861835016556
+          },
+          {
+            "P1": 121.51053885929402,
+            "P2": 25.025869596818772
+          }
+        ]
+      }
+    ]
+  }
+]

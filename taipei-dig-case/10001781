@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100002247",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000219~1000305",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民權西路10227號左側對面燈桿(AA076)",
+    "TC_NApro": "奕揚營造有限公司9163",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51765589935653,
+            "P2": 25.061509624526256
+          },
+          {
+            "P1": 121.51770966368555,
+            "P2": 25.06151062878234
+          }
+        ]
+      }
+    ]
+  }
+]

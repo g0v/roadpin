@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98008503",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980821~0980821",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "福州街口與南昌路2段(南福里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51882378474157,
+            "P2": 25.028745794065316
+          },
+          {
+            "P1": 121.51878904093786,
+            "P2": 25.02871438928695
+          }
+        ]
+      }
+    ]
+  }
+]

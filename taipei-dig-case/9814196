@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "電信東區",
+    "AC_NOpro": "98011770",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981123~0981125",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路1550號附近(港墘派出所)港墘里",
+    "TC_NApro": "緯全營造有限公司18115-1820481",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57661753701521,
+            "P2": 25.0786575554103
+          },
+          {
+            "P1": 121.576664871851,
+            "P2": 25.078683164387105
+          }
+        ]
+      }
+    ]
+  }
+]

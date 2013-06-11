@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004100",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980417~0980420",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "忠孝東路458號前",
+    "TC_NApro": "豐松營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54802007493636,
+            "P2": 25.041471819898415
+          },
+          {
+            "P1": 121.54812075768083,
+            "P2": 25.041471448485709
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54693254604226,
+            "P2": 25.041487771474632
+          },
+          {
+            "P1": 121.54699547277741,
+            "P2": 25.041487539810152
+          }
+        ]
+      }
+    ]
+  }
+]

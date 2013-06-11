@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001130",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970405~0970406",
+    "CO_TIpro": "周休二日施工9時30分至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "民權東路246號前",
+    "TC_NApro": "北大瑩工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53044501822771,
+            "P2": 25.062446430418579
+          },
+          {
+            "P1": 121.53033488236805,
+            "P2": 25.06244682383592
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52995901754494,
+            "P2": 25.062127129107843
+          },
+          {
+            "P1": 121.52995946146021,
+            "P2": 25.062230317906671
+          }
+        ]
+      }
+    ]
+  }
+]

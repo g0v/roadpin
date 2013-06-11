@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002830",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960613~0960614",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "民族西路60號旁及承德路3段165號旁",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51867718605043,
+            "P2": 25.0681976689031
+          },
+          {
+            "P1": 121.51867706704368,
+            "P2": 25.068169411574583
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51853998263619,
+            "P2": 25.068075096105
+          },
+          {
+            "P1": 121.51857725140343,
+            "P2": 25.068074965925437
+          }
+        ]
+      }
+    ]
+  }
+]

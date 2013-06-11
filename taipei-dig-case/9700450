@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000360",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970222~0970223",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "園區街15號旁",
+    "TC_NApro": "廣進工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61089337932643,
+            "P2": 25.058815230525543
+          },
+          {
+            "P1": 121.61104743673739,
+            "P2": 25.05877878278427
+          },
+          {
+            "P1": 121.611047286479,
+            "P2": 25.058748485595725
+          }
+        ]
+      }
+    ]
+  }
+]

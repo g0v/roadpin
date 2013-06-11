@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000505",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960131~0960202",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路38523內",
+    "TC_NApro": "國盛電氣工程",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56841827144409,
+            "P2": 24.989526196301703
+          },
+          {
+            "P1": 121.56846243029587,
+            "P2": 24.989543271235075
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56850074116659,
+            "P2": 24.989559555971322
+          },
+          {
+            "P1": 121.56854274034505,
+            "P2": 24.989580882329143
+          }
+        ]
+      }
+    ]
+  }
+]

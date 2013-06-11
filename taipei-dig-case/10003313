@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100003230",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000306",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "新湖二路181號附近(人行道)",
+    "TC_NApro": "俍銓工程營造有限公司10015",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57872630170948,
+            "P2": 25.061872106510823
+          },
+          {
+            "P1": 121.57874995664312,
+            "P2": 25.061883958332015
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100008909",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000601~1000603",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "內湖路2397號附近地區(內湖里)",
+    "TC_NApro": "威赫工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59297785967175,
+            "P2": 25.083936340997596
+          },
+          {
+            "P1": 121.59299367068547,
+            "P2": 25.083950614183994
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.59284834505918,
+            "P2": 25.083837975459989
+          },
+          {
+            "P1": 121.59286256299865,
+            "P2": 25.083850810555084
+          }
+        ]
+      }
+    ]
+  }
+]

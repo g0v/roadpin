@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98007779",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980731~0980731",
+    "CO_TIpro": "日間夜間施工16時30分至21時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "安和路217115號",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55064523906418,
+            "P2": 25.027826798054292
+          },
+          {
+            "P1": 121.55066414056785,
+            "P2": 25.027832460839409
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "98013865",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981230~0981231",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街171301號旁(法治里)",
+    "TC_NApro": "尹正電氣工程有限公司",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55504807490281,
+            "P2": 25.027229493448392
+          },
+          {
+            "P1": 121.55504545607425,
+            "P2": 25.027217829962243
+          }
+        ]
+      }
+    ]
+  }
+]

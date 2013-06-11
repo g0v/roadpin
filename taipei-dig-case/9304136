@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003109",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930828~0930829",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路4266口",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55283828308446,
+            "P2": 25.037295159677235
+          },
+          {
+            "P1": 121.55283955595083,
+            "P2": 25.037136983716181
+          },
+          {
+            "P1": 121.5528294484009,
+            "P2": 25.037137021321712
+          }
+        ]
+      }
+    ]
+  }
+]

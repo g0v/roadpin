@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000526",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930304~0930306",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門路14710號旁",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51863866491273,
+            "P2": 25.021491218229723
+          },
+          {
+            "P1": 121.51863956126341,
+            "P2": 25.021468735159889
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51866087708594,
+            "P2": 25.021471820622939
+          },
+          {
+            "P1": 121.51866830479139,
+            "P2": 25.021470982179832
+          }
+        ]
+      }
+    ]
+  }
+]

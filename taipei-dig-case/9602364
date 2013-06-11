@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "崇偉南京大樓管理委員會",
+    "AC_NOpro": "96002356",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960528~0960529",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "東興路、南京東路5段口",
+    "TC_NApro": "永大測漏防水公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56549366183128,
+            "P2": 25.050788829964446
+          },
+          {
+            "P1": 121.56550742743028,
+            "P2": 25.05078877755469
+          }
+        ]
+      }
+    ]
+  }
+]

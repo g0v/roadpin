@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000514",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930302~0930304",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "青年路68口及110號前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50274941602656,
+            "P2": 25.023345194622475
+          },
+          {
+            "P1": 121.50277835719247,
+            "P2": 25.023347263482353
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50266134869366,
+            "P2": 25.022425438548961
+          },
+          {
+            "P1": 121.50269264078087,
+            "P2": 25.022420908963952
+          }
+        ]
+      }
+    ]
+  }
+]

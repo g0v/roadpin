@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信北區",
+    "AC_NOpro": "97006484",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970614~0970614",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "合江街1號、2號前(朱馥里)",
+    "TC_NApro": "上人科技有限公司624",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53907130299709,
+            "P2": 25.054594094965179
+          },
+          {
+            "P1": 121.53909752694398,
+            "P2": 25.054593999776444
+          }
+        ]
+      }
+    ]
+  }
+]

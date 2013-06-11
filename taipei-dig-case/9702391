@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97002266",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970503~0970504",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "中華路2與水源路口",
+    "TC_NApro": "奕揚營造RNU16334411",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51190518397699,
+            "P2": 25.023815168678212
+          },
+          {
+            "P1": 121.51192089667053,
+            "P2": 25.023812252661621
+          }
+        ]
+      }
+    ]
+  }
+]

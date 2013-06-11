@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001656",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930529~0930530",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "和平東路3137號",
+    "TC_NApro": "上人營造有限公司",
+    "PURPpro": "檢修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54679735025238,
+            "P2": 25.026011053022152
+          },
+          {
+            "P1": 121.54679220371536,
+            "P2": 25.025990036581145
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54678945148841,
+            "P2": 25.025950323253277
+          },
+          {
+            "P1": 121.54678936867778,
+            "P2": 25.02593163547909
+          }
+        ]
+      }
+    ]
+  }
+]

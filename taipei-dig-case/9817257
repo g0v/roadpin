@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000660",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981229~0981229",
+    "CO_TIpro": "日間施工夜間完工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安東路1302號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52625887814288,
+            "P2": 25.048252624151381
+          },
+          {
+            "P1": 121.52625790910184,
+            "P2": 25.048248492737507
+          }
+        ]
+      }
+    ]
+  }
+]

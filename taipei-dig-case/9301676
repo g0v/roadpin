@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93001175",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930424~0930425",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路3176號前",
+    "TC_NApro": "上人營造(370043)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55531480195695,
+            "P2": 25.047752660852673
+          },
+          {
+            "P1": 121.55565550343714,
+            "P2": 25.047726830566265
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55557852471166,
+            "P2": 25.047732354752153
+          },
+          {
+            "P1": 121.55554188483802,
+            "P2": 25.047716692746921
+          }
+        ]
+      }
+    ]
+  }
+]

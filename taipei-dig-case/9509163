@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "台北市政府警察局交通大隊",
+    "AC_NOpro": "95007216",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951218~0951220",
+    "CO_TIpro": "請依本市道安會報核備凌晨0時至翌日清晨5時前施工完成。",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "重慶北路(重陽橋引道銜接百齡橋往士林方向)",
+    "TC_NApro": "志伸股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51105981906913,
+            "P2": 25.087122279360575
+          },
+          {
+            "P1": 121.5111747252235,
+            "P2": 25.087004790148381
+          }
+        ]
+      }
+    ]
+  }
+]

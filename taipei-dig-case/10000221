@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000685",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000117~1000119",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "林森南路105之5號附近(東門里)",
+    "TC_NApro": "欣佑工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52184294799743,
+            "P2": 25.037242566599517
+          },
+          {
+            "P1": 121.52184741969904,
+            "P2": 25.03723847020845
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52158206697466,
+            "P2": 25.037368692847053
+          },
+          {
+            "P1": 121.52159249263676,
+            "P2": 25.037361849087283
+          }
+        ]
+      }
+    ]
+  }
+]

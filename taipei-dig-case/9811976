@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009722",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980916~0980916",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "建明里長安西路13832號與8號",
+    "TC_NApro": "華生行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51766786049028,
+            "P2": 25.050050325186795
+          },
+          {
+            "P1": 121.5176576419218,
+            "P2": 25.050052509477204
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51780813338344,
+            "P2": 25.050016874814062
+          },
+          {
+            "P1": 121.51782385612835,
+            "P2": 25.050013235863851
+          }
+        ]
+      }
+    ]
+  }
+]

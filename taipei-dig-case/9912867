@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "公園處",
+    "AC_NOpro": "99012034",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990714~0990716",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路23816號至24號(東明里)",
+    "TC_NApro": "尚昱企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60489946301578,
+            "P2": 25.055584267292648
+          },
+          {
+            "P1": 121.60493491465289,
+            "P2": 25.054922102377763
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60491552365411,
+            "P2": 25.055353086033261
+          },
+          {
+            "P1": 121.6049930133086,
+            "P2": 25.055368433895296
+          }
+        ]
+      }
+    ]
+  }
+]

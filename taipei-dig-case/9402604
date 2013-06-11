@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94002250",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940613~0940614",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路331號前",
+    "TC_NApro": "七峰營造公司(420084)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51383742208716,
+            "P2": 25.064823838313078
+          },
+          {
+            "P1": 121.51383754184865,
+            "P2": 25.064852547071443
+          }
+        ]
+      }
+    ]
+  }
+]

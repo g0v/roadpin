@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98009782",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980926~0980926",
+    "CO_TIpro": "日夜間施工16時30分至20時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "吳興街11號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55952746068053,
+            "P2": 25.031404146830589
+          },
+          {
+            "P1": 121.55953687134087,
+            "P2": 25.031396943137139
+          }
+        ]
+      }
+    ]
+  }
+]

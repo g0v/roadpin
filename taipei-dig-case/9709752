@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市政府觀光傳播局",
+    "AC_NOpro": "97007762",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971227~0971229",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "哈密街大龍峒保安宮(臺北市哈密街61號)",
+    "TC_NApro": "維得立企業(股)公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51566265678993,
+            "P2": 25.072729915141011
+          },
+          {
+            "P1": 121.51566996857815,
+            "P2": 25.07272905916119
+          }
+        ]
+      }
+    ]
+  }
+]

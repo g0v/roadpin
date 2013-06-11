@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010214",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000712~1000713",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路26521號至7號",
+    "TC_NApro": "奕揚營造有限公司0341",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52366749667333,
+            "P2": 25.056442791544423
+          },
+          {
+            "P1": 121.52397587399591,
+            "P2": 25.0564388419296
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52366907251631,
+            "P2": 25.056442785987649
+          },
+          {
+            "P1": 121.52371014335881,
+            "P2": 25.056479908917275
+          }
+        ]
+      }
+    ]
+  }
+]

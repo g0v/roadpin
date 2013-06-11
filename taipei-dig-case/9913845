@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014470",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990816~0990817",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "長興街85口附近(學府里)",
+    "TC_NApro": "瑞通營造有限公司18227-966388",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54706770841059,
+            "P2": 25.015080223986619
+          },
+          {
+            "P1": 121.54711786118276,
+            "P2": 25.015039909676329
+          }
+        ]
+      }
+    ]
+  }
+]

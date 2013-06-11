@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99022818",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991129~0991206",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港里興華路117號~149號前",
+    "TC_NApro": "福添電力工程有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60549482902938,
+            "P2": 25.057100055212608
+          },
+          {
+            "P1": 121.60539983188134,
+            "P2": 25.057513679322426
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60560054576749,
+            "P2": 25.056598996657897
+          },
+          {
+            "P1": 121.60549672965576,
+            "P2": 25.057089502805844
+          }
+        ]
+      }
+    ]
+  }
+]

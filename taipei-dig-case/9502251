@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001793",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950427~0950428",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "廈門街11335號前等二處",
+    "TC_NApro": "金樹水電工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52153421368443,
+            "P2": 25.022744478392458
+          },
+          {
+            "P1": 121.5215816070679,
+            "P2": 25.022798751463057
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52056493281974,
+            "P2": 25.023040205286694
+          },
+          {
+            "P1": 121.5205900998585,
+            "P2": 25.023040117151709
+          }
+        ]
+      }
+    ]
+  }
+]

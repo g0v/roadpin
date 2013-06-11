@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99011604",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990710~0990711",
+    "CO_TIpro": "周休二日施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "健康路175號至214號附近(東光里)",
+    "TC_NApro": "奕揚營造有限公司952008",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56056147332895,
+            "P2": 25.053679716057218
+          },
+          {
+            "P1": 121.56062421053073,
+            "P2": 25.0536364788368
+          }
+        ]
+      }
+    ]
+  }
+]

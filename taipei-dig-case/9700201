@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97000235",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970117~0970119",
+    "CO_TIpro": "夜間施工1時至6時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "通化街83號",
+    "TC_NApro": "強鋼營造(TSB20204)NUG616403",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55407150722424,
+            "P2": 25.029697893301943
+          },
+          {
+            "P1": 121.55416893617586,
+            "P2": 25.029674598813269
+          },
+          {
+            "P1": 121.5541848673893,
+            "P2": 25.029720401881487
+          }
+        ]
+      }
+    ]
+  }
+]

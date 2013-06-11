@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98005070",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980608~0980608",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松仁路160號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56816227281651,
+            "P2": 25.028299752026626
+          },
+          {
+            "P1": 121.56817171902216,
+            "P2": 25.028300429130784
+          }
+        ]
+      }
+    ]
+  }
+]

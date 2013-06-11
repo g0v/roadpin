@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "96006751",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961121~0961122",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西寧南路與開封街口",
+    "TC_NApro": "奕揚營造(TSQ701175)nu16146911",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50697025752778,
+            "P2": 25.046456630520805
+          },
+          {
+            "P1": 121.50695982305591,
+            "P2": 25.0464448483873
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5069181440232,
+            "P2": 25.046404797651675
+          },
+          {
+            "P1": 121.50692855885116,
+            "P2": 25.04641421450091
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000569",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930322~0930323",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "長安西路198號",
+    "TC_NApro": "弘偉工程行",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52051321106848,
+            "P2": 25.050418097103034
+          },
+          {
+            "P1": 121.52051308068066,
+            "P2": 25.050387221618781
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52053373641881,
+            "P2": 25.050397080090534
+          },
+          {
+            "P1": 121.52053488869366,
+            "P2": 25.050388318840994
+          }
+        ]
+      }
+    ]
+  }
+]

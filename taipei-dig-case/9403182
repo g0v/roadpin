@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "駿祥工程有限公司                                                                ",
+    "AC_NOpro": "94002510",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940625~0940627",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松高路12號對面",
+    "TC_NApro": "駿祥工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56613405307847,
+            "P2": 25.039140891489939
+          },
+          {
+            "P1": 121.56606995664052,
+            "P2": 25.038886003780629
+          }
+        ]
+      }
+    ]
+  }
+]

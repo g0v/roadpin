@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018074",
+    "ST_TApro": "2",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990924~0991031",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "中華路159號旁無名巷",
+    "TC_NApro": "統和營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5085039574785,
+            "P2": 25.041088226180463
+          },
+          {
+            "P1": 121.50922693636746,
+            "P2": 25.040920924414419
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50922644378277,
+            "P2": 25.040883233890803
+          },
+          {
+            "P1": 121.50850417404635,
+            "P2": 25.041059037672266
+          }
+        ]
+      }
+    ]
+  }
+]

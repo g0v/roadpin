@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011479",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000720~1000722",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "舊宗路2與高速公路匝道出口處轉角人行道(湖元里)",
+    "TC_NApro": "台灣號誌股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5748688205839,
+            "P2": 25.070628163196123
+          },
+          {
+            "P1": 121.57482984102583,
+            "P2": 25.070705701952569
+          }
+        ]
+      }
+    ]
+  }
+]

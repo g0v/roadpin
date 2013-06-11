@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100009205",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000523~1000525",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松高路與松仁路口(興雅里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "搶修;其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56840961723705,
+            "P2": 25.038944375582357
+          },
+          {
+            "P1": 121.56842220227848,
+            "P2": 25.038944327436905
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56839760374329,
+            "P2": 25.038726575404947
+          },
+          {
+            "P1": 121.56840547185767,
+            "P2": 25.038726545305572
+          }
+        ]
+      }
+    ]
+  }
+]

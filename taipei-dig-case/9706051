@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電南區",
+    "AC_NOpro": "97004923",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970804~0970804",
+    "CO_TIpro": "",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "興隆路41954內",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56276380567557,
+            "P2": 24.982720368575453
+          },
+          {
+            "P1": 121.56280158281398,
+            "P2": 24.982728829494679
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣湖天然氣",
+    "AC_NOpro": "96006509",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961103~0961104",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "南港路3209號前",
+    "TC_NApro": "竣祥企業行",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58071539307971,
+            "P2": 25.051355962640617
+          },
+          {
+            "P1": 121.58072226789354,
+            "P2": 25.051273257401409
+          }
+        ]
+      }
+    ]
+  }
+]

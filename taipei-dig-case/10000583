@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100001843",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000305~1000320",
+    "CO_TIpro": "週休二日日間施工9時至16時",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "太原路與平陽街交口至太原路177號前(太原路內)",
+    "TC_NApro": "弘大瓦斯工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51648748747029,
+            "P2": 25.054869953269854
+          },
+          {
+            "P1": 121.51671059568702,
+            "P2": 25.055697681402822
+          }
+        ]
+      }
+    ]
+  }
+]

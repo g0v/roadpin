@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100017285",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001112~1001112",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路152號及73號附近",
+    "TC_NApro": "俍銓營造工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56852647269716,
+            "P2": 25.048011820074819
+          },
+          {
+            "P1": 121.56855817558392,
+            "P2": 25.048063293806326
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56802469799412,
+            "P2": 25.046675779486698
+          },
+          {
+            "P1": 121.56805019414578,
+            "P2": 25.04672459575745
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99018642",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990909~0990909",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松山路與松德路交口(廣居里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57774060953281,
+            "P2": 25.039165531078325
+          },
+          {
+            "P1": 121.57774704979262,
+            "P2": 25.039197040876896
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001341",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940325~0940325",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路4與敦化南路1段交口    西南側",
+    "TC_NApro": "茂德工程有限公司25013162",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54849274715585,
+            "P2": 25.0372721726343
+          },
+          {
+            "P1": 121.54852127605149,
+            "P2": 25.037247511047291
+          }
+        ]
+      }
+    ]
+  }
+]

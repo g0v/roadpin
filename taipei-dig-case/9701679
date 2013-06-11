@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97001425",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970424~0970425",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "立農街1357口",
+    "TC_NApro": "上人營造thq97134",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50787915381822,
+            "P2": 25.119521614381181
+          },
+          {
+            "P1": 121.50787923083986,
+            "P2": 25.119540247870926
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50788409306749,
+            "P2": 25.119574627821109
+          },
+          {
+            "P1": 121.50790455984254,
+            "P2": 25.119574557696435
+          }
+        ]
+      }
+    ]
+  }
+]

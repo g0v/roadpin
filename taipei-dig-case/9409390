@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95000618",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950218~0950219",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路4650號前",
+    "TC_NApro": "力泰瓦斯設備工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57485790753458,
+            "P2": 25.049635225306776
+          },
+          {
+            "P1": 121.57485808310837,
+            "P2": 25.049672871391468
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57485144318558,
+            "P2": 25.049672897089003
+          },
+          {
+            "P1": 121.57486720061434,
+            "P2": 25.049672836104811
+          }
+        ]
+      }
+    ]
+  }
+]

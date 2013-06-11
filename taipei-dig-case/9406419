@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "張明鋆",
+    "AC_NOpro": "94005066",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941021~0941030",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "至善路242131",
+    "TC_NApro": "大業水電企業有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55642851400361,
+            "P2": 25.105933146565746
+          },
+          {
+            "P1": 121.55655402659652,
+            "P2": 25.105514320260802
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55655402659652,
+            "P2": 25.105514320260802
+          },
+          {
+            "P1": 121.55652385804159,
+            "P2": 25.105508384752827
+          }
+        ]
+      }
+    ]
+  }
+]

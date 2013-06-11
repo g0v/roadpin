@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010459",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981030~0981031",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "新光路11591號對面(萬興里)",
+    "TC_NApro": "強鋼營造有限公司NU3854626",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57405091772586,
+            "P2": 24.992406456520289
+          },
+          {
+            "P1": 121.57408079342811,
+            "P2": 24.992406341247943
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100014725",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000926~1000928",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "新生南路116019號旁",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53079080923804,
+            "P2": 25.034412715400876
+          },
+          {
+            "P1": 121.53089462771621,
+            "P2": 25.034412344535955
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53068385199022,
+            "P2": 25.034415968326318
+          },
+          {
+            "P1": 121.53061776282222,
+            "P2": 25.034410471507787
+          }
+        ]
+      }
+    ]
+  }
+]

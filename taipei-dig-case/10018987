@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "正發建設開發有限公司(97建字第0435號建案)",
+    "AC_NOpro": "100017386",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001121~1001130",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "西安街1187~189號 前",
+    "TC_NApro": "世豐營造股份有限公司",
+    "PURPpro": "路平專案道路更新",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51802730908105,
+            "P2": 25.110159323720588
+          },
+          {
+            "P1": 121.51819625557272,
+            "P2": 25.109909353392592
+          }
+        ]
+      }
+    ]
+  }
+]

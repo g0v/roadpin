@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000374",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980213~0980215",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路36222號~28號前",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52576168658298,
+            "P2": 25.065568234051288
+          },
+          {
+            "P1": 121.52576160003103,
+            "P2": 25.065547957402625
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52576052672345,
+            "P2": 25.06555658297205
+          },
+          {
+            "P1": 121.52645742520389,
+            "P2": 25.065541943661877
+          }
+        ]
+      }
+    ]
+  }
+]

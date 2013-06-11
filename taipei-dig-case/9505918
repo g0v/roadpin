@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95007246",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951220~0951222",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路5883020號前",
+    "TC_NApro": "寶隆工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5503057964951,
+            "P2": 25.080055460166985
+          },
+          {
+            "P1": 121.55022897214568,
+            "P2": 25.080055745022907
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55030581909756,
+            "P2": 25.080060515757054
+          },
+          {
+            "P1": 121.55030576904927,
+            "P2": 25.080049321236192
+          }
+        ]
+      }
+    ]
+  }
+]

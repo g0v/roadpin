@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100001935",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000214~1000215",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "洲美街28號前",
+    "TC_NApro": "上人科技有限公司NCG911977",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5092734458199,
+            "P2": 25.097378710121749
+          },
+          {
+            "P1": 121.50927813533642,
+            "P2": 25.097371525783455
+          },
+          {
+            "P1": 121.50962564496763,
+            "P2": 25.0974814128295
+          }
+        ]
+      }
+    ]
+  }
+]

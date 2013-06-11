@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97004737",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970906~0970907",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "忠順街1(實踐國小前)(樟新里)",
+    "TC_NApro": "躍眾營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55730854565229,
+            "P2": 24.983411088746323
+          },
+          {
+            "P1": 121.55739516573171,
+            "P2": 24.983439428559052
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001714",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960427~0960429",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "延平北路276號至88號及民樂街81號",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51089026330764,
+            "P2": 25.055888330869177
+          },
+          {
+            "P1": 121.51089215863216,
+            "P2": 25.055848248811866
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51154146257896,
+            "P2": 25.05591979096684
+          },
+          {
+            "P1": 121.5115595960614,
+            "P2": 25.055630000172307
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012338",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000821~1000830",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "信義路2段45巷1號旁(EE162)",
+    "TC_NApro": "聯合電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52593252824445,
+            "P2": 25.034753952404714
+          },
+          {
+            "P1": 121.52595610400822,
+            "P2": 25.034747305558188
+          }
+        ]
+      }
+    ]
+  }
+]

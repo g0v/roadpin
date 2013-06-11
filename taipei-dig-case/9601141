@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96002749",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960611~0960612",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "東湖路160底(康樂抽水站對面)",
+    "TC_NApro": "俍銓營造(TEQ96027)NVG630014",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.61717285324802,
+            "P2": 25.066286211133363
+          },
+          {
+            "P1": 121.6171734399782,
+            "P2": 25.066403301027172
+          }
+        ]
+      }
+    ]
+  }
+]

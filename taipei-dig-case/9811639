@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98008978",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980921~0980923",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "瑞安街2324、瑞安街31巷口(龍雲里)",
+    "TC_NApro": "強鋼營造有限公司18508-1856480",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54506349451981,
+            "P2": 25.03040456011475
+          },
+          {
+            "P1": 121.54509809617079,
+            "P2": 25.030404433208524
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005415",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941112~0941113",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "辛亥路2135號前",
+    "TC_NApro": "建大水電工程行",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53976176976926,
+            "P2": 25.021424329058277
+          },
+          {
+            "P1": 121.53977663195289,
+            "P2": 25.021424275094546
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5397612175079,
+            "P2": 25.02141133064324
+          },
+          {
+            "P1": 121.53977647838384,
+            "P2": 25.021411816916107
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水南區",
+    "AC_NOpro": "98010331",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980917~0980917",
+    "CO_TIpro": "巷道日間施工9時至17時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路23465號旁",
+    "TC_NApro": "宗立興有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54493696912229,
+            "P2": 25.047016065109386
+          },
+          {
+            "P1": 121.54493701980522,
+            "P2": 25.047027530526531
+          }
+        ]
+      }
+    ]
+  }
+]

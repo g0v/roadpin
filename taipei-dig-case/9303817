@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93002698",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930730~0930731",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "東華街2唭哩岸站口",
+    "TC_NApro": "中外工程股份有限公司",
+    "PURPpro": "管線改善;新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50673199356744,
+            "P2": 25.120816713209692
+          },
+          {
+            "P1": 121.50671230020477,
+            "P2": 25.120682173334483
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50672305932892,
+            "P2": 25.120814396476533
+          },
+          {
+            "P1": 121.50672175570497,
+            "P2": 25.120810880020393
+          }
+        ]
+      }
+    ]
+  }
+]

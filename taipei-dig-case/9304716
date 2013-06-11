@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003312",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930916~0930918",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "南昌路1242號",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.516449353524,
+            "P2": 25.031748786496642
+          },
+          {
+            "P1": 121.51643782841522,
+            "P2": 25.031765167370402
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51642238671288,
+            "P2": 25.031745449536768
+          },
+          {
+            "P1": 121.51642626558005,
+            "P2": 25.031748866727998
+          }
+        ]
+      }
+    ]
+  }
+]

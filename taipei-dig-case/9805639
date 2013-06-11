@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98004892",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980517~0980517",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路2242號(河堤里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52448226174582,
+            "P2": 25.021497322001576
+          },
+          {
+            "P1": 121.52449015928178,
+            "P2": 25.021504462436649
+          }
+        ]
+      }
+    ]
+  }
+]

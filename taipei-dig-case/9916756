@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99015238",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990813~0990815",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "延平北路6105號前(社新里)",
+    "TC_NApro": "上人科技有限公司NC1966181",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5085129298411,
+            "P2": 25.088063227121033
+          },
+          {
+            "P1": 121.5085219074639,
+            "P2": 25.08805262454176
+          }
+        ]
+      }
+    ]
+  }
+]

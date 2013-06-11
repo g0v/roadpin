@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014621",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990818~0990820",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "仁愛路21525號前(文北里)",
+    "TC_NApro": "同新瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52581199393285,
+            "P2": 25.038659612698687
+          },
+          {
+            "P1": 121.52582189137515,
+            "P2": 25.038656742861523
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5258170808101,
+            "P2": 25.038658041870345
+          },
+          {
+            "P1": 121.52582195954692,
+            "P2": 25.038672731318307
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99003170",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990313~0990314",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "東勢里健康路42號側",
+    "TC_NApro": "奕揚營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55266569845627,
+            "P2": 25.053015423185716
+          },
+          {
+            "P1": 121.55265492250737,
+            "P2": 25.053001514994261
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55265335250597,
+            "P2": 25.052991761547517
+          },
+          {
+            "P1": 121.55265325870482,
+            "P2": 25.052970843975952
+          }
+        ]
+      }
+    ]
+  }
+]

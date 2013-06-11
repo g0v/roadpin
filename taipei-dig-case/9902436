@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市公共運輸處",
+    "AC_NOpro": "99003171",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990307~0990310",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文德路文德路220號前",
+    "TC_NApro": "華夏科技股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58771295044929,
+            "P2": 25.078395139929281
+          },
+          {
+            "P1": 121.587826055207,
+            "P2": 25.078417893827183
+          }
+        ]
+      }
+    ]
+  }
+]

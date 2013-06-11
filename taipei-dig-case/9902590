@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99002937",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990303~0990312",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "安和路1102口,安和路口附近(敦安里)",
+    "TC_NApro": "瑞泰營造有限公司BP183-825014",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55229053935095,
+            "P2": 25.03400581682585
+          },
+          {
+            "P1": 121.55213659790805,
+            "P2": 25.034056548679583
+          }
+        ]
+      }
+    ]
+  }
+]

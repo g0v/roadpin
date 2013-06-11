@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93003097",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930825~0930827",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "愛國西路與南昌路一段交叉口",
+    "TC_NApro": "陞昌工程公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51401460757705,
+            "P2": 25.034751660982884
+          },
+          {
+            "P1": 121.51403035573414,
+            "P2": 25.03474980089317
+          }
+        ]
+      }
+    ]
+  }
+]

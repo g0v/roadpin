@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003123",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940729~0940731",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "浦城街1312號",
+    "TC_NApro": "齊得水電企業公司",
+    "PURPpro": "管線改善;舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52732417221189,
+            "P2": 25.024224789667173
+          },
+          {
+            "P1": 121.52732673263266,
+            "P2": 25.02424428123258
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52735188021389,
+            "P2": 25.024239587698855
+          },
+          {
+            "P1": 121.52734435988445,
+            "P2": 25.024241961678808
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000219",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930116~0930116",
+    "CO_TIpro": "夜間施工(零時至六時)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "虎林街153號側巷內",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57660277018411,
+            "P2": 25.039171503910648
+          },
+          {
+            "P1": 121.576621969258,
+            "P2": 25.039166012595754
+          }
+        ]
+      }
+    ]
+  }
+]

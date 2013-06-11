@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94006983",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941218~0941220",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路3193號前",
+    "TC_NApro": "寶隆工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52803658099914,
+            "P2": 25.063743468441707
+          },
+          {
+            "P1": 121.52807929974746,
+            "P2": 25.063743316510912
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52805631116101,
+            "P2": 25.063744842756982
+          },
+          {
+            "P1": 121.52805647834964,
+            "P2": 25.063783843251603
+          }
+        ]
+      }
+    ]
+  }
+]

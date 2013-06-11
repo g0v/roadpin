@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94003893",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940910~0940911",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "南京西路27之1號邊及45號(共2處)",
+    "TC_NApro": "今道工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51994016221872,
+            "P2": 25.052622587773687
+          },
+          {
+            "P1": 121.51992740657749,
+            "P2": 25.052582547881261
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51962885132282,
+            "P2": 25.052666650785209
+          },
+          {
+            "P1": 121.51962241181535,
+            "P2": 25.052643742064774
+          }
+        ]
+      }
+    ]
+  }
+]

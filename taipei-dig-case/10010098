@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100010369",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000719~1000802",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松山路與虎林街119巷口(永春里.富台里)",
+    "TC_NApro": "豐松營造有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5779354195591,
+            "P2": 25.041826690881681
+          },
+          {
+            "P1": 121.57793352307091,
+            "P2": 25.041796300958612
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57780038051102,
+            "P2": 25.041765970121268
+          },
+          {
+            "P1": 121.57779861630974,
+            "P2": 25.041949904575795
+          }
+        ]
+      }
+    ]
+  }
+]

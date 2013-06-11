@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007066",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961128~0961130",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "大理街15932號左後方",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49588435529323,
+            "P2": 25.034472972089347
+          },
+          {
+            "P1": 121.49583725618106,
+            "P2": 25.034458214839166
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.49583422794106,
+            "P2": 25.034466612043069
+          },
+          {
+            "P1": 121.49584131127966,
+            "P2": 25.034448893343239
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100006347",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000426~1000427",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路23624號旁",
+    "TC_NApro": "竣輝工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.521259852764,
+            "P2": 25.054039572762353
+          },
+          {
+            "P1": 121.52125968909856,
+            "P2": 25.054000879123304
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52128660193964,
+            "P2": 25.054039478876817
+          },
+          {
+            "P1": 121.5212865352633,
+            "P2": 25.054023716139206
+          }
+        ]
+      }
+    ]
+  }
+]

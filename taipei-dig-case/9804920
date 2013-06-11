@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺北市愛國東路國際婚紗街發展協會",
+    "AC_NOpro": "98003683",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980514~0980515",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "林森南路愛國東路口",
+    "TC_NApro": "太豐農牧股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51898081035657,
+            "P2": 25.03353898346387
+          },
+          {
+            "P1": 121.5190148274085,
+            "P2": 25.033522144667124
+          }
+        ]
+      }
+    ]
+  }
+]

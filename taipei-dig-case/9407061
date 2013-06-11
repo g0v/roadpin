@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005561",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941103~0941105",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "忠孝東路4，光復南路附近",
+    "TC_NApro": "眾興欣業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5594677321415,
+            "P2": 25.040892391686103
+          },
+          {
+            "P1": 121.55965651103247,
+            "P2": 25.040891680701272
+          }
+        ]
+      }
+    ]
+  }
+]

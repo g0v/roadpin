@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005723",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000412~1000413",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "北投",
+    "LOCATIONpro": "泉源路行義橋旁(泉源里)修管共2處",
+    "TC_NApro": "緯全營造有限公司NE7080101",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52484358338526,
+            "P2": 25.146202793775924
+          },
+          {
+            "P1": 121.52486851294992,
+            "P2": 25.146203906154998
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52481602044112,
+            "P2": 25.146200508063796
+          },
+          {
+            "P1": 121.52478845236333,
+            "P2": 25.146197021649524
+          }
+        ]
+      }
+    ]
+  }
+]

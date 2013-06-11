@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98000410",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980221~0980222",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "新生南路321號前",
+    "TC_NApro": "協鼎瓦斯工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53482141202534,
+            "P2": 25.024588892432046
+          },
+          {
+            "P1": 121.53481907391435,
+            "P2": 25.024561527734619
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5348191266183,
+            "P2": 25.024573688356039
+          },
+          {
+            "P1": 121.53488252494779,
+            "P2": 25.02456535302975
+          }
+        ]
+      }
+    ]
+  }
+]

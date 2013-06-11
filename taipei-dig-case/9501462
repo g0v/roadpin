@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95001490",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950330~0950401",
+    "CO_TIpro": "巷道日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路5150340號邊",
+    "TC_NApro": "齊得水電企業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56988909786904,
+            "P2": 25.026287148044528
+          },
+          {
+            "P1": 121.56986991699878,
+            "P2": 25.026274762897856
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57002226036634,
+            "P2": 25.02611347973253
+          },
+          {
+            "P1": 121.57003045560118,
+            "P2": 25.026107218960135
+          }
+        ]
+      }
+    ]
+  }
+]

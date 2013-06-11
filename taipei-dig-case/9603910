@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "96003280",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960704~0960706",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "延平南路71號",
+    "TC_NApro": "晃盛電氣工程有限公司",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51034330211034,
+            "P2": 25.044413765392662
+          },
+          {
+            "P1": 121.51026989124043,
+            "P2": 25.044163208757723
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51027787841053,
+            "P2": 25.04419184544512
+          },
+          {
+            "P1": 121.51030931298526,
+            "P2": 25.044184569182114
+          }
+        ]
+      }
+    ]
+  }
+]

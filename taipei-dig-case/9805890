@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005580",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980523~0980523",
+    "CO_TIpro": "",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "健康路220號附近",
+    "TC_NApro": "緯全營造有限公司28040-2850253",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56085912210372,
+            "P2": 25.053670178219253
+          },
+          {
+            "P1": 121.56095353437927,
+            "P2": 25.053672692561303
+          }
+        ]
+      }
+    ]
+  }
+]

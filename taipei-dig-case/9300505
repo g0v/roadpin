@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "英屬維京群島商好萊屋塢星光健康事業台灣分公司                                    ",
+    "AC_NOpro": "93000428",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930225~0930227",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路734號",
+    "TC_NApro": "英屬維京群島商好事業公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53107813019494,
+            "P2": 25.119790501145921
+          },
+          {
+            "P1": 121.53106830593485,
+            "P2": 25.119765890012772
+          }
+        ]
+      }
+    ]
+  }
+]

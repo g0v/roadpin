@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99010193",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990608~0990608",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "福興路50號旁",
+    "TC_NApro": "景久工程行",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55053370282083,
+            "P2": 25.003093785366961
+          },
+          {
+            "P1": 121.5505506420778,
+            "P2": 25.00308236534136
+          },
+          {
+            "P1": 121.55054837808631,
+            "P2": 25.003083411950822
+          }
+        ]
+      }
+    ]
+  }
+]

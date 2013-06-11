@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "神通電腦",
+    "AC_NOpro": "100010931",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000713~1000722",
+    "CO_TIpro": "日間施工9時至22時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "北安路、北安路670巷口(CH075)",
+    "TC_NApro": "展鑫電信工程公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54947232737693,
+            "P2": 25.083782485016108
+          },
+          {
+            "P1": 121.5494821478508,
+            "P2": 25.083779460388104
+          }
+        ]
+      }
+    ]
+  }
+]

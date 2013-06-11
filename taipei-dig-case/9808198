@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98006489",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980706~0980706",
+    "CO_TIpro": "日間施工9時至17時",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "信義路676227號之1(松友里30053)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5764889242941,
+            "P2": 25.033874920337713
+          },
+          {
+            "P1": 121.57648773671949,
+            "P2": 25.033873128369127
+          }
+        ]
+      }
+    ]
+  }
+]

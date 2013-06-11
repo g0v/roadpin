@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "長虹建設股份有限公司",
+    "AC_NOpro": "98009397",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981007~0981009",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "文德路66巷口和90巷口處",
+    "TC_NApro": "長虹建設股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58128755954292,
+            "P2": 25.078137915587934
+          },
+          {
+            "P1": 121.58240172810037,
+            "P2": 25.078142151179506
+          }
+        ]
+      }
+    ]
+  }
+]

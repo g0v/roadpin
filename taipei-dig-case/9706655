@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005727",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971001~0971003",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路308號及310巷口(中山里)",
+    "TC_NApro": "台利實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52538168395107,
+            "P2": 25.055913110647378
+          },
+          {
+            "P1": 121.52537119820096,
+            "P2": 25.0559131477425
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52523763337285,
+            "P2": 25.055954228318697
+          },
+          {
+            "P1": 121.52523772499575,
+            "P2": 25.055975723762451
+          }
+        ]
+      }
+    ]
+  }
+]

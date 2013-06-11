@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96000132",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960119~0960121",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "麗水街7巷口.13巷口等2處",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52870934246219,
+            "P2": 25.030666996714409
+          },
+          {
+            "P1": 121.52870528605234,
+            "P2": 25.030645343779341
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52858499632056,
+            "P2": 25.030022293175559
+          },
+          {
+            "P1": 121.52858094382391,
+            "P2": 25.030001543027758
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96001650",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960417~0960419",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路6188212巷",
+    "TC_NApro": "健昌工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58738536385002,
+            "P2": 25.04821017654486
+          },
+          {
+            "P1": 121.58749509356134,
+            "P2": 25.047961066614054
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58673881431453,
+            "P2": 25.0479506853682
+          },
+          {
+            "P1": 121.58682692828937,
+            "P2": 25.0477218930143
+          }
+        ]
+      }
+    ]
+  }
+]

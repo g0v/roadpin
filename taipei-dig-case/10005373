@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100005420",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000416~1000425",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "新生南路1120口(EC224)",
+    "TC_NApro": "奕揚營造有限公司AP560-822288b",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53258664774435,
+            "P2": 25.038905928367893
+          },
+          {
+            "P1": 121.53257073564737,
+            "P2": 25.038862993802759
+          }
+        ]
+      }
+    ]
+  }
+]

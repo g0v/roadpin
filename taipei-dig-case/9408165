@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94007003",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941217~0941218",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "基隆路1147旁",
+    "TC_NApro": "雍銓營造(TEO94126)",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56565214688099,
+            "P2": 25.042705635308057
+          },
+          {
+            "P1": 121.56555699530821,
+            "P2": 25.042529319230944
+          },
+          {
+            "P1": 121.56557263080418,
+            "P2": 25.04252447485943
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99009542",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990612~0990701",
+    "CO_TIpro": "日間施工9時至17時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路3與基隆路4段交岔口(水源里)",
+    "TC_NApro": "磊慶營造股份有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53634349431648,
+            "P2": 25.010777383403603
+          },
+          {
+            "P1": 121.53644323696423,
+            "P2": 25.010808080234842
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53612041999794,
+            "P2": 25.010716083612841
+          },
+          {
+            "P1": 121.53621230651996,
+            "P2": 25.010749192338526
+          }
+        ]
+      }
+    ]
+  }
+]

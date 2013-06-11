@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004933",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950821~0950822",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "羅斯福路2778號前",
+    "TC_NApro": "協鼎工程有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52369923542058,
+            "P2": 25.026044936375307
+          },
+          {
+            "P1": 121.52371813961784,
+            "P2": 25.026039904325152
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52370813967711,
+            "P2": 25.026041745174837
+          },
+          {
+            "P1": 121.52370261489186,
+            "P2": 25.026024069605242
+          }
+        ]
+      }
+    ]
+  }
+]

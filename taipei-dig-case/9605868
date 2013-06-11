@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96004871",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0960901~0960902",
+    "CO_TIpro": "周休二日施工8時至16時",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "新生北路337號前",
+    "TC_NApro": "七峰營造(TNQ30176)",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52797780497863,
+            "P2": 25.064966812923274
+          },
+          {
+            "P1": 121.52791420065964,
+            "P2": 25.06481178408497
+          }
+        ]
+      }
+    ]
+  }
+]

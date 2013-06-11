@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "自來水西區",
+    "AC_NOpro": "98008394",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980815~0980815",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "師大路130巷口(頂東里)",
+    "TC_NApro": "宏泰陽企業有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52736003194154,
+            "P2": 25.020559000070214
+          },
+          {
+            "P1": 121.52739925500832,
+            "P2": 25.020534972620165
+          }
+        ]
+      }
+    ]
+  }
+]

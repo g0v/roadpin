@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94004592",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940907~0940907",
+    "CO_TIpro": "夜間施工(0時至5時30分)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路4(29.57)號前",
+    "TC_NApro": "橋興工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5224978384723,
+            "P2": 25.080285342232358
+          },
+          {
+            "P1": 121.52247775402404,
+            "P2": 25.080294531239296
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52302087648737,
+            "P2": 25.081294727676262
+          },
+          {
+            "P1": 121.52300325097667,
+            "P2": 25.08129939408159
+          }
+        ]
+      }
+    ]
+  }
+]

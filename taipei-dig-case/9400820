@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "鴻隆展業有限公司                                                                ",
+    "AC_NOpro": "94000752",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940319~0940321",
+    "CO_TIpro": "人行磚道日間施工(九時至十七時)",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "行愛路7716號旁空地",
+    "TC_NApro": "冠泰營造廠股份有限公司",
+    "PURPpro": "設置汽機車斜坡道",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58148050789353,
+            "P2": 25.062573906496226
+          },
+          {
+            "P1": 121.58152505354781,
+            "P2": 25.06260397576678
+          }
+        ]
+      }
+    ]
+  }
+]

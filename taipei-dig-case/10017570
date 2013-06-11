@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100016014",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001013~1001013",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西昌街2911號前",
+    "TC_NApro": "中華瓦斯工程有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50094589718896,
+            "P2": 25.042473413607496
+          },
+          {
+            "P1": 121.50094592231389,
+            "P2": 25.042479597757758
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50092663702141,
+            "P2": 25.042472178504834
+          },
+          {
+            "P1": 121.50092614448613,
+            "P2": 25.042489983539788
+          }
+        ]
+      }
+    ]
+  }
+]

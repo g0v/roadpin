@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "93000334",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0930217~0930219",
+    "CO_TIpro": "日間施工(九時至十七時)",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "天母東路10511號前",
+    "TC_NApro": "鴻展瓦斯管路工程行有限公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53643241551717,
+            "P2": 25.118866259417167
+          },
+          {
+            "P1": 121.53639682214977,
+            "P2": 25.118844811401029
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53639327131793,
+            "P2": 25.118849157668418
+          },
+          {
+            "P1": 121.53639928261893,
+            "P2": 25.118840559358574
+          }
+        ]
+      }
+    ]
+  }
+]

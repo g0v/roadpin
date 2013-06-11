@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007446",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961212~0961214",
+    "CO_TIpro": "日間施工9時至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "民生東路526017號與18號",
+    "TC_NApro": "義承工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56721355139739,
+            "P2": 25.057929480212227
+          },
+          {
+            "P1": 121.56726234326045,
+            "P2": 25.057933591164947
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "97005125",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970906~0970907",
+    "CO_TIpro": "周休二日施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "復興南路278口(龍圖里)",
+    "TC_NApro": "嘉信機電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.54336495846579,
+            "P2": 25.03094780464702
+          },
+          {
+            "P1": 121.54335824972844,
+            "P2": 25.030853242245094
+          }
+        ]
+      }
+    ]
+  }
+]

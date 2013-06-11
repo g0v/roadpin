@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98002392",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980407~0980409",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "林森北路中山北路2段39巷(康樂里)",
+    "TC_NApro": "東屋股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52551339187468,
+            "P2": 25.053602901069183
+          },
+          {
+            "P1": 121.52552597850293,
+            "P2": 25.053602856532695
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52534022302812,
+            "P2": 25.053580582467539
+          },
+          {
+            "P1": 121.52533859222842,
+            "P2": 25.053567687160111
+          }
+        ]
+      }
+    ]
+  }
+]

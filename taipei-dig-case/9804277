@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "欣欣天然氣",
+    "AC_NOpro": "98003710",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980518~0980520",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "久康街26號旁",
+    "TC_NApro": "同成工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56532761995531,
+            "P2": 24.989102483213038
+          },
+          {
+            "P1": 121.56537872633018,
+            "P2": 24.989055514537238
+          }
+        ]
+      }
+    ]
+  }
+]

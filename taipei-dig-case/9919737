@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "臺電市區",
+    "AC_NOpro": "99018337",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991011~0991013",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大同",
+    "LOCATIONpro": "重慶北路3191114號邊(至聖里)",
+    "TC_NApro": "祿鴻有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51426149503914,
+            "P2": 25.069703695031418
+          },
+          {
+            "P1": 121.5142992599266,
+            "P2": 25.069703564201092
+          }
+        ]
+      }
+    ]
+  }
+]

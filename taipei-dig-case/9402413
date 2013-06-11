@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001997",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940528~0940529",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "衡陽路、博愛路口及博愛路119號(城中派出所)前",
+    "TC_NApro": "田峰營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51141559751567,
+            "P2": 25.042021367936581
+          },
+          {
+            "P1": 121.51144389204941,
+            "P2": 25.042009804885915
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51149547326887,
+            "P2": 25.041520034987229
+          },
+          {
+            "P1": 121.51149231884824,
+            "P2": 25.04150018408885
+          }
+        ]
+      }
+    ]
+  }
+]

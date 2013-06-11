@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100004706",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000329~1000402",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "延壽街與塔悠路交口至延壽街13號前(新東里50004)",
+    "TC_NApro": "祥昌水管工程股份有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56913517595677,
+            "P2": 25.057143029773965
+          },
+          {
+            "P1": 121.56848741297667,
+            "P2": 25.05709104498456
+          }
+        ]
+      }
+    ]
+  }
+]

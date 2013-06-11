@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "名鉅實業有限公司",
+    "AC_NOpro": "97007668",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0971225~0971227",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "北寧路與56巷交叉口",
+    "TC_NApro": "名鉅實業有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55255557218636,
+            "P2": 25.049602789466153
+          },
+          {
+            "P1": 121.55260800792763,
+            "P2": 25.049602594395328
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55267358640485,
+            "P2": 25.049607126229311
+          },
+          {
+            "P1": 121.55272341653847,
+            "P2": 25.04960933323882
+          }
+        ]
+      }
+    ]
+  }
+]

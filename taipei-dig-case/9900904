@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99000807",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990115~0990118",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "瑞光路100號",
+    "TC_NApro": "智敦通訊科技股份有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58150296570966,
+            "P2": 25.071180853791184
+          },
+          {
+            "P1": 121.58151071889432,
+            "P2": 25.07117284269486
+          },
+          {
+            "P1": 121.58151071889432,
+            "P2": 25.07117284269486
+          }
+        ]
+      }
+    ]
+  }
+]

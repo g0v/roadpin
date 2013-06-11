@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004107",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950710~0950712",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "敦化北路349號與新中街43號",
+    "TC_NApro": "昇泉工程有限公司",
+    "PURPpro": "管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55047341157852,
+            "P2": 25.059940271805935
+          },
+          {
+            "P1": 121.55045134792125,
+            "P2": 25.059948930209046
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56028919992325,
+            "P2": 25.060261700081906
+          },
+          {
+            "P1": 121.56030020506067,
+            "P2": 25.060262471076634
+          }
+        ]
+      }
+    ]
+  }
+]

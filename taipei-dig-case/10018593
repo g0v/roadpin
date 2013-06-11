@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信南區",
+    "AC_NOpro": "100017174",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1001114~1001123",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "信義路3、新生南路2段口(DD004)",
+    "TC_NApro": "奕揚營造有限公司BP364-925071",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53309924871937,
+            "P2": 25.033227635176011
+          },
+          {
+            "P1": 121.5330016888622,
+            "P2": 25.033222252301737
+          }
+        ]
+      }
+    ]
+  }
+]

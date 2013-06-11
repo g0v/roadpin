@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100000920",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000121~1000125",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "三民路8017號(邊溝)(與延壽街72巷交叉口附近-人行道)(GA164)",
+    "TC_NApro": "強鋼營造有限公司854082",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56532479400052,
+            "P2": 25.056259045097573
+          },
+          {
+            "P1": 121.56533790609296,
+            "P2": 25.056258995182908
+          }
+        ]
+      }
+    ]
+  }
+]

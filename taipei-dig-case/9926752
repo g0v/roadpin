@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99024314",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0991223~0991224",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "松山",
+    "LOCATIONpro": "八德路472107號附近",
+    "TC_NApro": "俍銓工程營造有限公司950466",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5597681714235,
+            "P2": 25.046930574155528
+          },
+          {
+            "P1": 121.55979703069923,
+            "P2": 25.04693285782805
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55981275808853,
+            "P2": 25.046932798558959
+          },
+          {
+            "P1": 121.55982325292482,
+            "P2": 25.046932759007959
+          }
+        ]
+      }
+    ]
+  }
+]

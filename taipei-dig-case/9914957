@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99014061",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990812~0990814",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "承德路4509號(牧愛堂)前(後港里)",
+    "TC_NApro": "七峰營造股份有限公司NCG941955",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51750798201853,
+            "P2": 25.09122279539557
+          },
+          {
+            "P1": 121.51752771611199,
+            "P2": 25.091235862306338
+          }
+        ]
+      }
+    ]
+  }
+]

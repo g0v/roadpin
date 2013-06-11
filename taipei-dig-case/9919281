@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99019164",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990827~0990827",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "舊宗路1與行善路口(週美里)",
+    "TC_NApro": "中陸企業有限公司",
+    "PURPpro": "搶修;人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58019271093399,
+            "P2": 25.058676192583786
+          },
+          {
+            "P1": 121.58021630913748,
+            "P2": 25.058676100380918
+          }
+        ]
+      }
+    ]
+  }
+]

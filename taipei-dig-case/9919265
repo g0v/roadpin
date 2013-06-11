@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99017793",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990927~0991001",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "徐州路46至48號附近(東門里)",
+    "TC_NApro": "奕揚營造有限公司TSTAP488-822210",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52506613961546,
+            "P2": 25.040018283247651
+          },
+          {
+            "P1": 121.52506451516359,
+            "P2": 25.040006823350616
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52462924865854,
+            "P2": 25.04012587919328
+          },
+          {
+            "P1": 121.52462604634576,
+            "P2": 25.040111562967059
+          }
+        ]
+      }
+    ]
+  }
+]

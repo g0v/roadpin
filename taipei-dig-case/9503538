@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95002978",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950519~0950521",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "羅斯福路23547號前",
+    "TC_NApro": "寶隆工程公司",
+    "PURPpro": "舊有房屋",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52423446045117,
+            "P2": 25.027411254858318
+          },
+          {
+            "P1": 121.524254454399,
+            "P2": 25.027406128614107
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52424327491085,
+            "P2": 25.027410230680523
+          },
+          {
+            "P1": 121.5242455884178,
+            "P2": 25.027418347789887
+          }
+        ]
+      }
+    ]
+  }
+]

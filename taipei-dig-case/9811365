@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98010462",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0981114~0981115",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "福興路96-4號旁(興旺里)",
+    "TC_NApro": "強鋼營造有限公司NU3850324",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.5500298858622,
+            "P2": 25.005506065482368
+          },
+          {
+            "P1": 121.55002528507622,
+            "P2": 25.005531875718042
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.55003273043381,
+            "P2": 25.005497451203382
+          },
+          {
+            "P1": 121.55003785410774,
+            "P2": 25.005471151517355
+          }
+        ]
+      }
+    ]
+  }
+]

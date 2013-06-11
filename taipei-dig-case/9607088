@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96006848",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961115~0970815",
+    "CO_TIpro": "請依交維訂定時間施作。",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "通河西街1通河西街一段大龍抽水站旁",
+    "TC_NApro": "翔益營造有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51590851666653,
+            "P2": 25.078601584667968
+          },
+          {
+            "P1": 121.51602790111393,
+            "P2": 25.0783942924599
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51587751103163,
+            "P2": 25.078642255355554
+          },
+          {
+            "P1": 121.51507878667155,
+            "P2": 25.079354885013352
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005632",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980715~0980717",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "齊東街8220號至20-3號(幸福裡)",
+    "TC_NApro": "強鋼營造有限公司28048-1721744",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52725993414512,
+            "P2": 25.041818003754226
+          },
+          {
+            "P1": 121.52721013841629,
+            "P2": 25.041825348743128
+          }
+        ]
+      }
+    ]
+  }
+]

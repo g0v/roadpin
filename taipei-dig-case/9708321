@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "中華電信北區",
+    "AC_NOpro": "97006672",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0970928~0970928",
+    "CO_TIpro": "日間施工",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "中山北路1137號前",
+    "TC_NApro": "漢中營造有限公司",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52256460462796,
+            "P2": 25.051568759629848
+          },
+          {
+            "P1": 121.52255902869548,
+            "P2": 25.051546281347644
+          }
+        ]
+      }
+    ]
+  }
+]

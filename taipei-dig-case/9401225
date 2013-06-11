@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94001062",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0940329~0940402",
+    "CO_TIpro": "日間施工(9時至16時30分)",
+    "C_NAMEpro": "中山",
+    "LOCATIONpro": "德惠街86號側(農安街77巷)",
+    "TC_NApro": "巨門工程股份有限公司",
+    "PURPpro": "搶修;管線改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52851591040684,
+            "P2": 25.066353752028288
+          },
+          {
+            "P1": 121.52854027966968,
+            "P2": 25.066165701763385
+          }
+        ]
+      }
+    ]
+  }
+]

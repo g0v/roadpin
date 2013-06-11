@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98001722",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980318~0980320",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "萬青街11812號(壽德里)",
+    "TC_NApro": "昱丞工程公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50138989061858,
+            "P2": 25.024295389875483
+          },
+          {
+            "P1": 121.50138533816843,
+            "P2": 25.024282106837212
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100012771",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000727~1000727",
+    "CO_TIpro": "依現場搶修狀況而定",
+    "C_NAMEpro": "文山",
+    "LOCATIONpro": "木柵路549口",
+    "TC_NApro": "緯全營造有限公司TSU41068",
+    "PURPpro": "搶修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58629512408962,
+            "P2": 25.002946620054463
+          },
+          {
+            "P1": 121.5862971894618,
+            "P2": 25.002912142836824
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.58629931625205,
+            "P2": 25.002809205709916
+          },
+          {
+            "P1": 121.58629959966632,
+            "P2": 25.002868916083951
+          }
+        ]
+      }
+    ]
+  }
+]

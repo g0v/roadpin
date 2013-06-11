@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95006828",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0951127~0951129",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "西寧南路185號之2及195號前",
+    "TC_NApro": "七峰營造",
+    "PURPpro": "檢修",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50602043334405,
+            "P2": 25.041205105594425
+          },
+          {
+            "P1": 121.5060203548021,
+            "P2": 25.041185966338173
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50603788426655,
+            "P2": 25.040990087636132
+          },
+          {
+            "P1": 121.5060378153554,
+            "P2": 25.040973295646715
+          }
+        ]
+      }
+    ]
+  }
+]

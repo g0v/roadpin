@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "94005934",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0941112~0941113",
+    "CO_TIpro": "週休二日(8時至16時)",
+    "C_NAMEpro": "大安",
+    "LOCATIONpro": "仁愛路334口",
+    "TC_NApro": "金樹水電工程有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53568667006498,
+            "P2": 25.037439868206789
+          },
+          {
+            "P1": 121.53566150015,
+            "P2": 25.037439958946234
+          },
+          {
+            "P1": 121.5356617863944,
+            "P2": 25.037505862710557
+          }
+        ]
+      }
+    ]
+  }
+]

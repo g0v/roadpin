@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95005684",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950925~0950927",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "中正",
+    "LOCATIONpro": "汀州路299號及70號前(共2處 )",
+    "TC_NApro": "六合水電工程行",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51853079030369,
+            "P2": 25.024987721391039
+          },
+          {
+            "P1": 121.51856216402514,
+            "P2": 25.024979035261698
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.51851461404522,
+            "P2": 25.024887385510446
+          },
+          {
+            "P1": 121.51854914668081,
+            "P2": 25.024875889658251
+          }
+        ]
+      }
+    ]
+  }
+]

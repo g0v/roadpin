@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "98005770",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0980710~0980712",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "內湖",
+    "LOCATIONpro": "民善街3號對面(湖元里0251)",
+    "TC_NApro": "勝源水管工程行",
+    "PURPpro": "遷移",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57658537310611,
+            "P2": 25.057889090304236
+          },
+          {
+            "P1": 121.5766053221146,
+            "P2": 25.05789921447413
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.57673595125712,
+            "P2": 25.05763239957027
+          },
+          {
+            "P1": 121.57675839317135,
+            "P2": 25.057643642537251
+          }
+        ]
+      }
+    ]
+  }
+]

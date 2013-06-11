@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "95004945",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0950817~0950818",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "雨農路25號",
+    "TC_NApro": "上人營造",
+    "PURPpro": "擴充",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "局主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53222799807966,
+            "P2": 25.098351444733261
+          },
+          {
+            "P1": 121.53227517775409,
+            "P2": 25.098348386479351
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.53227519025698,
+            "P2": 25.098351275389486
+          },
+          {
+            "P1": 121.53224299258291,
+            "P2": 25.09817362991328
+          }
+        ]
+      }
+    ]
+  }
+]

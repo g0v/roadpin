@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "99004744",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0990331~0990401",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "信義",
+    "LOCATIONpro": "松勤路與莊敬路交叉口附近(非屬莊敬路本線)(景聯里)",
+    "TC_NApro": "俍銓工程營造有限公司940058",
+    "PURPpro": "人手孔改善",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "副局長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.56107916865744,
+            "P2": 25.031798229607091
+          },
+          {
+            "P1": 121.56109490402218,
+            "P2": 25.0317981701983
+          }
+        ]
+      }
+    ]
+  }
+]

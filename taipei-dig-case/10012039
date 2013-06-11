@@ -1,0 +1,50 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "100011842",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000801~1000810",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "南港",
+    "LOCATIONpro": "忠孝東路7南港車站邊(中南里)",
+    "TC_NApro": "中外工程股份有限公司",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60547453107137,
+            "P2": 25.051575024432911
+          },
+          {
+            "P1": 121.60549288518904,
+            "P2": 25.051574949610433
+          }
+        ]
+      },
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.60562336706009,
+            "P2": 25.051600869563821
+          },
+          {
+            "P1": 121.60563386220812,
+            "P2": 25.051600826768983
+          }
+        ]
+      }
+    ]
+  }
+]

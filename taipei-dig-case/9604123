@@ -1,0 +1,38 @@
+[
+  {
+    "APP_NAMEpro": "",
+    "AC_NOpro": "96007331",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "0961210~0961212",
+    "CO_TIpro": "日間施工9時至16時30分",
+    "C_NAMEpro": "萬華",
+    "LOCATIONpro": "忠孝西路238號",
+    "TC_NApro": "強剛營造(TSQ70106)nug611154",
+    "PURPpro": "新設",
+    "KIND_TYPEpro": "新建房屋",
+    "OK_LEVELpro": "主任秘書",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.50796234212871,
+            "P2": 25.048111742703814
+          },
+          {
+            "P1": 121.50797287646321,
+            "P2": 25.048123650812816
+          },
+          {
+            "P1": 121.50805931490265,
+            "P2": 25.048099466928555
+          }
+        ]
+      }
+    ]
+  }
+]

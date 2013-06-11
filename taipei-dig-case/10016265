@@ -1,0 +1,34 @@
+[
+  {
+    "APP_NAMEpro": "紘琚建設股份有限公司",
+    "AC_NOpro": "100015079",
+    "ST_TApro": "1",
+    "ST_NOpro": "1",
+    "CB_DATEpro": "1000926~1001026",
+    "CO_TIpro": "日間施工9時30分至16時",
+    "C_NAMEpro": "士林",
+    "LOCATIONpro": "中山北路781286號(天母里)",
+    "TC_NApro": "隆固工程有限公司",
+    "PURPpro": "其他",
+    "KIND_TYPEpro": "一般案件",
+    "OK_LEVELpro": "科長",
+    "dtResultpro": [
+      {
+        "KEY": null,
+        "P1NAME": null,
+        "P2NAME": null,
+        "GEO_TYPE": null,
+        "POINTS": [
+          {
+            "P1": 121.52944755069309,
+            "P2": 25.122292312149643
+          },
+          {
+            "P1": 121.52940170193116,
+            "P2": 25.122003454849089
+          }
+        ]
+      }
+    ]
+  }
+]
