@@ -20,7 +20,7 @@ def cron_taipei_city():
 
 def parse_args():
     ''' '''
-    parser = argparse.ArgumentParser(description='rtbbidder-frontend-aggregator')
+    parser = argparse.ArgumentParser(description='roadpin_backend')
     parser.add_argument('-i', '--ini', type=str, required=True, help="ini filename")
 
     args = parser.parse_args()
@@ -32,3 +32,6 @@ if __name__ == '__main__':
     (error_code, args) = parse_args()
 
     cfg.init({"ini_filename": args.ini})
+
+    cron_taipei_city()
+
