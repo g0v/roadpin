@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from app.constants import S_OK, S_ERR
 import random
 import math
 import base64
@@ -88,3 +89,10 @@ def _float(the_val, default_val=0):
         cfg.logger.exception('unable to _float: the_val: %s default_val: %s', the_val, default_val)
         
     return result
+
+
+def sleep_by_error_code(error_code):
+    if error_code == S_OK:
+        time.sleep(cfg.config.get('cron_success_sleep_time', 5))
+    else:
+        time.sleep(cfg.config.get('cron_fail_sleep_time', 3600))

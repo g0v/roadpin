@@ -15,7 +15,19 @@ from app import cfg
 from app import util
 
 def cron_taipei_city():
+    while True:
+        params = _get_params()
+        (error_code, results) = _crawl_data(params)
+        util.sleep_by_error_code(error_code)
     pass
+
+
+def _get_params():
+    return {}
+
+
+def _crawl_data(params):
+    return (S_ERR, {})
 
 
 def parse_args():
