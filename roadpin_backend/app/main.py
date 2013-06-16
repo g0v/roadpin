@@ -70,7 +70,7 @@ def _process_result(the_obj):
 
 def parse_args():
     ''' '''
-    parser = argparse.ArgumentParser(description='rtbbidder-frontend-aggregator')
+    parser = argparse.ArgumentParser(description='roadpin_backend')
     parser.add_argument('-i', '--ini', type=str, required=True, help="ini filename")
     parser.add_argument('-p', '--port', type=str, required=True, help="port")
     parser.add_argument('-u', '--username', type=str, required=False, help="username")
