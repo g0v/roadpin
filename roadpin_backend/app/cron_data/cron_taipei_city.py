@@ -149,14 +149,18 @@ def _crawl_dig_point(first_dig_point):
 
 def _process_data(the_data, id_prefix, the_idx):
     if the_data.__class__.__name__ == 'dict':
-        _process_data_core(the_data, id_prefix + '_' + str(the_idx))
+        _process_data_core(the_data, id_prefix, the_idx, id_prefix + '_' + str(the_idx))
     elif the_data.__class__.__name__ == 'list':
         for (each_idx, each_data) in enumerate(the_data):
-            _process_data_core(each_data, id_prefix + '_' + str(the_idx) + '_' + str(each_idx))
+            str_idx = str(the_idx) + '.' + str(each_idx)
+            num_idx = util._float(str_idx)
+            _process_data_core(each_data, id_prefix, num_idx, id_prefix + '_' + str_idx)
 
 
-def _process_data_core(data, the_id):
+def _process_data_core(data, id_prefix, idx, the_id):
     data['the_id'] = the_id
+    data['the_category'] = id_prefix
+    data['the_idx'] = idx
     _put_to_db(data)
 
 
