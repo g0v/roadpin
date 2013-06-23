@@ -134,7 +134,7 @@ def _crawl_dig_point(first_dig_point):
             the_val = util.json_loads(the_val)
             cfg.logger.debug('with_data: the_url: %s the_val: %s', the_url, the_val)
             latest_dig_point = idx
-            _process_data(the_val, 'taipei_city_road_case', idx)
+            _process_data(the_val, 'taipei_city_dig_point', idx)
 
         if not is_success:
             count_fail += 1
