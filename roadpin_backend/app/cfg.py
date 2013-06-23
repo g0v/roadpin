@@ -16,7 +16,8 @@ config = {}
 _EXPECTED_CONFIG_COLUMNS = []
 
 _mongo_map = {
-    'roadDB': 'roadCases'
+    'roadDB': 'roadCases',
+    'cacheDB': 'cache'
 }
 
 def init(params):
