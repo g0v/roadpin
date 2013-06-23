@@ -126,11 +126,14 @@ def _float(the_val, default_val=0):
     return result
 
 
-def sleep_by_error_code(error_code):
-    if error_code == S_OK:
-        time.sleep(cfg.config.get('cron_success_sleep_time', 5))
-    else:
-        time.sleep(cfg.config.get('cron_fail_sleep_time', 3600))
+def _int(the_val, default_val=0):
+    result = default_val
+    try:
+        result = int(the_val)
+    except:
+        cfg.logger.exception('unable to _int: the_val: %s default_val: %s', the_val, default_val)
+        
+    return result
 
 
 def init_cache(cache, cache_name):

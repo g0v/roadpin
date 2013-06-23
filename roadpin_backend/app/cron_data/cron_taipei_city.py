@@ -19,7 +19,7 @@ from app import util
 def cron_taipei_city():
     while True:
         error_code = _cron_taipei_city()
-        util.sleep_by_error_code(error_code)
+        _sleep()
     pass
 
 
@@ -49,7 +49,7 @@ def _crawl_data(params):
     latest_road_case = _crawl_road_case(params['latest_road_case'])
     latest_dig_point = _crawl_dig_point(params['latest_dig_point'])
 
-    return (S_OK, {'latest_road_case': latest_road_case, 'latest_dig_point': latest_dig_point})
+    return (S_ERR, {'latest_road_case': latest_road_case, 'latest_dig_point': latest_dig_point})
 
 
 def _crawl_road_case(first_road_case):
@@ -163,6 +163,12 @@ def _process_data_core(data, the_id):
 def _put_to_db(the_val):
     the_key = {'the_id': the_val['the_id']}
     util.db_update('roadDB', the_key, the_val)
+
+
+def _sleep():
+    time_sleep = util._int(cfg.config.get('time_sleep', 3600))
+    cfg.logger.debug('to sleep: time_sleep: %s', time_sleep)
+    time.sleep(time_sleep)
 
 
 def parse_args():
