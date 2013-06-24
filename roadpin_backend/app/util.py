@@ -151,6 +151,21 @@ def get_cache(key):
     return json_loads(result_db.get('cache_val', '{}'), result_db.get('cache_val', {}))
 
 
+def http_multipost(the_url_data):
+    the_urls = the_url_data.keys()
+    cfg.logger.debug('the_url_data: %s', the_url_data)
+    rs = (grequests.post(the_url, data=the_url_data[the_url], timeout=5) for the_url in the_urls)
+    result_map = grequests.map(rs)
+
+    try:
+        result_map_text = [_grequest_get_text(each_result_map) for each_result_map in result_map]
+        result = {the_url: result_map_text[idx] for (idx, the_url) in enumerate(the_urls)}
+    except:
+        cfg.logger.exception('the_url_data: %s', the_url_data)
+        result = {}
+    return result
+
+
 def http_multiget(the_urls):
     rs = (grequests.get(u, timeout=5) for u in the_urls)
     result_map = grequests.map(rs)
@@ -170,3 +185,13 @@ def _grequest_get_text(result):
     if not hasattr(result, 'text'):
         return ''
     return result.text
+
+
+def big5_to_utf8(text_big5):
+    str_utf8 = unicode(text_big5, 'big5')
+    return str_utf8
+
+
+def utf8_to_big5(text_utf8):
+    str_big5 = text_utf8.encode('big5')
+    return str_big5

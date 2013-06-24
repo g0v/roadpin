@@ -24,3 +24,15 @@ class TestUtil(unittest.TestCase):
         '''a == 1 should not assert.'''
         logging.info("test_bottle_tmp: test_bottle_tmp_true")
         assert self.____never_used_variable == 1
+
+    def test_big5_to_utf8(self):
+        result = util.big5_to_utf8('test')
+        logging.debug('result: (%s, %s)', result, result.__class__.__name__)
+        assert result == 'test'
+
+        result_big5 = util.utf8_to_big5(u'我')
+        logging.debug('result_big5: (%s, %s)', result_big5, result_big5.__class__.__name__)
+        result = util.big5_to_utf8(result_big5)
+        logging.debug('result: (%s, %s)', result, result.__class__.__name__)
+        assert result == u'我'
+        assert False
