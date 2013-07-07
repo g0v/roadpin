@@ -35,4 +35,3 @@ class TestUtil(unittest.TestCase):
         result = util.big5_to_utf8(result_big5)
         logging.debug('result: (%s, %s)', result, result.__class__.__name__)
         assert result == u'我'
-        assert False
