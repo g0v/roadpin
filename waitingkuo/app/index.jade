@@ -1,0 +1,52 @@
+html
+  head
+    title g0v 路見不平
+
+  body#body
+    br
+    br
+    br
+    br
+    br
+
+    div#main.container
+      form(action)
+        | Begin Date
+        input#begin-at(type='text')
+        | End Date
+        input#end-at(type='text')
+        div#search.btn.btn-primary 
+          | Search
+        div#today.btn.btn-primary 
+          | Toady
+
+      br
+      br
+
+      table.table
+        thead
+          tr
+            th Town
+            th Road
+            th Detail
+            th Start Date
+            th End Date
+            th Supervisor 
+            th Contractor
+        tbody#table-tbody
+        script#table-tbody-template(type='text/x-handlebars-template')
+          {% raw %}
+          {{#each data}}
+  
+          tr
+            td {{REG_NAMEpro}}
+            td {{CASE_LOCATIONpro}}
+            td {{CASE_RANGEpro}}
+            td {{beginDate}}
+            td {{endDate}}
+            td {{CTR_ONAMEpro}}
+            td {{CTR_WNAMEpro}}
+  
+          {{/each}}
+        {% endraw %}
+    script(type='text/javascript', src="/static/render.js")
