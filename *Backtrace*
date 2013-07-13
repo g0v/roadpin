@@ -1,5 +1,0 @@
-Debugger entered--Lisp error: (void-variable new_tpe_city)
-  eval(new_tpe_city nil)
-  eval-last-sexp-1(nil)
-  eval-last-sexp(nil)
-  call-interactively(eval-last-sexp nil nil)
