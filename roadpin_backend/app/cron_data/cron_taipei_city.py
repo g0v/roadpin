@@ -17,10 +17,10 @@ from app import cfg
 from app import util
 
 def cron_taipei_city():
-    while True:
-        error_code = _cron_taipei_city()
-        _sleep()
-    pass
+    #while True:
+    error_code = _cron_taipei_city()
+    #_sleep()
+    #pass
 
 
 def _cron_taipei_city():
