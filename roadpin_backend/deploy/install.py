@@ -58,12 +58,12 @@ def _git_pull(target_host, branch = 'master'):
 
 
 def _set_virtualenv(target_host, virtualenv_dir='__'):
-    with cd("/srv/" + PROJECT_NAME):
+    with cd("/srv/roadpin/roadpin_backend"):
         run("./scripts/init_pcreate.sh " + virtualenv_dir)
 
 
 def _install_packages(target_host, virtualenv_dir='__'):
-    with cd("/srv/" + PROJECT_NAME), prefix("source " + virtualenv_dir + "/bin/activate"):
+    with cd("/srv/roadpin/roadpin_backend"), prefix("source " + virtualenv_dir + "/bin/activate"):
         run("pwd")
         run("which python")
         run("pip install -r requirements.txt")
@@ -72,12 +72,12 @@ def _install_packages(target_host, virtualenv_dir='__'):
 def _install_production_ini(target_host, n_proc, ini_filename='staging.ini', virtualenv_dir='__'):
     target_host_no_dot = re.sub(ur'\.', '_', target_host, re.M | re.U)
     print(green('target_host:' + repr(target_host) + ' taregt_host_no_dot:' + repr(target_host_no_dot)))
-    with cd("/srv/" + PROJECT_NAME):
-        run("cp " + ini_filename + " /etc/" + PROJECT_NAME + '/production.ini')
+    with cd("/srv/roadpin/roadpin_backend"):
+        run("cp " + ini_filename + ' /etc/roadpin/production.ini')
 
 
 def _install_log_dir(target_host):
     try:
-        run("mkdir -p /var/log/" + PROJECT_NAME)
+        run("mkdir -p /var/log/roadpin")
     except:
-        print(red("[ERROR] unable to mkdir -p /var/log/" + PROJECT_NAME))
+        print(red("[ERROR] unable to mkdir -p /var/log/roadpin"))
