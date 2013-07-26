@@ -17,9 +17,9 @@ from app import cfg
 from app import util
 
 def cron_taipei_city():
-    #while True:
-    error_code = _cron_taipei_city()
-    #_sleep()
+    while True:
+        error_code = _cron_taipei_city()
+        _sleep()
     #pass
 
 
@@ -170,7 +170,7 @@ def _put_to_db(the_val):
 
 
 def _sleep():
-    time_sleep = util._int(cfg.config.get('time_sleep', 3600))
+    time_sleep = util._int(cfg.config.get('time_sleep', 86400))
     cfg.logger.debug('to sleep: time_sleep: %s', time_sleep)
     time.sleep(time_sleep)
 
