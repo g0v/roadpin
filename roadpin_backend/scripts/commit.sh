@@ -9,4 +9,4 @@ fi
 message=${BASH_ARGV[1]}
 branch=${BASH_ARGV[0]}
 
-git add .; git commit -m "${message}"; git push; git push roadpin ${branch}
+git add .; git commit -m "${message}"; git push -u origin ${branch}; git push roadpin ${branch}
