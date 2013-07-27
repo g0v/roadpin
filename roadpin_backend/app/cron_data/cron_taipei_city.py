@@ -20,7 +20,6 @@ def cron_taipei_city():
     while True:
         error_code = _cron_taipei_city()
         _sleep()
-    #pass
 
 
 def _cron_taipei_city():
@@ -65,29 +64,8 @@ def _crawl_road_case(first_road_case):
         the_urls = {idx: 'http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=%04d' % (idx) for idx in road_cases}
         results = util.http_multiget(the_urls.values())
         cfg.logger.debug('road_case: after http_multiget: results: %s', results)
-        if not results:
-            results = {}
 
-        is_success = False
-        for idx in road_cases:
-            the_url = the_urls[idx]
-            the_val = results[the_url]
-
-            if not the_val:
-                continue
-
-            if the_val == '-1':
-                continue
-
-            if the_val == u'-1':
-                continue
-
-            is_success = True
-
-            the_val = util.json_loads(the_val)
-            cfg.logger.debug('with_data: the_url: %s the_val: %s', the_url, the_val)
-            latest_road_case = idx
-            _process_data(the_val, 'taipei_city_road_case', idx)
+        (is_success, latest_road_case) = _process_http_results(the_urls, results, latest_road_case)
 
         if not is_success:
             count_fail += 1
@@ -113,28 +91,8 @@ def _crawl_dig_point(first_dig_point):
         the_urls = {idx: 'http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=%08d' % (idx) for idx in dig_points}
         results = util.http_multiget(the_urls.values())
         cfg.logger.debug('dig_point: after http_multiget: results: %s', results)
-        if not results:
-            results = {}
 
-        is_success = False
-        for idx in dig_points:
-            the_url = the_urls[idx]
-            the_val = results[the_url]
-            if not the_val:
-                continue
-
-            if the_val == '-1':
-                continue
-
-            if the_val == u'-1':
-                continue
-
-            is_success = True
-
-            the_val = util.json_loads(the_val)
-            cfg.logger.debug('with_data: the_url: %s the_val: %s', the_url, the_val)
-            latest_dig_point = idx
-            _process_data(the_val, 'taipei_city_dig_point', idx)
+        (is_success, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point)
 
         if not is_success:
             count_fail += 1
@@ -145,6 +103,42 @@ def _crawl_dig_point(first_dig_point):
         util.save_cache('cron_taipei_city_latest_dig_point',  latest_dig_point)
 
     return latest_dig_point
+
+
+def _process_http_results(the_urls, results, latest_idx):
+    if not results:
+        results = {}
+
+    is_success = False
+    for (idx, the_url) in the_urls.iteritems():
+        the_val = results.get(the_url, '')
+        if not _validate_result(the_val):
+            continue
+
+        is_success = True
+
+        the_val = util.json_loads(the_val)
+        cfg.logger.debug('with_data: the_url: %s the_val: %s', the_url, the_val)
+        latest_idx = idx
+        _process_data(the_val, 'taipei_city_dig_point', idx)
+
+    return (is_success, latest_idx)
+
+
+def _validate_result(result):
+    if not result:
+        return False
+
+    if result == '-1':
+        return False
+
+    if result == u'-1':
+        return False
+
+    if result == -1:
+        return False
+
+    return True
 
 
 def _process_data(the_data, id_prefix, the_idx):
