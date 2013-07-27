@@ -65,9 +65,9 @@ def _crawl_road_case(first_road_case):
         results = util.http_multiget(the_urls.values())
         cfg.logger.debug('road_case: after http_multiget: results: %s', results)
 
-        (is_success, latest_road_case) = _process_http_results(the_urls, results, latest_road_case)
+        (error_code, latest_road_case) = _process_http_results(the_urls, results, latest_road_case)
 
-        if not is_success:
+        if error_code != S_OK:
             count_fail += 1
 
         if count_fail >= N_COUNT_FAIL_ROAD_CASE:
@@ -92,9 +92,9 @@ def _crawl_dig_point(first_dig_point):
         results = util.http_multiget(the_urls.values())
         cfg.logger.debug('dig_point: after http_multiget: results: %s', results)
 
-        (is_success, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point)
+        (error_code, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point)
 
-        if not is_success:
+        if error_code != S_OK:
             count_fail += 1
 
         if count_fail >= N_COUNT_FAIL_DIG_POINT:
@@ -109,36 +109,35 @@ def _process_http_results(the_urls, results, latest_idx):
     if not results:
         results = {}
 
-    is_success = False
+    error_code = S_ERR
     for (idx, the_url) in the_urls.iteritems():
         the_val = results.get(the_url, '')
-        if not _validate_result(the_val):
+        if _validate_result(the_val) != S_OK:
             continue
 
-        is_success = True
-
-        the_val = util.json_loads(the_val)
-        cfg.logger.debug('with_data: the_url: %s the_val: %s', the_url, the_val)
+        error_code = S_OK
         latest_idx = idx
-        _process_data(the_val, 'taipei_city_dig_point', idx)
 
-    return (is_success, latest_idx)
+        the_val_struct = util.json_loads(the_val)
+        _process_data(the_val_struct, 'taipei_city_dig_point', idx)
+
+    return (error_code, latest_idx)
 
 
 def _validate_result(result):
     if not result:
-        return False
+        return S_ERR
 
     if result == '-1':
-        return False
+        return S_ERR
 
     if result == u'-1':
-        return False
+        return S_ERR
 
     if result == -1:
-        return False
+        return S_ERR
 
-    return True
+    return S_OK
 
 
 def _process_data(the_data, id_prefix, the_idx):
