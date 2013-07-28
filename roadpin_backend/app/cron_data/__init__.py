@@ -13,7 +13,7 @@ def process_data(county_name, the_category, the_idx, start_timestamp, end_timest
 
 
 def _process_data_core(county_name, the_category, the_idx, start_timestamp, end_timestamp, geo, the_data):
-    data = {'the_id': the_category + '_' + the_idx,
+    data = {'the_id': str(the_category) + '_' + str(the_idx),
             'the_category': the_category,
             'the_idx': the_idx,
             'county_name': county_name,
