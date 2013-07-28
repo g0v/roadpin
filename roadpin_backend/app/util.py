@@ -7,6 +7,9 @@ import base64
 import time
 import ujson as json
 import traceback
+import pytz
+from pytz import timezone
+from calendar import timegm
 from datetime import datetime
 from datetime import timedelta
 import grequests
@@ -195,3 +198,16 @@ def big5_to_utf8(text_big5):
 def utf8_to_big5(text_utf8):
     str_big5 = text_utf8.encode('big5')
     return str_big5
+
+
+def tw_date_to_timestamp(tw_date):
+    tw_date = str(tw_date)
+    tw_year = tw_date[0:-4]
+    month = int(tw_date[-4:-2])
+    day = int(tw_date[-2:])
+    year = int(tw_year) + 1911
+    date_time = datetime(year, month, day, tzinfo=timezone('Asia/Taipei'))
+    the_timestamp = int(timegm(date_time.utctimetuple()))
+    cfg.logger.debug('tw_date: %s tw_year: %s year: %s month: %s day: %s date_time: %s the_timestamp: %s', tw_date, tw_year, year, month, day, date_time, the_timestamp)
+    return the_timestamp
+

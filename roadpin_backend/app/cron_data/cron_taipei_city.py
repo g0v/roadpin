@@ -15,6 +15,7 @@ from app.constants import N_ROAD_CASE, N_COUNT_FAIL_ROAD_CASE, N_DIG_POINT, N_CO
 
 from app import cfg
 from app import util
+from app.cron_data import process_data
 
 def cron_taipei_city():
     while True:
@@ -57,15 +58,12 @@ def _crawl_road_case(first_road_case):
     offset_road_case = first_road_case
     while True:
         end_road_case = offset_road_case + N_ROAD_CASE
-        cfg.logger.debug('offset_road_case: %s end_road_case: %s', offset_road_case, end_road_case)
         road_cases = range(offset_road_case, end_road_case)
         offset_road_case += N_ROAD_CASE
 
-        the_urls = {idx: 'http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=%04d' % (idx) for idx in road_cases}
-        results = util.http_multiget(the_urls.values())
-        cfg.logger.debug('road_case: after http_multiget: results: %s', results)
+        (the_urls, results) = _get_http_results(road_cases, 'http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=%04d')
 
-        (error_code, latest_road_case) = _process_http_results(the_urls, results, latest_road_case)
+        (error_code, latest_road_case) = _crawl_road_case_process_http_results(the_urls, results, latest_road_case, 'taipei_city_road_case', 'WORK_DATEpro')
 
         if error_code != S_OK:
             count_fail += 1
@@ -84,15 +82,12 @@ def _crawl_dig_point(first_dig_point):
     offset_dig_point = first_dig_point
     while True:
         end_dig_point = offset_dig_point + N_DIG_POINT
-        cfg.logger.debug('offset_dig_point: %s end_dig_point: %s', offset_dig_point, end_dig_point)
         dig_points = range(offset_dig_point, end_dig_point)
         offset_dig_point += N_DIG_POINT
 
-        the_urls = {idx: 'http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=%08d' % (idx) for idx in dig_points}
-        results = util.http_multiget(the_urls.values())
-        cfg.logger.debug('dig_point: after http_multiget: results: %s', results)
+        (the_urls, results) = _get_http_results(dig_points, 'http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=%08d')
 
-        (error_code, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point)
+        (error_code, latest_dig_point) = _crwal_dig_point_process_http_results(the_urls, results, latest_dig_point, 'taipei_city_dig_point', 'CB_DATEpro')
 
         if error_code != S_OK:
             count_fail += 1
@@ -105,26 +100,31 @@ def _crawl_dig_point(first_dig_point):
     return latest_dig_point
 
 
-def _process_http_results(the_urls, results, latest_idx):
+def _get_http_results(idx_list, url_tmpl):
+    the_urls = {idx: url_tmpl % (idx) for idx in road_cases}
+    results = util.http_multiget(the_urls.values())
+    return (the_urls, results)
+
+
+def _process_http_results(the_urls, results, latest_idx, the_category, time_period_idx):
     if not results:
-        results = {}
+        return (S_ERR, latest_idx)
 
     error_code = S_ERR
     for (idx, the_url) in the_urls.iteritems():
-        the_val = results.get(the_url, '')
-        if _validate_result(the_val) != S_OK:
+        the_data_text = results.get(the_url, '')
+        if _validate_http_result(the_data_text) != S_OK:
             continue
 
         error_code = S_OK
         latest_idx = idx
 
-        the_val_struct = util.json_loads(the_val)
-        _process_data(the_val_struct, 'taipei_city_dig_point', idx)
+        _process_data_text(the_category, idx, the_data_text, time_period_idx)
 
     return (error_code, latest_idx)
 
 
-def _validate_result(result):
+def _validate_http_result(result):
     if not result:
         return S_ERR
 
@@ -140,26 +140,40 @@ def _validate_result(result):
     return S_OK
 
 
-def _process_data(the_data, id_prefix, the_idx):
-    if the_data.__class__.__name__ == 'dict':
-        _process_data_core(the_data, id_prefix, the_idx, id_prefix + '_' + str(the_idx))
-    elif the_data.__class__.__name__ == 'list':
-        for (each_idx, each_data) in enumerate(the_data):
-            str_idx = str(the_idx) + '.' + str(each_idx)
-            num_idx = util._float(str_idx)
-            _process_data_core(each_data, id_prefix, num_idx, id_prefix + '_' + str_idx)
+def _process_data_text(the_category, the_idx, the_data_text, time_period_idx):
+    the_data = util.json_loads(the_data_text)
+    data_list = the_data if the_data.__class__.__name__ == 'list' else [the_data]
+    len_data_list = len(data_list)
+
+    if len_data_list == 1:
+        _process_each_data(the_category, the_idx, data_list[0], time_period_idx)
+    else:
+        [_process_each_data(the_category, the_idx + '.' + data_idx, each_data, time_period_idx) for (data_idx, each_data) in enumerate(data_list)]
 
 
-def _process_data_core(data, id_prefix, idx, the_id):
-    data['the_id'] = the_id
-    data['the_category'] = id_prefix
-    data['the_idx'] = idx
-    _put_to_db(data)
+def _process_each_data(the_category, the_idx, the_data, time_period_idx):
+    (start_timestamp, end_timestamp) = _parse_time_period(the_data, time_period_idx)
+    geo = _parse_geo(the_data)
+    process_data('臺北市', the_category, the_idx, start_timestamp, end_timestamp, geo, the_data)
 
 
-def _put_to_db(the_val):
-    the_key = {'the_id': the_val['the_id']}
-    util.db_update('roadDB', the_key, the_val)
+def _parse_time_period(the_data, time_period_idx):
+    time_period = the_data.get(time_period_idx, '~')
+    return _parse_time_period_core(time_period)
+
+
+def _parse_time_period_core(time_period):
+    time_period = re.sub(ur'/', '', time_period)
+    (start_tw_date, end_tw_date) = time_period.split('~')
+    start_timestamp = util.tw_date_to_timestamp(start_tw_date)
+    end_timestamp = util.tw_date_to_timestamp(end_tw_date)
+    return (start_timestamp, end_timestamp)
+
+
+def _parse_geo(the_data):
+    the_geo = the_data.get('dtResultpro', [])
+
+    return the_geo
 
 
 def _sleep():
