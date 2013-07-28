@@ -177,7 +177,12 @@ def _parse_time_period(the_data, time_period_idx):
 
 
 def _parse_time_period_core(time_period):
-    time_period = re.sub(ur'/', '', time_period)
+    try:
+        time_period = re.sub(ur'/', '', time_period)
+    except:
+        cfg.logger.error('unable to re.sub time_period: time_period: (%s, %s)', time_period, time_period.__class__.__name__)
+        time_period = '~'
+        
     (start_tw_date, end_tw_date) = time_period.split('~')
     start_timestamp = util.tw_date_to_timestamp(start_tw_date)
     end_timestamp = util.tw_date_to_timestamp(end_tw_date)
