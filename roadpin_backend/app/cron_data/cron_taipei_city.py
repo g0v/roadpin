@@ -12,7 +12,7 @@ import re
 import sys
 import argparse
 
-from app.constants import N_ROAD_CASE, N_COUNT_FAIL_ROAD_CASE, N_DIG_POINT, N_COUNT_FAIL_DIG_POINT
+from app.constants import N_ROAD_CASE, N_COUNT_FAIL_ROAD_CASE, N_DIG_POINT, N_COUNT_FAIL_DIG_POINT, MAX_TIMESTAMP
 
 from app import cfg
 from app import util
