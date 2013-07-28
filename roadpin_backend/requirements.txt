@@ -2,6 +2,7 @@ Beaker==1.6.4
 Cython==0.19.1
 Fabric==1.6.0
 PyYAML==3.10
+SQLAlchemy==0.8.2
 WebOb==1.2.3
 WebTest==1.4.3
 argparse==1.2.1
@@ -11,10 +12,11 @@ coverage==3.6
 distribute==0.6.35
 fluent-logger==0.3.3
 gdata==2.0.17
--e git://github.com/surfly/gevent.git@454a77ca561868854760b2d9cbfa3bf3bbd2e062#egg=gevent-dev
+-e git://github.com/surfly/gevent.git@1.0rc2#egg=gevent-dev
 greenlet==0.4.0
 grequests==0.2.0
 jedi==0.5b5
+lxml==3.2.1
 mmh3==2.2
 mock==1.0.1
 msgpack-python==0.3.0
@@ -22,11 +24,13 @@ nose==1.2.1
 paramiko==1.10.1
 protobuf==2.5.0
 protobuf-to-dict==0.0.5
+psycopg2==2.5.1
 pycrypto==2.6
 pycurl==7.19.0
 pygeoip==0.2.6
 pymongo==2.5.2
 python-termstyle==0.1.10
+pytz==2013b
 redis==2.7.2
 requests==1.2.0
 sniffer==0.2.6
