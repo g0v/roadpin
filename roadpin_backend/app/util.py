@@ -203,11 +203,21 @@ def utf8_to_big5(text_utf8):
 def tw_date_to_timestamp(tw_date):
     tw_date = str(tw_date)
     tw_year = tw_date[0:-4]
-    month = int(tw_date[-4:-2])
-    day = int(tw_date[-2:])
-    year = int(tw_year) + 1911
+    month = _int(tw_date[-4:-2])
+    if month == 0:
+        return 0
+
+    day = _int(tw_date[-2:])
+    if day == 0:
+        return 0
+
+    year = _int(tw_year)
+    if year == 0:
+        return 0
+    year += 1911
+
     date_time = datetime(year, month, day, tzinfo=timezone('Asia/Taipei'))
-    the_timestamp = int(timegm(date_time.utctimetuple()))
+    the_timestamp = _int(timegm(date_time.utctimetuple()))
     cfg.logger.debug('tw_date: %s tw_year: %s year: %s month: %s day: %s date_time: %s the_timestamp: %s', tw_date, tw_year, year, month, day, date_time, the_timestamp)
     return the_timestamp
 
