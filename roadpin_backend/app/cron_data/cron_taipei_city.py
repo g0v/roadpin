@@ -63,7 +63,7 @@ def _crawl_road_case(first_road_case):
 
         (the_urls, results) = _get_http_results(road_cases, 'http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=%04d')
 
-        (error_code, latest_road_case) = _crawl_road_case_process_http_results(the_urls, results, latest_road_case, 'taipei_city_road_case', 'WORK_DATEpro')
+        (error_code, latest_road_case) = _process_http_results(the_urls, results, latest_road_case, 'taipei_city_road_case', 'WORK_DATEpro')
 
         if error_code != S_OK:
             count_fail += 1
@@ -87,7 +87,7 @@ def _crawl_dig_point(first_dig_point):
 
         (the_urls, results) = _get_http_results(dig_points, 'http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=%08d')
 
-        (error_code, latest_dig_point) = _crwal_dig_point_process_http_results(the_urls, results, latest_dig_point, 'taipei_city_dig_point', 'CB_DATEpro')
+        (error_code, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point, 'taipei_city_dig_point', 'CB_DATEpro')
 
         if error_code != S_OK:
             count_fail += 1
