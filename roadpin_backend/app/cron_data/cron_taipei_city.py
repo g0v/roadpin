@@ -162,6 +162,10 @@ def _process_data_text(the_category, the_idx, the_data_text, time_period_idx):
 
 
 def _process_each_data(the_category, the_idx, the_data, time_period_idx):
+    if the_data.__class__.__name__ != 'dict':
+        cfg.logger.error('the_data is not dict: the_category: %s the_idx: %s the_data: %s time_period_idx: %s', the_category, the_idx, the_data, time_period_idx)
+        return
+
     (start_timestamp, end_timestamp) = _parse_time_period(the_data, time_period_idx)
     geo = _parse_geo(the_data)
     process_data('臺北市', the_category, the_idx, start_timestamp, end_timestamp, geo, the_data)
