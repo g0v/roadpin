@@ -171,9 +171,22 @@ def _parse_time_period_core(time_period):
 
 
 def _parse_geo(the_data):
-    the_geo = the_data.get('dtResultpro', [])
+    geo_list = the_data.get('dtResultpro', [])
+    the_geo = []
+    for each_geo in geo_list:
+        geo_type = 'LineString'
 
+        points = each_geo.get('POINTS')
+
+        coordinates = [_point_to_coordinate(point) for point in points]
+        the_geo.append({'type': geo_type, 'coordinates': coordinates})
     return the_geo
+
+
+def _point_to_coordinate(point):
+    lat = point.get('P2', 0)
+    lon = point.get('P1', 0)
+    return [lon, lat]
 
 
 def _sleep():
