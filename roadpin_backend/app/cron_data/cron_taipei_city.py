@@ -168,6 +168,8 @@ def _parse_time_period_core(time_period):
     (start_tw_date, end_tw_date) = time_period.split('~')
     start_timestamp = util.tw_date_to_timestamp(start_tw_date)
     end_timestamp = util.tw_date_to_timestamp(end_tw_date)
+    if end_timestamp == 0:
+        end_timestamp = MAX_TIMESTAMP
     return (start_timestamp, end_timestamp)
 
 
