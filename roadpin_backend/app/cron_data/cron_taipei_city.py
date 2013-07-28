@@ -101,7 +101,7 @@ def _crawl_dig_point(first_dig_point):
 
 
 def _get_http_results(idx_list, url_tmpl):
-    the_urls = {idx: url_tmpl % (idx) for idx in road_cases}
+    the_urls = {idx: url_tmpl % (idx) for idx in idx_list}
     results = util.http_multiget(the_urls.values())
     return (the_urls, results)
 
