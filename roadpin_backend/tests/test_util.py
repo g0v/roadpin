@@ -35,4 +35,8 @@ class TestUtil(unittest.TestCase):
         result = util.big5_to_utf8(result_big5)
         logging.debug('result: (%s, %s)', result, result.__class__.__name__)
         assert result == u'我'
-        assert False
+
+    def test_tw_date_to_timestamp(self):
+        result = util.tw_date_to_timestamp(1000131)
+        logging.warning('test_tw_date_to_timestamp: result: %s', result)
+        assert result == 1296403200
