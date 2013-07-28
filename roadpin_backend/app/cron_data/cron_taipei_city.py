@@ -66,7 +66,7 @@ def _crawl_road_case(first_road_case):
 
         (error_code, latest_road_case) = _process_http_results(the_urls, results, latest_road_case, 'taipei_city_road_case', 'WORK_DATEpro')
 
-        cfg.logger.debug('error_code: %s latest_road_case: %s', error_code, latest_road_case)
+        cfg.logger.debug('road_cases: %s error_code: %s latest_road_case: %s', road_cases, error_code, latest_road_case)
 
         if error_code != S_OK:
             count_fail += 1
@@ -94,7 +94,7 @@ def _crawl_dig_point(first_dig_point):
         (the_urls, results) = _get_http_results(dig_points, 'http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=%08d')
 
         (error_code, latest_dig_point) = _process_http_results(the_urls, results, latest_dig_point, 'taipei_city_dig_point', 'CB_DATEpro')
-        cfg.logger.debug('error_code: %s latest_dig_point: %s', error_code, latest_dig_point)
+        cfg.logger.debug('dig_points: %s error_code: %s latest_dig_point: %s', dig_points, error_code, latest_dig_point)
 
         if error_code != S_OK:
             count_fail += 1
