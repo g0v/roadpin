@@ -74,6 +74,9 @@ def _crawl_road_case(first_road_case):
 
         util.save_cache('cron_taipei_city_latest_road_case',  latest_road_case)
 
+        cfg.logger.debug('to sleep 120')
+        time.sleep(120)
+
     return latest_road_case
 
 
@@ -97,6 +100,9 @@ def _crawl_dig_point(first_dig_point):
             break
 
         util.save_cache('cron_taipei_city_latest_dig_point',  latest_dig_point)
+
+        cfg.logger.debug('to sleep 120')
+        time.sleep(120)
 
     return latest_dig_point
 
