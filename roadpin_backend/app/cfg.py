@@ -28,7 +28,7 @@ def init_cfg(params):
     _init_logger(params['ini_filename'])
     _init_ini_file(params['ini_filename'])
     _post_init_config(params)
-    _post_check_config()
+    _post_json_config(config)
     _init_mongo()
     logger.info('config: %s', config)
 
@@ -89,8 +89,16 @@ def _post_init_config(params):
         config[k] = v
 
     
-def _post_check_config():
-    '''ensure _EXPECTED_CONFIG_COLUMNS is set. raise error if some is not set'''
-    for k in _EXPECTED_CONFIG_COLUMNS:
-        config[k]
-    
+def _post_json_config(config):
+    logger.debug('start: config: %s', config)
+    for k, v in config.iteritems():
+        if v.__class__.__name__ != 'str':
+            continue
+
+        orig_v = v
+        try:
+            config[k] = json.loads(v)
+        except:
+            config[k] = orig_v
+
+    logger.debug('end: config: %s', config)
