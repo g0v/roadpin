@@ -8,6 +8,7 @@ import time
 import ujson as json
 import traceback
 import pytz
+import hashlib
 from pytz import timezone
 from calendar import timegm
 from datetime import datetime
@@ -221,3 +222,19 @@ def tw_date_to_timestamp(tw_date):
     cfg.logger.debug('tw_date: %s tw_year: %s year: %s month: %s day: %s date_time: %s the_timestamp: %s', tw_date, tw_year, year, month, day, date_time, the_timestamp)
     return the_timestamp
 
+
+def check_url(params):
+    the_str = params.get('json', '') + cfg.config.get('secret_key', '')
+    md5_str = hashlib.md5(the_str).hexdigest()
+    if md5_str != params.get('sig', ''):
+        return (S_ERR, {"success": False, "error_msg": "invalid sig"})
+
+    return (S_OK, {})
+
+
+def check_valid_params(params, columns):
+    for column in columns: 
+        if column not in params:
+            return (S_ERR, column)
+    
+    return (S_OK, '')
