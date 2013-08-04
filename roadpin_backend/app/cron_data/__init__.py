@@ -17,7 +17,7 @@ def _process_data_core(county_name, the_category, the_idx, start_timestamp, end_
             'the_category': the_category,
             'the_idx': the_idx,
             'county_name': county_name,
-            'county_id': COUNTY_MAP[county_name],
+            'county_id': COUNTY_MAP.get(county_name, county_name),
             'start_timestamp': start_timestamp,
             'end_timestamp': end_timestamp,
             'geo': geo,
