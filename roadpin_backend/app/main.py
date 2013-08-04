@@ -18,6 +18,8 @@ from app.gevent_server import GeventServer
 from app.http_handlers.g_json_handler import g_json_handler
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
+from app.http_handlers.post_add_handler import post_add_handler
+
 from app import util
 
 app = Bottle()
@@ -54,6 +56,18 @@ def g_json_by_timestamp(start_timestamp, end_timestamp):
 @app.get('/get_json_by_geo/<latitude>/<longtitude>')
 def g_json_by_geo(latitude, longtitude):
     return _process_result(g_json_by_geo_handler(latitude, longtitude))
+
+
+@app.post('/add')
+def post_add():
+    params = dict(request.params)
+    (error_code, error_msg) = util.check_url(params)
+    if error_code != S_OK: 
+        return _process_result(error_msg)
+
+    (error_code, result) = post_add_handler(params)
+
+    return _process_result(result)
 
 
 @app.post('/post_json/<src>')

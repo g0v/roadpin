@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 
+from app.constants import S_OK
+
 import logging
 import unittest
+from app import cfg
 from app import util
 
 class TestUtil(unittest.TestCase):
@@ -40,3 +43,9 @@ class TestUtil(unittest.TestCase):
         result = util.tw_date_to_timestamp(1000131)
         logging.warning('test_tw_date_to_timestamp: result: %s', result)
         assert result == 1296403200
+
+    def test_check_url(self):
+        cfg.config['secret_key'] = 'test_secret'
+        params = {'json': '{"test_json":"test_json2"}', 'sig': 'd7f5515058fcda6b06ddd56f929f0bc7'}
+        (error_code, result) = util.check_url(params)
+        assert error_code == S_OK

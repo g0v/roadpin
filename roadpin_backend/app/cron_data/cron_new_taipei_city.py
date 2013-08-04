@@ -45,22 +45,31 @@ def _crawl_data(params):
 
 def _crawl_dig(last_dig):
     the_url = 'http://61.60.124.185/tpctempdig/InfoAllList.asp'
+    last_timestamp = last_dig.get('latest_timestamp', 10000)
+    start_timestamp = last_timestamp - 86400
+    end_timestamp = last_timestamp + 86400
+
+    (start_year, start_month, start_day) = util.timestamp_to_datetime(start_timestamp)
+    (end_year, end_month, end_day) = util.timestamp_to_datetime(end_timestamp)
+
     params = {
         'sortflag': '',
         'sorttype': '',
         'TargetLB': '',
-        'startyear': last_dig.get('start_year', 2000),
-        'startmonth': last_dig.get('start_month', 1),
-        'endyear': last_dig.get('end_year', 2014),
-        'endmonth': last_dig.get('end_month', 12),
-        'endday': last_dig.get('endday', 31)
+        'startyear': start_year,
+        'startmonth': start_month,
+        'endyear': end_year,
+        'endmonth': end_month,
+        'endday': end_day
     }
 
     http_data = util.http_multipost({the_url: params})
     #cfg.logger.debug('http_data: %s', http_data)
-    dig_data = _parse_dig(http_data[the_url])
+    (latest_timestamp, dig_data) = _parse_dig(http_data[the_url])
 
     [_put_to_db(each_data) for each_data in dig_data]
+
+    util.save_cache('cron_new_taipei_city_latest_dig', {'latest_timestamp': latest_timestamp})
 
 
 def _parse_dig(http_data):
@@ -69,8 +78,8 @@ def _parse_dig(http_data):
     data_utf8 = util.big5_to_utf8(http_data_ascii)
     #cfg.logger.debug('data_utf8: %s', data_utf8)
 
-    data_list = _parse_dig_data(data_utf8)
-    return data_list
+    (latest_timestamp, data_list) = _parse_dig_data(data_utf8)
+    return (latest_timestamp, data_list)
 
 
 def _parse_dig_data(data):
@@ -79,8 +88,14 @@ def _parse_dig_data(data):
 
     results = [_parse_element(elem) for elem in doc.iter('tr')]
     results = [result for result in results if result]
+
+    latest_timestamp = 0
+    for result in results:
+        start_timestamp = result.get('start_timestamp', 0)
+        if start_timestamp > latest_timestamp:
+            latest_timestamp = start_timestamp
     
-    return results
+    return (latest_timestamp, results)
 
 
 def _parse_element(elem):
@@ -105,16 +120,23 @@ def _parse_text(text):
         result = {}
 
     cfg.logger.debug('result: %s', result)
-        
+    (start_timestamp, end_timestamp) = _parse_timestamp(result)
+    geo = _parse_geo(result)
+    result['start_timestamp'] = start_timestamp
+    result['end_timestamp'] = end_timestamp
+    result['geo'] = geo
+
     return result
 
 
 def _put_to_db(data):
     category = 'new_taipei_city_dig_point'
     the_idx = data['IDpro']
-    the_id = category + '_' + the_idx
-    the_key = {'the_category': category, 'the_id': the_id, 'the_idx': the_idx}
-    util.db_update('roadDB', the_key, data)
+    start_timestamp = data.get('start_timestamp', 0)
+    end_timestamp = data.get('end_timestamp', 0)
+    geo = data.get('geo', {})
+
+    process_data('新北市', category, the_idx, start_timestamp, end_timestamp, geo, data)
 
 
 def _sleep():
