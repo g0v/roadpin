@@ -34,7 +34,7 @@ def g_index():
 
 @app.get('/report')
 def g_index_report():
-    return static_file('report.html', root='.')
+    return static_file('georecorder.html', root='.')
 
 
 @app.get('/get_json_today')
