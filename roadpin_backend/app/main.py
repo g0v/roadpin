@@ -80,7 +80,8 @@ def p_json(src):
 
 @app.post('/post_geo')
 def p_geo():
-    params = dict(request.params)
+    params = _process_json_request()
+    cfg.logger.debug('params: %s', params)
     return _process_result(p_geo_handler(params))
 
 
@@ -94,6 +95,12 @@ def _process_result(the_obj):
     response.set_header('Access-Control-Allow-Origin', '*')
     response.set_header('Access-Control-Allow-Methods', '*')
     return util.json_dumps(the_obj)
+
+
+def _process_json_request():
+    f = request.body
+    f.seek(0)
+    return util.json_loads(f.read())
 
 
 def parse_args():
