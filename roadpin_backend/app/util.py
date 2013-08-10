@@ -238,3 +238,11 @@ def check_valid_params(params, columns):
             return (S_ERR, column)
     
     return (S_OK, '')
+
+
+def get_timestamp():
+    return int(time.time())
+
+
+def get_milli_timestamp():
+    return int(time.time() * 1000)
