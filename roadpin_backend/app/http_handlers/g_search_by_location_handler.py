@@ -29,7 +29,7 @@ def g_search_by_location_handler(params):
 
     query = {'geo': {'$geoWithin': {'$geometry': {'type': 'Polygon', 'coordinates': [[[min_x, min_y], [min_x, max_y], [max_x, max_y], [max_x, min_y], [min_x, min_y]]]}}}}
 
-    cfg.logger.debug('dist: %s dist_x: %s dist_y: %s to db_find: query: %s', dist_x, dist_y, query)
+    cfg.logger.debug('dist: %s dist_x: %s dist_y: %s to db_find: query: %s', dist, dist_x, dist_y, query)
 
     results = util.db_find('roadDB', query)
     return results
