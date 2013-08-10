@@ -1,0 +1,101 @@
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+<pre id="output"></pre>
+<div id="message"></div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+$(function(){
+    var sensors = {
+        offset_timestamp: 0,
+        lat: 0,
+        lon: 0,
+        yaw: 0,
+        pitch: 0,
+        roll: 0,
+        x: 0,
+        y: 0,
+        z: 0,
+        extension: {},
+    };
+
+    if(window.DeviceOrientationEvent){
+        window.addEventListener('deviceorientation', function(eventData) {
+            sensors.yaw = eventData.alpha;
+            sensors.pitch = eventData.beta;
+            sensors.roll = eventData.gamma;
+        }, false);
+    }
+    else{
+        $('#output').append('<div>DeviceOrientationEvent not supported</div>');
+    }
+
+    if(window.DeviceMotionEvent){
+        window.addEventListener('devicemotion', function(eventData){
+            sensors.x = eventData.acceleration.x;
+            sensors.y = eventData.acceleration.y;
+            sensors.z = eventData.acceleration.z;
+        }, false);
+    }
+    else{
+        $('#output').append('<div>DeviceMotionEvent not supported</div>');
+    }
+
+    var requestAnimationFrame = window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame;
+
+    var user_id = localStorage.user_id;
+    if(!user_id){
+        user_id = Math.floor(Math.random() * 2147483648);
+        localStorage.user_id = user_id;
+    }
+    var starttime = 0;
+    var gather_queue = [];
+    var send_queue = [];
+    var data_sent = 0;
+
+    function step(timestamp){
+        if(starttime == 0){
+            starttime = timestamp;
+        }
+        sensors.offset_timestamp = timestamp - starttime;
+        $('#output').text(JSON.stringify(sensors, null, ' '));
+        gather_queue.push(JSON.parse(JSON.stringify(sensors)));
+        if(gather_queue.length > 100 && send_queue.length == 0){
+            send_queue = gather_queue;
+            gather_queue = [];
+            $.ajax({
+                url: 'http://106.187.101.193:5346/post_geo',
+                data: JSON.stringify({
+                    user_id: user_id,
+                    data: send_queue
+                }),
+                type: 'POST',
+                crossDomain: true,
+                success: function(data){
+                    var res = $.parseJSON(data);
+                    if(res.success){
+                        data_sent += send_queue.length;
+                        $('#message').text(data_sent + ' data sent');
+                        send_queue = [];
+                    }
+                    else{
+                        alert(data);
+                    }
+                },
+                fail: function(data){
+                    alert(data);
+                }
+            });
+        }
+        requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+
+});
+</script>
+</body>
+</html>
+
