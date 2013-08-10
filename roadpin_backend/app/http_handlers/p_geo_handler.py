@@ -35,7 +35,7 @@ def _process_each_data(user_id, each_data, server_timestamp):
     val = {'lat': lat, 'lon': lon, 'yaw': yaw, 'pitch': pitch, 'roll': roll, 'x': x, 'y': y, 'z': z}
 
 
-    cfg.logger.debug('to db_update reportDB: server_timestamp: %s offset_timestamp: %s the_timestamp: %s', server_timestamp, offset_timestamp, the_timestamp)
+    cfg.logger.debug('to db_update reportDB: server_timestamp: %s offset_timestamp: %s the_timestamp: %s key: %s val: %s', server_timestamp, offset_timestamp, the_timestamp)
 
     util.db_update('reportDB', key, val)
 
