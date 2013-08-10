@@ -13,10 +13,10 @@ from app import cfg
 from app import util
 
 def g_search_by_location_handler(params):
-    lat = params.get('lat', 25)
-    lon = params.get('lng', 121)
+    lat = util._int(params.get('lat', 25))
+    lon = util._int(params.get('lng', 121))
 
-    dist = params.get('distance', 10)
+    dist = util._int(params.get('distance', 10))
     dist = max(dist, 10)
 
     dist_x = 360 * dist / EARTH_EQUATOIAL_CIRCUMFERENCE
