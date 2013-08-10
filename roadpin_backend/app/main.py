@@ -78,7 +78,7 @@ def p_json(src):
     return _process_result(p_json_handler(src, params))
 
 
-@app.get('/post_geo')
+@app.post('/post_geo')
 def p_geo():
     params = dict(request.params)
     return _process_result(p_geo_handler(params))
