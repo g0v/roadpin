@@ -19,6 +19,8 @@ from app.http_handlers.g_json_handler import g_json_handler
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
 from app.http_handlers.post_add_handler import post_add_handler
+from app.http_handlers.g_search_by_location_handler import g_search_by_location_handler
+from app.http_handlers.p_geo_handler import p_geo_handler
 
 from app import util
 
@@ -74,6 +76,18 @@ def post_add():
 def p_json(src):
     params = dict(request.params)
     return _process_result(p_json_handler(src, params))
+
+
+@app.get('/post_geo')
+def p_geo():
+    params = dict(request.params)
+    return _process_result(p_geo_handler(params))
+
+
+@app.get('/search_by_location')
+def g_search_by_location():
+    params = dict(request.params)
+    return _process_result(g_search_by_location_handler(params))
 
 
 def _process_result(the_obj):
