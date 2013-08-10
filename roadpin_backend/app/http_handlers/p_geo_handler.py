@@ -19,7 +19,7 @@ def p_geo_handler(params):
 
 
 def _process_each_data(user_id, each_data, server_timestamp):
-    offset_timestamp = each_data.get('offset_timestamp', 0)
+    offset_timestamp = util._int(each_data.get('offset_timestamp', 0))
     lat = each_data.get('lat', 0)
     lon = each_data.get('lon', 0)
     yaw = each_data.get('yaw', 0)
@@ -33,6 +33,9 @@ def _process_each_data(user_id, each_data, server_timestamp):
 
     key = {'user_id': user_id, 'the_timestamp': the_timestamp}
     val = {'lat': lat, 'lon': lon, 'yaw': yaw, 'pitch': pitch, 'roll': roll, 'x': x, 'y': y, 'z': z}
+
+
+    cfg.logger.debug('to db_update reportDB: server_timestamp: %s offset_timestamp: %s the_timestamp: %s', server_timestamp, offset_timestamp, the_timestamp)
 
     util.db_update('reportDB', key, val)
 
