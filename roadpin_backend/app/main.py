@@ -32,6 +32,11 @@ def g_index():
     return static_file('index.html', root='.')
 
 
+@app.get('/report')
+def g_index_report():
+    return static_file('report.html', root='.')
+
+
 @app.get('/get_json_today')
 def g_json_by_today():
     today = util.date_today()
