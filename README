@@ -23,7 +23,7 @@ http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
 
 http://106.187.101.193:5346/report (done by ypcat, helped by Jyun-Fan Tasi)
 * 使用 browser report geo/accelerometer data
-* user id 是 random gen 的. 不會追蹤到是誰.)
+* user id 是 random gen 的. 不會追蹤到是誰.
 * 希望是在開車時. 就能根據所收集到的 data 來幫助決定是否有不平的路面.
 * 目前正在 data collection 階段.
 * 將會利用 collect 到的 data 來學習如何辨識可能為不平的路面.
