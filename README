@@ -14,6 +14,7 @@ API
 https://docs.google.com/spreadsheet/ccc?key=0AlxFjhblzIuidGdaYWRZcEYzRzUzbnhTY2RSczVyWnc#gid=0
 
 目前有一台測試用的機器. 在 106.187.101.193.
+
 目前的 demo:
 
 http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
@@ -36,6 +37,7 @@ Mailing List
 IRC
 ==========
 目前會定期在每個星期天的 8pm 在 irc 的 #roadpin 跟有興趣的朋友們一起討論.
+
 web 版的 irc:
 
 https://webchat.freenode.net/
