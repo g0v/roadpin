@@ -2,10 +2,6 @@
 ==========
 這個 project 最先是由 Monjour Chen 所發想而在 g0v.tw 的 hackath3n init 的.
 
-在 hackath3n. 有 Monjour Chen, Ronny Wang, Willy Kuo, Zoe Peng, Manic, Brecht, 老蕭的參與.
-
-在 hackath4n. 有老蕭, Jyun-Fan Tsai, ypcat 的參與.
-
 這個 project 有以下的目標:
 * 查詢全臺灣在做道路施工的資料.
 * 提供大家一個 (或多個) 容易 report 路面不平的方式.
@@ -51,6 +47,12 @@ https://webchat.freenode.net/
 http://hack.g0v.tw/irc
 
 IRC 的 logbot: http://106.187.101.193:5000/channel/roadpin (utc time)
+
+參與過的朋友們
+==========
+在 hackath3n. 有 Monjour Chen, Ronny Wang, Willy Kuo, Zoe Peng, Manic, Brecht, 老蕭的參與.
+
+在 hackath4n. 有老蕭, Jyun-Fan Tsai, ypcat 的參與.
 
 臺北市道路施工案件查詢服務網
 ==========
