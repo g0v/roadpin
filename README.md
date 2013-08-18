@@ -1,8 +1,10 @@
 簡介
 ==========
-這個 project 有以下幾個目標:
-* 查詢全台灣哪裡有在做道路施工.
-* 提供大家一個容易 report 路面不平的方式.
+這個 project 最先是由 Monjour Chen 所發想而在 g0v.tw 的 hackath3n 上 init 的.
+
+這個 project 有以下的目標:
+* 查詢全臺灣在做道路施工的資料.
+* 提供大家一個 (或多個) 容易 report 路面不平的方式.
 
 Roadpin.pdf 是 Zoe 所做的關於這個 project 的簡單介紹.
 裡面有比較完整的關於這個 project 的說明.
