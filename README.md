@@ -1,8 +1,8 @@
 簡介
 ==========
 這個 project 有以下幾個目標:
-1. 查詢全台灣哪裡有在做道路施工.
-2. 提供大家一個容易 report 路面不平的方式.
+* 查詢全台灣哪裡有在做道路施工.
+* 提供大家一個容易 report 路面不平的方式.
 
 Roadpin.pdf 是 Zoe 所做的關於這個 project 的簡單介紹.
 裡面有比較完整的關於這個 project 的說明.
@@ -14,6 +14,7 @@ API
 https://docs.google.com/spreadsheet/ccc?key=0AlxFjhblzIuidGdaYWRZcEYzRzUzbnhTY2RSczVyWnc#gid=0
 
 目前有一台測試用的機器. 在 106.187.101.193.
+
 目前的 demo:
 
 http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
@@ -22,7 +23,7 @@ http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
 
 http://106.187.101.193:5346/report (done by ypcat, helped by Jyun-Fan Tasi)
 * 使用 browser report geo/accelerometer data
-* user id 是 random gen 的. 不會追蹤到是誰.)
+* user id 是 random gen 的. 不會追蹤到是誰.
 * 希望是在開車時. 就能根據所收集到的 data 來幫助決定是否有不平的路面.
 * 目前正在 data collection 階段.
 * 將會利用 collect 到的 data 來學習如何辨識可能為不平的路面.
@@ -30,14 +31,17 @@ http://106.187.101.193:5346/report (done by ypcat, helped by Jyun-Fan Tasi)
 Mailing List
 ==========
 如果對於這個 project 有興趣. 歡迎寄信到 roadpin@googlegroups.com 上討論.
+
 很歡迎到 https://groups.google.com/forum/#!forum/roadpin 看看之前的討論.
 
 IRC
 ==========
 目前會定期在每個星期天的 8pm 在 irc 的 #roadpin 跟有興趣的朋友們一起討論.
+
 web 版的 irc:
 
 https://webchat.freenode.net/
+
 http://hack.g0v.tw/irc
 
 IRC 的 logbot: http://106.187.101.193:5000/channel/roadpin (utc time)
@@ -45,5 +49,7 @@ IRC 的 logbot: http://106.187.101.193:5000/channel/roadpin (utc time)
 臺北市道路施工案件查詢服務網
 ==========
 http://www.road.tcg.gov.tw/ROADRCIS
+
 http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=5883
+
 http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=10002050
