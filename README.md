@@ -1,6 +1,10 @@
 簡介
 ==========
-這個 project 最先是由 Monjour Chen 所發想而在 g0v.tw 的 hackath3n 上 init 的.
+這個 project 最先是由 Monjour Chen 所發想而在 g0v.tw 的 hackath3n init 的.
+
+在 hackath3n. 有 Monjour Chen, Ronny Wang, Willy Kuo, Zoe Peng, Manic, Brecht, 老蕭的參與.
+
+在 hackath4n. 有老蕭, Jyun-Fan Tsai, ypcat 的參與.
 
 這個 project 有以下的目標:
 * 查詢全臺灣在做道路施工的資料.
