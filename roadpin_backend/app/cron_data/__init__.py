@@ -24,6 +24,9 @@ def _process_data_core(county_name, the_category, the_idx, start_timestamp, end_
             'end_timestamp': end_timestamp,
             'geo': geo,
             'extension': the_data}
+
+    if data.get('county_name', '') == data.get('county_id', ''):
+        cfg.logger.debug('county_name and county_id are same: county_name: %s county_id: %s', county_name, county_id)
     _put_to_db(data)
 
 
