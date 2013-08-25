@@ -84,9 +84,9 @@ def json_loads(json_str, default_val={}):
 
 def date_to_timestamp(the_date):
     cfg.logger.debug('the_date: %s', the_date)
-    month = int(str(the_date)[0:2])
-    day = int(str(the_date)[3:5])
-    year = int(str(the_date)[6:10])
+    year = int(str(the_date)[0:4])
+    month = int(str(the_date)[4:6])
+    day = int(str(the_date)[6:8])
     cfg.logger.debug('year: %s month: %s day: %s', year, month, day)
     the_date_datetime = datetime(year=year, month=month, day=day)
     the_timestamp = int(time.mktime(the_date_datetime.timetuple()))
@@ -110,7 +110,7 @@ def datetime_to_date(the_datetime):
     year = '%04d' % the_datetime.year
     month = '%02d' % the_datetime.month
     day = '%02d' % the_datetime.day
-    result = month + '/' + day + '/' + year
+    result = year + month + day
     cfg.logger.debug('result: %s', result)
     return result
 
