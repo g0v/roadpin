@@ -21,7 +21,7 @@ from app.cron_data import process_data
 def cron_taipei_city():
     while True:
         error_code = _cron_taipei_city()
-        _sleep()
+        sleep()
 
 
 def _cron_taipei_city():
@@ -210,7 +210,7 @@ def _point_to_coordinate(point):
     return [lon, lat]
 
 
-def _sleep():
+def sleep():
     time_sleep = util._int(cfg.config.get('time_sleep', 86400))
     cfg.logger.debug('to sleep: time_sleep: %s', time_sleep)
     time.sleep(time_sleep)

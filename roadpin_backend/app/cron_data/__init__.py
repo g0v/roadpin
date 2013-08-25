@@ -1,8 +1,10 @@
 
 from app.value_map import COUNTY_MAP
+from app import cfg
 from app import util
 
 def process_data(county_name, the_category, the_idx, start_timestamp, end_timestamp, geo, the_data):
+    cfg.logger.debug('the_data class: %s', the_data.__class__.__name__)
     if the_data.__class__.__name__ == 'dict':
         _process_data_core(county_name, the_category, the_idx, start_timestamp, end_timestamp, geo, the_data)
     elif the_data.__class__.__name__ == 'list':

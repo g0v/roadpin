@@ -7,7 +7,14 @@ from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 from scrapy.selector import HtmlXPathSelector
 from scrapy.http import Request, FormRequest
-from kaohsiung.items import KaohsiungItem
+from app.crawler.kaohsiung.kaohsiung.items import KaohsiungItem
+
+from app import cfg
+from app import util
+from app.cron_data import process_data
+
+
+_columns = ['approved_date', 'approved_unit', 'apply_unit', 'district', 'work_location', 'work_reason', 'approved_id', 'work_date']
 
 class KaohsiungSpider(CrawlSpider):
     name = 'kaohsiung'
@@ -38,14 +45,23 @@ class KaohsiungSpider(CrawlSpider):
             fields = r.select('.//td/text()').extract()
             if not fields:
                 continue
+
+            cfg.logger.debug('fields: %s', fields)
+            data_dict = self._process_data_dict(fields, _columns)
             item = KaohsiungItem()
             item['county_name']  = self.county_name
-            item['the_category'] = ''
+            item['the_category'] = 'kaohsiung_city_dig_point'
             item['the_idx'] = fields[6]
             ts = re.findall('(\d+)', fields[7])
             item['start_timestamp'] = ts[0]
             item['end_timestamp']   = ts[1]
-            item['the_data'] = ';'.join(fields)
+            item['the_data'] = data_dict
+            
+            item['start_timestamp'] = util.tw_date_to_timestamp(item['start_timestamp'])
+            item['end_timestamp'] = util.tw_date_to_timestamp(item['end_timestamp'])
+
+            process_data(item['county_name'], item['the_category'], item['the_idx'], item['start_timestamp'], item['end_timestamp'], {}, item['the_data'])
+
             yield item
 
         # Traverse
@@ -58,3 +74,7 @@ class KaohsiungSpider(CrawlSpider):
 
     def errback(self):
         self.log('Request failed')
+
+    def _process_data_dict(self, fields, columns):
+        result = {column: '' if idx >= len(fields) else fields[idx] for (idx, column) in enumerate(columns)}
+        return result
