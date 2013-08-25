@@ -20,35 +20,35 @@ def g_json_handler(start_timestamp, end_timestamp):
 
     results = [result for result in result_all if _is_valid(result, start_timestamp, end_timestamp)]
 
-    results.sort(key=lambda (r): str(r['beginAt']) + '_' + str(r['endAt']), reverse=True)
+    results.sort(key=lambda (r): str(r['start_timestamp']) + '_' + str(r['end_timestamp']), reverse=True)
 
 
     for result in results:
         del result['_id']
-        result['beginDate'] = util.timestamp_to_date(result['beginAt'])
-        result['endDate'] = util.timestamp_to_date(result['endAt'])
+        result['beginDate'] = util.timestamp_to_date(result['start_timestamp'])
+        result['endDate'] = util.timestamp_to_date(result['end_timestamp'])
 
     return results
 
 
 def _is_valid(result, start_timestamp, end_timestamp):
 
-    if not result['beginAt']:
+    if not result['start_timestamp']:
         return False
 
-    if not result['endAt']:
+    if not result['end_timestamp']:
         return False
 
-    if result['beginAt'] <= start_timestamp and result['endAt'] >= start_timestamp:
+    if result['start_timestamp'] <= start_timestamp and result['end_timestamp'] >= start_timestamp:
         return True
 
-    if result['beginAt'] <= end_timestamp and result['endAt'] >= end_timestamp:
+    if result['start_timestamp'] <= end_timestamp and result['end_timestamp'] >= end_timestamp:
         return True
 
-    if result['beginAt'] >= start_timestamp and result['endAt'] <= end_timestamp:
+    if result['start_timestamp'] >= start_timestamp and result['end_timestamp'] <= end_timestamp:
         return True
 
-    if result['beginAt'] < start_timestamp and result['endAt'] > end_timestamp:
+    if result['start_timestamp'] < start_timestamp and result['end_timestamp'] > end_timestamp:
         return True
 
     return False
@@ -56,4 +56,4 @@ def _is_valid(result, start_timestamp, end_timestamp):
     
     
 def _result_to_dict(result):
-    return {str(val['beginAt']) + '_' + str(val['endAt']): val for val in result}
+    return {str(val['start_timestamp']) + '_' + str(val['end_timestamp']): val for val in result}
