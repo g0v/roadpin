@@ -50,7 +50,7 @@ class KaohsiungSpider(CrawlSpider):
             data_dict = self._process_data_dict(fields, _columns)
             item = KaohsiungItem()
             item['county_name']  = self.county_name
-            item['the_category'] = 'kaohsiung_city_dig_point'
+            item['the_category'] = 'kaohsiung_dig_point'
             item['the_idx'] = fields[6]
             ts = re.findall('(\d+)', fields[7])
             item['start_timestamp'] = ts[0]
