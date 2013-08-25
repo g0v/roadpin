@@ -56,6 +56,7 @@ def _crawl_dig(last_dig):
         'sortflag': '',
         'sorttype': '',
         'TargetLB': '',
+        'qry2': 1,
         'startyear': start_year,
         'startmonth': start_month,
         'endyear': end_year,
