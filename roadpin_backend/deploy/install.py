@@ -41,7 +41,7 @@ def update(branch = 'master', n_proc = '4'):
 def _git_clone(target_host, branch = 'master'):    
     with cd("/srv"):
         try:
-            run("git clone -b " + branch + " https://github.com/ronnywang/roadpin")
+            run("git clone -b " + branch + " https://github.com/g0v/roadpin")
         except:
             print(red("[ERROR] unable to git clone"))
 
