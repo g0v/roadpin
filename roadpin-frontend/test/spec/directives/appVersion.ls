@@ -3,7 +3,7 @@
 describe 'Directive: appVersion', (not-it) ->
 
   # load the directive's module
-  beforeEach module 'angularBrunchSeedLivescriptBowerApp'
+  beforeEach module 'roadpinFrontendApp'
 
   scope = {}
   beforeEach inject ($controller, $rootScope) ->
