@@ -1,7 +1,7 @@
 # Declare app level module which depends on filters, and services
 'use strict'
 
-angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ]>
+angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ]>
   .config <[ $routeProvider $locationProvider ]> ++ ($routeProvider, $locationProvider, config) ->
     $routeProvider
       .when '/view1' templateUrl: '/views/partial1.html'
