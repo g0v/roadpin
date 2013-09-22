@@ -1,6 +1,6 @@
 'use strict'
 
-angular.module 'angularBrunchSeedLivescriptBowerApp'
+angular.module 'roadpinFrontendApp'
   .controller 'AppCtrl', <[ $scope $location $resource $rootScope version ]> ++ ($scope, $location, $resource, $rootScope, version) ->
     $scope <<< {version}
 

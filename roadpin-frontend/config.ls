@@ -40,6 +40,7 @@ exports.config =
           'vendor/scripts/angular-resource/angular-resource.js'
           'vendor/scripts/angular-route/angular-route.js'
           'vendor/scripts/angular-touch/angular-touch.js'
+          'vendor/scripts/ng-table/ng-table.js'
 
     stylesheets:
       joinTo:
@@ -52,5 +53,3 @@ exports.config =
   # minify: true
   server:
     path: 'server/server.ls'
-
-

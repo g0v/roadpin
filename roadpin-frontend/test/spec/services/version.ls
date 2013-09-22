@@ -3,7 +3,7 @@
 describe 'Service: version', (not-it) ->
 
   # load the service's module
-  beforeEach module 'angularBrunchSeedLivescriptBowerApp'
+  beforeEach module 'roadpinFrontendApp'
 
   # instantiate service
   version = {}

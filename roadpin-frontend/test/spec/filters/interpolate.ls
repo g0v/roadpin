@@ -3,7 +3,7 @@
 describe 'Filter: interpolate', (not-it) ->
 
   # load the filter's module
-  beforeEach module 'angularBrunchSeedLivescriptBowerApp'
+  beforeEach module 'roadpinFrontendApp'
   beforeEach inject ($filter) ->
     interpolate = $filter 'interpolate'
 

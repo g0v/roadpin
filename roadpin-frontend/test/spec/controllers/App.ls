@@ -2,7 +2,7 @@
 
 describe 'Controller: AppCtrl', (not-it) ->
   # load the controller's module
-  beforeEach module 'angularBrunchSeedLivescriptBowerApp'
+  beforeEach module 'roadpinFrontendApp'
 
   AppCtrl = {}
   scope = {}
