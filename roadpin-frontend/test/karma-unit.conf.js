@@ -2,7 +2,7 @@
 module.exports = function(config){
   return config.set({
     basePath: '../',
-    files: ['vendor/scripts/jquery/jquery.js', 'vendor/scripts/angular/angular.js', 'vendor/scripts/angular-*/angular-*.js', 'test/vendor/angular-mocks/angular-mocks.js', '_public/js/app.js', '_public/**/*.html', '_public/*.html', 'test/spec/**/*.js', 'test/spec/**/*.ls'],
+    files: ['vendor/scripts/jquery/jquery.js', 'vendor/scripts/angular/angular.js', 'vendor/scripts/angular-*/angular-*.js', 'vendor/scripts/ng-grid/ng-grid.js', 'test/vendor/angular-mocks/angular-mocks.js', '_public/js/app.js', '_public/**/*.html', '_public/*.html', 'test/spec/**/*.js', 'test/spec/**/*.ls'],
     frameworks: ['jasmine'],
     exclude: [],
     logLevel: config.LOG_INFO,

@@ -5,6 +5,7 @@ module.exports = (config) ->
       'vendor/scripts/jquery/jquery.js'
       'vendor/scripts/angular/angular.js'
       'vendor/scripts/angular-*/angular-*.js'
+      'vendor/scripts/ng-grid/ng-grid.js'
       'test/vendor/angular-mocks/angular-mocks.js'
       '_public/js/app.js'
       '_public/**/*.html'
