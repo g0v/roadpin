@@ -120,6 +120,8 @@ def _process_http_results(the_urls, results, latest_idx, the_category, time_peri
     if not results:
         return (S_ERR, latest_idx)
 
+    cfg.logger.debug('results: %s', results)
+
     error_code = S_ERR
     for (idx, the_url) in the_urls.iteritems():
         the_data_text = results.get(the_url, '')
