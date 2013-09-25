@@ -1,0 +1,8 @@
+# Wire up travis
+language: python
+
+python:
+  - 2.7
+
+script: cd roadpin_backend && nosetests
+
