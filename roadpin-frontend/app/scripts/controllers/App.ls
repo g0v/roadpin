@@ -12,6 +12,13 @@ angular.module 'roadpinFrontendApp'
 
     awesomeThings = <[ AngularJS Yeoman Karma brunch livescript ]>
 
+    url = 'http://106.187.101.193:5346/get_json_today'
+    QueryData = $resource url
+
+    the_data = QueryData.query {}, -> 
+      console .log 'the_data.length:', the_data.length, 'the_data:', the_data
+
+    '''
     the_data = [
       * county_id: "63"
         county_name: "臺北市"
@@ -63,6 +70,7 @@ angular.module 'roadpinFrontendApp'
         start_date: "2014-01-01"
         end_date: "2014-12-31"
     ]
+    '''
 
     gridOptions = 
       data: 'the_data'
@@ -76,9 +84,9 @@ angular.module 'roadpinFrontendApp'
           displayName: '施工位置'
         * field: 'extension.CASE_RANGEpro'
           displayName: '施工範圍'
-        * field: 'start_date'
+        * field: 'beginDate'
           displayName: '開始時間'
-        * field: 'end_date'
+        * field: 'endDate'
           displayName: '結束時間'
         * field: 'extension.CTR_WNAMEpro'
           displayName: '施工單位'
