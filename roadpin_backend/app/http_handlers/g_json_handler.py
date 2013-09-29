@@ -45,8 +45,8 @@ def g_json_handler(start_timestamp, end_timestamp):
         
         _parse_json_map[the_category](result)
 
-        result['beginDate'] = util.timestamp_to_date(result['start_timestamp'])
-        result['endDate'] = util.timestamp_to_date(result['end_timestamp'])
+        result['beginDate'] = util.timestamp_to_date_str(result['start_timestamp'])
+        result['endDate'] = util.timestamp_to_date_str(result['end_timestamp'])
 
     to_remove_ary.reverse()
     for idx in to_remove_ary:

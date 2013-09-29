@@ -82,18 +82,6 @@ def json_loads(json_str, default_val={}):
     return result
 
 
-def date_to_timestamp(the_date):
-    cfg.logger.debug('the_date: %s', the_date)
-    year = int(str(the_date)[0:4])
-    month = int(str(the_date)[4:6])
-    day = int(str(the_date)[6:8])
-    cfg.logger.debug('year: %s month: %s day: %s', year, month, day)
-    the_date_datetime = datetime(year=year, month=month, day=day)
-    the_timestamp = int(time.mktime(the_date_datetime.timetuple()))
-    cfg.logger.debug('the_timestamp: %s', the_timestamp)
-    return the_timestamp
-
-
 def date_today():
     today = datetime.today()
     return datetime_to_date(today)
@@ -107,9 +95,24 @@ def date_tomorrow():
 
 
 def datetime_to_date(the_datetime):
+    result = the_datetime.strftime("%Y%m%d")
+    cfg.logger.debug('result: %s', result)
+    return result
+
+
+def datetime_to_date_str(the_datetime):
     result = the_datetime.strftime("%Y-%m-%d")
     cfg.logger.debug('result: %s', result)
     return result
+
+
+def date_to_timestamp(the_date):
+    cfg.logger.debug('the_date: %s', the_date)
+    the_datetime = datetime.strptime(the_date, "%Y%m%d")
+    the_datetime = the_datetime.replace(tzinfo = timezone('Asia/Taipei'))
+    the_timestamp = _int(timegm(the_datetime.utctimetuple()))
+    cfg.logger.debug('the_timestamp: %s', the_timestamp)
+    return the_timestamp
 
 
 def timestamp_to_date(the_timestamp):
