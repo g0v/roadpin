@@ -107,10 +107,7 @@ def date_tomorrow():
 
 
 def datetime_to_date(the_datetime):
-    year = '%04d' % the_datetime.year
-    month = '%02d' % the_datetime.month
-    day = '%02d' % the_datetime.day
-    result = year + month + day
+    result = the_datetime.strftime("%Y-%m-%d")
     cfg.logger.debug('result: %s', result)
     return result
 
