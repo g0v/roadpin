@@ -129,7 +129,7 @@ def _process_http_results(the_urls, results, latest_idx, the_category, time_peri
             continue
 
         error_code = S_OK
-        latest_idx = idx
+        latest_idx = max(latest_idx, idx)
 
         _process_data_text(the_category, idx, the_data_text, time_period_idx)
 
@@ -138,6 +138,10 @@ def _process_http_results(the_urls, results, latest_idx, the_category, time_peri
 
 def _validate_http_result(result):
     if not result:
+        return S_ERR
+
+    result_json = util.json_loads(result)
+    if not result_json:
         return S_ERR
 
     if result == '-1':
