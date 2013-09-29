@@ -15,8 +15,8 @@ def g_json_handler(start_timestamp, end_timestamp):
 
     cfg.logger.debug('start_timestamp: %s end_timestamp: %s', start_timestamp, end_timestamp)
 
-    result_all = util.db_find('roadDB')
-    #cfg.logger.debug('result_all: %s', result_all)
+    result_all = util.db_find('roadDB', {'end_timestamp': {'$gte': start_timestamp}, 'start_timestamp': {'$lte': end_timestamp}})
+    cfg.logger.debug('len(result_all): %s', len(result_all))
 
     results = [result for result in result_all if _is_valid(result, start_timestamp, end_timestamp)]
 
