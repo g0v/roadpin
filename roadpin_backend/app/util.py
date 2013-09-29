@@ -120,6 +120,11 @@ def timestamp_to_date(the_timestamp):
     return datetime_to_date(the_datetime)
 
 
+def timestamp_to_date_str(the_timestamp):
+    the_datetime = datetime.fromtimestamp(_float(the_timestamp))
+    return datetime_to_date_str(the_datetime)
+
+
 def _float(the_val, default_val=0):
     result = default_val
     try:
