@@ -4,8 +4,13 @@ angular.module 'roadpinFrontendApp'
   .controller 'AppCtrl', <[ $scope $location $resource $rootScope version ]> ++ ($scope, $location, $resource, $rootScope, version) ->
     $scope <<< {version}
 
-    $scope.$watch '$location.path()' (active-nav-id or '/') ->
+    console.log '$location.path():', $location.path()
+
+    $scope.$watch (-> $location.path()), (active-nav-id, orig-active-nav-id) ->
+      console.log '$location.path():', $location.path(), 'active-nav-id:', active-nav-id, 'orig-active-nav-id', orig-active-nav-id
       $scope <<< {active-nav-id}
+
+    pageTitle = 'RoadPin'
 
     getClass = (id) ->
       if $scope.active-nav-id is id then 'active' else ''
@@ -93,4 +98,4 @@ angular.module 'roadpinFrontendApp'
         * field: 'work_institute2'
           displayName: '(施工相關機構)'
 
-    $scope <<< {getClass, awesomeThings, the_data, gridOptions}
+    $scope <<< {getClass, awesomeThings, the_data, gridOptions, pageTitle}

@@ -2,183 +2,59 @@
 (function(){
   'use strict';
   angular.module('roadpinFrontendApp').controller('AppCtrl', ['$scope', '$location', '$resource', '$rootScope', 'version'].concat(function($scope, $location, $resource, $rootScope, version){
-    var url;
-    url = 'http://106.187.101.193';
+    var getClass, awesomeThings, url, QueryData, the_data, gridOptions;
     $scope.version = version;
-    $scope.$watch('$location.path()', function(activeNavId){
-      activeNavId || (activeNavId = '/');
+    console.log('$location.path():', $location.path());
+    $scope.$watch(function(){
+      return $location.path();
+    }, function(activeNavId, origActiveNavId){
+      console.log('$location.path():', $location.path(), 'active-nav-id:', activeNavId, 'orig-active-nav-id', origActiveNavId);
       return $scope.activeNavId = activeNavId, $scope;
     });
-    $scope.getClass = function(id){
-      if ($scope.activeNavId === id) {
-        return 'active';
-      } else {
-        return '';
-      }
+    getClass = function(id){
+      var result;
+      result = $scope.activeNavId === id ? 'active' : '';
+      console.log('id:', id, '$scope.active-nav-id:', $scope.activeNavId, 'result:', result);
+      return result;
     };
-    $scope.filterOptions = {
-      filterText: "",
-      useExternalFilter: true
-    };
-    $scope.totalServerItems = 0;
-    $scope.pagingOptions = {
-      pageSizes: [250, 500, 1000],
-      pageSize: 250,
-      currentPage: 1
-    };
-    $scope.setPagingData = function(data, page, pageSize){
-      var pagedData;
-      pagedData = data.slice((page - 1) * pageSize, page * pageSize);
-      $scope.myData = pagedData;
-      $scope.totalServerItems = data.length;
-      if (!$scope.$$phase) {
-        return $scope.$apply();
-      }
-    };
-    $scope.getPagedDataAsync = function(pageSize, page, searchText, url){
-      return setTimeout(function(){
-        var ft;
-        if (searchText) {
-          ft = searchText.toLowerCase();
-          $http.get(url).success(function(largeLoad){
-            var data;
-            return data = largeLoad.filter(function(item){
-              return JSON.stringify(item).toLowerCase().indexOf(ft !== -1);
-            });
-          });
-          return $scope.setPagingData(data, page, pageSize);
-        } else {
-          $http.get(url).success(function(largeLoad){});
-          return $scope.setPagingData(largeLoad, page, pageSize);
-        }
-      }, 100);
-    };
-    $scope.getPagedDataAsync($scope.pagingOptions.pageSize, $scope.pagingOptions.currentPage, url);
-    $scope.$watch('pagingOptions', function(newVal, oldVal){
-      if (!deepEq$(newVal, oldVal, '===') && !deepEq$(newVal.currentPage, oldVal.currentPage, '===')) {
-        return $scope.getPagedDataAsync($scope.pagingOptions.pageSize, $scope.pagingOptions.currentPage, $scope.filterOptions.filterText, url);
-      }
-    }, true);
-    $scope.$watch('filterOptions', function(newVal, oldVal){
-      if (!deepEq$(newVal, oldVal, '===')) {
-        return $scope.getPagedDataAsync($scope.pagingOptions.pageSize, $scope.pagingOptions.currentPage, $scope.filterOptions.filterText, url);
-      }
-    }, true);
-    return $scope.gridOptions = {
-      data: 'myData',
+    awesomeThings = ['AngularJS', 'Yeoman', 'Karma', 'brunch', 'livescript'];
+    url = 'http://106.187.101.193:5346/get_json_today';
+    QueryData = $resource(url);
+    the_data = QueryData.query({}, function(){
+      return console.log('the_data.length:', the_data.length, 'the_data:', the_data);
+    });
+    'the_data = [\n  * county_id: "63"\n    county_name: "臺北市"\n    end_timestamp: 1419955200, \n    extension: \n      CASE_LOCATIONpro: "基隆路四段"\n      CASE_STATUSpro: "2"\n      CTR_ONAMEpro: ""\n      WORK_DATEpro: "103/01/01~103/12/31"\n      CASE_TYPEpro: "6" \n      CASE_RANGEpro: "基隆路三段~羅斯福路"\n      CTR_WNAMEpro: "協新營造股份有限公司"\n      REG_NAMEpro: "大安區"\n      dtResultpro: [\n        * P2NAME: null\n          GEO_TYPE: "Polygon"\n          POINTS: [ \n            * P2: 25.015675259737762\n              P1: 121.54238687689245\n            * P2: 25.015364673621825\n              P1: 121.5427080981231\n            * P2: 25.010943705473352\n              P1: 121.53744258838049\n            * P2: 25.01126944425874\n              P1: 121.53720631914334\n            * P2: 25.015151059635382\n              P1: 121.5418922068798\n            * P2: 25.015675259737762\n              P1: 121.54238687689245\n          ]\n          P1NAME: null\n          KEY: null\n      ]\n    geo: [  \n      * type: "LineString", \n        coordinates: [  \n          [ 121.54238687689245 25.015675259737762 ]\n          [ 121.5427080981231 25.015364673621825 ]\n          [ 121.53744258838049 25.010943705473352 ]\n          [ 121.53720631914334 25.01126944425874 ]\n          [ 121.5418922068798 25.015151059635382 ] \n          [ 121.54238687689245 25.015675259737762 ]\n        ]\n    ]\n    start_timestamp: 1388505600\n    the_category: "taipei_city_road_case"\n    the_id: "taipei_city_road_case_5340"\n    the_idx: 5340\n    start_date: "2014-01-01"\n    end_date: "2014-12-31"\n]';
+    gridOptions = {
+      data: 'the_data',
       enablePaging: true,
-      showFooter: true,
       columnDefs: [
         {
           field: 'county_name',
           displayName: '縣市'
         }, {
-          field: 'extension.REG_NAMEpro',
+          field: 'town_name',
           displayName: '鄉鎮市區'
         }, {
-          field: 'extension.CASE_LOCATIONpro',
+          field: 'location',
           displayName: '施工位置'
         }, {
-          field: 'extension.CASE_RANGEpro',
+          field: 'range',
           displayName: '施工範圍'
         }, {
-          field: 'start_datetime',
+          field: 'beginDate',
           displayName: '開始時間'
         }, {
-          field: 'end_datetime',
+          field: 'endDate',
           displayName: '結束時間'
         }, {
-          field: 'extension.CTR_WNAMEpro',
+          field: 'work_institute',
           displayName: '施工單位'
         }, {
-          field: 'extension.CTR_ONAMEpro',
-          displayName: '監工單位'
+          field: 'work_institute2',
+          displayName: '(施工相關機構)'
         }
       ]
     };
+    return $scope.getClass = getClass, $scope.awesomeThings = awesomeThings, $scope.the_data = the_data, $scope.gridOptions = gridOptions, $scope;
   }));
-  function deepEq$(x, y, type){
-    var toString = {}.toString, hasOwnProperty = {}.hasOwnProperty,
-        has = function (obj, key) { return hasOwnProperty.call(obj, key); };
-    var first = true;
-    return eq(x, y, []);
-    function eq(a, b, stack) {
-      var className, length, size, result, alength, blength, r, key, ref, sizeB;
-      if (a == null || b == null) { return a === b; }
-      if (a.__placeholder__ || b.__placeholder__) { return true; }
-      if (a === b) { return a !== 0 || 1 / a == 1 / b; }
-      className = toString.call(a);
-      if (toString.call(b) != className) { return false; }
-      switch (className) {
-        case '[object String]': return a == String(b);
-        case '[object Number]':
-          return a != +a ? b != +b : (a == 0 ? 1 / a == 1 / b : a == +b);
-        case '[object Date]':
-        case '[object Boolean]':
-          return +a == +b;
-        case '[object RegExp]':
-          return a.source == b.source &&
-                 a.global == b.global &&
-                 a.multiline == b.multiline &&
-                 a.ignoreCase == b.ignoreCase;
-      }
-      if (typeof a != 'object' || typeof b != 'object') { return false; }
-      length = stack.length;
-      while (length--) { if (stack[length] == a) { return true; } }
-      stack.push(a);
-      size = 0;
-      result = true;
-      if (className == '[object Array]') {
-        alength = a.length;
-        blength = b.length;
-        if (first) { 
-          switch (type) {
-          case '===': result = alength === blength; break;
-          case '<==': result = alength <= blength; break;
-          case '<<=': result = alength < blength; break;
-          }
-          size = alength;
-          first = false;
-        } else {
-          result = alength === blength;
-          size = alength;
-        }
-        if (result) {
-          while (size--) {
-            if (!(result = size in a == size in b && eq(a[size], b[size], stack))){ break; }
-          }
-        }
-      } else {
-        if ('constructor' in a != 'constructor' in b || a.constructor != b.constructor) {
-          return false;
-        }
-        for (key in a) {
-          if (has(a, key)) {
-            size++;
-            if (!(result = has(b, key) && eq(a[key], b[key], stack))) { break; }
-          }
-        }
-        if (result) {
-          sizeB = 0;
-          for (key in b) {
-            if (has(b, key)) { ++sizeB; }
-          }
-          if (first) {
-            if (type === '<<=') {
-              result = size < sizeB;
-            } else if (type === '<==') {
-              result = size <= sizeB
-            } else {
-              result = size === sizeB;
-            }
-          } else {
-            first = false;
-            result = size === sizeB;
-          }
-        }
-      }
-      stack.pop();
-      return result;
-    }
-  }
 }).call(this);
