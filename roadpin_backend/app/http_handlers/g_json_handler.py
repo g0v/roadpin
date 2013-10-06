@@ -25,14 +25,16 @@ def g_json_handler(start_timestamp, end_timestamp):
 
     db_results.sort(key=lambda (r): str(r['start_timestamp']) + '_' + str(r['end_timestamp']))
 
+    results = parse_json_results(db_results)
+
+    return results
+
+
+def parse_json_results(db_results):
     for (idx, result) in enumerate(db_results):
         the_category = result['the_category']
 
-        if the_category not in _parse_json_map:
-            cfg.logger.error('the_category is not in _parse_json_map: the_category: %s', the_category)
-            parse_json_default(result)
-        
-        _parse_json_map[the_category](result)
+        _parse_json_map.get(the_category, parse_json_default)(result)
 
         result['beginDate'] = util.timestamp_to_date_str(result['start_timestamp'])
         result['endDate'] = util.timestamp_to_date_str(result['end_timestamp'])

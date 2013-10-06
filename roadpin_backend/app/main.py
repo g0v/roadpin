@@ -17,6 +17,7 @@ from app import cfg
 from app.gevent_server import GeventServer
 from app.http_handlers.g_json_handler import g_json_handler
 from app.http_handlers.g_json_sketch_handler import g_json_sketch_handler
+from app.http_handlers.g_json_by_id_list_handler import g_json_by_id_list_handler
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
 from app.http_handlers.post_add_handler import post_add_handler
@@ -74,6 +75,14 @@ def g_json_by_date_sketch():
     end_timestamp = util.date_to_timestamp(params['end_at'])
     return _process_result(g_json_sketch_handler(start_timestamp, end_timestamp))
 
+
+@app.get('/get_json_by_id_list')
+def g_json_by_id_list():
+    params = dict(request.params)
+    start_timestamp = util.date_to_timestamp(params['begin_at'])
+    end_timestamp = util.date_to_timestamp(params['end_at'])
+    params = _process_params()
+    return _process_result(g_json_by_id_list_handler(start_timestamp, end_timestamp, params))
 
 
 @app.get('/get_json_by_timestamp/<start_timestamp>/<end_timestamp>')
