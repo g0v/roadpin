@@ -1,1 +1,0 @@
-../../../bower_components/ng-grid/ng-grid-2.0.7.debug.js
