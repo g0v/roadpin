@@ -19,7 +19,7 @@ def g_json_by_id_list_handler(params):
     if not id_list:
         return []
 
-    db_results = util.db_find('roadDB', {'the_idx': {'$in': id_list}})
+    db_results = util.db_find('roadDB', {'the_id': {'$in': id_list}})
 
     results = g_json_handler.parse_json_results(db_results)
 
