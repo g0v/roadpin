@@ -16,6 +16,7 @@ import argparse
 from app import cfg
 from app.gevent_server import GeventServer
 from app.http_handlers.g_json_handler import g_json_handler
+from app.http_handlers.g_json_sketch_handler import g_json_sketch_handler
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
 from app.http_handlers.post_add_handler import post_add_handler
@@ -47,12 +48,32 @@ def g_json_by_today():
     return _process_result(g_json_handler(start_timestamp, end_timestamp))
 
 
+@app.get('/get_json_today_sketch')
+def g_json_by_today_sketch():
+    today = util.date_today()
+    tomorrow = util.date_tomorrow()
+    cfg.logger.debug("today: %s tomorrow: %s", today, tomorrow)
+    start_timestamp = util.date_to_timestamp(today)
+    end_timestamp = util.date_to_timestamp(tomorrow)
+    params = _process_params()
+    return _process_result(g_json_sketch_handler(start_timestamp, end_timestamp, params))
+
+
 @app.get('/get_json_by_date')
 def g_json_by_date():
     params = dict(request.params)
     start_timestamp = util.date_to_timestamp(params['begin_at'])
     end_timestamp = util.date_to_timestamp(params['end_at'])
     return _process_result(g_json_handler(start_timestamp, end_timestamp))
+
+
+@app.get('/get_json_by_date_sketch')
+def g_json_by_date_sketch():
+    params = dict(request.params)
+    start_timestamp = util.date_to_timestamp(params['begin_at'])
+    end_timestamp = util.date_to_timestamp(params['end_at'])
+    return _process_result(g_json_sketch_handler(start_timestamp, end_timestamp))
+
 
 
 @app.get('/get_json_by_timestamp/<start_timestamp>/<end_timestamp>')
@@ -96,10 +117,15 @@ def g_search_by_location():
     return _process_result(g_search_by_location_handler(params))
 
 
+def _process_params():
+    return dict(request.params)
+
+
 def _process_result(the_obj):
     response.set_header('Access-Control-Allow-Origin', '*')
     response.set_header('Access-Control-Allow-Methods', '*')
     cfg.logger.debug('the_obj: %s', the_obj)
+    response.content_type = 'application/json'
     return util.json_dumps(the_obj)
 
 
