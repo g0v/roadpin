@@ -78,11 +78,8 @@ def g_json_by_date_sketch():
 
 @app.get('/get_json_by_id_list')
 def g_json_by_id_list():
-    params = dict(request.params)
-    start_timestamp = util.date_to_timestamp(params['begin_at'])
-    end_timestamp = util.date_to_timestamp(params['end_at'])
     params = _process_params()
-    return _process_result(g_json_by_id_list_handler(start_timestamp, end_timestamp, params))
+    return _process_result(g_json_by_id_list_handler(params))
 
 
 @app.get('/get_json_by_timestamp/<start_timestamp>/<end_timestamp>')
