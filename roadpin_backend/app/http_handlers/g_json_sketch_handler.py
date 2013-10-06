@@ -16,6 +16,6 @@ def g_json_sketch_handler(start_timestamp, end_timestamp, params):
 
     db_results = g_json_handler.get_db_results_by_the_timestamp(start_timestamp, end_timestamp)
 
-    results = [db_results.get('the_id', '')]
+    results = [result.get('the_id', '') for result in db_results]
 
     return results
