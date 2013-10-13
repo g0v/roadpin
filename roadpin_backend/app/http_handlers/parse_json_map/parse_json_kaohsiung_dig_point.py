@@ -19,3 +19,4 @@ def parse_json_kaohsiung_dig_point(data):
     data['range'] = ''
     data['work_institute'] = data.get('extension', {}).get('apply_unit', '')
     data['work_institute2'] = ''
+    data['geo'] = []
