@@ -20,3 +20,21 @@ def parse_json_taipei_city_dig_point(data):
     data['range'] = ''
     data['work_institute'] = data.get('extension', {}).get('TC_NApro', '')
     data['work_institute2'] = data.get('extension', {}).get('APP_NAMEpro', '')
+    data['geo'] = _parse_geo_list(data.get('extension', {}).get('dtResultpro', []))
+
+
+def _parse_geo_list(geo_list):
+    return [_parse_geo(geo) for geo in geo_list]
+
+
+def _parse_geo(geo):
+    points = geo.get('POINTS', [])
+    return {
+        'type': 'Line',
+        'data': [_parse_point(point) for point in points]
+    }
+    pass
+
+
+def _parse_point(point):
+    return {'lat': point.get('P2', 0.0), 'lon': point.get('P1', 0.0)}

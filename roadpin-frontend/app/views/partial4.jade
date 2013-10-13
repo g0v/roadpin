@@ -1,2 +1,2 @@
 div(ng-controller="MapCtrl")
-  div.map-canvas(ui-map="myMap", ui-options="mapOptions")
+  div.map-canvas(ui-map="myMap", ui-options="mapOptions", ui-event="{'map-idle' : 'onMapIdle()'}")
