@@ -12,6 +12,3 @@ describe 'Controller: AppCtrl', (not-it) ->
     scope := $rootScope.$new!
     AppCtrl := $controller 'AppCtrl', do
       $scope: scope
-
-  it 'should attach a list of awesomeThings to the scope', ->
-    expect (scope.awesomeThings.length) .toBe 5

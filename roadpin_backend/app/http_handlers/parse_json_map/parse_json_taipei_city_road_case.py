@@ -19,3 +19,20 @@ def parse_json_taipei_city_road_case(data):
     data['range'] = data.get('extension', {}).get('CASE_RANGEpro', '')
     data['work_institute'] = data.get('extension', {}).get('CTR_WNAMEpro', '')
     data['work_institute2'] = data.get('extension', {}).get('CTR_ONAMEpro', '')
+    data['geo'] = _parse_geo_list(data.get('extension', {}).get('dtResultpro', []))
+
+
+def _parse_geo_list(geo_list):
+    return [_parse_geo(geo) for geo in geo_list]
+
+
+def _parse_geo(geo):
+    points = geo.get('POINTS', [])
+    return {
+        'type': 'Polygon',
+        'data': [_parse_point(point) for point in points]
+    }
+
+
+def _parse_point(point):
+    return {'lat': point.get('P2', 0.0), 'lon': point.get('P1', 0.0)}
