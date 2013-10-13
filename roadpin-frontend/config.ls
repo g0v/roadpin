@@ -32,16 +32,7 @@ exports.config =
           'vendor/scripts/bootstrap-sass/modal.js'
           'vendor/scripts/bootstrap-sass/scrollspy.js'
           'vendor/scripts/bootstrap-sass/tab.js'
-          'vendor/scripts/angular/angular.js'
-          'vendor/scripts/angular-animate/angular-animate.js'
-          'vendor/scripts/angular-cookies/angular-cookies.js'
-          'vendor/scripts/angular-i18n/angular-i18n.js'
-          'vendor/scripts/angular-loader/angular-loader.js'
-          'vendor/scripts/angular-resource/angular-resource.js'
-          'vendor/scripts/angular-route/angular-route.js'
-          'vendor/scripts/angular-touch/angular-touch.js'
           'vendor/scripts/ng-table/ng-table.js'
-
     stylesheets:
       joinTo:
         'css/app.css': /^app/

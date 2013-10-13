@@ -1,0 +1,1 @@
+../../../bower_components/angular-i18n/angular-i18n.js
