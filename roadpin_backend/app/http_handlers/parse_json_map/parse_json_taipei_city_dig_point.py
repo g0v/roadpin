@@ -21,6 +21,8 @@ def parse_json_taipei_city_dig_point(data):
     data['work_institute'] = data.get('extension', {}).get('TC_NApro', '')
     data['work_institute2'] = data.get('extension', {}).get('APP_NAMEpro', '')
     data['geo'] = _parse_geo_list(data.get('extension', {}).get('dtResultpro', []))
+    if 'extension' in data:
+        del data['extension']
 
 
 def _parse_geo_list(geo_list):

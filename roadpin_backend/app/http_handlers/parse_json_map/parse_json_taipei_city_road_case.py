@@ -20,6 +20,8 @@ def parse_json_taipei_city_road_case(data):
     data['work_institute'] = data.get('extension', {}).get('CTR_WNAMEpro', '')
     data['work_institute2'] = data.get('extension', {}).get('CTR_ONAMEpro', '')
     data['geo'] = _parse_geo_list(data.get('extension', {}).get('dtResultpro', []))
+    if 'extension' in data:
+        del data['extension']
 
 
 def _parse_geo_list(geo_list):
