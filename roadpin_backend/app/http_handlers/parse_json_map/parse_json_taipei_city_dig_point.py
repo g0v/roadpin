@@ -32,11 +32,11 @@ def _parse_geo_list(geo_list):
 def _parse_geo(geo):
     points = geo.get('POINTS', [])
     return {
-        'type': 'Line',
-        'data': [_parse_point(point) for point in points]
+        'type': 'LineString',
+        'coordinates': [_parse_point(point) for point in points]
     }
     pass
 
 
 def _parse_point(point):
-    return {'lat': point.get('P2', 0.0), 'lon': point.get('P1', 0.0)}
+    return [point.get('P1', 0.0), point.get('P2', 0.0)]

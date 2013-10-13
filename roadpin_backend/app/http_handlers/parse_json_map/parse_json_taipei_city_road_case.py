@@ -32,9 +32,9 @@ def _parse_geo(geo):
     points = geo.get('POINTS', [])
     return {
         'type': 'Polygon',
-        'data': [_parse_point(point) for point in points]
+        'coordinates': [[_parse_point(point) for point in points]]
     }
 
 
 def _parse_point(point):
-    return {'lat': point.get('P2', 0.0), 'lon': point.get('P1', 0.0)}
+    return [point.get('P1', 0.0), point.get('P2', 0.0)]
