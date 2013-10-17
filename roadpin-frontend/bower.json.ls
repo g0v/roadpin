@@ -1,4 +1,4 @@
-name: 'angular-brunch-seed-livescript-bower'
+name: 'roadpin-frontend'
 version: 0.0.0
 dependencies: 
   angular: '~1.2.0-rc.2'
@@ -17,10 +17,10 @@ dependencies:
 devDependencies: 
   'angular-mocks': '~1.2.0-rc.2'
   'angular-scenario': '~1.2.0-rc.2'
-homepage: 'https://github.com/chhsiao1981/angular-brunch-seed-livescript'
+homepage: 'https://github.com/g0v/roadpin'
 authors: 
   * 'Chuan-Heng Hsiao <hsiao.chuanheng@gmail.com>'
-description: 'angular-seed in brunch with livescript bower'
+description: 'roadpin'
 license: 'MIT'
 private: true
 ignore: 
