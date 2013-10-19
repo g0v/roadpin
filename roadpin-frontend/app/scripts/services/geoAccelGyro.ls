@@ -10,7 +10,7 @@ angular.module 'roadpinFrontendApp'
       roll = event.gamma
 
       $rootScope.$apply -> do
-        $rootScope.$broadcast 'geoAccelGyro:event', {'event': 'deviceorientation', 'yaw': yaw, 'pitch': pitch, 'roll': roll}
+        $rootScope.$broadcast 'geoAccelGyro:event', {'event': 'deviceorientation', yaw, pitch, roll}
 
     $window.ondevicemotion = (event) ->
       move_x = event.acceleration.x
