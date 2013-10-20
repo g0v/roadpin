@@ -1,6 +1,6 @@
 'use strict'
 
-describe 'Service: geoAccelGyro', () ->
+describe 'Service: geoAccelGyro', (not-it) ->
 
   # load the service's module
   beforeEach module 'RoadpinFrontendApp'
