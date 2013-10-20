@@ -1,15 +1,15 @@
 'use strict'
 
-describe 'Controller: ReportCtrl', (not-it) ->
+describe 'Controller: ReportMapCtrl', (not-it) ->
 
   # load the controller's module
   beforeEach module 'roadpinFrontendApp'
 
-  ReportCtrl = {}
+  ReportMapCtrl = {}
   scope = {}
 
   # Initialize the controller and a mock scope
   beforeEach inject ($controller, $rootScope) ->
     scope := $rootScope.$new!
-    ReportCtrl := $controller 'ReportCtrl', do
+    ReportMapCtrl := $controller 'ReportMapCtrl', do
       $scope: scope
