@@ -219,7 +219,7 @@ def tw_date_to_timestamp(tw_date):
 
     date_time = datetime(year, month, day, tzinfo=timezone('Asia/Taipei'))
     the_timestamp = _int(timegm(date_time.utctimetuple()))
-    cfg.logger.debug('tw_date: %s tw_year: %s year: %s month: %s day: %s date_time: %s the_timestamp: %s', tw_date, tw_year, year, month, day, date_time, the_timestamp)
+    #cfg.logger.debug('tw_date: %s tw_year: %s year: %s month: %s day: %s date_time: %s the_timestamp: %s', tw_date, tw_year, year, month, day, date_time, the_timestamp)
     return the_timestamp
 
 
