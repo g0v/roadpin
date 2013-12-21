@@ -96,22 +96,18 @@ def date_tomorrow():
 
 def datetime_to_date(the_datetime):
     result = the_datetime.strftime("%Y%m%d")
-    cfg.logger.debug('result: %s', result)
     return result
 
 
 def datetime_to_date_str(the_datetime):
     result = the_datetime.strftime("%Y-%m-%d")
-    cfg.logger.debug('result: %s', result)
     return result
 
 
 def date_to_timestamp(the_date):
-    cfg.logger.debug('the_date: %s', the_date)
     the_datetime = datetime.strptime(the_date, "%Y%m%d")
     the_datetime = the_datetime.replace(tzinfo = timezone('Asia/Taipei'))
     the_timestamp = _int(timegm(the_datetime.utctimetuple()))
-    cfg.logger.debug('the_timestamp: %s', the_timestamp)
     return the_timestamp
 
 
@@ -162,7 +158,6 @@ def get_cache(key):
 
 def http_multipost(the_url_data):
     the_urls = the_url_data.keys()
-    cfg.logger.debug('the_url_data: %s', the_url_data)
     rs = (grequests.post(the_url, data=the_url_data[the_url], timeout=5) for the_url in the_urls)
     result_map = grequests.map(rs)
 
