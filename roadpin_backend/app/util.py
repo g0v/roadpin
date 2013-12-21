@@ -52,10 +52,10 @@ def db_find_one(cf_name, key, fields={'_id': False}):
 
 def db_update(cf_name, key, val):
     if not key or not val:
-        cfg.logger.exception('not key or val: key: %s val: %s', key, val)
+        #cfg.logger.exception('not key or val: key: %s val: %s', key, val)
         return
 
-    cfg.logger.debug('cf_name: %s key: %s val: %s', cf_name, key, val)
+    #cfg.logger.debug('cf_name: %s key: %s val: %s', cf_name, key, val)
     result = cfg.config.get(cf_name).update(key, {'$set':val}, upsert=True, w=1)
     #cfg.logger.debug('after update: result: %s', result)
     return result
