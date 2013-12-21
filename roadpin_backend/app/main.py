@@ -20,6 +20,7 @@ from app.http_handlers.g_json_sketch_handler import g_json_sketch_handler
 from app.http_handlers.g_json_by_id_list_handler import g_json_by_id_list_handler
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
+from app.http_handlers.g_json_all_handler import g_json_all_handler
 from app.http_handlers.post_add_handler import post_add_handler
 from app.http_handlers.g_search_by_location_handler import g_search_by_location_handler
 from app.http_handlers.p_geo_handler import p_geo_handler
@@ -47,6 +48,11 @@ def g_json_by_today():
     start_timestamp = util.date_to_timestamp(today)
     end_timestamp = util.date_to_timestamp(tomorrow)
     return _process_result(g_json_handler(start_timestamp, end_timestamp))
+
+
+@app.get('/get_json_all')
+def g_json_all():
+    return _process_result(g_json_all_handler())
 
 
 @app.get('/get_json_today_sketch')

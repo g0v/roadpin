@@ -27,6 +27,8 @@ angular.module 'roadpinFrontendApp'
     gridOptions = 
       data: 'the_data'
       enablePaging: true
+      #pageSizes: [10, 100, 1000]
+      #pageSize: 100
       showFilter: true
       enableColumnResize: true
       columnDefs: 
