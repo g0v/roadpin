@@ -136,7 +136,7 @@ def _process_params():
 def _process_result(the_obj):
     response.set_header('Access-Control-Allow-Origin', '*')
     response.set_header('Access-Control-Allow-Methods', '*')
-    cfg.logger.debug('the_obj: %s', the_obj)
+    #cfg.logger.debug('the_obj: %s', the_obj)
     response.content_type = 'application/json'
     return util.json_dumps(the_obj)
 
