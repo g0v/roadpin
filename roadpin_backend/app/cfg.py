@@ -21,6 +21,10 @@ _mongo_map = {
     'reportDB': 'geo_report',
 }
 
+_ensure_index = {
+    'roadDB': [('county_id': pymongo.ASCENDING), 'county_name': pymongo.ASCENDING)]
+}
+
 def init(params):
     init_cfg(params)
 

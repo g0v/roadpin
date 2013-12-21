@@ -4,13 +4,15 @@ angular.module 'roadpinFrontendApp'
   .controller 'ListAllCtrl',  <[ $scope $location $rootScope version jsonAll ]> ++ ($scope, $location, $rootScope, version, jsonAll) ->
     $scope <<< {version}
 
+    $scope.the_data_all = []
+
     $scope.$watch (-> Object.keys(jsonAll.getData!).length), ->
       the_data = jsonAll.getData!
       the_data_values = [val for key, val of the_data]
       console.log 'the_data_values:', the_data_values
       $scope.the_data_all ++= the_data_values
 
-    gridOptions = 
+    gridOptionsAll = 
       data: 'the_data_all'
       enablePaging: true
       pageSizes: [10, 100, 1000]
@@ -35,4 +37,4 @@ angular.module 'roadpinFrontendApp'
         * field: 'work_institute2'
           displayName: '(施工相關機構)'
 
-    $scope <<< {gridOptions}
+    $scope <<< {gridOptionsAll}
