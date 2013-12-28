@@ -31,6 +31,7 @@ angular.module 'roadpinFrontendApp'
       #pageSize: 100
       showFilter: true
       enableColumnResize: true
+      enableHighlighting: true
       columnDefs: 
         * field: 'county_name'
           displayName: '縣市'
