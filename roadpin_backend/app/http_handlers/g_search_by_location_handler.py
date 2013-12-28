@@ -32,7 +32,5 @@ def g_search_by_location_handler(params):
     cfg.logger.debug('dist: %s dist_x: %s dist_y: %s to db_find: query: %s', dist, dist_x, dist_y, query)
 
     results = util.db_find('roadDB', query)
-    for result in results:
-        del result['_id']
     cfg.logger.debug('results: % len: %s', results, len(results))
     return results
