@@ -19,6 +19,9 @@ https://docs.google.com/spreadsheet/ccc?key=0AlxFjhblzIuidGdaYWRZcEYzRzUzbnhTY2R
 
 目前的 demo:
 
+http://106.187.101:193:3333
+* 測試的 front-end
+
 http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
 * 搜尋 (25.12, 121.5) 範圍 100 公尺內所擁有的資料
 * 目前已完成臺北市部分. 將會儘快增加其他縣市的部份.
