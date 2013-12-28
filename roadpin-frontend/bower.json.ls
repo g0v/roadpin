@@ -14,6 +14,7 @@ dependencies:
   'json3': '~3.2.4'
   'bootstrap-sass': '~3.0.0'
   'jquery': '~2.0.0'
+  'ng-grid': '~2.0.7'
 devDependencies: 
   'angular-mocks': '~1.2.0-rc.2'
   'angular-scenario': '~1.2.0-rc.2'
