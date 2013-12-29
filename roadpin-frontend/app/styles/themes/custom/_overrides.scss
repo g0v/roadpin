@@ -4,7 +4,7 @@ bootstrap, so the may override it's behavior.
 */
 
 body {
-  font-size: 16px
+  font-size: 16px;
 }
 
 // Footer
@@ -21,13 +21,18 @@ body {
 }
 
 .active {
-  color: $white
+  color: $white;
 }
 
 .brand a {
-  color: #00ffff
+  color: #00ffff;
 }
 
 .map-canvas { 
-  height: 500px
+  height: 500px;
+}
+
+.my-camera {
+  width: 400px;
+  height: 400px;
 }

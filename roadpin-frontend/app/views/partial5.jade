@@ -1,4 +1,7 @@
 div(ng-controller='ReportCtrl')
+  button {{cameraStatus}}
+  button(ng-click="stopCamera()") {{noCamera}}
+  video.camera(autoplay)
   p lat: {{geoAccelGyro.lat}}
   p lon: {{geoAccelGyro.lon}}
   p yaw: {{geoAccelGyro.yaw}}

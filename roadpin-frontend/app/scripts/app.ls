@@ -3,6 +3,7 @@
 
 window.onGoogleReady = ->
   console.log 'onGoogleReady: start'
+  navigator.getUserMedia = navigator.getUserMedia or navigator.webkitGetUserMedia or navigator.mozGetUserMedia or navigator.msGetUserMedia
   angular.bootstrap window.document, <[ roadpinFrontendApp ]>
 
 angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ui.map ui.event ]>
