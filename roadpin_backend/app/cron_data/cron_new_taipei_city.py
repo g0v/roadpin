@@ -24,8 +24,8 @@ def cron_new_taipei_city():
 
 
 def _cron_new_taipei_city():
-    params = _get_params()
-    (error_code, results) = _crawl_data(params)
+    #params = _get_params()
+    (error_code, results) = _crawl_data()
     return error_code
 
 
@@ -38,16 +38,15 @@ def _get_params():
     return {'latest_dig': latest_dig}
 
 
-def _crawl_data(params):
-    results = _crawl_dig(params['latest_dig'])
+def _crawl_data():
+    results = _crawl_dig()
     return (S_OK, results)
 
 
-def _crawl_dig(last_dig):
+def _crawl_dig():
     the_url = 'http://61.60.124.185/tpctempdig/InfoAllList.asp'
-    last_timestamp = last_dig.get('latest_timestamp', 10000)
-    start_timestamp = last_timestamp - 86400
-    end_timestamp = last_timestamp + 86400
+    start_timestamp = 946684800
+    end_timestamp = util.get_timestamp() + 86400 * 366
 
     (start_year, start_month, start_day) = util.timestamp_to_datetime(start_timestamp)
     (end_year, end_month, end_day) = util.timestamp_to_datetime(end_timestamp)
