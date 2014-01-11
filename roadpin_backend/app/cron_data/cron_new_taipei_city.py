@@ -48,19 +48,20 @@ def _crawl_dig():
     start_timestamp = 946684800
     end_timestamp = util.get_timestamp() + 86400 * 366
 
-    (start_year, start_month, start_day) = util.timestamp_to_datetime(start_timestamp)
-    (end_year, end_month, end_day) = util.timestamp_to_datetime(end_timestamp)
+    start_datetime = util.timestamp_to_datetime(start_timestamp)
+    end_datetime = util.timestamp_to_datetime(end_timestamp)
 
     params = {
         'sortflag': '',
         'sorttype': '',
         'TargetLB': '',
         'qry2': 1,
-        'startyear': start_year,
-        'startmonth': start_month,
-        'endyear': end_year,
-        'endmonth': end_month,
-        'endday': end_day
+        'startyear': start_datetime.year,
+        'startmonth': start_datetime.month,
+        'startday': start_datetime.day,
+        'endyear': end_datetime.year,
+        'endmonth': end_datetime.month,
+        'endday': end_datetime.day,
     }
 
     http_data = util.http_multipost({the_url: params})

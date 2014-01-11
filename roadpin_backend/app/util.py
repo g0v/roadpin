@@ -112,12 +112,17 @@ def date_to_timestamp(the_date):
 
 
 def timestamp_to_date(the_timestamp):
-    the_datetime = datetime.fromtimestamp(_float(the_timestamp))
+    the_datetime = timestamp_to_datetime(the_timestamp)
     return datetime_to_date(the_datetime)
 
 
+def timestamp_to_datetime(the_timestamp):
+    the_datetime = datetime.utcfromtimestamp(_float(the_timestamp))
+    return the_datetime
+
+
 def timestamp_to_date_str(the_timestamp):
-    the_datetime = datetime.fromtimestamp(_float(the_timestamp))
+    the_datetime = timestamp_to_datetime(the_timestamp)
     return datetime_to_date_str(the_datetime)
 
 
