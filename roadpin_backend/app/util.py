@@ -197,7 +197,7 @@ def _grequest_get_text(result):
 
 
 def big5_to_utf8(text_big5):
-    str_utf8 = unicode(text_big5, 'big5')
+    str_utf8 = unicode(text_big5, 'big5', 'ignore')
     return str_utf8
 
 

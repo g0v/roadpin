@@ -75,8 +75,7 @@ def _crawl_dig():
 
 def _parse_dig(http_data):
     #cfg.logger.debug('http_data_type: %s', http_data.__class__.__name__)
-    http_data_ascii = http_data.encode('iso-8859-1')
-    data_utf8 = util.big5_to_utf8(http_data_ascii)
+    data_utf8 = util.big5_to_utf8(http_data)
     #cfg.logger.debug('data_utf8: %s', data_utf8)
 
     (latest_timestamp, data_list) = _parse_dig_data(data_utf8)
