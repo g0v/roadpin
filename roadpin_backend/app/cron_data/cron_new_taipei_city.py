@@ -8,19 +8,45 @@ import base64
 import time
 import ujson as json
 from StringIO import StringIO
+from datetime import datetime
 
 import sys
 import argparse
 from lxml import html
 
+from twisted.internet import reactor
+
+from scrapy import log, signals
+from scrapy.crawler import Crawler
+from scrapy.settings import Settings
+from scrapy.xlib.pydispatch import dispatcher
+
 from app import cfg
 from app import util
+#from app.crawler.new_taipei_city.new_taipei_city.spiders.new_taipei_city_spider import NewTaipeiCitySpider
+from app.cron_data import cron_taipei_city
+from app.cron_data import process_data
 
 def cron_new_taipei_city():
     while True:
         error_code = _cron_new_taipei_city()
         _sleep()
     pass
+
+
+'''
+def _cron_new_taipei_city():
+    dispatcher.connect(stop_reactor, signal=signals.spider_closed)
+    spider = NewTaipeiCitySpider()
+    crawler = Crawler(Settings())
+    crawler.configure()
+    crawler.crawl(spider)
+    crawler.start()
+    log.start()
+    log.msg('Running reactor...')
+    reactor.run()  # the script will block here until the spider is closed
+    log.msg('Reactor stopped.')
+'''
 
 
 def _cron_new_taipei_city():
@@ -75,7 +101,8 @@ def _crawl_dig():
 
 def _parse_dig(http_data):
     #cfg.logger.debug('http_data_type: %s', http_data.__class__.__name__)
-    data_utf8 = util.big5_to_utf8(http_data)
+    http_data_ascii = http_data.encode('iso-8859-1')
+    data_utf8 = util.big5_to_utf8(http_data_ascii)
     #cfg.logger.debug('data_utf8: %s', data_utf8)
 
     (latest_timestamp, data_list) = _parse_dig_data(data_utf8)
@@ -83,10 +110,14 @@ def _parse_dig(http_data):
 
 
 def _parse_dig_data(data):
+    cfg.logger.debug('data: %s', data)
     doc = html.parse(StringIO(data))
-    #cfg.logger.debug('doc: %s', doc)
+    cfg.logger.debug('doc: %s', doc)
 
-    results = [_parse_element(elem) for elem in doc.iter('tr')]
+    elements = doc.xpath("//tr[@class='g3']")
+    cfg.logger.debug('len(elements): %s elements: %s', len(elements), elements)
+
+    results = [_parse_element(elem) for elem in elements]
     results = [result for result in results if result]
 
     latest_timestamp = 0
@@ -104,14 +135,18 @@ def _parse_element(elem):
     return _parse_text(text)
 
 def _parse_text(text):
-    _columns = [ '', 'OK_UNITpro', 'IDpro', 'APP_NAMEpro', 'LOCATIONpro', 'CB_DATEpro', 'APPROVE_DATEpro']
+    cfg.logger.debug('text: %s', text)
+    _columns = [ 'OK_UNITpro', 'IDpro', 'APP_NAMEpro', 'LOCATIONpro', 'CB_DATEpro', 'APPROVE_DATEpro']
 
     f = StringIO(text)
     lines = f.readlines()
+    lines = [line for line in lines if line.strip()]
     n_lines = len(lines)
-    if n_lines > 10 or n_lines < 7:
-        cfg.logger.error('lines > 10: lines: %s', lines)
+    if n_lines != 6:
+        cfg.logger.error('lines != 6: lines: %s', lines)
         return {}
+
+    cfg.logger.debug('lines: %s', lines)
 
     result = {column: lines[idx].strip() for (idx, column) in enumerate(_columns) if column}
     if not result.get('OK_UNITpro', ''):
@@ -120,7 +155,7 @@ def _parse_text(text):
         result = {}
 
     cfg.logger.debug('result: %s', result)
-    (start_timestamp, end_timestamp) = _parse_timestamp(result)
+    (start_timestamp, end_timestamp) = _parse_time_period(result)
     geo = _parse_geo(result)
     result['start_timestamp'] = start_timestamp
     result['end_timestamp'] = end_timestamp
@@ -136,7 +171,52 @@ def _put_to_db(data):
     end_timestamp = data.get('end_timestamp', 0)
     geo = data.get('geo', {})
 
+    cfg.logger.debug('to process_data: the_idx: %s data: %s', the_idx, data)
+
     process_data('新北市', category, the_idx, start_timestamp, end_timestamp, geo, data)
+
+
+def _parse_time_period(data):
+    time_period = data.get('CB_DATEpro', '~')
+    return _parse_time_period_core(time_period)
+
+
+def _parse_time_period_core(time_period):
+    time_period_split = time_period.split('~')
+    if len(time_period_split) != 2:
+        return (0, MAX_TIMESTAMP)
+
+    start_date = time_period_split[0]
+    end_date = time_period_split[0]
+
+    start_timestamp = _parse_date(start_date)
+    end_timestamp = _parse_date(end_date)
+
+    if end_timestamp == 0:
+        end_timestamp = MAX_TIMESTAMP
+    
+    return (start_timestamp, end_timestamp)
+
+
+def _parse_date(the_date):
+    the_date_list = the_date.split('/')
+    if len(the_date_list) != 3:
+        return 0
+
+    the_year = util._int(the_date_list[0])
+    the_month = util._int(the_date_list[1])
+    the_day = util._int(the_date_list[2])
+
+    cfg.logger.debug('the_date: %s the_year: %s the_month: %s the_day: %s', the_date, the_year, the_month, the_day)
+
+    the_datetime = datetime(the_year, the_month, the_day)
+    the_timestamp = util.datetime_to_timestamp(the_datetime)
+
+    return the_timestamp
+
+
+def _parse_geo(data):
+    return {}
 
 
 def _sleep():

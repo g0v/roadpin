@@ -104,6 +104,12 @@ def datetime_to_date_str(the_datetime):
     return result
 
 
+def datetime_to_timestamp(the_datetime):
+    the_datetime = the_datetime.replace(tzinfo = timezone('Asia/Taipei'))
+    the_timestamp = timegm(the_datetime.utctimetuple())
+    return the_timestamp
+
+
 def date_to_timestamp(the_date):
     the_datetime = datetime.strptime(the_date, "%Y%m%d")
     the_datetime = the_datetime.replace(tzinfo = timezone('Asia/Taipei'))

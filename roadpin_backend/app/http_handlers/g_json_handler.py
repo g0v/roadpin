@@ -13,11 +13,13 @@ from app.http_handlers.parse_json_map.parse_json_default import parse_json_defau
 from app.http_handlers.parse_json_map.parse_json_taipei_city_road_case import parse_json_taipei_city_road_case
 from app.http_handlers.parse_json_map.parse_json_taipei_city_dig_point import parse_json_taipei_city_dig_point
 from app.http_handlers.parse_json_map.parse_json_kaohsiung_dig_point import parse_json_kaohsiung_dig_point
+from app.http_handlers.parse_json_map.parse_json_new_taipei_city_dig_point import parse_json_new_taipei_city_dig_point
 
 _parse_json_map = {
     'taipei_city_road_case': parse_json_taipei_city_road_case,
     'taipei_city_dig_point': parse_json_taipei_city_dig_point,
     'kaohsiung_dig_point': parse_json_kaohsiung_dig_point,
+    'new_taipei_city_dig_point': parse_json_new_taipei_city_dig_point,
 }
 
 def g_json_handler(start_timestamp, end_timestamp):

@@ -10,12 +10,12 @@ def process_data(county_name, the_category, the_idx, start_timestamp, end_timest
     elif the_data.__class__.__name__ == 'list':
         for (each_idx, each_data) in enumerate(the_data):
             str_idx = str(the_idx) + '.' + str(each_idx)
-            num_idx = util._float(str_idx)
-            _process_data_core(county_name, the_category, num_idx, start_timestamp, end_timestamp, geo, the_data)
-
+            #num_idx = util._float(str_idx)
+            _process_data_core(county_name, the_category, str_idx, start_timestamp, end_timestamp, geo, the_data)
 
 def _process_data_core(county_name, the_category, the_idx, start_timestamp, end_timestamp, geo, the_data):
-    data = {'the_id': str(the_category) + '_' + str(the_idx),
+    cfg.logger.debug('the_category: %s the_idx: %s', the_category, the_idx)
+    data = {'the_id': unicode(the_category) + u'_' + unicode(the_idx),
             'the_category': the_category,
             'the_idx': the_idx,
             'county_name': county_name,

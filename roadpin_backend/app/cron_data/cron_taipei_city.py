@@ -188,7 +188,12 @@ def _parse_time_period_core(time_period):
     except:
         cfg.logger.error('unable to re.sub time_period: time_period: (%s, %s)', time_period, time_period.__class__.__name__)
         time_period = '~'
-        
+
+    time_period_split = time_period.split('~')
+    if len(time_period_split) != 2:
+        return (0, MAX_TIMESTAMP)
+    start_tw_date = time_period_split[0]
+    end_tw_date = time_period_split[1]
     (start_tw_date, end_tw_date) = time_period.split('~')
     start_timestamp = util.tw_date_to_timestamp(start_tw_date)
     end_timestamp = util.tw_date_to_timestamp(end_tw_date)
