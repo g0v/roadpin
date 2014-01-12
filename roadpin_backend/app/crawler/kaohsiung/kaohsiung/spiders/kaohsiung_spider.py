@@ -53,6 +53,8 @@ class KaohsiungSpider(CrawlSpider):
             item['the_category'] = 'kaohsiung_dig_point'
             item['the_idx'] = fields[6]
             ts = re.findall('(\d+)', fields[7])
+            cfg.logger.debug('fields[7]: %s ts: %s', fields[7], ts)
+
             item['start_timestamp'] = ts[0]
             item['end_timestamp']   = ts[1]
             item['the_data'] = data_dict
