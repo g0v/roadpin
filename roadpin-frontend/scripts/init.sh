@@ -7,10 +7,10 @@ rm -rf bower_components
 bower install
 
 #jade 
-echo "[INFO] to jade"
-filename=node_modules/jade-brunch/vendor/runtime.js
-sed 's/^jade = /window.jade = /g' ${filename} > ${filename}.tmp
-mv ${filename}.tmp ${filename}
+#echo "[INFO] to jade"
+#filename=node_modules/jade-brunch/vendor/runtime.js
+#sed 's/^jade = /window.jade = /g' ${filename} > ${filename}.tmp
+#mv ${filename}.tmp ${filename}
 
 #livescript-prelude
 #echo "[INFO] to livescript-prelude"

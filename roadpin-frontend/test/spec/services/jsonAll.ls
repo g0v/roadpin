@@ -1,14 +1,14 @@
 'use strict'
 
-describe 'Service: Jsonall', () ->
+describe 'Service: jsonAll', (not-it) ->
 
   # load the service's module
-  beforeEach module 'RoadpinFrontendApp'
+  beforeEach module 'roadpinFrontendApp'
 
   # instantiate service
-  Jsonall = {}
-  beforeEach inject (_Jsonall_) ->
-    Jsonall := _Jsonall_
+  jsonAll = {}
+  beforeEach inject (_jsonAll_) ->
+    jsonAll := _jsonAll_
 
-  it 'should do something', () ->
-    expect(!!Jsonall).toBe true
+  it 'should do something', ->
+    expect(!!jsonAll).toBe true

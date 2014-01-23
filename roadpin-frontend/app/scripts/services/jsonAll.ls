@@ -6,7 +6,7 @@ cached_data =
 is_first = true
 
 angular.module 'roadpinFrontendApp'
-  .service 'jsonAll', <[ $resource ]> ++ ( $resource ) -> do
+  .factory 'jsonAll', <[ $resource ]> ++ ( $resource ) -> do
     getData: ->
       if not is_first
         return cached_data.data

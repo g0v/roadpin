@@ -1,7 +1,7 @@
 'use strict'
 
 angular.module 'roadpinFrontendApp'
-  .controller 'AppCtrl', <[ $scope $location $rootScope version jsonToday ]> ++ ($scope, $location, $rootScope, version, jsonToday) ->
+  .controller 'AppCtrl', <[ $scope $location $rootScope version jsonToday distVincenty ]> ++ ($scope, $location, $rootScope, version, jsonToday, distVincenty) ->
     $scope <<< {version}
 
     console.log '$location.path():', $location.path()
