@@ -1,4 +1,8 @@
 # Wire up travis
+branches:
+  only: 
+    -master
+
 language: python
 
 python:
