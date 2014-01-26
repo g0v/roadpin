@@ -5,7 +5,7 @@ window.onGoogleReady = ->
   console.log 'onGoogleReady: start'
   angular.bootstrap window.document, <[ roadpinFrontendApp ]>
 
-angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ui.map ui.event ]>
+angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ui.map ui.event ui.bootstrap ]>
   .config <[ $routeProvider $locationProvider ]> ++ ($routeProvider, $locationProvider, config) ->
     $routeProvider
       .when '/view1' templateUrl: '/views/partial1.html'

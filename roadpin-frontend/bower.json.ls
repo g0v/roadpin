@@ -11,6 +11,8 @@ dependencies:
   'angular-sanitize': '~1.2.0-rc.2'
   'angular-resource': '~1.2.0-rc.2'
   'angular-ui-map': '~0.0.2'
+  'angular-ui-bootstrap-bower': '~0.10.0'
+  'prelude-ls': '~1.0.3'
   'json3': '~3.2.4'
   'bootstrap-sass': '~3.0.0'
   'jquery': '~2.0.0'

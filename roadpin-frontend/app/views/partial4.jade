@@ -1,2 +1,9 @@
 div(ng-controller="MapCtrl")
-  div.map-canvas(ui-map="myMap", ui-options="mapOptions", ui-event="{'map-idle' : 'onMapIdle()'}")
+  div.states
+    button.btn.btn-primary(type=button, ng-model="states.isDistVincenty", btn-checkbox, btn-checkbox-true="'yes'", btn-checkbox-false="'no'")
+      div 
+        p Distance by Vincenty's Formula: {{states.isDistVincenty}} 
+    div(ng-class="distVincentyClass()")
+      p distance: {{distVincenty}} m
+
+  div.map-canvas(ui-map="myMap", ui-options="mapOptions", ui-event="{'map-idle' : 'onMapIdle()', 'map-click': 'onMapClick($event, $params)', 'map-zoom_changed': 'onMapZoomChanged(myMap.getZoom())'}")

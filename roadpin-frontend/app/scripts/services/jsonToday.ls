@@ -20,4 +20,4 @@ angular.module 'roadpinFrontendApp'
         cached_data.data <<< the_data
         console .log 'cached_data.data.length:', cached_data.data.length, 'cached_data.data:', cached_data.data
           
-      return cached_data.data
+      cached_data.data

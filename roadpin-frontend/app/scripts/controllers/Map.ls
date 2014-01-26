@@ -1,9 +1,14 @@
 'use strict'
 
+{map, fold, fold1} = require 'prelude-ls'
+
 angular.module 'roadpinFrontendApp'
-  .controller 'MapCtrl', <[ $scope jsonToday geoAccelGyro ]> ++ ($scope, jsonToday, geoAccelGyro) ->
+  .controller 'MapCtrl', <[ $scope jsonToday geoAccelGyro distVincenty distList ]> ++ ($scope, jsonToday, geoAccelGyro, distVincenty, distList) ->
     geo = geoAccelGyro.getGeo!
     console.log 'Map: $scope.mapOptions: geo:', geo
+
+    states = {isDistVincenty: "no"}
+    $scope <<< {states}
 
     $scope.mapOptions = 
       center: new google.maps.LatLng geo.lat, geo.lon
@@ -12,7 +17,7 @@ angular.module 'roadpinFrontendApp'
 
     is_first_map_center = true
     $scope.$on 'geoAccelGyro:event', (e, data) ->
-      console.log 'got geoAccelGyro:event: data:', data, 'is_first_map_center:', is_first_map_center
+      #console.log 'got geoAccelGyro:event: data:', data, 'is_first_map_center:', is_first_map_center
       if data.event != 'devicegeo'
           return
 
@@ -32,13 +37,91 @@ angular.module 'roadpinFrontendApp'
       console.log 'Map: the_data_values.length:', the_data_values.length, 'the_data_values:', the_data_values
 
       my_markers = _parse_markers the_data_values
-
       $scope.myMarkers = my_markers
-      
-      #scope.myMarkers = _parse_markers the_data_values
 
     $scope.onMapIdle = ->
 
+    $scope.distMarkers = []
+    $scope.distVincenty = 0
+
+    $scope.onMapClick = (event, params) ->
+      console.log 'event:', event, 'params:', params, 'states:', $scope.states
+      if states.isDistVincenty is not 'no'
+        distList.setMarker params[0]
+        dist_list = distList.getList!
+
+        _remove_objs_from_googlemap $scope.distMarkers
+
+        markers = _add_markers_to_googlemap dist_list, \#0FF
+        path_markers = _add_marker_paths_to_googlemap_from_markers dist_list, \#0F8
+        $scope.distMarkers = markers ++ path_markers
+
+        $scope.distVincenty = _calc_dist_vincenty_from_markers dist_list
+
+    dist_vincenty_class = 'hide'
+    $scope.$watch (-> $scope.states.isDistVincenty), (new_val, orig_val) ->
+      console.log 'scope.states.isDistVincenty: new_val:', new_val, 'orig_val:', orig_val
+      dist_vincenty_class := if new_val == 'no' then 'hide' else 'show'
+
+    $scope.distVincentyClass = ->
+      dist_vincenty_class
+
+    $scope.onMapZoomChanged = (zoom) ->
+      console.log 'zoom:', zoom
+
+    _remove_objs_from_googlemap = (objs) ->
+      [each_obj.setMap void for each_obj in objs]
+      
+    _add_markers_to_googlemap = (markers, color) ->
+      #input: markers: a list of markers. each marker: {lat, lng}
+      #       color: marker color in googlemap
+      #output: 
+      markers |> map (marker) -> _add_marker_to_googlemap marker, color
+
+    _add_marker_to_googlemap = (data, color) ->
+      marker_opts = 
+        map: $scope.myMap
+        position: new google.maps.LatLng data.latLng.d, data.latLng.e
+        fillColor: color
+        strokeColor: color
+
+      new google.maps.Marker marker_opts
+
+    _add_marker_paths_to_googlemap_from_markers = (markers, color) ->
+      console.log '_add_marker_paths_to_googlemap_from_markers:', markers
+
+      if markers.length < 2 then return []
+
+      the_markers = markers[0 to -2]
+      next_markers = markers[1 to -1]
+
+      idx_list = [0 to the_markers.length - 1]
+      marker_list = [{the_marker: the_markers[idx], next_marker: next_markers[idx]} for idx in idx_list]
+      marker_list |> map (x) -> _add_marker_path_to_googlemap x, color
+
+    _add_marker_path_to_googlemap = (data, color) ->
+      console.log 'data:', data
+      current_coord = [data.the_marker.latLng.e, data.the_marker.latLng.d]
+      next_coord = [data.next_marker.latLng.e, data.next_marker.latLng.d]
+      polyline_opts = 
+        map: $scope.myMap
+        path: _parse_path [current_coord, next_coord]
+        fillColor: color
+        strokeColor: color
+
+      new google.maps.Polyline polyline_opts
+
+    _calc_dist_vincenty_from_markers = (markers) ->
+      if markers.length < 2 then return 0
+
+      the_markers = markers[0 to -2]
+      next_markers = markers[1 to -1]
+      idx_list = [0 to the_markers.length - 1]
+      marker_list = [{the_marker: the_markers[idx], next_marker: next_markers[idx]} for idx in idx_list]
+      dist_list = marker_list |> map (marker_pair) -> distVincenty.distVincenty marker_pair.the_marker.latLng.d, marker_pair.the_marker.latLng.e, marker_pair.next_marker.latLng.d, marker_pair.next_marker.latLng.e
+      console.log 'dist_list:', dist_list
+
+      dist_list |> fold1 (+)
 
     _parse_markers = (the_data_values) ->
       #console.log 'parse_markers: the_data_values:', the_data_values
