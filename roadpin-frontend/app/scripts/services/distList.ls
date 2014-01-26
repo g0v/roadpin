@@ -48,3 +48,6 @@ angular.module 'roadpinFrontendApp'
 
       getList: ->
         cache_list.data
+
+      clearList: ->
+        cache_list.data = []

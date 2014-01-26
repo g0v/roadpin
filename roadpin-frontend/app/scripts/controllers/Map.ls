@@ -58,6 +58,13 @@ angular.module 'roadpinFrontendApp'
 
         $scope.distVincenty = _calc_dist_vincenty_from_markers dist_list
 
+    $scope.onClearDistList = ->
+      console.log 'onClearDistList: start'
+      distList.clearList!
+      _remove_objs_from_googlemap $scope.distMarkers
+      $scope.distVincenty = 0
+
+
     dist_vincenty_class = 'hide'
     $scope.$watch (-> $scope.states.isDistVincenty), (new_val, orig_val) ->
       console.log 'scope.states.isDistVincenty: new_val:', new_val, 'orig_val:', orig_val

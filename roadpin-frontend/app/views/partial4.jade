@@ -3,6 +3,9 @@ div(ng-controller="MapCtrl")
     button.btn.btn-primary(type=button, ng-model="states.isDistVincenty", btn-checkbox, btn-checkbox-true="'yes'", btn-checkbox-false="'no'")
       div 
         p Distance by Vincenty's Formula: {{states.isDistVincenty}} 
+    button.btn.btn-primary(type=button, ng-model="dummy", ng-click="onClearDistList()", btn-checkbox, btn-checkbox-true="'yes'", btn-checkbox-false="'no'")
+      div 
+        p Clear
     div(ng-class="distVincentyClass()")
       p distance: {{distVincenty}} m
 
