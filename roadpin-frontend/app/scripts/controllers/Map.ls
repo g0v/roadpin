@@ -56,7 +56,8 @@ angular.module 'roadpinFrontendApp'
         path_markers = _add_marker_paths_to_googlemap_from_markers dist_list, \#0F8
         $scope.distMarkers = markers ++ path_markers
 
-        $scope.distVincenty = _calc_dist_vincenty_from_markers dist_list
+        dist_vincenty = _calc_dist_vincenty_from_markers dist_list
+        $scope.distVincenty = dist_vincenty.toFixed 3
 
     $scope.onClearDistList = ->
       console.log 'onClearDistList: start'
