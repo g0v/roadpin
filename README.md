@@ -57,6 +57,10 @@ IRC 的 logbot: http://106.187.101.193:5000/channel/roadpin (utc time)
 
 在 hackath4n. 有老蕭, Jyun-Fan Tsai, ypcat 的參與.
 
+在 hackath6n. 有 A-Han 的參與.
+
+在 post-hackath6n. 有 yangppp 的參與.
+
 臺北市道路施工案件查詢服務網
 ==========
 http://www.road.tcg.gov.tw/ROADRCIS
@@ -64,3 +68,7 @@ http://www.road.tcg.gov.tw/ROADRCIS
 http://www.road.tcg.gov.tw/ROADRCIS/GetCaseGeo.ashx?CASE_ID=5883
 
 http://www.road.tcg.gov.tw/ROADRCIS/GetDigPoint.ashx?AP_NO=10002050
+
+行政院公共工程委員會全民督工
+==========
+http://cmdweb.pcc.gov.tw/pccms/pwreport/pccducon_geoeng.peo_entry
