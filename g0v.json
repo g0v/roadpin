@@ -1,0 +1,46 @@
+{
+  "author": "ronnywang and chhsiao1981",
+  "status": "alpha",
+  "name": "g0v-hub",
+  "description": "RoadPin: information about road construction",
+  "description_zh": "RoadPin: 道路施工相關資訊",
+  "homepage": "http:/106.187.101.193:3333",
+  "document": "https://github.com/g0v/roadpin/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v/roadpin"
+  },
+  "licenses": [
+    {
+      "type": "MIT License"
+    }
+  ],
+  "keywords": [
+    "angularjs",
+    "livescript",
+    "sass",
+    "bootstrap"
+  ],
+  "audience": [
+    "public"
+  ],
+  "products": [
+    "website"
+  ],
+  "contributors": [
+    "Monjour Chen",
+    "Willy Kuo",
+    "Zoe Peng",
+    "Manic",
+    "Brecht",
+    "Jyun-Fan Tsai",
+    "Pei-Lun Lee",
+    "aha",
+    "A-Han",
+    "yangppp"
+  ],
+  "needs": [
+    "designer",
+    "developer"
+  ]
+}
