@@ -15,7 +15,7 @@ angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ui.ma
       .when '/view5' templateUrl: '/views/partial5.html'
       .when '/view7' templateUrl: '/views/partial7.html'
     # Catch all
-    .otherwise redirectTo: '/view1'
+    .otherwise redirectTo: '/view4'
 
     # Without serve side support html5 must be disabled.
     $locationProvider.html5Mode false
