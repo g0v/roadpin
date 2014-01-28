@@ -187,7 +187,7 @@ def _parse_time_period_core(time_period):
         return (0, MAX_TIMESTAMP)
 
     start_date = time_period_split[0]
-    end_date = time_period_split[0]
+    end_date = time_period_split[1]
 
     start_timestamp = _parse_date(start_date)
     end_timestamp = _parse_date(end_date)
