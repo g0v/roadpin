@@ -151,6 +151,7 @@ def parse_args():
     ''' '''
     parser = argparse.ArgumentParser(description='roadpin_backend')
     parser.add_argument('-i', '--ini', type=str, required=True, help="ini filename")
+    parser.add_argument('-l', '--log_filename', type=str, required=True, help="log filename")
     parser.add_argument('-p', '--port', type=str, required=True, help="port")
     parser.add_argument('-u', '--username', type=str, required=False, help="username")
     parser.add_argument('--password', type=str, required=False, help="password")
@@ -165,6 +166,6 @@ if __name__ == '__main__':
 
     username = '' if not hasattr(args, 'username') else args.username
     password = '' if not hasattr(args, 'password') else args.password
-    cfg.init({"port": args.port, "ini_filename": args.ini, 'username': '', 'password': ''})
+    cfg.init({"port": args.port, "ini_filename": args.ini, 'username': '', 'password': '', 'log_filename': args.log_filename})
 
     run(app, host='0.0.0.0', port=cfg.config.get('port'), server=GeventServer)

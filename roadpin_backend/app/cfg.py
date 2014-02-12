@@ -31,7 +31,7 @@ def init(params):
 
 def init_cfg(params):
     '''params: parameters from main.py, currently including port and ini_filename'''
-    _init_logger(params['ini_filename'])
+    _init_logger(params['log_filename'])
     _init_ini_file(params['ini_filename'])
     _post_init_config(params)
     _post_json_config(config)
@@ -58,12 +58,18 @@ def _init_mongo():
         for (key, val) in _mongo_map.iteritems():
             config[key] = None
 
+    for (key, val) in _ensure_index.iteritems():
+        config[key].ensure_index(val)
 
-def _init_logger(ini_file):
+
+def _init_logger(log_filename):
     '''logger'''
     global logger
     logger = logging.getLogger(_LOGGER_NAME)
-    logging.config.fileConfig(ini_file, disable_existing_loggers=False)
+    handler = logging.handlers.RotatingFileHandler(log_filename, maxBytes=100000000, backupCount=2)
+    formatter = logging.Formatter('%(asctime)s [%(levelname)-5.5s] %(module)s#%(funcName)s@%(lineno)d: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
 
 
 def _init_ini_file(ini_file):
