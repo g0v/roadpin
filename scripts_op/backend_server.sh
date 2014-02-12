@@ -7,7 +7,7 @@ then
 fi
 
 ini_filename=${BASH_ARGV[2]}
-log_dir=${BASH_ARGV[1]}
+log_filename=${BASH_ARGV[1]}
 port=${BASH_ARGV[0]}
 
 cd roadpin_backend
