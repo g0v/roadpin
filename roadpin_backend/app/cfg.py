@@ -48,7 +48,7 @@ def _init_mongo():
     #config['MONGO_SERVER_URL'] = "mongodb://" + config.get('username') + ':' + config.get('password') + '@' + config.get('mongo_server_hostname') + "/" + config.get('mongo_server')
     config['MONGO_SERVER_URL'] = "mongodb://" + config.get('mongo_server_hostname') + "/" + config.get('mongo_server')
     try:
-        config['mongoServer'] = MongoClient(config.get('MONGO_SERVER_URL'))[config.get('mongo_server')]
+        config['mongoServer'] = MongoClient(config.get('MONGO_SERVER_URL'), use_greenlets=True)[config.get('mongo_server')]
         for (key, val) in _mongo_map.iteritems():
             logger.warning('mongo: %s => %s', key, val)
             config[key] = config.get('mongoServer')[val]
