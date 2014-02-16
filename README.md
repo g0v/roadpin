@@ -33,6 +33,34 @@ http://106.187.101.193:5346/report (done by ypcat, helped by Jyun-Fan Tasi)
 * 目前正在 data collection 階段.
 * 將會利用 collect 到的 data 來學習如何辨識可能為不平的路面.
 
+Prerequisite:
+==========
+這個 project 需要有以下的 language/db:
+
+* python 2.7 and pip and virtualenv
+  - http://www.python.org/
+  - http://www.pip-installer.org/en/latest/installing.html#install-or-upgrade-pip
+  - http://www.virtualenv.org/en/latest/virtualenv.html#installation
+
+* node and npm
+  - http://nodejs.org/
+
+* mongodb
+  - http://www.mongodb.org/
+
+Scripts
+==========
+目前在 scripts_op 下有以下的 scripts:
+
+* init
+  - ./scripts_op/init.sh
+
+* backend server
+  - ./scripts_op/backend_server.sh production.ini log.tmp.txt 5346
+
+* frontend server
+  - ./scripts_op/frontend_server.sh
+
 Mailing List
 ==========
 如果對於這個 project 有興趣. 歡迎寄信到 roadpin@googlegroups.com 上討論.
