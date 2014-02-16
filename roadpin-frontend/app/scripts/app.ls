@@ -13,7 +13,7 @@ angular.module 'roadpinFrontendApp' <[ ngRoute ngCookies ngResource ngGrid ui.ma
       .when '/view3' templateUrl: '/views/partial3.html'
       .when '/view4' templateUrl: '/views/partial4.html'
       .when '/view5' templateUrl: '/views/partial5.html'
-      .when '/view7' templateUrl: '/views/partial7.html'
+    #  .when '/view7' templateUrl: '/views/partial7.html'
     # Catch all
     .otherwise redirectTo: '/view4'
 
