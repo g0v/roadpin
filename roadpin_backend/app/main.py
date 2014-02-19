@@ -43,11 +43,13 @@ def g_index_report():
 
 @app.get('/')
 def g_index():
+    cfg.logger.debug('/: static/index.html')
     return static_file('static/index.html', root='.')
 
 
 @app.get('/index.html')
 def g_index():
+    cfg.logger.debug('/index.html: static/index.html')
     return static_file('static/index.html', root='.')
 
 
