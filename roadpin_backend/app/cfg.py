@@ -50,7 +50,7 @@ def _init_mongo():
     try:
         config['mongoServer'] = MongoClient(config.get('MONGO_SERVER_URL'), use_greenlets=True)[config.get('mongo_server')]
         for (key, val) in _mongo_map.iteritems():
-            logger.warning('mongo: %s => %s', key, val)
+            logger.debug('mongo: %s => %s', key, val)
             config[key] = config.get('mongoServer')[val]
     except:
         logger.exception('')
@@ -70,6 +70,7 @@ def _init_logger(log_filename):
     formatter = logging.Formatter('%(asctime)s [%(levelname)-5.5s] %(module)s#%(funcName)s@%(lineno)d: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
     handler.setFormatter(formatter)
     logger.addHandler(handler)
+    logger.setLevel(logging.DEBUG)
 
 
 def _init_ini_file(ini_file):
