@@ -56,25 +56,25 @@ def g_index():
 @app.get('/js/<filepath:path>')
 def g_static(filepath):
     cfg.logger.debug('filepath: %s', filepath)
-    return static_file('static/js' + filepath, root='.')
+    return static_file('static/js/' + filepath, root='.')
 
 
 @app.get('/css/<filepath:path>')
 def g_static2(filepath):
     cfg.logger.debug('filepath: %s', filepath)
-    return static_file('static/css' + filepath, root='.')
+    return static_file('static/css/' + filepath, root='.')
 
 
 @app.get('/font/<filepath:path>')
 def g_static3(filepath):
     cfg.logger.debug('filepath: %s', filepath)
-    return static_file('static/font' + filepath, root='.')
+    return static_file('static/font/' + filepath, root='.')
 
 
 @app.get('/view/<filepath:path>')
 def g_static4(filepath):
     cfg.logger.debug('filepath: %s', filepath)
-    return static_file('static/view' + filepath, root='.')
+    return static_file('static/view/' + filepath, root='.')
 
 
 @app.get('/get_json_today')
