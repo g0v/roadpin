@@ -29,10 +29,11 @@ from app import util
 
 app = Bottle()
 
-
+'''
 @app.get('/')
 def g_index():
     return static_file('index.html', root='.')
+'''
 
 
 @app.get('/report')
