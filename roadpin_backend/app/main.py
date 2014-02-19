@@ -71,10 +71,10 @@ def g_static3(filepath):
     return static_file('static/font/' + filepath, root='.')
 
 
-@app.get('/view/<filepath:path>')
+@app.get('/views/<filepath:path>')
 def g_static4(filepath):
     cfg.logger.debug('filepath: %s', filepath)
-    return static_file('static/view/' + filepath, root='.')
+    return static_file('static/views/' + filepath, root='.')
 
 
 @app.get('/get_json_today')
