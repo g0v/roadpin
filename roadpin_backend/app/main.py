@@ -40,6 +40,40 @@ def g_index_report():
     return static_file('georecorder.html', root='.')
 
 
+@app.get('/')
+def g_index():
+    return static_file('static/index.html', root='.')
+
+
+@app.get('/index.html')
+def g_index():
+    return static_file('static/index.html', root='.')
+
+
+@app.get('/js/<filepath:path>')
+def g_static():
+    cfg.logger.debug('filepath: %s', filepath)
+    return static_file('static/js' + filepath, root='.')
+
+
+@app.get('/css/<filepath:path>')
+def g_static():
+    cfg.logger.debug('filepath: %s', filepath)
+    return static_file('static/css' + filepath, root='.')
+
+
+@app.get('/font/<filepath:path>')
+def g_static():
+    cfg.logger.debug('filepath: %s', filepath)
+    return static_file('static/font' + filepath, root='.')
+
+
+@app.get('/view/<filepath:path>')
+def g_static():
+    cfg.logger.debug('filepath: %s', filepath)
+    return static_file('static/view' + filepath, root='.')
+
+
 @app.get('/get_json_today')
 def g_json_by_today():
     today = util.date_today()
