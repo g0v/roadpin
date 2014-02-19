@@ -13,7 +13,7 @@ angular.module 'roadpinFrontendApp'
 
       is_first := false
 
-      url = 'http://106.187.101.193:5347/get_json_today'
+      url = 'http://106.187.101.193/get_json_today'
       QueryData = $resource url
 
       the_data = QueryData.query {}, ->
