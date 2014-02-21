@@ -2,9 +2,16 @@
 
 {map, fold, fold1} = require 'prelude-ls'
 
+COLOR_MAP =
+  taipei_city_road_case: \#F08
+  taipei_city_dig_point: \#808
+  new_taipei_city_dig_point: \#808
+  kaohsiung_dig_point: \#808
+
 angular.module 'roadpinFrontendApp'
   .controller 'MapCtrl', <[ $scope jsonToday geoAccelGyro distVincenty distList ]> ++ ($scope, jsonToday, geoAccelGyro, distVincenty, distList) ->
     geo = geoAccelGyro.getGeo!
+
     console.log 'Map: $scope.mapOptions: geo:', geo
 
     states = {isDistVincenty: "no"}
@@ -64,7 +71,6 @@ angular.module 'roadpinFrontendApp'
       distList.clearList!
       _remove_objs_from_googlemap $scope.distMarkers
       $scope.distVincenty = 0
-
 
     dist_vincenty_class = 'hide'
     $scope.$watch (-> $scope.states.isDistVincenty), (new_val, orig_val) ->
@@ -142,42 +148,53 @@ angular.module 'roadpinFrontendApp'
       if geo is void
         return void
 
-      [_parse_each_marker(each_geo) for each_geo in geo]
+      color = COLOR_MAP[value.the_category]
 
-    _parse_each_marker = (geo) ->
+      markers = [_parse_each_marker(each_geo, color) for each_geo in geo]
+
+      [_add_map_listener each_marker, value for each_marker in markers]
+
+      markers
+
+    _add_map_listener = (marker, value) ->
+      #google.maps.event.addListener polygon, 'click', (_show_info value)
+
+    _parse_each_marker = (geo, color) ->
       the_type = geo.type
       the_coordinates = geo.coordinates
 
       #console.log 'geo:', geo, 'the_type:', the_type, 'the_coordinates', the_coordinates
       switch the_type
-      | 'Polygon'    => _parse_polygon the_coordinates
-      | 'LineString' => _parse_line_string the_coordinates
-      | 'Point'      => _parse_point the_coordinates
+      | 'Polygon'    => _parse_polygon the_coordinates, color
+      | 'LineString' => _parse_line_string the_coordinates, color
+      | 'Point'      => _parse_point the_coordinates, color
 
-    _parse_polygon = (coordinates) ->
+    _parse_polygon = (coordinates, color) ->
       polygon_opts = 
         map: $scope.myMap,
         paths: [_parse_path(coord) for coord in coordinates]
-        fillColor: \green
-        strokeColor: \green
+        fillColor: color
+        strokeColor: color
 
       #console.log 'polygon_opts:', polygon_opts
 
       polygon = new google.maps.Polygon polygon_opts
 
-    _parse_line_string = (coordinates) ->
+    _parse_line_string = (coordinates, color) ->
       polyline_opts = 
         map: $scope.myMap
         path: _parse_path(coordinates)
-
-      #console.log 'polyline_opts:', polyline_opts
+        fillColor: color
+        strokeColor: color
 
       polyline = new google.maps.Polyline polyline_opts
 
-    _parse_point = (coordinates) -> 
+    _parse_point = (coordinates, color) ->
       marker_opts = 
         map: $scope.myMap
         position: new google.maps.LatLng coordinates[1], coordinates[0]
+        fillColor: color
+        strokeColor: color
 
       #console.log 'marker_opts:', marker_opts
 
