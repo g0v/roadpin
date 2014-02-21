@@ -12,6 +12,7 @@ cd roadpin-frontend
 
 if [ ! -e "ini/production.ls" ]
 then
+  mkdir -p ini
   cp production.ls_tmpl ini/production.ls
 fi
 
