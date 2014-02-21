@@ -5,8 +5,7 @@
 /_public
 /node_modules/*
 /bower_components/*
-/ini
-/ini/*
+/production.ls
 
 #virtualenv
 /__
