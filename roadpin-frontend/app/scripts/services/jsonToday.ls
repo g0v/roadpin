@@ -1,4 +1,5 @@
 'use strict'
+CONFIG = window.roadpinFrontendApp.CONFIG
 
 cached_data = 
   data: {}
@@ -13,11 +14,11 @@ angular.module 'roadpinFrontendApp'
 
       is_first := false
 
-      url = 'http://106.187.101.193/get_json_today'
+      url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_today'
       QueryData = $resource url
 
       the_data = QueryData.query {}, ->
         cached_data.data <<< the_data
-        console .log 'cached_data.data.length:', cached_data.data.length, 'cached_data.data:', cached_data.data
+        console .log 'cached_data.data:', cached_data.data
           
       cached_data.data

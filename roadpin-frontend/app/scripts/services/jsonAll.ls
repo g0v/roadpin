@@ -1,19 +1,21 @@
 'use strict'
 
+CONFIG = window.roadpinFrontendApp.CONFIG
+
 cached_data = 
   data: {}
 
 is_first = true
 
 angular.module 'roadpinFrontendApp'
-  .factory 'jsonAll', <[ $resource ]> ++ ( $resource ) -> do
+  .factory 'jsonAll', <[ $resource ]> ++ ($resource) ->
     getData: ->
       if not is_first
         return cached_data.data
 
       is_first := false
 
-      url = 'http://106.187.101.193/get_json_all'
+      url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_all'
       QueryData = $resource url
 
       the_data = QueryData.query {}, ->

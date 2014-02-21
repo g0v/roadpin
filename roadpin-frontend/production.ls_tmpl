@@ -1,0 +1,4 @@
+CONFIG = 
+  BACKEND_HOST: \106.187.101.193
+
+window.roadpinFrontendApp = {CONFIG}

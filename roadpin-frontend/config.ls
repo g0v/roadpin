@@ -11,12 +11,14 @@ exports.config =
       """
   paths:
     public: '_public'
+    watched: ['app', 'vendor', 'ini']
   files:
     javascripts:
       joinTo:
         'js/app.js': /^app/
         #'js/test.js': /^test/
         'js/vendor.js': /^vendor/
+        'js/production.js': /^ini/
       order:
         before:
           'vendor/scripts/console-helper.js'
