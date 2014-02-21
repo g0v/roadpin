@@ -10,6 +10,11 @@ port=${BASH_ARGV[0]}
 
 cd roadpin-frontend
 
+if [ ! -e "ini/production.ls" ]
+then
+  cp production.ls_tmpl ini/production.ls
+fi
+
 while [ 1 -eq 1 ]
 do
   node_modules/brunch/bin/brunch watch -P --server -p ${port}

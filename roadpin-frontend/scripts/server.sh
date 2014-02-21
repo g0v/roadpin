@@ -3,7 +3,7 @@
 while [ 1 -eq 1 ]
 do
   rm -rf _public
-  if [ ! -e "production.ls" ]
+  if [ ! -e "ini/production.ls" ]
   then
     cd ini
     ln -s ../production.ls_tmpl production.ls
