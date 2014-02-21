@@ -2,11 +2,21 @@
 
 {map, fold, fold1} = require 'prelude-ls'
 
-COLOR_MAP =
-  taipei_city_road_case: \#F08
-  taipei_city_dig_point: \#808
-  new_taipei_city_dig_point: \#808
-  kaohsiung_dig_point: \#808
+LEGENDS = <[ road_case dig_point ]>
+
+LEGEND_STRING =
+  road_case: \道路維護
+  dig_point: \道路挖掘
+
+LEGEND_COLOR =
+  road_case: \#F08
+  dig_point: \#808
+
+LEGEND_MAP =
+  taipei_city_road_case: \road_case
+  taipei_city_dig_point: \dig_point
+  new_taipei_city_dig_point: \dig_point
+  kaohsiung_dig_point: \dig_point
 
 angular.module 'roadpinFrontendApp'
   .controller 'MapCtrl', <[ $scope jsonToday geoAccelGyro distVincenty distList ]> ++ ($scope, jsonToday, geoAccelGyro, distVincenty, distList) ->
@@ -15,7 +25,7 @@ angular.module 'roadpinFrontendApp'
     console.log 'Map: $scope.mapOptions: geo:', geo
 
     states = {isDistVincenty: "no"}
-    $scope <<< {states}
+    $scope <<< {states, LEGENDS, LEGEND_STRING, LEGEND_COLOR, LEGEND_MAP}
 
     $scope.mapOptions = 
       center: new google.maps.LatLng geo.lat, geo.lon
@@ -36,6 +46,7 @@ angular.module 'roadpinFrontendApp'
 
       console.log 'to set scope.mapOptions.center as new center: data:', data
       $scope.myMap.setCenter (new google.maps.LatLng data.lat, data.lon)
+      $scope.myMap.controls.[google.maps.ControlPosition.TOP_LEFT].push document.getElementById 'map-legend'
 
     $scope.$watch (-> Object.keys(jsonToday.getData!).length), ->
       the_data = jsonToday.getData!
@@ -82,6 +93,7 @@ angular.module 'roadpinFrontendApp'
 
     $scope.onMapZoomChanged = (zoom) ->
       console.log 'zoom:', zoom
+
 
     _remove_objs_from_googlemap = (objs) ->
       [each_obj.setMap void for each_obj in objs]
@@ -148,9 +160,9 @@ angular.module 'roadpinFrontendApp'
       if geo is void
         return void
 
-      color = COLOR_MAP[value.the_category]
+      color = LEGEND_COLOR[LEGEND_MAP[value.the_category]]
 
-      markers = [_parse_each_marker(each_geo, color) for each_geo in geo]
+      markers = [_parse_each_marker each_geo, color for each_geo in geo]
 
       [_add_map_listener each_marker, value for each_marker in markers]
 
@@ -172,7 +184,7 @@ angular.module 'roadpinFrontendApp'
     _parse_polygon = (coordinates, color) ->
       polygon_opts = 
         map: $scope.myMap,
-        paths: [_parse_path(coord) for coord in coordinates]
+        paths: [_parse_path coord for coord in coordinates]
         fillColor: color
         strokeColor: color
 
@@ -183,7 +195,7 @@ angular.module 'roadpinFrontendApp'
     _parse_line_string = (coordinates, color) ->
       polyline_opts = 
         map: $scope.myMap
-        path: _parse_path(coordinates)
+        path: _parse_path coordinates
         fillColor: color
         strokeColor: color
 
