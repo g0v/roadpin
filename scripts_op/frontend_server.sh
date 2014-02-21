@@ -10,10 +10,9 @@ port=${BASH_ARGV[0]}
 
 cd roadpin-frontend
 
-if [ ! -e "ini/production.ls" ]
+if [ ! -e "production.ls" ]
 then
-  mkdir -p ini
-  cp production.ls_tmpl ini/production.ls
+  cp production.ls_tmpl production.ls
 fi
 
 while [ 1 -eq 1 ]
