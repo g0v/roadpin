@@ -46,6 +46,14 @@ angular.module 'roadpinFrontendApp'
 
       console.log 'to set scope.mapOptions.center as new center: data:', data
       $scope.myMap.setCenter (new google.maps.LatLng data.lat, data.lon)
+
+    is_first_map_legend = true
+    $scope.$watch '$scope.myMap', ->
+      if not is_first_map_legend
+        return
+
+      is_first_map_legend := false
+
       $scope.myMap.controls.[google.maps.ControlPosition.TOP_LEFT].push document.getElementById 'map-legend'
 
     $scope.$watch (-> Object.keys(jsonToday.getData!).length), ->
