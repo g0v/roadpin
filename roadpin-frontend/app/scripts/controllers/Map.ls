@@ -9,7 +9,7 @@ LEGEND_STRING =
   dig_point: \道路挖掘
 
 LEGEND_COLOR =
-  road_case: \#F08
+  road_case: \#840
   dig_point: \#808
 
 LEGEND_MAP =
