@@ -1,6 +1,6 @@
 'use strict'
 
-{map, fold, fold1} = require 'prelude-ls'
+{map, fold, fold1, mean, join} = require 'prelude-ls'
 
 LEGENDS = <[ road_case dig_point ]>
 
@@ -58,12 +58,15 @@ angular.module 'roadpinFrontendApp'
 
     $scope.$watch (-> Object.keys(jsonToday.getData!).length), ->
       the_data = jsonToday.getData!
-      the_data_values = [val for key, val of the_data]
+      data_road_cases = [val for key, val of the_data when LEGEND_MAP[val.the_category] == \road_case]
+      data_dig_points = [val for key, val of the_data when LEGEND_MAP[val.the_category] == \dig_point]
 
-      console.log 'Map: the_data_values.length:', the_data_values.length, 'the_data_values:', the_data_values
+      console.log 'Map: data_road_cases:', data_road_cases, 'data_dig_point:', data_dig_points
 
-      my_markers = _parse_markers the_data_values
-      $scope.myMarkers = my_markers
+      marker_road_cases = _parse_markers data_road_cases
+      marker_dig_points = _parse_markers data_dig_points
+      $scope.markerRoadCases = marker_road_cases
+      $scope.markerDigPoints = marker_dig_points
 
     $scope.onMapIdle = ->
 
@@ -170,26 +173,51 @@ angular.module 'roadpinFrontendApp'
 
       color = LEGEND_COLOR[LEGEND_MAP[value.the_category]]
 
-      markers = [_parse_each_marker each_geo, color for each_geo in geo]
+      markers = [_parse_each_marker each_geo, color, value for each_geo in geo]
 
-      [_add_map_listener each_marker, value for each_marker in markers]
+      [_add_map_listener each_marker for each_marker in markers]
 
       markers
 
-    _add_map_listener = (marker, value) ->
-      #google.maps.event.addListener polygon, 'click', (_show_info value)
+    info_window = new google.maps.InfoWindow do
+      content: 'Hello World'
 
-    _parse_each_marker = (geo, color) ->
+    #google.maps.event.addListener info_window, 'closeclick', ->
+    #  info_window.close!
+
+    _add_map_listener = (marker) ->
+      google.maps.event.addListener marker, 'click', (event) ->
+
+        console.log 'map_listener: marker:', marker
+
+        if event is not void
+          info_window.setPosition event.latLng
+          info_window.open $scope.myMap
+          info_window.setContent _parse_content marker._value
+
+    _parse_content = (value) ->
+      '<div>' + \
+        '<p>' + _parse_content_join_str([value.county_name, value.town_name]) + '</p>' + \
+        '<p>' + _parse_content_join_str([value.location, value.range]) + '</p>' + \
+        '<p>' + (join '~' [value.beginDate, value.endDate]) + '</p>' + \
+        '<p>' + _parse_content_join_str([value.work_institute, value.work_institute2]) + '</p>' + \
+      '</div>'
+
+    _parse_content_join_str = (the_list) ->
+      the_list = [column for column in the_list when column]
+      return join ' / ' the_list
+
+    _parse_each_marker = (geo, color, value) ->
       the_type = geo.type
       the_coordinates = geo.coordinates
 
       #console.log 'geo:', geo, 'the_type:', the_type, 'the_coordinates', the_coordinates
       switch the_type
-      | 'Polygon'    => _parse_polygon the_coordinates, color
-      | 'LineString' => _parse_line_string the_coordinates, color
-      | 'Point'      => _parse_point the_coordinates, color
+      | 'Polygon'    => _parse_polygon the_coordinates, color, value
+      | 'LineString' => _parse_line_string the_coordinates, color, value
+      | 'Point'      => _parse_point the_coordinates, color, value
 
-    _parse_polygon = (coordinates, color) ->
+    _parse_polygon = (coordinates, color, value) ->
       polygon_opts = 
         map: $scope.myMap,
         paths: [_parse_path coord for coord in coordinates]
@@ -199,8 +227,10 @@ angular.module 'roadpinFrontendApp'
       #console.log 'polygon_opts:', polygon_opts
 
       polygon = new google.maps.Polygon polygon_opts
+      polygon._value = value
+      polygon
 
-    _parse_line_string = (coordinates, color) ->
+    _parse_line_string = (coordinates, color, value) ->
       polyline_opts = 
         map: $scope.myMap
         path: _parse_path coordinates
@@ -208,8 +238,10 @@ angular.module 'roadpinFrontendApp'
         strokeColor: color
 
       polyline = new google.maps.Polyline polyline_opts
+      polyline._value = value
+      polyline
 
-    _parse_point = (coordinates, color) ->
+    _parse_point = (coordinates, color, value) ->
       marker_opts = 
         map: $scope.myMap
         position: new google.maps.LatLng coordinates[1], coordinates[0]
@@ -219,8 +251,18 @@ angular.module 'roadpinFrontendApp'
       #console.log 'marker_opts:', marker_opts
 
       marker = new google.maps.Marker marker_opts
+      marker._value = value
+      marker
 
     _parse_path = (coordinates) ->
       [new google.maps.LatLng coord[1], coord[0] for coord in coordinates]
+
+    _parse_center = (coordinates) ->
+      center_lat = mean (coordinates |> map -> it[1])
+      center_lon = mean (coordinates |> map -> it[0])
+
+      console.log 'coordinates:', coordinates, 'center_lat:', center_lat, 'center_lon:', center_lon
+
+      {center_lat, center_lon}
 
     #console.log 'MapCtrl: end: scope:', $scope
