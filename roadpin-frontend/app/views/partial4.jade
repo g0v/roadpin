@@ -11,6 +11,6 @@ div(ng-controller="MapCtrl")
 
   div#map-legend
     span(ng-repeat="legend_type in LEGENDS")
-      span(style="background-color: {{LEGEND_COLOR[legend_type]}}; color: white;") {{LEGEND_STRING[legend_type]}}
+      button.btn(style="background-color: {{LEGEND_COLOR[legend_type]}}; color: white;", ng-click="onClickLegend(legend_type)") {{LEGEND_STRING[legend_type]}}
       span(style="background-color: white; padding:2px;")
   div.map-canvas(ui-map="myMap", ui-options="mapOptions", ui-event="{'map-idle' : 'onMapIdle()', 'map-click': 'onMapClick($event, $params)', 'map-zoom_changed': 'onMapZoomChanged(myMap.getZoom())'}")

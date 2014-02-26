@@ -12,6 +12,8 @@ LEGEND_COLOR =
   road_case: \#840
   dig_point: \#808
 
+GRAY_COLOR = \#AAA
+
 LEGEND_MAP =
   taipei_city_road_case: \road_case
   taipei_city_dig_point: \dig_point
@@ -25,7 +27,10 @@ angular.module 'roadpinFrontendApp'
     console.log 'Map: $scope.mapOptions: geo:', geo
 
     states = {isDistVincenty: "no"}
-    $scope <<< {states, LEGENDS, LEGEND_STRING, LEGEND_COLOR, LEGEND_MAP}
+    states <<< {['is_show_' + legend_type, true] for legend_type in LEGENDS}
+    the_legend_color = {[key, val] for key, val of LEGEND_COLOR}
+    $scope <<< {states, LEGENDS, LEGEND_STRING, LEGEND_COLOR: the_legend_color, LEGEND_MAP}
+    $scope <<< {['markers_' + legend_type, []] for legend_type in LEGENDS}
 
     $scope.mapOptions = 
       center: new google.maps.LatLng geo.lat, geo.lon
@@ -63,10 +68,10 @@ angular.module 'roadpinFrontendApp'
 
       console.log 'Map: data_road_cases:', data_road_cases, 'data_dig_point:', data_dig_points
 
-      marker_road_cases = _parse_markers data_road_cases
-      marker_dig_points = _parse_markers data_dig_points
-      $scope.markerRoadCases = marker_road_cases
-      $scope.markerDigPoints = marker_dig_points
+      markers_road_case = _parse_markers data_road_cases
+      markers_dig_point = _parse_markers data_dig_points
+      $scope.markers_road_case = markers_road_case
+      $scope.markers_dig_point = markers_dig_point
 
     $scope.onMapIdle = ->
 
@@ -79,7 +84,7 @@ angular.module 'roadpinFrontendApp'
         distList.setMarker params[0]
         dist_list = distList.getList!
 
-        _remove_objs_from_googlemap $scope.distMarkers
+        _remove_markers_from_googlemap $scope.distMarkers
 
         markers = _add_markers_to_googlemap dist_list, \#0FF
         path_markers = _add_marker_paths_to_googlemap_from_markers dist_list, \#0F8
@@ -91,7 +96,7 @@ angular.module 'roadpinFrontendApp'
     $scope.onClearDistList = ->
       console.log 'onClearDistList: start'
       distList.clearList!
-      _remove_objs_from_googlemap $scope.distMarkers
+      _remove_markers_from_googlemap $scope.distMarkers
       $scope.distVincenty = 0
 
     dist_vincenty_class = 'hide'
@@ -105,9 +110,20 @@ angular.module 'roadpinFrontendApp'
     $scope.onMapZoomChanged = (zoom) ->
       console.log 'zoom:', zoom
 
+    $scope.onClickLegend = (legend_type) ->
+      console.log 'legend_type:', legend_type
+      states['is_show_' + legend_type] = not states['is_show_' + legend_type]
+      console.log 'states:', states
+      $scope.LEGEND_COLOR[legend_type] = if states['is_show_' + legend_type] then LEGEND_COLOR[legend_type] else GRAY_COLOR
+      console.log 'LEGEND_COLOR:', LEGEND_COLOR, '$scope.LEGEND_COLOR:', $scope.LEGEND_COLOR, '$scope.markers:', $scope['markers_' + legend_type]
+      markers = $scope['markers_' + legend_type]
+      if states['is_show_' + legend_type] then _set_markers_to_googlemap markers else _remove_markers_from_googlemap markers
 
-    _remove_objs_from_googlemap = (objs) ->
-      [each_obj.setMap void for each_obj in objs]
+    _set_markers_to_googlemap = (markers) ->
+      markers |> map (marker) -> marker.setMap $scope.myMap
+
+    _remove_markers_from_googlemap = (markers) ->
+      markers |> map (marker) -> marker.setMap void
       
     _add_markers_to_googlemap = (markers, color) ->
       #input: markers: a list of markers. each marker: {lat, lng}
@@ -164,6 +180,7 @@ angular.module 'roadpinFrontendApp'
       #console.log 'parse_markers: the_data_values:', the_data_values
       results = [_parse_marker each_value for each_value in the_data_values]
       results = [val for val in results when val is not void]
+      results |> fold1 (++)
 
     _parse_marker = (value) ->
       #console.log '_parse_marker: value', value
