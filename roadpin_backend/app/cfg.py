@@ -31,7 +31,8 @@ def init(params):
 
 def init_cfg(params):
     '''params: parameters from main.py, currently including port and ini_filename'''
-    _init_logger(params['log_filename'])
+    log_filename = params.get('log_filename', '')
+    _init_logger(log_filename)
     _init_ini_file(params['ini_filename'])
     _post_init_config(params)
     _post_json_config(config)
@@ -66,7 +67,7 @@ def _init_logger(log_filename):
     '''logger'''
     global logger
     logger = logging.getLogger(_LOGGER_NAME)
-    handler = logging.handlers.RotatingFileHandler(log_filename, maxBytes=100000000, backupCount=2)
+    handler = logging.StreamHandler() if not log_filename else logging.handlers.RotatingFileHandler(log_filename, maxBytes=100000000, backupCount=2)
     formatter = logging.Formatter('%(asctime)s [%(levelname)-5.5s] %(module)s#%(funcName)s@%(lineno)d: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
     handler.setFormatter(formatter)
     logger.addHandler(handler)

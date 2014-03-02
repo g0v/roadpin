@@ -37,6 +37,20 @@ def db_find(cf_name, key = None, fields={'_id': False}):
     return list(result)
 
 
+def db_find_it(cf_name, key = None, fields={'_id': False}):
+    result = None
+    try:
+        if key is None:
+            result = cfg.config.get(cf_name).find(fields=fields)
+        else:
+            result = cfg.config.get(cf_name).find(key, fields=fields)
+    except:
+        cfg.logger.exception('unable to db_find: cf_name: %s key: %s', cf_name, key)
+        result = None
+        
+    return result
+
+
 def db_find_one(cf_name, key, fields={'_id': False}):
     try:
         result = cfg.config.get(cf_name).find_one(key, fields=fields)
@@ -213,6 +227,9 @@ def utf8_to_big5(text_utf8):
 
 
 def tw_date_to_timestamp(tw_date):
+    if not tw_date:
+        return 0
+
     tw_date = str(tw_date)
     tw_year = tw_date[0:-4]
     month = _int(tw_date[-4:-2])

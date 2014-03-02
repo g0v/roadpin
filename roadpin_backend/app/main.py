@@ -24,6 +24,7 @@ from app.http_handlers.g_json_all_handler import g_json_all_handler
 from app.http_handlers.post_add_handler import post_add_handler
 from app.http_handlers.g_search_by_location_handler import g_search_by_location_handler
 from app.http_handlers.p_geo_handler import p_geo_handler
+from app.http_handlers.g_taipei_city_road_case_next_road_case_handler import g_taipei_city_road_case_next_road_case_handler
 
 from app import util
 
@@ -75,6 +76,11 @@ def g_static3(filepath):
 def g_static4(filepath):
     cfg.logger.debug('filepath: %s', filepath)
     return static_file('static/views/' + filepath, root='.')
+
+
+@app.get('/get/taipei_city_road_case_next_road_case')
+def g_taipei_city_road_case_next_road_case():
+    return _process_result(g_taipei_city_road_case_next_road_case_handler())
 
 
 @app.get('/get_json_today')
@@ -147,10 +153,11 @@ def post_add():
     return _process_result(result)
 
 
-@app.post('/post_json/<src>')
-def p_json(src):
-    params = dict(request.params)
-    return _process_result(p_json_handler(src, params))
+@app.post('/post_json')
+def p_json():
+    data = _process_json_request()
+    cfg.logger.debug('data: %s', data)
+    return _process_result(p_json_handler(data))
 
 
 @app.post('/post_geo')
@@ -188,7 +195,7 @@ def parse_args():
     ''' '''
     parser = argparse.ArgumentParser(description='roadpin_backend')
     parser.add_argument('-i', '--ini', type=str, required=True, help="ini filename")
-    parser.add_argument('-l', '--log_filename', type=str, required=True, help="log filename")
+    parser.add_argument('-l', '--log_filename', type=str, default='', required=False, help="log filename")
     parser.add_argument('-p', '--port', type=str, required=True, help="port")
     parser.add_argument('-u', '--username', type=str, required=False, help="username")
     parser.add_argument('--password', type=str, required=False, help="password")
