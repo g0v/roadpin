@@ -235,6 +235,12 @@ def tw_date_to_timestamp(tw_date):
     return the_timestamp
 
 
+def timestamp_to_tw_year(the_timestamp):
+    the_datetime = timestamp_to_datetime(the_timestamp)
+    the_year = the_datetime.year - 1911
+    return the_year
+
+
 def check_url(params):
     the_str = params.get('json', '') + cfg.config.get('secret_key', '')
     md5_str = hashlib.md5(the_str).hexdigest()

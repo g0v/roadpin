@@ -47,8 +47,9 @@ def _crawl_dig_point(next_dig_point):
         (error_code, next_dig_point, offset_dig_point, iter_results) = _iter_crawl_dig_point(next_dig_point, offset_dig_point)
         results.update(iter_results)
 
-        cfg.logger.debug('to sleep 30')
-        time.sleep(30)
+        sleep_time = cfg.config.get('time_sleep', 30)
+        cfg.logger.debug('to sleep %s', sleep_time)
+        time.sleep(sleep_time)
 
     results_list = results.values()
 

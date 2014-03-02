@@ -75,6 +75,17 @@ def db_update(cf_name, key, val):
     return result
 
 
+def db_insert_if_not_exist(cf_name, key, val):
+    if not key or not val:
+        cfg.logger.exception('not key or val: key: %s val: %s', key, val)
+        return
+
+    cfg.logger.debug('cf_name: %s key: %s val: %s', cf_name, key, val)
+    result = cfg.config.get(cf_name).find_and_modify(key, {'$setOnInsert':val}, upsert=True, new=True)
+    #cfg.logger.debug('after update: result: %s', result)
+    return result
+
+
 def json_dumps(json_struct, default_val=''):
     result = default_val
     try:

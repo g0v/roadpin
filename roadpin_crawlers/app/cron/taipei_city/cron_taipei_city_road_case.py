@@ -30,8 +30,11 @@ def _get_params():
     server = cfg.config.get('web_server', 'http://106.187.101.193:5346')
     the_url = server + '/get/taipei_city_road_case_next_road_case'
     http_result = util.http_multiget([the_url])
+
     next_road_case = util._int(util.json_loads(http_result.get(the_url, ''), ''), START_TAIPEI_CITY_ROAD_CASE)
+
     cfg.logger.debug('after http_multiget: http_result: %s next_road_case: %s', http_result, next_road_case)
+
     return {'next_road_case': next_road_case}
 
 
@@ -39,7 +42,7 @@ def _process_results(results):
     data = results.get('data', [])
     cron.to_http_post(data)
 
-    util.to_json(util.json_dumps(data), 'log.taipei_city_road_case.json')
+    util.to_json(data, 'log.taipei_city_road_case.json')
 
 def parse_args():
     ''' '''

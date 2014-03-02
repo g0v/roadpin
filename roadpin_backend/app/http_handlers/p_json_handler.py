@@ -21,11 +21,13 @@ def p_json_handler(data):
         the_id = each_data['the_id']
 
         db_result = util.db_find_one('roadDB', {'the_id': the_id})
-        if db_result and not _is_same(db_result, each_data):
-            error_code = S_ERR
-            error_msg += 'data different: the_idx: %s db_result: %s each_data: %s\n' % (the_idx, db_result, each_data)
+        if db_result:
+            if not _is_same(db_result, each_data):
+                error_code = S_ERR
+                error_msg += 'data different: the_idx: %s db_result: %s each_data: %s\n' % (the_idx, db_result, each_data)
+            continue
 
-        util.db_update('roadDB', {'the_id': the_id}, each_data)
+        util.db_insert_if_not_exist('roadDB', {'the_id': the_id}, each_data)
 
     return {"success": True if error_code == S_OK else False, "error_msg": error_msg}
 
