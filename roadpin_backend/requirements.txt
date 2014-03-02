@@ -1,7 +1,6 @@
 Beaker==1.6.4
 Cython==0.19.1
 Fabric==1.6.0
-MacFSEvents==0.3
 PyYAML==3.10
 SQLAlchemy==0.9.3
 Scrapy==0.18.0
