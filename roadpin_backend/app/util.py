@@ -130,7 +130,7 @@ def datetime_to_date_str(the_datetime):
 
 
 def datetime_to_timestamp(the_datetime):
-    the_datetime = the_datetime.replace(tzinfo = timezone('Asia/Taipei'))
+    the_datetime = the_datetime.replace(tzinfo=timezone('Asia/Taipei'))
     the_timestamp = timegm(the_datetime.utctimetuple())
     return the_timestamp
 
@@ -147,13 +147,17 @@ def timestamp_to_date(the_timestamp):
     return datetime_to_date(the_datetime)
 
 
-def timestamp_to_datetime(the_timestamp):
+def timestamp_to_datetime(the_timestamp, the_timezone=None):
     the_datetime = datetime.utcfromtimestamp(_float(the_timestamp))
+    the_datetime = the_datetime.replace(tzinfo=pytz.utc)
+    if the_timezone:
+        the_datetime = the_datetime.astimezone(timezone(the_timezone))
     return the_datetime
 
 
-def timestamp_to_date_str(the_timestamp):
-    the_datetime = timestamp_to_datetime(the_timestamp)
+def timestamp_to_date_str(the_timestamp, the_timezone=None):
+    the_datetime = timestamp_to_datetime(the_timestamp, the_timezone=the_timezone)
+    cfg.logger.debug('the_timestamp: %s the_timezone: %s the_datetime: %s', the_timestamp, the_timezone, the_datetime)
     return datetime_to_date_str(the_datetime)
 
 

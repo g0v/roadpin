@@ -83,6 +83,7 @@ def _init_ini_file(ini_file):
     options = config_parser.options(section)
     config = {option: __init_ini_file_parse_option(option, section, config_parser) for option in options}
 
+
 def __init_ini_file_parse_option(option, section, config_parser):
     try:
         val = config_parser.get(section, option)

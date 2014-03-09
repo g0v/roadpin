@@ -24,7 +24,8 @@ def p_json_handler(data):
         if db_result:
             if not _is_same(db_result, each_data):
                 error_code = S_ERR
-                error_msg += 'data different: the_idx: %s db_result: %s each_data: %s\n' % (the_idx, db_result, each_data)
+                cfg.logger.error('data different: the_id: %s db_result: %s each_data: %s', the_id, db_result, each_data)
+                error_msg += 'data different: the_id: %s db_result: %s each_data: %s\n' % (the_id, db_result, each_data)
             continue
 
         util.db_insert_if_not_exist('roadDB', {'the_id': the_id}, each_data)
@@ -36,10 +37,10 @@ def _infer_columns(data, save_timestamp):
     data['the_id'] = data.get('the_category', '') + '_' + data.get('the_idx', '')
 
     start_timestamp = util._int(data.get('start_timestamp', 0))
-    data['beginDate'] = '' if not start_timestamp else util.timestamp_to_date_str(start_timestamp)
+    data['beginDate'] = '' if not start_timestamp else util.timestamp_to_date_str(start_timestamp, 'Asia/Taipei')
 
     end_timestamp = util._int(data.get('end_timestamp', 0))
-    data['endDate'] = '' if not end_timestamp or end_timestamp >= MAX_TIMESTAMP else util.timestamp_to_date_str(end_timestamp)
+    data['endDate'] = '' if not end_timestamp or end_timestamp >= MAX_TIMESTAMP else util.timestamp_to_date_str(end_timestamp, 'Asia/Taipei')
 
 
 def _is_same(db_result, data):

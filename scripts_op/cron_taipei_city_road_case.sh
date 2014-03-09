@@ -10,5 +10,5 @@ ini_filename=${BASH_ARGV[0]}
 
 cd roadpin_crawlers
 . __/bin/activate
-python -m app.cron.taipei_city.cron_taipei_city_road_case -i "${ini_filename}"
 cd ..
+python -m app.cron.taipei_city.cron_taipei_city_road_case -i "${ini_filename}"

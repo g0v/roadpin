@@ -12,5 +12,5 @@ port=${BASH_ARGV[0]}
 
 cd roadpin_backend
 . __/bin/activate
-python -m app.main -i "${ini_filename}" -l "${log_filename}" -p "${port}"
 cd ..
+python -m app.main -i "${ini_filename}" -l "${log_filename}" -p "${port}"

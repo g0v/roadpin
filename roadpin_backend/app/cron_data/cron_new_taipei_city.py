@@ -241,4 +241,3 @@ if __name__ == '__main__':
     cfg.init({"ini_filename": args.ini})
 
     cron_new_taipei_city()
-

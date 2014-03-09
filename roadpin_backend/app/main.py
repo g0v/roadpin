@@ -26,6 +26,7 @@ from app.http_handlers.g_search_by_location_handler import g_search_by_location_
 from app.http_handlers.p_geo_handler import p_geo_handler
 from app.http_handlers.g_taipei_city_road_case_next_road_case_handler import g_taipei_city_road_case_next_road_case_handler
 from app.http_handlers.g_taipei_city_dig_point_next_dig_point_handler import g_taipei_city_dig_point_next_dig_point_handler
+from app.http_handlers.g_new_taipei_city_dig_point_next_year_handler import g_new_taipei_city_dig_point_next_year_handler
 
 from app import util
 
@@ -87,6 +88,11 @@ def g_taipei_city_road_case_next_road_case():
 @app.get('/get/taipei_city_dig_point_next_dig_point')
 def g_taipei_city_dig_point_next_dig_point():
     return _process_result(g_taipei_city_dig_point_next_dig_point_handler())
+
+
+@app.get('/get/new_taipei_city_dig_point_next_year')
+def g_new_taipei_city_dig_point_next_year():
+    return _process_result(g_new_taipei_city_dig_point_next_year_handler())
 
 
 @app.get('/get_json_today')

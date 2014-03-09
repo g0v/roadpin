@@ -262,6 +262,10 @@ def get_timestamp():
     return int(time.time())
 
 
+def get_datetime():
+    the_timestamp = get_timestamp()
+    return datetime.utcfromtimestamp(the_timestamp)
+
 def get_milli_timestamp():
     return int(time.time() * 1000)
 
