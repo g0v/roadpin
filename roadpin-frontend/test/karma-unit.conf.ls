@@ -17,6 +17,7 @@ module.exports = (config) ->
       '_public/js/angular-ui-map/ui-map.js'
       '_public/js/angular-ui-bootstrap-bower/ui-bootstrap-tpls.js'
       '_public/js/prelude-ls/browser/prelude-browser.js'
+      '_public/js/production.js'
       '_public/js/app.js'
       '_public/views/*.html'
       '_public/*.html'
