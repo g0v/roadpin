@@ -7,7 +7,6 @@ Scrapy==0.18.0
 Twisted==13.1.0
 WebOb==1.2.3
 WebTest==1.4.3
-app==0.0
 bottle==0.11.6
 colorama==0.2.5
 coverage==3.6
