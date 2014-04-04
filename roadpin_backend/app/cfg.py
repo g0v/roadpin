@@ -23,7 +23,7 @@ _mongo_map = {
 }
 
 _ensure_index = {
-    'roadDB': [('county_id', pymongo.ASCENDING), ('county_name', pymongo.ASCENDING), ('start_timestamp', pymongo.DESCENDING)]
+    'roadDB': [('county_id', pymongo.ASCENDING), ('county_name', pymongo.ASCENDING), ('start_timestamp', pymongo.DESCENDING), ('end_timestamp', pymongo.ASCENDING), ('the_idx', pymongo.ASCENDING)]
 }
 
 def init(params):

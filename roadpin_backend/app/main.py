@@ -21,6 +21,7 @@ from app.http_handlers.g_json_by_id_list_handler import g_json_by_id_list_handle
 from app.http_handlers.p_json_handler import p_json_handler
 from app.http_handlers.g_json_by_geo_handler import g_json_by_geo_handler
 from app.http_handlers.g_json_all_handler import g_json_all_handler
+from app.http_handlers.get_json_today_by_start_date_handler import get_json_today_by_start_date_handler
 from app.http_handlers.post_add_handler import post_add_handler
 from app.http_handlers.g_search_by_location_handler import g_search_by_location_handler
 from app.http_handlers.p_geo_handler import p_geo_handler
@@ -112,8 +113,8 @@ def g_json_by_today():
 
 
 @app.get('/get_json_today_by_start_date/<start_date>')
-def g_json_by_today():
-    params = _get_params()
+def g_json_today_by_start_date(start_date):
+    params = _process_params()
     return _process_result(get_json_today_by_start_date_handler(start_date, params))
 
 
