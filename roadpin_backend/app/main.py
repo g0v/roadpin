@@ -105,6 +105,18 @@ def g_json_by_today():
     return _process_result(g_json_handler(start_timestamp, end_timestamp))
 
 
+@app.get('/get_json_today_by_start_timestamp/<start_timestamp>')
+def g_json_by_today():
+    params = _get_params()
+    return _process_result(get_json_today_by_start_timestamp_handler(start_timestamp, params))
+
+
+@app.get('/get_json_today_by_start_date/<start_date>')
+def g_json_by_today():
+    params = _get_params()
+    return _process_result(get_json_today_by_start_date_handler(start_date, params))
+
+
 @app.get('/get_json_all')
 def g_json_all():
     return _process_result(g_json_all_handler())

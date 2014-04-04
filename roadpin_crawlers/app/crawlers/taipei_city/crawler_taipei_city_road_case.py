@@ -195,7 +195,7 @@ def _process_each_data(road_case, idx, data):
     return {
         'the_idx': the_idx,
         'start_timestamp': start_timestamp,
-        'end_timestamp': start_timestamp,
+        'end_timestamp': end_timestamp,
         'geo': geo,
         'town_name': town_name,
         'location': location,
