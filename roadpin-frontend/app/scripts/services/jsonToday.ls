@@ -14,7 +14,7 @@ angular.module 'roadpinFrontendApp'
 
       is_first := false
 
-      url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_today'
+      url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_today_by_start_date'
       QueryData = $resource url
 
       the_data = QueryData.query {}, ->
