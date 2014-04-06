@@ -22,8 +22,9 @@ angular.module 'roadpinFrontendApp'
       num_query = constants.NUM_QUERY
 
       the_data = QueryData.query {num_query}, ->
-        the_data_dict = {[each_data.the_id, each_data] for idx, each_data of the_data}
+        console.log 'the_data:', the_data
+        the_data_dict = {[each_data.the_id, each_data] for idx, each_data of the_data when each_data and each_data.beginDate and each_data.endDate}
         cached_data.data <<< the_data_dict
-        console .log 'cached_data.data:', cached_data.data
+        console.log 'cached_data.data:', cached_data.data
 
       cached_data.data
