@@ -1,4 +1,7 @@
 'use strict'
+
+{initial, last} = require 'prelude-ls'
+
 CONFIG = window.roadpinFrontendApp.CONFIG
 
 cached_data = 
@@ -21,10 +24,28 @@ angular.module 'roadpinFrontendApp'
 
       num_query = constants.NUM_QUERY
 
-      the_data = QueryData.query {num_query}, ->
-        console.log 'the_data:', the_data
-        the_data_dict = {[each_data.the_id, each_data] for idx, each_data of the_data when each_data and each_data.beginDate and each_data.endDate}
-        cached_data.data <<< the_data_dict
-        console.log 'cached_data.data:', cached_data.data
+      query_success = (the_data, getResponseHeaders) ->
+        console.log 'the_data:', the_data, 'getResponseHeaders:', getResponseHeaders!
+
+        new_data = if the_data.length == num_query then initial the_data else the_data
+
+        new_data_dict = {[each_data.the_id, each_data] for idx, each_data of new_data when each_data and each_data.beginDate and each_data.endDate}
+
+        cached_data.data <<< new_data_dict
+
+        if the_data.length == num_query
+          last_data = last the_data
+          console.log 'last_data:', last_data
+          next_id = last_data.the_id
+
+          console.log 'next_id:', next_id, 'last_data:', last_data
+
+          query_data next_id
+
+      query_data = (next_id) ->
+          NewQueryData = $resource url
+          NewQueryData.query {num_query, next_id}, query_success
+
+      QueryData.query {num_query}, query_success
 
       cached_data.data

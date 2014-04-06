@@ -14,7 +14,7 @@ from app import util
 
 def get_json_today_by_start_date_handler(start_date, params):
     start_timestamp = util.date_to_timestamp(start_date)
-    next_idx = params.get('next_idx', '')
+    next_id = params.get('next_id', '')
     num_query = util._int(params.get('num_query', DEFAULT_NUM_QUERY))
 
     tomorrow = util.date_tomorrow()
@@ -23,12 +23,12 @@ def get_json_today_by_start_date_handler(start_date, params):
     cfg.logger.debug('start_timestamp: %s tomorrow_timestamp: %s', start_timestamp, tomorrow_timestamp)
 
     the_query = {'start_timestamp': {'$lte': start_timestamp}, 'end_timestamp': {'$gte': tomorrow_timestamp}}
-    if next_idx:
-        the_query['the_idx'] = next_idx
+    if next_id:
+        the_query['the_id'] = next_id
 
     db_results = util.db_find_it('roadDB', the_query, {'_id': False, 'extension': False})
 
-    db_results.sort([('county_name', pymongo.DESCENDING), ('start_timestamp', pymongo.DESCENDING), ('end_timestamp', pymongo.ASCENDING), ('the_idx', pymongo.ASCENDING)]).limit(num_query)
+    db_results.sort([('start_timestamp', pymongo.DESCENDING), ('the_id', pymongo.DESCENDING)]).limit(num_query)
 
     results = list(db_results)
 
