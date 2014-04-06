@@ -24,11 +24,11 @@ def get_json_today_by_start_date_handler(start_date, params):
 
     the_query = {'start_timestamp': {'$lte': start_timestamp}, 'end_timestamp': {'$gte': tomorrow_timestamp}}
     if next_id:
-        the_query['the_id'] = next_id
+        the_query['json_id'] = {"$lte": next_id}
 
     db_results = util.db_find_it('roadDB', the_query, {'_id': False, 'extension': False})
 
-    db_results.sort([('the_id', pymongo.DESCENDING)]).limit(num_query)
+    db_results.sort([('json_id', pymongo.DESCENDING)]).limit(num_query)
 
     results = list(db_results)
 
