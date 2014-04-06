@@ -28,8 +28,12 @@ def get_json_today_by_start_date_handler(start_date, params):
 
     db_results = util.db_find_it('roadDB', the_query, {'_id': False, 'extension': False})
 
-    db_results.sort([('start_timestamp', pymongo.DESCENDING), ('the_id', pymongo.DESCENDING)]).limit(num_query)
+    db_results.sort([('the_id', pymongo.DESCENDING)]).limit(num_query)
 
     results = list(db_results)
+
+    cfg.logger.debug('start_date: %s next_id: %s num_query: %s', start_date, next_id, num_query)
+    for (idx, result) in enumerate(results):
+        cfg.logger.debug('idx: %s result: %s', idx, result)
 
     return results
