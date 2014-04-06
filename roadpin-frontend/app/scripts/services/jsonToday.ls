@@ -36,7 +36,7 @@ angular.module 'roadpinFrontendApp'
         if the_data.length == num_query
           last_data = last the_data
           console.log 'last_data:', last_data
-          next_id = last_data.the_id
+          next_id = last_data.json_id
 
           console.log 'next_id:', next_id, 'last_data:', last_data
 

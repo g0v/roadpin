@@ -17,12 +17,12 @@ def get_json_today_by_start_date_handler(start_date, params):
     next_id = params.get('next_id', '')
     num_query = util._int(params.get('num_query', DEFAULT_NUM_QUERY))
 
-    tomorrow = util.date_tomorrow()
-    tomorrow_timestamp = util.date_to_timestamp(tomorrow)
+    today = util.date_today()
+    today_timestamp = util.date_to_timestamp(today)
 
-    cfg.logger.debug('start_timestamp: %s tomorrow_timestamp: %s', start_timestamp, tomorrow_timestamp)
+    cfg.logger.debug('start_timestamp: %s today_timestamp: %s', start_timestamp, today_timestamp)
 
-    the_query = {'start_timestamp': {'$lte': start_timestamp}, 'end_timestamp': {'$gte': tomorrow_timestamp}}
+    the_query = {'start_timestamp': {'$lte': start_timestamp}, 'end_timestamp': {'$gte': today_timestamp}}
     if next_id:
         the_query['json_id'] = {"$lte": next_id}
 
