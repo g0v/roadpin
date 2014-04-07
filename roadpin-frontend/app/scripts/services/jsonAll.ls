@@ -26,7 +26,7 @@ angular.module 'roadpinFrontendApp'
 
         new_data = if the_data.length == num_query then initial the_data else the_data
 
-        new_data_dict = {[each_data.the_id, each_data] for each_data of new_data}
+        new_data_dict = {[each_data.the_id, each_data] for each_data in new_data}
 
         cached_data.data <<< new_data_dict
 

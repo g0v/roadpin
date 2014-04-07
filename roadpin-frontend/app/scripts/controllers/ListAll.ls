@@ -6,17 +6,17 @@ angular.module 'roadpinFrontendApp'
 
     $scope.the_data_all = []
 
-    $scope.$watch (-> Object.keys(jsonAll.getData!).length), ->
-      the_data = jsonAll.getData!
-      the_data_values = [val for key, val of the_data]
-      console.log 'the_data_values:', the_data_values
-      $scope.the_data_all ++= the_data_values
+    #$scope.$watch (-> Object.keys(jsonAll.getData!).length), ->
+    #  the_data = jsonAll.getData!
+    #  the_data_values = [val for key, val of the_data]
+    #  console.log 'the_data_values:', the_data_values
+    #  $scope.the_data_all ++= the_data_values
 
     gridOptionsAll = 
       data: 'the_data_all'
       enablePaging: true
       pageSizes: [10, 100, 1000]
-      pageSize: 100
+      pageSize: 10
       showFilter: true
       enableColumnResize: true
       enableHighlighting: true
