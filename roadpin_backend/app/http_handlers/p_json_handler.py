@@ -36,7 +36,7 @@ def p_json_handler(data):
 def _infer_columns(data, save_timestamp):
     data['the_id'] = data.get('the_category', '') + '_' + data.get('the_idx', '')
 
-    data['json_id'] = data.get('county_name', '') + '_' + str(data.get('start_timestamp', 0)) + '_' + str(data.get('end_timestamp', MAX_TIMESTAMP)) + '_' + data.get('the_idx', '')
+    data['json_id'] = data.get('county_name', '') + '_' + str(data.get('start_timestamp', 0)) + '_' + str(data.get('end_timestamp', MAX_TIMESTAMP)) + '_' + data.get('the_id', '')
 
     start_timestamp = util._int(data.get('start_timestamp', 0))
     data['beginDate'] = '' if not start_timestamp else util.timestamp_to_date_str(start_timestamp, 'Asia/Taipei')
