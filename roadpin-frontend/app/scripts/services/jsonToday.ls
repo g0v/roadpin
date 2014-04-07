@@ -18,10 +18,6 @@ angular.module 'roadpinFrontendApp'
       is_first := false
 
       url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_today_by_start_date'
-      QueryData = $resource url
-
-      console.log 'constants:', constants
-
       num_query = constants.NUM_QUERY
 
       query_success = (the_data, getResponseHeaders) ->
@@ -46,6 +42,7 @@ angular.module 'roadpinFrontendApp'
           NewQueryData = $resource url
           NewQueryData.query {num_query, next_id}, query_success
 
+      QueryData = $resource url
       QueryData.query {num_query}, query_success
 
       cached_data.data
