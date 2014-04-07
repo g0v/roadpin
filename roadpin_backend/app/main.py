@@ -127,7 +127,8 @@ def g_json_today_by_start_date2():
 
 @app.get('/get_json_all')
 def g_json_all():
-    return _process_result(g_json_all_handler())
+    params = _process_params()
+    return _process_result(g_json_all_handler(params))
 
 
 @app.get('/get_json_today_sketch')
