@@ -30,7 +30,8 @@ def get_json_today_by_start_date_handler(start_date, params):
 
     db_results = util.db_find_it('roadDB', the_query, {'_id': False, 'extension': False})
 
-    db_results.sort([('json_id', pymongo.DESCENDING)]).limit(num_query)
+    sort_flag = pymongo.DESCENDING if is_desc else pymongo.ASCENDING
+    db_results.sort([('json_id', sort_flag)]).limit(num_query)
 
     results = list(db_results)
 
