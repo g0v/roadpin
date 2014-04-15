@@ -6,8 +6,8 @@ angular.module 'roadpinFrontendApp'
 
     console.log '$location.path():', $location.path()
 
-    $scope.$watch (-> $location.path()), (active-nav-id, orig-active-nav-id) ->
-      console.log '$location.path():', $location.path(), 'active-nav-id:', active-nav-id, 'orig-active-nav-id', orig-active-nav-id
+    $scope.$watch (-> $location.path!), (active-nav-id, orig-active-nav-id) ->
+      console.log '$location.path():', $location.path!, 'active-nav-id:', active-nav-id, 'orig-active-nav-id', orig-active-nav-id
       $scope <<< {active-nav-id}
 
     pageTitle = 'RoadPin'
