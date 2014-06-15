@@ -14,7 +14,7 @@ from app import cfg
 from app import util
 
 def g_taipei_city_road_case_next_road_case_handler():
-    db_results = util.db_find_it('roadDB', {'the_category': 'taipei_city_road_case'}, {'_id': False, 'the_idx': True})
+    db_results = util.db_find_it('roadDB', {'the_category': 'taipei_city_road_case', "the_idx": {"$gte": MIN_NEXT_TAIPEI_CITY_ROAD_CASE, "$lte": MAX_NEXT_TAIPEI_CITY_ROAD_CASE}, {'_id': False, 'the_idx': True})
     if not db_results:
         return START_TAIPEI_CITY_ROAD_CASE
     

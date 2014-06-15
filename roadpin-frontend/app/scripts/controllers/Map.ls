@@ -97,6 +97,7 @@ angular.module 'roadpinFrontendApp'
       console.log 'onClearDistList: start'
       distList.clearList!
       _remove_markers_from_googlemap $scope.distMarkers
+      $scope.distMarkers = []
       $scope.distVincenty = 0
 
     dist_vincenty_class = 'hide'
@@ -134,7 +135,7 @@ angular.module 'roadpinFrontendApp'
     _add_marker_to_googlemap = (data, color) ->
       marker_opts = 
         map: $scope.myMap
-        position: new google.maps.LatLng data.latLng.d, data.latLng.e
+        position: data.latLng
         fillColor: color
         strokeColor: color
 

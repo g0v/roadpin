@@ -14,7 +14,7 @@ from app import cfg
 from app import util
 
 def g_taipei_city_dig_point_next_dig_point_handler():
-    db_results = util.db_find_it('roadDB', {'the_category': 'taipei_city_dig_point'}, {'_id': False, 'the_idx': True})
+    db_results = util.db_find_it('roadDB', {'the_category': 'taipei_city_dig_point', "the_idx": {"$gte": MIN_NEXT_TAIPEI_CITY_DIG_POINT, "$lte": MAX_NEXT_TAIPEI_CITY_DIG_POINT}}, {'_id': False, 'the_idx': True})
     if not db_results:
         return START_TAIPEI_CITY_DIG_POINT
     

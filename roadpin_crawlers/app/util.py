@@ -18,6 +18,22 @@ import pandas as pd
 
 from app import cfg
 
+_max_day_by_month_map = [
+    0,
+    31,
+    29,
+    31,
+    30,
+    31,
+    30,
+    31,
+    31,
+    30,
+    31,
+    30,
+    31,
+]
+
 def trace(params):
     traceback.print_stack()
 
@@ -223,6 +239,8 @@ def tw_date_to_timestamp(tw_date):
     day = _int(tw_date[-2:])
     if day == 0:
         return 0
+
+    day = min(day, _max_day_by_month_map[month])
 
     year = _int(tw_year)
     if year == 0:

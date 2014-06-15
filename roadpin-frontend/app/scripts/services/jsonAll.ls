@@ -6,6 +6,7 @@ CONFIG = window.roadpinFrontendApp.CONFIG
 
 cached_data = 
   data: {}
+  data_timestamp: new Date!getTime!
 
 is_first = true
 
@@ -19,7 +20,7 @@ angular.module 'roadpinFrontendApp'
 
       url = 'http://' + CONFIG.BACKEND_HOST + '/get_json_all'
 
-      num_query = constants.NUM_QUERY
+      num_query = constants.NUM_JSON_ALL_QUERY
 
       query_success = (the_data, getResponseHeaders) ->
         console.log 'the_data:', the_data, 'getResponseHeaders:', getResponseHeaders!
@@ -29,6 +30,7 @@ angular.module 'roadpinFrontendApp'
         new_data_dict = {[each_data.the_id, each_data] for each_data in new_data}
 
         cached_data.data <<< new_data_dict
+        cached_data.data_timestamp = new Date!getTime!
 
         if the_data.length == num_query
           last_data = last the_data
@@ -47,3 +49,6 @@ angular.module 'roadpinFrontendApp'
       QueryData.query {num_query}, query_success
 
       cached_data.data
+
+    getDataTimestamp: ->
+      cached_data.data_timestamp

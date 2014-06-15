@@ -21,7 +21,7 @@ angular.module 'roadpinFrontendApp'
       the_data = jsonToday.getData!
       the_data_values = [val for key, val of the_data]
       console.log 'the_data_values:', the_data_values
-      $scope.the_data ++= the_data_values
+      $scope.the_data = the_data_values
       console.log '$scope:', $scope
 
     gridOptions = 

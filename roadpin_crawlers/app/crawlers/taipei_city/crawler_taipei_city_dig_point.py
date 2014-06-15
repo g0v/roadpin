@@ -42,10 +42,22 @@ def _crawl_dig_point(next_dig_point):
     results = {}
 
     offset_dig_point = next_dig_point
+    current_timestamp = util.get_timestamp()
+    the_datetime = util.timestamp_to_datetime(current_timestamp)
+    current_year = the_datetime.year
+
+    cfg.logger.debug('current_year: %s', current_year)
 
     for idx in range(0, N_ITER_CRAWL_DIG_POINT):
         (error_code, next_dig_point, offset_dig_point, iter_results) = _iter_crawl_dig_point(next_dig_point, offset_dig_point)
         results.update(iter_results)
+
+        offset_dig_point_year = offset_dig_point // 100000 + 1911
+        offset_dig_point_mod_100000 = offset_dig_point % 100000
+
+        cfg.logger.debug('offset_dig_point_year: %s offset_dig_point_mod_100000: %s', offset_dig_point_year, offset_dig_point_mod_100000)
+        if offset_dig_point_year != current_year and offset_dig_point_mod_100000 >= 30000:
+            break
 
         sleep_time = cfg.config.get('time_sleep', 30)
         cfg.logger.debug('to sleep %s', sleep_time)
