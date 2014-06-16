@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheet/ccc?key=0AlxFjhblzIuidGdaYWRZcEYzRzUzbnhTY2R
 
 目前的 demo:
 
-http://106.187.101.193:3333
+http://106.187.101.193
 * 測試的 front-end
 
 http://106.187.101.193:5346/search_by_location?lat=25.12&lng=121.5&distance=100
