@@ -17,6 +17,7 @@ def get_json_today_by_start_date_handler(start_date, params):
     next_id = params.get('next_id', '')
     sort_order = params.get('order', 'DESC')
     num_query = util._int(params.get('num_query', DEFAULT_NUM_QUERY))
+    is_desc = sort_order in ['DESC', 'desc']
 
     today = util.date_today()
     today_timestamp = util.date_to_timestamp(today)
@@ -25,7 +26,7 @@ def get_json_today_by_start_date_handler(start_date, params):
 
     the_query = {'start_timestamp': {'$lte': start_timestamp}, 'end_timestamp': {'$gte': today_timestamp}}
     if next_id:
-        query_key = '$lte' if sort_order in ['desc', 'DESC'] else '$gte'
+        query_key = '$lte' if is_desc else '$gte'
         the_query['json_id'] = {query_key: next_id}
 
     db_results = util.db_find_it('roadDB', the_query, {'_id': False, 'extension': False})
