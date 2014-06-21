@@ -20,3 +20,10 @@ crawlers 所得到的資訊. 將包含以下資訊:
 
 crawler 所得到的資料. 以 list of dictionary 的 json 方式將以上資訊 post 到
 backend 的 /post_json
+
+backend 會增加以下資訊:
+
+* the_id: 由 the_category 和 the_idx 所組成的 unique id
+* json_id: 由 county_name, start_timestamp, end_timestamp, the_id 所組成的可根據 county_name, start_timestamp, end_timestamp sorting 的 unique_id
+* beginDate: CST 時區的開始日期.
+* endDate: CST 時區的結束日期.
